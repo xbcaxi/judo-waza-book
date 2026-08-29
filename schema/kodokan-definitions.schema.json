@@ -1,0 +1,111 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Kodokan definitions",
+  "description": "The Kodokan's own name and definition for each technique and each group of its classification, transcribed from one published document.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source",
+    "groups",
+    "techniques"
+  ],
+  "properties": {
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "title",
+        "publisher",
+        "issued",
+        "url",
+        "retrieved"
+      ],
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "publisher": {
+          "type": "string",
+          "minLength": 1
+        },
+        "issued": {
+          "type": "string",
+          "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "retrieved": {
+          "type": "string",
+          "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+        }
+      }
+    },
+    "groups": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "group",
+          "nameRomaji",
+          "nameJa"
+        ],
+        "properties": {
+          "group": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "nameRomaji": {
+            "type": "string",
+            "minLength": 1
+          },
+          "nameJa": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "description": "A heading of the Kodokan classification. The document names these and does not define them."
+      }
+    },
+    "techniques": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "technique",
+          "nameRomaji",
+          "nameJa",
+          "definition"
+        ],
+        "properties": {
+          "technique": {
+            "description": "The technique file this definition belongs to, or null where the Kodokan names something this book does not carry.",
+            "type": [
+              "string",
+              "null"
+            ],
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "nameRomaji": {
+            "type": "string",
+            "minLength": 1
+          },
+          "nameJa": {
+            "type": "string",
+            "minLength": 1
+          },
+          "definition": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    }
+  }
+}

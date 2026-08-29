@@ -1,0 +1,101 @@
+{
+  "nameRomaji": "Yoko-wakare",
+  "nameJa": "横分",
+  "nameKana": "よこわかれ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "side separation"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": 5,
+  "kodokanNumber": 507,
+  "kodokanAbbr": "YWA",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "bp1tscHlePI",
+      "title": "Yoko-wakare",
+      "duration": "1:35"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124034032",
+      "title": "Yoko-wakare"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "48:46 Yoko-wakare (side separation)",
+      "start": 2926
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "b4OY9bXUcCQ",
+      "title": "Yoko-wakare",
+      "duration": "0:49"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "Da6Kqz7SUGI",
+      "title": "Yoko-wakare",
+      "duration": "0:43"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "u2VORam82qI",
+      "title": "Yoko-wakare"
+    }
+  ],
+  "ijfAnimation": "Yoko-wakare",
+  "links": [
+    {
+      "title": "Yoko-wakare on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Yoko-wakare",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Yoko-wakare, the side separation."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori drops onto the side across uke's front, both legs extended, and pulls uke straight over the body."
+  },
+  "keyPoints": {
+    "en": [
+      "Drop across uke's front with both legs extended",
+      "Pull uke over your body with a sharp two-handed action",
+      "Fall onto your side, never flat on your back"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, draw your partner's balance forward onto their toes.",
+      "Drop your body across the front of their feet, falling onto your right side with both legs extended together past the outside of their right side.",
+      "Your body lies like a bar across their line of travel; as you drop, pull both hands hard over your own body towards the mat beyond you.",
+      "Their weight, already forward, is pulled straight over your lying body.",
+      "They roll over you and land on their back on the far side; keep pulling through the roll and hold the sleeve as they land."
+    ]
+  },
+  "receiving": {
+    "en": "Your partner drops across the line of your feet, body lying sideways in front of you, and pulls you straight over them: your own forward balance does the rest. Fly with it rather than stalling on top of them, tuck your chin, and take the roll over their body onto your back on the far side, free arm slapping."
+  },
+  "viNotes": {
+    "en": "You are dropping your body across the front of their feet, so make sure a partner knows it is coming when you drill it. Draw them onto their toes first, which you feel through the grips, then pull hard over your own body as you land on your side. Keep pulling through the roll and hold the sleeve, so they land in a rotation rather than a drop."
+  }
+}

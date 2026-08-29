@@ -1,0 +1,62 @@
+{
+  "nameRomaji": "Uchi-mata-gaeshi",
+  "nameJa": "内股返",
+  "nameKana": "うちまたがえし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "inner thigh counter"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 321,
+  "kodokanAbbr": "UMG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Sy6sLWxkWYw",
+      "title": "Uchi-mata-gaeshi",
+      "duration": "0:44"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Uchi-mata-gaeshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Uchi-mata-gaeshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The counter to Uchi-mata: as uke's leg comes up between tori's thighs, tori catches it or sweeps the standing leg and turns uke over in the direction of their own attack. A Kodokan foot technique, and one of the most common counters seen in contest."
+  },
+  "keyPoints": {
+    "en": [
+      "Feel the entry through the grips and lower your hips",
+      "Catch the lifting leg, or take the leg they stand on",
+      "Turn them onward; never simply pull backwards"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner turns in for Uchi-mata, their right leg swinging up between your thighs.",
+      "Drop your weight and widen your stance so the lifting leg cannot find your hips.",
+      "Catch their lifting leg with your right hand under the thigh, or hook their standing left leg with your own left leg.",
+      "Pull their collar down and across with your left hand so their head continues round.",
+      "They roll over their own standing leg and land on their back beside you; keep the sleeve for control."
+    ]
+  },
+  "receiving": {
+    "en": "The lift stops halfway and your raised leg is held or your standing leg goes, which leaves you rotating with nothing underneath. Expect to land on your back or your left side, still turning. Tuck the chin, slap early, and keep hold of the grip you have; it takes the speed out of the last part of the fall."
+  },
+  "viNotes": {
+    "en": "A leg rising between your thighs is unmistakable, and it is the signal to drop your weight and widen your base rather than to pull away. From there you can catch the lifting thigh or hook their standing leg, both of which you can locate precisely because they are in contact with you. Pull the collar down and across and let their own turn finish it."
+  }
+}

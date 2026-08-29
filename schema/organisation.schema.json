@@ -1,0 +1,70 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "The organisation's own name, as it prints it. Scheme files that belong to this organisation must carry exactly this string in their `organisation` field."
+    },
+    "kind": {
+      "type": "string",
+      "enum": ["national-body", "affiliate", "club"],
+      "description": "national-body stands alone; affiliate is a body under a national one; club is where people train. These are structural words, chosen to be generic across countries, and are never reader-facing: the BJA calls its affiliates the home nations, a German federation would say Landesverband, and the site renders whatever the organisation itself says - the kind only decides how the chain may link."
+    },
+    "country": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$",
+      "description": "ISO 3166-1 alpha-2, as scheme files use (GB, JP)."
+    },
+    "homepage": {
+      "type": "string",
+      "format": "uri"
+    },
+    "parent": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$",
+      "description": "The organisation this one belongs to: an affiliate names its national body (required), a club names its national body or affiliate (optional). A national body has no parent. The chain is how everything derives - a reader's country comes from the top of it, and opting in stacks the voices along it."
+    },
+    "about": {
+      "$ref": "#/definitions/localisedText"
+    },
+    "schemes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "description": "The grading schemes this organisation owns, by scheme id. Opting into the organisation's view can then offer its schemes, and vice versa. Ownership means it published the transcribed document: JudoScotland's Kyu syllabus is claimed by JudoScotland even though the Kyu pathway is the BJA family's, which the parent link records."
+    },
+    "exams": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "description": "The examinations this organisation sets, by exam id, so the offer-list for a body is a lookup rather than a string match. Checked both ways against each exam's own `organisation` field."
+    }
+  },
+  "required": ["name", "kind", "country"],
+  "additionalProperties": false,
+  "definitions": {
+    "localisedText": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": ["en"],
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Text by BCP 47 language code; \"en\" required, other languages optional."
+    }
+  },
+  "title": "organisation",
+  "description": "A governing body, an affiliate body, or a club whose voice appears in perspectives/. Not a provider (those publish demonstration videos) and not a channel (those are places to browse): an organisation OWNS content - its grading schemes, its examinations, and its per-technique perspectives. The organisation id is the filename."
+}

@@ -1,0 +1,82 @@
+{
+  "nameRomaji": "Utsuri-goshi",
+  "nameJa": "移腰",
+  "nameKana": "うつりごし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "changing hip throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "koshi-waza",
+  "gokyoSet": 4,
+  "kodokanNumber": 209,
+  "kodokanAbbr": "UTS",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "4pQd_bEnlf0",
+      "title": "Utsuri-goshi",
+      "duration": "0:59"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124032131",
+      "title": "Utsuri-goshi"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "7:32 Utsuri-goshi (changing hip throw)",
+      "start": 452
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "iAsCZ3Gd35c",
+      "title": "Utsuri-goshi"
+    }
+  ],
+  "ijfAnimation": "Utsuri-goshi",
+  "links": [
+    {
+      "title": "Utsuri-goshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Utsuri-goshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "A counter to a hip attack: tori lifts uke with a body hold, switches the hips across, and throws with tori's own hip technique."
+  },
+  "keyPoints": {
+    "en": [
+      "Lift uke clear with the arm around the waist first",
+      "Switch your hips across in the moment uke hangs in the air",
+      "Finish as a hip throw the instant uke lands on your hip"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner attacks with a hip throw, turning their back into you: bend your knees and drop your hips below theirs before their throw can bite.",
+      "Wrap your right arm around their waist and clamp them to you, chest to their back.",
+      "Straighten your legs and swing your hips, lifting them clear of the mat so their feet leave the floor.",
+      "In the moment they hang in the air, switch: pull them across the front of your body as you turn, so your right hip arrives beneath them.",
+      "As they descend onto your hip, finish as a hip throw: bow forward and rotate them over.",
+      "They land on their back in front of you, your hand and arm guiding them down."
+    ]
+  },
+  "receiving": {
+    "en": "Your own hip attack is absorbed: their hips sink below yours, an arm clamps your waist, and you are lifted clear, feet off the mat. As you descend, a hip switches across beneath you and the throw finishes against you. It is a two-beat fall: the lift, then the hip. Stay loose through the lift, then take it as an ordinary hip-throw landing, back to the mat, free arm slapping."
+  },
+  "viNotes": {
+    "en": "Two techniques in one, and the switch happens while they are off the mat, so it is done entirely by feel: lift, feel them hang, then draw them across your front as you turn your hip underneath. Their feet leaving the floor is the cue, not anything that could be seen. Guide them down with your arm the whole way."
+  }
+}

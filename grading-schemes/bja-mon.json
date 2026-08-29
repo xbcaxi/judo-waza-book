@@ -1,0 +1,2362 @@
+{
+  "name": {
+    "en": "Mon grades"
+  },
+  "organisation": "British Judo Association",
+  "country": "GB",
+  "order": 2,
+  "description": {
+    "en": "The junior grading pathway of the British Judo Association: eighteen Mon grades from red to brown belt. Skills that are not single techniques (breakfalls, escapes, turnovers, grips, randori) are also available to review on the site."
+  },
+  "source": {
+    "title": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide",
+    "note": {
+      "en": "Transcribed from the official pictorial guide; item wording kept as printed. The guide predates the current IJF leg-grab rules, so some later grades include leg-grab techniques."
+    }
+  },
+  "posters": [
+    {
+      "id": "poster-1st-3rd-mon",
+      "alt": {
+        "en": "BJA syllabus poster for 1st to 3rd Mon: breakfalls, Osoto-otoshi, Kesa-gatame, De-ashi-barai, Mune-gatame, Uki-goshi and Kuzure-kesa-gatame in step-by-step drawings."
+      },
+      "provenance": "third-party",
+      "credit": "British Judo Association",
+      "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+    },
+    {
+      "id": "poster-4th-6th-mon",
+      "alt": {
+        "en": "BJA syllabus poster for 4th to 6th Mon: forward breakfalls, Tai-otoshi, Yoko-shiho-gatame, Ippon-seoi-nage, Kami-shiho-gatame, O-uchi-gari and Tate-shiho-gatame in step-by-step drawings."
+      },
+      "provenance": "third-party",
+      "credit": "British Judo Association",
+      "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+    },
+    {
+      "id": "poster-7th-9th-mon",
+      "alt": {
+        "en": "BJA syllabus poster for 7th to 9th Mon: Ko-uchi-gari, Tsuri-komi-goshi, O-goshi, Ko-soto-gari, Ko-soto-gake, Morote-seoi-nage, Seoi-otoshi, O-soto-gari and combination work in step-by-step drawings."
+      },
+      "provenance": "third-party",
+      "credit": "British Judo Association",
+      "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+    },
+    {
+      "id": "poster-10th-12th-mon",
+      "alt": {
+        "en": "BJA syllabus poster for 10th to 12th Mon: Harai-goshi, Uchi-mata, armlocks, Hiza-guruma, Sasae-tsuri-komi-ashi, Hane-goshi, Okuri-ashi-barai and Juji-gatame entries in step-by-step drawings."
+      },
+      "provenance": "third-party",
+      "credit": "British Judo Association",
+      "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+    }
+  ],
+  "grades": [
+    {
+      "slug": "1st-mon",
+      "label": {
+        "en": "1st Mon"
+      },
+      "beltColor": "red",
+      "techniqueSlugs": [
+        "o-soto-otoshi",
+        "kesa-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Ushiro Ukemi (rear breakfall)",
+              "techniques": [],
+              "skills": [
+                "ushiro-ukemi"
+              ]
+            },
+            {
+              "text": "Osoto-otoshi",
+              "techniques": [
+                "o-soto-otoshi"
+              ]
+            },
+            {
+              "text": "Kesa-gatame",
+              "techniques": [
+                "kesa-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Osoto-otoshi into Kesa-gatame",
+              "techniques": [
+                "o-soto-otoshi",
+                "kesa-gatame"
+              ],
+              "sequences": [
+                "o-soto-otoshi-into-kesa-gatame"
+              ]
+            },
+            {
+              "text": "Kesa-gatame escape by “trapping a leg”",
+              "techniques": [
+                "kesa-gatame"
+              ],
+              "skills": [
+                "kesa-gatame-escape-leg-trap"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate two of their favourite techniques (waza)",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "Rei, Hajime, Matte",
+              "techniques": [],
+              "terms": [
+                "matte",
+                "hajime",
+                "rei"
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the Novice to 1st Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 1st Mon (from novice)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKdXnNRRLchCEUo9sUqk1xD_",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "2nd-mon",
+      "label": {
+        "en": "2nd Mon"
+      },
+      "beltColor": "red",
+      "techniqueSlugs": [
+        "de-ashi-harai",
+        "mune-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Za-rei and Tachi-rei (kneeling and standing bow)",
+              "techniques": [],
+              "guides": [
+                "bowing-and-the-judogi"
+              ]
+            },
+            {
+              "text": "Yoko Ukemi (side breakfall)",
+              "techniques": [],
+              "skills": [
+                "yoko-ukemi"
+              ]
+            },
+            {
+              "text": "De-ashi-barai",
+              "techniques": [
+                "de-ashi-harai"
+              ]
+            },
+            {
+              "text": "Mune-gatame",
+              "techniques": [
+                "mune-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "De-ashi-barai into Mune-gatame",
+              "techniques": [
+                "de-ashi-harai",
+                "mune-gatame"
+              ],
+              "sequences": [
+                "de-ashi-harai-into-mune-gatame"
+              ]
+            },
+            {
+              "text": "Mune-gatame escape by “bridge and roll”",
+              "techniques": [
+                "mune-gatame"
+              ],
+              "skills": [
+                "mune-gatame-escape-bridge-and-roll"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate two of their favourite techniques (waza)",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "Osaekomi, Toketa",
+              "techniques": [],
+              "terms": [
+                "osaekomi",
+                "toketa"
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 1st Mon to 2nd Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 2nd Mon (from 1st Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKd-AlJgwRfBAXtZqG3k42-l",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "3rd-mon",
+      "label": {
+        "en": "3rd Mon"
+      },
+      "beltColor": "red",
+      "techniqueSlugs": [
+        "uki-goshi",
+        "kuzure-kesa-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Correct wearing of Judogi",
+              "techniques": [],
+              "guides": [
+                "bowing-and-the-judogi"
+              ],
+              "terms": [
+                "judogi"
+              ]
+            },
+            {
+              "text": "Mae Mawari Ukemi (forward rolling breakfall)",
+              "techniques": [],
+              "skills": [
+                "mae-mawari-ukemi"
+              ]
+            },
+            {
+              "text": "Uki-goshi",
+              "techniques": [
+                "uki-goshi"
+              ]
+            },
+            {
+              "text": "Kuzure-kesa-gatame",
+              "techniques": [
+                "kuzure-kesa-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Uki-goshi into Kuzure-kesa-gatame",
+              "techniques": [
+                "uki-goshi",
+                "kuzure-kesa-gatame"
+              ],
+              "sequences": [
+                "uki-goshi-into-kuzure-kesa-gatame"
+              ]
+            },
+            {
+              "text": "Kuzure-kesa-gatame escape using “sit-and-push”",
+              "techniques": [
+                "kuzure-kesa-gatame"
+              ],
+              "skills": [
+                "kuzure-kesa-gatame-escape-sit-up-and-push"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate two of their favourite techniques (waza)",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "Dojo, Judogi, Zori",
+              "techniques": [],
+              "terms": [
+                "dojo",
+                "judogi",
+                "zori"
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 2nd Mon to 3rd Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 3rd Mon (from 2nd Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKf5ELJQE6J6cKeSrzq7J3Gw",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "4th-mon",
+      "label": {
+        "en": "4th Mon"
+      },
+      "beltColor": "yellow",
+      "techniqueSlugs": [
+        "tai-otoshi",
+        "yoko-shiho-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Standard grip",
+              "techniques": [],
+              "skills": [
+                "standard-grip"
+              ]
+            },
+            {
+              "text": "Mae Mawari Ukemi (forward rolling breakfall)",
+              "techniques": [],
+              "skills": [
+                "mae-mawari-ukemi"
+              ]
+            },
+            {
+              "text": "Tai-otoshi",
+              "techniques": [
+                "tai-otoshi"
+              ]
+            },
+            {
+              "text": "Yoko-shiho-gatame",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Tai-otoshi into Yoko-shiho-gatame",
+              "techniques": [
+                "tai-otoshi",
+                "yoko-shiho-gatame"
+              ],
+              "sequences": [
+                "tai-otoshi-into-yoko-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Yoko-shiho-gatame escape “trap-bridge-roll”",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ],
+              "skills": [
+                "yoko-shiho-gatame-escape-trap-bridge-roll"
+              ]
+            },
+            {
+              "text": "Turnover into Yoko-shiho-gatame",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ],
+              "skills": [
+                "turnover-into-yoko-shiho-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate two tachi-waza and one osaekomi-waza",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "To know translation and meaning of all Japanese words used in this section",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 3rd Mon to 4th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 4th Mon (from 3rd Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKeGEObUIG-4y9ZvH-iykF9J",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "5th-mon",
+      "label": {
+        "en": "5th Mon"
+      },
+      "beltColor": "yellow",
+      "techniqueSlugs": [
+        "ippon-seoi-nage",
+        "kami-shiho-gatame",
+        "kesa-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Alternative grip (option)",
+              "techniques": [],
+              "skills": [
+                "alternative-grips"
+              ]
+            },
+            {
+              "text": "Mae Mawari Ukemi (forward rolling breakfall)",
+              "techniques": [],
+              "skills": [
+                "mae-mawari-ukemi"
+              ]
+            },
+            {
+              "text": "Ippon-seoi-nage",
+              "techniques": [
+                "ippon-seoi-nage"
+              ]
+            },
+            {
+              "text": "Kami-shiho-gatame",
+              "techniques": [
+                "kami-shiho-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Ippon-seoi-nage into Kami-shiho-gatame",
+              "techniques": [
+                "ippon-seoi-nage",
+                "kami-shiho-gatame"
+              ],
+              "sequences": [
+                "ippon-seoi-nage-into-kami-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Kami-shiho-gatame escape using action-reaction",
+              "techniques": [
+                "kami-shiho-gatame"
+              ],
+              "skills": [
+                "kami-shiho-gatame-escape-action-reaction"
+              ]
+            },
+            {
+              "text": "Turnover into Kesa-gatame: Uke on all fours",
+              "techniques": [
+                "kesa-gatame"
+              ],
+              "skills": [
+                "turnover-into-kesa-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate two of their favourite techniques (waza)",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "To know the common English translation and meaning of terminology used in this section",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 4th Mon to 5th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 5th Mon (from 4th Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKe_S49HMp2ydukTJAoec6MK",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "6th-mon",
+      "label": {
+        "en": "6th Mon"
+      },
+      "beltColor": "yellow",
+      "techniqueSlugs": [
+        "o-uchi-gari",
+        "tate-shiho-gatame",
+        "mune-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Any alternative to standard grip",
+              "techniques": [],
+              "skills": [
+                "standard-grip",
+                "alternative-grips"
+              ]
+            },
+            {
+              "text": "Mae Ukemi (forward breakfall)",
+              "techniques": [],
+              "skills": [
+                "mae-ukemi"
+              ]
+            },
+            {
+              "text": "Ouchi-gari",
+              "techniques": [
+                "o-uchi-gari"
+              ]
+            },
+            {
+              "text": "Tate-shiho-gatame",
+              "techniques": [
+                "tate-shiho-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Ouchi-gari into Tate-shiho-gatame",
+              "techniques": [
+                "o-uchi-gari",
+                "tate-shiho-gatame"
+              ],
+              "sequences": [
+                "o-uchi-gari-into-tate-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Tate-shiho-gatame escape using “clamping action”",
+              "techniques": [
+                "tate-shiho-gatame"
+              ],
+              "skills": [
+                "tate-shiho-gatame-escape-clamp-and-roll"
+              ]
+            },
+            {
+              "text": "Turnover into Mune-gatame: Uke on all fours",
+              "techniques": [
+                "mune-gatame"
+              ],
+              "skills": [
+                "turnover-into-mune-gatame"
+              ]
+            },
+            {
+              "text": "Demonstrate a light Randori (as Nage-komi on the move)",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "contest-rules",
+          "title": {
+            "en": "Contest rules"
+          },
+          "items": [
+            {
+              "text": "Give two examples of actions against the rules",
+              "techniques": [],
+              "guides": [
+                "competition-rules-basics"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate two favourite techniques",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "Knowledge of translation and meaning of terminology used in this section",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 5th Mon to 6th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 6th Mon (from 5th Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKeGEdFbRYdX4er-BkDRChwk",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "7th-mon",
+      "label": {
+        "en": "7th Mon"
+      },
+      "beltColor": "orange",
+      "techniqueSlugs": [
+        "tsurikomi-goshi",
+        "o-goshi",
+        "ko-uchi-gari",
+        "o-uchi-gari",
+        "o-soto-gari",
+        "kesa-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Tsurikomi-goshi",
+              "techniques": [
+                "tsurikomi-goshi"
+              ]
+            },
+            {
+              "text": "O-goshi",
+              "techniques": [
+                "o-goshi"
+              ]
+            },
+            {
+              "text": "Ko-uchi-gari",
+              "techniques": [
+                "ko-uchi-gari"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "O-uchi-gari into Ko-uchi-gari",
+              "techniques": [
+                "o-uchi-gari",
+                "ko-uchi-gari"
+              ],
+              "sequences": [
+                "o-uchi-gari-into-ko-uchi-gari"
+              ]
+            },
+            {
+              "text": "Ko-uchi-gari into O-soto-gari",
+              "techniques": [
+                "ko-uchi-gari",
+                "o-soto-gari"
+              ],
+              "sequences": [
+                "ko-uchi-gari-into-o-soto-gari"
+              ]
+            },
+            {
+              "text": "O-uchi-gari countered by Tsuri-komi-goshi",
+              "techniques": [
+                "o-uchi-gari",
+                "tsurikomi-goshi"
+              ],
+              "sequences": [
+                "o-uchi-gari-countered-by-tsurikomi-goshi"
+              ]
+            },
+            {
+              "text": "Kesa-gatame “bridge-and-roll” escape",
+              "techniques": [
+                "kesa-gatame"
+              ],
+              "skills": [
+                "kesa-gatame-escape-bridge-and-roll"
+              ]
+            },
+            {
+              "text": "Escape into Kesa-gatame from between Uke's legs",
+              "techniques": [
+                "kesa-gatame"
+              ],
+              "skills": [
+                "escape-into-kesa-gatame-between-legs"
+              ]
+            },
+            {
+              "text": "Randori: free practice with cooperative partner",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "demonstrate",
+          "title": {
+            "en": "Demonstrate"
+          },
+          "items": [
+            {
+              "text": "Procedure of coming onto and leaving the mat",
+              "techniques": [],
+              "guides": [
+                "bowing-and-the-judogi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "contest-rules",
+          "title": {
+            "en": "Contest rules"
+          },
+          "items": [
+            {
+              "text": "Give two examples of actions against the rules",
+              "techniques": [],
+              "guides": [
+                "competition-rules-basics"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate two tachi-waza and one osae-waza from the BJA Junior Grading syllabus",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "Uke, Tori, Waza-ari-awasete-ippon and common English translation and meaning of Japanese terminology used in this section",
+              "techniques": [],
+              "terms": [
+                "uke",
+                "tori",
+                "waza-ari-awasete-ippon"
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 6th Mon to 7th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 7th Mon (from 6th Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKf9mU4HjVCoQKp5qMyo1obc",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "8th-mon",
+      "label": {
+        "en": "8th Mon"
+      },
+      "beltColor": "orange",
+      "techniqueSlugs": [
+        "ko-soto-gari",
+        "ko-soto-gake",
+        "seoi-nage",
+        "ko-uchi-gari",
+        "tai-otoshi",
+        "yoko-shiho-gatame",
+        "tate-shiho-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Ko-soto-gari",
+              "techniques": [
+                "ko-soto-gari"
+              ]
+            },
+            {
+              "text": "Ko-soto-gake",
+              "techniques": [
+                "ko-soto-gake"
+              ]
+            },
+            {
+              "text": "Morote-seoi-nage",
+              "techniques": [
+                "seoi-nage"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Attacking and defending in free practice (Randori)",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            },
+            {
+              "text": "Ko-uchi-gari into Morote-seoi-nage",
+              "techniques": [
+                "ko-uchi-gari",
+                "seoi-nage"
+              ],
+              "sequences": [
+                "ko-uchi-gari-into-seoi-nage"
+              ]
+            },
+            {
+              "text": "Tai-otoshi countered by Ko-soto-gake",
+              "techniques": [
+                "tai-otoshi",
+                "ko-soto-gake"
+              ],
+              "sequences": [
+                "tai-otoshi-countered-by-ko-soto-gake"
+              ]
+            },
+            {
+              "text": "Escape into Yoko-shiho-gatame past Uke's legs",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ],
+              "skills": [
+                "escape-into-yoko-shiho-gatame-past-legs"
+              ]
+            },
+            {
+              "text": "Turnover into Tate-shiho-gatame from beneath",
+              "techniques": [
+                "tate-shiho-gatame"
+              ],
+              "skills": [
+                "turnover-into-tate-shiho-gatame-from-beneath"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "demonstrate",
+          "title": {
+            "en": "Demonstrate"
+          },
+          "items": [
+            {
+              "text": "Shido, Hansokumake, Matte, Osae-komi, Toketa, adjusting Judogi",
+              "techniques": [],
+              "guides": [
+                "referee-commands-and-signals"
+              ],
+              "terms": [
+                "matte",
+                "judogi",
+                "toketa"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "contest-rules",
+          "title": {
+            "en": "Contest rules"
+          },
+          "items": [
+            {
+              "text": "Two actions against the rules",
+              "techniques": [],
+              "guides": [
+                "competition-rules-basics"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate three favourite techniques",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 7th Mon to 8th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 8th Mon (from 7th Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKeX25piWANlwwSiwGERISTt",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "9th-mon",
+      "label": {
+        "en": "9th Mon"
+      },
+      "beltColor": "orange",
+      "techniqueSlugs": [
+        "seoi-otoshi",
+        "o-soto-gari",
+        "ko-uchi-gake",
+        "ippon-seoi-nage"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Seoi-otoshi",
+              "techniques": [
+                "seoi-otoshi"
+              ]
+            },
+            {
+              "text": "O-soto-gari",
+              "techniques": [
+                "o-soto-gari"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Attacking and defending in free practice (Randori)",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            },
+            {
+              "text": "Selected combinations with Ko-uchi-gake and Seoi-otoshi",
+              "techniques": [
+                "ko-uchi-gake",
+                "seoi-otoshi"
+              ]
+            },
+            {
+              "text": "Ippon-seoi-nage into Ko-uchi-gake",
+              "techniques": [
+                "ippon-seoi-nage",
+                "ko-uchi-gake"
+              ],
+              "sequences": [
+                "ippon-seoi-nage-into-ko-uchi-gake"
+              ]
+            },
+            {
+              "text": "Armroll: Uke at side of Tori",
+              "techniques": [],
+              "skills": [
+                "arm-roll-from-the-side"
+              ]
+            },
+            {
+              "text": "Armroll: Uke in front of Tori",
+              "techniques": [],
+              "skills": [
+                "arm-roll-from-the-front"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "contest-rules",
+          "title": {
+            "en": "Contest rules"
+          },
+          "items": [
+            {
+              "text": "Two examples of grips against the rules",
+              "techniques": [],
+              "guides": [
+                "competition-rules-basics"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate three favourite techniques",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "Hikiwake, Hantei",
+              "techniques": [],
+              "terms": [
+                "hikiwake",
+                "hantei"
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 8th Mon to 9th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 9th Mon (from 8th Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKeaIdpGFCILQuBETxXJkVlj",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "10th-mon",
+      "label": {
+        "en": "10th Mon"
+      },
+      "beltColor": "green",
+      "techniqueSlugs": [
+        "harai-goshi",
+        "uchi-mata",
+        "ude-gatame",
+        "waki-gatame",
+        "o-soto-gari",
+        "ko-uchi-gake"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Harai-goshi",
+              "techniques": [
+                "harai-goshi"
+              ]
+            },
+            {
+              "text": "Uchi-mata",
+              "techniques": [
+                "uchi-mata"
+              ]
+            },
+            {
+              "text": "Ude-gatame",
+              "techniques": [
+                "ude-gatame"
+              ]
+            },
+            {
+              "text": "Waki-gatame",
+              "techniques": [
+                "waki-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Free practice (Randori)",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            },
+            {
+              "text": "Defence with hip block and principles of Renraku-waza",
+              "techniques": []
+            },
+            {
+              "text": "Selected Renraku-waza combinations (example: Harai-goshi into O-soto-gari)",
+              "techniques": [
+                "harai-goshi",
+                "o-soto-gari"
+              ],
+              "sequences": [
+                "harai-goshi-into-o-soto-gari"
+              ]
+            },
+            {
+              "text": "Any combination with Ko-uchi-gake",
+              "techniques": [
+                "ko-uchi-gake"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate four favourite techniques",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "To know common English translation of Japanese terminology used in this section",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 9th Mon to 10th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 10th Mon (from 9th Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKe2_H14am3fg2a2oToJYmlI",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "11th-mon",
+      "label": {
+        "en": "11th Mon"
+      },
+      "beltColor": "green",
+      "techniqueSlugs": [
+        "hiza-guruma",
+        "sasae-tsurikomi-ashi",
+        "juji-gatame",
+        "hiza-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Hiza-guruma",
+              "techniques": [
+                "hiza-guruma"
+              ]
+            },
+            {
+              "text": "Sasae-tsurikomi-ashi",
+              "techniques": [
+                "sasae-tsurikomi-ashi"
+              ]
+            },
+            {
+              "text": "Juji-gatame",
+              "techniques": [
+                "juji-gatame"
+              ]
+            },
+            {
+              "text": "Hiza-gatame",
+              "techniques": [
+                "hiza-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Free practice (Randori)",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            },
+            {
+              "text": "Knowledge of selected Renraku-waza combinations",
+              "techniques": []
+            },
+            {
+              "text": "Juji-gatame “sit back entry”",
+              "techniques": [
+                "juji-gatame"
+              ]
+            },
+            {
+              "text": "Juji-gatame “roll over entry”",
+              "techniques": [
+                "juji-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate four favourite techniques",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "To know common English translation and meaning of Japanese terminology used in this section",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 10th Mon to 11th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 11th Mon (from 10th Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKexnb5xzFofvEHS7gi6UYHw",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "12th-mon",
+      "label": {
+        "en": "12th Mon"
+      },
+      "beltColor": "green",
+      "techniqueSlugs": [
+        "hane-goshi",
+        "okuri-ashi-harai",
+        "seoi-nage",
+        "juji-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Hane-goshi",
+              "techniques": [
+                "hane-goshi"
+              ]
+            },
+            {
+              "text": "Okuri-ashi-barai",
+              "techniques": [
+                "okuri-ashi-harai"
+              ]
+            },
+            {
+              "text": "Morote-eri-seoi-nage",
+              "techniques": [
+                "seoi-nage"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Free practice (Randori)",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            },
+            {
+              "text": "Knowledge of selected Renraku and Renzoku-waza combinations",
+              "techniques": []
+            },
+            {
+              "text": "Juji-gatame “over the shoulder roll entry”",
+              "techniques": [
+                "juji-gatame"
+              ]
+            },
+            {
+              "text": "Juji-gatame “entry from beneath”",
+              "techniques": [
+                "juji-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate four favourite techniques",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "To know the common English translation and meaning of Japanese terminology used in this section",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 11th Mon to 12th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 12th Mon (from 11th Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKddlwm_KE7v_rqwOrWquwQP",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "13th-mon",
+      "label": {
+        "en": "13th Mon"
+      },
+      "beltColor": "blue",
+      "techniqueSlugs": [
+        "koshi-guruma",
+        "tani-otoshi",
+        "yoko-guruma",
+        "ude-garami",
+        "kuzure-kesa-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Koshi-guruma",
+              "techniques": [
+                "koshi-guruma"
+              ]
+            },
+            {
+              "text": "Tani-otoshi",
+              "techniques": [
+                "tani-otoshi"
+              ]
+            },
+            {
+              "text": "Yoko-guruma",
+              "techniques": [
+                "yoko-guruma"
+              ]
+            },
+            {
+              "text": "Ude-garami",
+              "techniques": [
+                "ude-garami"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Free practice (Randori)",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            },
+            {
+              "text": "Knowledge of selected Kaeshi-waza combinations",
+              "techniques": []
+            },
+            {
+              "text": "Ude-garami from Kuzure-kesa-gatame",
+              "techniques": [
+                "ude-garami",
+                "kuzure-kesa-gatame"
+              ]
+            },
+            {
+              "text": "Kumi-kata skills against right-handed opponents",
+              "techniques": [],
+              "skills": [
+                "gripping-against-opposite-stance"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate four favourite techniques",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "To know the common English translation and meaning of Japanese terminology used in this section",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 12th Mon to 13th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 13th Mon (from 12th Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKfPxG1gXSS9lq4CHB3MG9pa",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "14th-mon",
+      "label": {
+        "en": "14th Mon"
+      },
+      "beltColor": "blue",
+      "techniqueSlugs": [
+        "tomoe-nage",
+        "okuri-eri-jime",
+        "nami-juji-jime",
+        "gyaku-juji-jime"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Tomoe-nage",
+              "techniques": [
+                "tomoe-nage"
+              ]
+            },
+            {
+              "text": "Kata-uchi-ashi-dori",
+              "techniques": []
+            },
+            {
+              "text": "Soto-kibisu-gaeshi",
+              "techniques": []
+            },
+            {
+              "text": "Okuri-eri-jime",
+              "techniques": [
+                "okuri-eri-jime"
+              ]
+            },
+            {
+              "text": "Basic position for Juji-jime",
+              "techniques": [
+                "nami-juji-jime",
+                "gyaku-juji-jime"
+              ]
+            },
+            {
+              "text": "Nami-juji-jime",
+              "techniques": [
+                "nami-juji-jime"
+              ]
+            },
+            {
+              "text": "Gyaku-juji-jime",
+              "techniques": [
+                "gyaku-juji-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Attacking and defending skills in free practice (Randori)",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            },
+            {
+              "text": "Nami and Gyaku-juji-jime: example",
+              "techniques": [
+                "nami-juji-jime",
+                "gyaku-juji-jime"
+              ]
+            },
+            {
+              "text": "Okuri-eri-jime vs Uke's dropping attack",
+              "techniques": [
+                "okuri-eri-jime"
+              ]
+            },
+            {
+              "text": "Kumikata skills against left-handed opponents",
+              "techniques": [],
+              "skills": [
+                "gripping-against-opposite-stance"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate four favourite techniques as a series of combinations: either ne-waza, tachi-waza or a combination of both",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "To know the common English translation and meaning of Japanese terminology used in this section",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 13th Mon to 14th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 14th Mon (from 13th Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKe4B5GkT2OvTZf9Rf7YOZRq",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "15th-mon",
+      "label": {
+        "en": "15th Mon"
+      },
+      "beltColor": "blue",
+      "techniqueSlugs": [
+        "kata-guruma",
+        "morote-gari",
+        "uki-waza",
+        "koshi-jime",
+        "kata-te-jime"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Kata-guruma",
+              "techniques": [
+                "kata-guruma"
+              ]
+            },
+            {
+              "text": "Morote-gari",
+              "techniques": [
+                "morote-gari"
+              ]
+            },
+            {
+              "text": "Uki-waza",
+              "techniques": [
+                "uki-waza"
+              ]
+            },
+            {
+              "text": "Soto-ashi-dori-ouchi-gari",
+              "techniques": []
+            },
+            {
+              "text": "Uchi-kibisu-gaeshi",
+              "techniques": []
+            },
+            {
+              "text": "Performance version: Yoko-kata-guruma-otoshi",
+              "techniques": [
+                "kata-guruma"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Free practice (Randori)",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            },
+            {
+              "text": "Koshi-jime against dropping attack",
+              "techniques": [
+                "koshi-jime"
+              ]
+            },
+            {
+              "text": "Kata-te-jime",
+              "techniques": [
+                "kata-te-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate two favourite combinations",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "To know common English translation and meaning of Japanese terminology used in this section",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 14th Mon to 15th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 15th Mon (from 14th Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKeQSJuKd026VAnPWf1l-Q15",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "16th-mon",
+      "label": {
+        "en": "16th Mon"
+      },
+      "beltColor": "brown",
+      "techniqueSlugs": [
+        "ura-nage",
+        "uki-otoshi",
+        "yoko-tomoe-nage",
+        "soto-makikomi",
+        "kata-ha-jime"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Ura-nage",
+              "techniques": [
+                "ura-nage"
+              ]
+            },
+            {
+              "text": "Uki-otoshi",
+              "techniques": [
+                "uki-otoshi"
+              ]
+            },
+            {
+              "text": "Yoko-tomoe-nage",
+              "techniques": [
+                "yoko-tomoe-nage"
+              ]
+            },
+            {
+              "text": "Kata-hiza-te-ouchi-gake-ashi-dori",
+              "techniques": []
+            },
+            {
+              "text": "Soto-makikomi",
+              "techniques": [
+                "soto-makikomi"
+              ]
+            },
+            {
+              "text": "Kata-ha-jime",
+              "techniques": [
+                "kata-ha-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Free practice (Randori)",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            },
+            {
+              "text": "Knowledge of performance versions of selected techniques (examples)",
+              "techniques": []
+            },
+            {
+              "text": "Kata-ha-jime against failed attack",
+              "techniques": [
+                "kata-ha-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate four of their favourite techniques as combinations",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "To know common translation of Japanese terminology used in this section",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 15th Mon to 16th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 16th Mon (from 15th Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKeW9iA_B_bQ4XWK3brFTwN9",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "17th-mon",
+      "label": {
+        "en": "17th Mon"
+      },
+      "beltColor": "brown",
+      "techniqueSlugs": [
+        "ushiro-goshi",
+        "sumi-gaeshi",
+        "seoi-otoshi",
+        "yoko-gake",
+        "hadaka-jime",
+        "koshi-jime"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Ushiro-goshi",
+              "techniques": [
+                "ushiro-goshi"
+              ]
+            },
+            {
+              "text": "Sumi-gaeshi",
+              "techniques": [
+                "sumi-gaeshi"
+              ]
+            },
+            {
+              "text": "Ryo-hiza-seoi-otoshi",
+              "techniques": [
+                "seoi-otoshi"
+              ]
+            },
+            {
+              "text": "Yoko-gake",
+              "techniques": [
+                "yoko-gake"
+              ]
+            },
+            {
+              "text": "Hadaka-jime",
+              "techniques": [
+                "hadaka-jime"
+              ]
+            },
+            {
+              "text": "Kata-te-ashi-koshi-jime",
+              "techniques": [
+                "koshi-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Free practice (Randori)",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            },
+            {
+              "text": "Knowledge of performance versions of selected techniques (examples)",
+              "techniques": []
+            },
+            {
+              "text": "Hadaka-jime against Uke in prone position",
+              "techniques": [
+                "hadaka-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate three of their favourite combinations",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "To know common English translation and meaning of Japanese terminology used in this section",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 16th Mon to 17th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 17th Mon (from 16th Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKcP_m_lg8HTcxU8-YVIxd2S",
+          "source": "British Judo"
+        }
+      ]
+    },
+    {
+      "slug": "18th-mon",
+      "label": {
+        "en": "18th Mon"
+      },
+      "beltColor": "brown",
+      "techniqueSlugs": [
+        "sode-tsurikomi-goshi",
+        "ko-uchi-gake",
+        "sankaku-jime",
+        "sumi-gaeshi"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Sode-tsurikomi-goshi",
+              "techniques": [
+                "sode-tsurikomi-goshi"
+              ]
+            },
+            {
+              "text": "Te-guruma",
+              "techniques": []
+            },
+            {
+              "text": "Ko-uchi-gake-mata-maki-komi",
+              "techniques": [
+                "ko-uchi-gake"
+              ]
+            },
+            {
+              "text": "San-gaku-jime",
+              "techniques": [
+                "sankaku-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Attacking and defending skills in free practice (Randori)",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            },
+            {
+              "text": "Demonstrate two performance variations of Sumi-gaeshi (option: Hikikomi-gaeshi)",
+              "techniques": [
+                "sumi-gaeshi"
+              ]
+            },
+            {
+              "text": "Complex entry into San-gaku-gatame, San-gaku-jime and San-gaku-osae-gatame",
+              "techniques": [
+                "sankaku-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "players-choice",
+          "title": {
+            "en": "Player's choice"
+          },
+          "items": [
+            {
+              "text": "Demonstrate four of their favourite techniques as combinations, or attain the BJA Junior Referee Award, or Senior Club Kata Award",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology"
+          },
+          "items": [
+            {
+              "text": "To know common English translation and meaning of Japanese terminology used in this section",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial syllabus sheet for the 17th Mon to 18th Mon grading, with step-by-step drawings of each required skill."
+        },
+        "provenance": "third-party",
+        "credit": "British Judo Association",
+        "source": "BJA Junior Grading Programme, Mon Grade Syllabus Pictorial Guide"
+      },
+      "links": [
+        {
+          "title": "Grading videos for 18th Mon (from 17th Mon)",
+          "url": "https://www.youtube.com/playlist?list=PLgpviCK0rSKf5oR2d6TqprD6PA1h2UrZ5",
+          "source": "British Judo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "nameRomaji": "Sankaku-gatame",
+  "nameJa": "三角固",
+  "nameKana": "さんかくがため",
+  "aliases": [
+    "Ude-hishigi-sankaku-gatame"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "triangle armlock"
+  },
+  "category": "katame-waza",
+  "subCategory": "kansetsu-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 809,
+  "kodokanAbbr": "SGT",
+  "kodokan": {
+    "nameRomaji": "Ude-hishigi-sankaku-gatame",
+    "nameJa": "腕挫三角固"
+  },
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "WefAmW4azhk",
+      "title": "Ude-hishigi-sankaku-gatame",
+      "duration": "1:15"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Sankaku-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Sankaku-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The triangle of the legs closed around head and arm as for Sankaku-jime, but with the pressure taken on the trapped elbow rather than the neck. Worth documenting separately from the strangle because a judoka in the triangle must know which of the two is coming. Competition joint locks are restricted to the elbow and to senior age groups; learn and practise this only under instruction."
+  },
+  "keyPoints": {
+    "en": [
+      "The triangle is the same; the target is not",
+      "Isolate the trapped arm and straighten it",
+      "Apply with the hips and hands, and release on the tap"
+    ]
+  },
+  "described": {
+    "en": [
+      "Close your legs into a triangle around your partner's head and one arm, as you would for Sankaku-jime, the back of your knee across the back of their neck.",
+      "Draw the trapped arm across your body so their elbow points upward and clear of their head.",
+      "Hold their wrist with both hands, palm turned upward.",
+      "Press the elbow against its hinge by drawing the wrist towards you and lifting your hips slightly.",
+      "The pressure is on the elbow, not the neck; release completely the moment they tap."
+    ]
+  },
+  "receiving": {
+    "en": "You are in the triangle and expecting a strangle, and instead the pressure arrives at your elbow. Both are serious and both are close, so tap at the first sign of either rather than waiting to work out which it is; with your head and one arm trapped, tap with the free hand on their leg or with your foot on the mat."
+  },
+  "viNotes": {
+    "en": "The reason this is documented apart from the strangle is that anyone caught in a triangle needs to know which is coming, and without sight the only difference is what you feel: pressure at the elbow rather than around the neck. As tori, say which one you are applying when you drill it. As uke, tap on either, and early."
+  }
+}

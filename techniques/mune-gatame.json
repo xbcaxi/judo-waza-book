@@ -1,0 +1,67 @@
+{
+  "nameRomaji": "Mune-gatame",
+  "nameJa": "胸固",
+  "nameKana": "むねがため",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "chest hold"
+  },
+  "category": "katame-waza",
+  "subCategory": "osaekomi-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": null,
+  "kodokanAbbr": null,
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "-XbsYWWmUmY",
+      "title": "Mune-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535078768",
+      "title": "Mune-Gatame"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Mune-gatame, the chest hold."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Chest on chest from the side, arms hugging around uke's trunk and far arm: the simplest-feeling of the side holds, kept by weight and hip movement rather than any particular grip."
+  },
+  "keyPoints": {
+    "en": [
+      "Chest glued to chest, at right angles from their side",
+      "Hug around the trunk and far shoulder, elbows tight",
+      "Hips low or knees tucked; follow every bridge with your weight"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner lies on their back; come to their right side at right angles, chest facing down onto their chest.",
+      "Wrap your arms around their trunk and far shoulder, hugging them to you, elbows drawn in tight.",
+      "Keep your hips low to the mat, legs sprawled wide behind you, or tuck your knees against their side.",
+      "Press your chest down through theirs and keep your head low on the far side.",
+      "When they bridge, let your hips float and re-settle; when they turn, slide around them keeping chest contact unbroken."
+    ]
+  },
+  "receiving": {
+    "en": "A broad hugging weight lands across your chest with nothing obvious to attack: no collar grip, no head wrap, just heaviness. Bridges lift them but do not move them unless you turn as you bridge; work an elbow inside and turn towards them. Breathe steadily and tap clearly if you are held and need to stop."
+  },
+  "viNotes": {
+    "en": "The simplest of the side holds to keep without sight, because there are no grips to find: your arms wrap the trunk and your chest does the work. Everything they try reads through the chest, a bridge as a lift and a turn as a roll away from you, and the answer to both is to float and settle. Slide around them with the chest contact unbroken rather than releasing and re-taking."
+  }
+}

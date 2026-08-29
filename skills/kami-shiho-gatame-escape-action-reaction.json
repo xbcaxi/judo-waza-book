@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Kami-shiho-gatame escape by action and reaction"
+  },
+  "kind": "escape",
+  "techniques": [
+    "kami-shiho-gatame"
+  ],
+  "about": {
+    "en": "A hold from above your head is hard to bridge straight out of, so you use their own correction against them: push one way, let them resist, then go the other. The syllabuses call it action and reaction, and it is the first escape that is about timing rather than strength."
+  },
+  "keyPoints": {
+    "en": [
+      "Make the first movement real, or they will not react to it",
+      "Change direction the instant you feel them push back",
+      "Small, sharp movements beat one big heave"
+    ]
+  },
+  "described": {
+    "en": [
+      "You are held in Kami-shiho-gatame, their chest on yours from above your head and their hands gripping your belt.",
+      "Bring both elbows in tight and place your hands on their hips or shoulders.",
+      "Push firmly to one side, turning your hips that way as though escaping in that direction.",
+      "Feel them brace and push back the other way to stop you: that is the reaction you wanted.",
+      "The instant you feel it, stop pushing and turn sharply the opposite way, adding your movement to theirs.",
+      "Turn onto your front or onto your knees as the space opens, and come up facing them."
+    ]
+  },
+  "receiving": {
+    "en": "Do not chase the first movement. If you feel them push, meet it with weight rather than with a shove of your own, and keep your hips low and wide: the escape only works if you overcommit to the correction."
+  },
+  "viNotes": {
+    "en": "This escape suits touch better than sight, because the whole thing is a conversation through contact. Push, wait to feel the answer come back, then change direction. The timing cue arrives through your hands, never through your eyes."
+  },
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "HUUsw3kVspA",
+      "title": "Escape from Kami-Shiho-Gatme using Action and Re-Action"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535079914",
+      "title": "Escape from Kami-Shiho-Gatme using Action and Re-Action"
+    }
+  ]
+}

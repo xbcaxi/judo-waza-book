@@ -1,0 +1,68 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "o-uchi-gari",
+    "ko-uchi-gari"
+  ],
+  "about": {
+    "en": "Two reaps on opposite legs, and the second is set up entirely by the first. Escaping the major inner reap puts weight onto the other foot, which the minor inner reap then takes."
+  },
+  "described": {
+    "en": [
+      "Take your right grips and reap the inside of their left leg backwards with your right leg.",
+      "Feel them pull that leg clear and shift their weight onto their right foot.",
+      "Put your right foot down and keep driving their upper body backwards with your right hand.",
+      "Reap their right foot inwards with the sole of your right foot, sweeping across the mat.",
+      "Keep their chest travelling backwards so they cannot step out of it.",
+      "They sit down backwards; keep the sleeve and follow under control."
+    ]
+  },
+  "receiving": {
+    "en": "Two reaps on opposite legs, and the first one is the reason the second works: saving your left leg puts every kilogram onto your right foot, and their sole takes it inwards across the mat before your weight can move again. You sit straight down. Keep your chin tucked, let the held arm stay long instead of posting behind you, and slap with your free arm as your back meets the mat."
+  },
+  "viNotes": {
+    "en": "Your reaping leg is the sensor: when their leg pulls clear you feel where their weight has gone, and it has gone onto the other foot. Put your foot down and reap across the mat with the sole rather than at the ankle with the toes. Keep driving their upper body backwards with your hand throughout, or they simply step out of the second attack as they did the first."
+  },
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "B8NIthXy9L0",
+      "title": "O-Uchi-Gari into Ko-Uchi-Gari"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548837335",
+      "title": "O-Uchi-Gari into Ko-Uchi-Gari"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "1:02:48 Ouchi-gari to Kouchi-gari",
+      "start": 3768
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "SAW5xtUZqdY",
+      "title": "O-uchi-gari into Ko-uchi-gari",
+      "duration": "0:15"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "D0OXkRy7bk8",
+      "title": "O-uchi-gari into Ko-uchi-gari",
+      "duration": "0:12"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "JYbijQo_6fw",
+      "title": "ouchigari into kouchigari",
+      "duration": "0:15"
+    }
+  ]
+}

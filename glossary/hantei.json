@@ -1,0 +1,11 @@
+{
+  "term": "Hantei",
+  "kanji": "判定",
+  "category": "command",
+  "meaning": {
+    "en": "Decision. The referee asks the officials to decide a contest that has no other result."
+  },
+  "guides": [
+    "referee-commands-and-signals"
+  ]
+}

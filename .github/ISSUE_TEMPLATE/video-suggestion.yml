@@ -1,0 +1,78 @@
+name: Suggest a demonstration video
+description: You know a good demonstration of a technique. Paste the link; we will do the rest.
+title: "[Video] "
+labels: ["video"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Paste the URL you have.** The reference stores a video as a platform
+        and an id rather than a link, but that is our problem, not yours: a
+        maintainer converts it when the suggestion is accepted.
+
+        If you would rather send the change yourself, `npm run video -- <url>`
+        prints the entry to paste into the file, and
+        [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md#suggest-a-video-the-most-wanted-pr)
+        has the rest.
+
+        Nothing is ever rehosted here. A video plays on its own platform,
+        under that platform's terms, with the view counting to whoever
+        published it.
+  - type: input
+    id: technique
+    attributes:
+      label: Which technique, skill or sequence?
+      description: The name is enough - Uchi-mata, the back breakfall, O-uchi-gari into Tai-otoshi.
+      placeholder: Uchi-mata
+    validations:
+      required: true
+  - type: textarea
+    id: urls
+    attributes:
+      label: The link
+      description: |
+        Straight from the address bar or the share button. YouTube or Vimeo.
+        More than one is fine, one per line. If it is a long lesson covering
+        several techniques, share it at the moment this technique starts
+        (YouTube's share dialogue has a "start at" tick box) and the timestamp
+        comes across with it.
+      placeholder: |
+        https://www.youtube.com/watch?v=iUpSu5J-bgw
+    validations:
+      required: true
+  - type: input
+    id: publisher
+    attributes:
+      label: Who published it?
+      description: The channel or organisation - Kodokan, British Judo, a named coach. Leave it blank if you are not sure.
+    validations:
+      required: false
+  - type: textarea
+    id: why
+    attributes:
+      label: What makes it a good demonstration?
+      description: |
+        Clear, correct form matters here more than production values, and one
+        sentence is plenty. Say too if it shows something the current videos
+        do not: the entry from a left-handed grip, the competitive variation,
+        the common mistake.
+    validations:
+      required: false
+  - type: checkboxes
+    id: accessibility
+    attributes:
+      label: Does it help a judoka who cannot see it?
+      description: |
+        Tick only what you know to be true. Both are recorded on the video so
+        a visually impaired reader can judge whether playing it is worthwhile,
+        and "unknown" is an honest answer.
+      options:
+        - label: It has real captions, written by a person rather than generated automatically
+        - label: The narration alone teaches the technique, without needing the picture
+  - type: checkboxes
+    id: public
+    attributes:
+      label: One check before you send it
+      options:
+        - label: The video is public - not unlisted, private, or behind a login. An unlisted link stops working for everyone else the moment its address changes.
+          required: true

@@ -1,0 +1,42 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ippon-seoi-nage",
+    "seoi-otoshi"
+  ],
+  "about": {
+    "en": "The stalled lift becomes a drop: keeping the same arm and the same turn, sinking to one or both knees pulls your partner over the top as Seoi-otoshi."
+  },
+  "described": {
+    "en": [
+      "Take your right grips and spin in for Ippon-seoi-nage, your right arm under their right armpit and your hips turning below theirs.",
+      "Feel the lift fail: their hips are low, their weight stays behind you and your legs cannot straighten underneath them.",
+      "Keep their arm clamped against your shoulder and do not let the sleeve go slack.",
+      "Drop your right knee to the mat and extend your right leg across the front of both of their legs, shin low and knee braced.",
+      "Pull the sleeve down towards the mat and turn your shoulders sharply to your left, drawing their body over your extended leg.",
+      "They land on their back in front of you; keep the sleeve to support the fall."
+    ]
+  },
+  "receiving": {
+    "en": "The lift never comes, because you have made it too heavy, and then the floor does the work instead: they sink, a leg appears across the front of both of yours, and you are pulled over it. It arrives faster than the throw you were defending, and lower. Do not brace your feet, because the block is already there. Turn with the pull, chin on your chest, and slap with your free left arm as your back lands."
+  },
+  "viNotes": {
+    "en": "Nothing about the grips or the turn changes, so this is one movement with two endings and it can be drilled as such. The cue is in your own legs: if they will not straighten under their weight, stop asking and drop. Keep their arm clamped against your shoulder as you go down so you never lose your reference point on the way to the mat."
+  },
+  "videos": [
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "start": 4903,
+      "title": "1:21:43 Ippon-seoi-nage to Seoi-toshi"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "XOSeN1zM1kI",
+      "title": "Ippon-seoi-nage into Seoi-otoshi",
+      "duration": "0:17"
+    }
+  ]
+}

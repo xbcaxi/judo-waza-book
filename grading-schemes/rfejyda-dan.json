@@ -1,0 +1,509 @@
+{
+  "name": {
+    "en": "Dan grades",
+    "es": "Grados dan"
+  },
+  "organisation": "Real Federación Española de Judo y Deportes Asociados",
+  "country": "ES",
+  "order": 5,
+  "description": {
+    "en": "The Spanish federation's dan grade programme, from 1st to 5th Dan, as approved in October 2025 and in force from 1 January 2026. Each grade sets its own list of standing and groundwork techniques, its fundamentals, a tokui waza the candidate develops at length, and one kata.",
+    "es": "El programa de grados dan de la RFEJYDA, de 1º a 5º Dan, aprobado en octubre de 2025 y en vigor desde el 1 de enero de 2026."
+  },
+  "source": {
+    "title": "Contenidos de los programas de 1º a 6º Dan de Judo",
+    "date": "October 2025",
+    "note": {
+      "en": "Transcribed from the RFEJYDA programme approved by the Junta Directiva in October 2025 and in force from 1 January 2026. Item text is the Spanish as printed, including the source's own typographical slips (\"trs contras\", \"do salidas\", and \"Kuzure-Tsukuri-Kake\" where the standard term is Kuzushi). Four things a reader should know. Some techniques are printed in red, which the programme defines as explained but not executed: Hane makikomi and Uchi mata makikomi at 3rd Dan, O soto maki komi and Kawazu gake at 4th Dan, and Kani basami at 5th Dan. Colour cannot be carried in the data, so it is recorded here. The 5th Dan page announces fifteen standing techniques and prints thirteen; the announcement is transcribed as printed and the list is what the document actually names. Several techniques this programme examines are documented in this reference for recognition only, because they are prohibited outright: Kawazu gake, Kani basami, Do jime and Ashi garami. And 6th Dan carries an EMPTY techniqueSlugs, which is the honest record rather than a gap: it prescribes no techniques at all, being free-choice tachi waza and ne waza work submitted to the territorial school thirty days in advance, plus Kodokan Goshin-jutsu. The programme prints the same paragraph for both, so the ne waza block also says \"trabajo de libre elección de judo pie\" - standing judo - which is transcribed as printed like the rest of the document's slips."
+    }
+  },
+  "grades": [
+    {
+      "slug": "1st-dan",
+      "label": { "en": "1st Dan", "es": "1º Dan" },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "seoi-nage",
+        "ippon-seoi-nage",
+        "tai-otoshi",
+        "o-goshi",
+        "koshi-guruma",
+        "uki-goshi",
+        "ushiro-goshi",
+        "o-uchi-gari",
+        "o-soto-gari",
+        "ko-uchi-gari",
+        "o-soto-otoshi",
+        "hiza-guruma",
+        "kesa-gatame",
+        "yoko-shiho-gatame",
+        "kami-shiho-gatame",
+        "tate-shiho-gatame",
+        "kuzure-kesa-gatame",
+        "kata-juji-jime",
+        "nami-juji-jime",
+        "gyaku-juji-jime",
+        "hadaka-jime",
+        "juji-gatame",
+        "ude-garami"
+      ],
+      "syllabus": [
+        {
+          "slug": "pregunta-inicial-excluyente",
+          "title": { "en": "Excluding initial question", "es": "Pregunta inicial excluyente" },
+          "items": [
+            {
+              "text": "Estos dos fundamentos junto con la correcta uniformidad serán preguntas previas para poder continuar con el resto del examen: REI y UKEMI (explicación y ejecución)",
+              "terms": ["rei", "ukemi"],
+              "skills": ["mae-ukemi", "ushiro-ukemi", "yoko-ukemi", "mae-mawari-ukemi"]
+            }
+          ]
+        },
+        {
+          "slug": "nage-waza",
+          "title": { "en": "Nage waza", "es": "Nage waza" },
+          "items": [
+            { "text": "Todas las técnicas se realizarán en estático y en un desplazamiento." },
+            { "text": "De las 12 técnicas el tribunal preguntará mínimo 5" },
+            { "text": "Kumikata", "terms": ["kumi-kata"] },
+            { "text": "Shisei" },
+            { "text": "Kuzure-Tsukuri-Kake", "terms": ["kuzushi", "tsukuri", "kake"] },
+            { "text": "Shintai Tai-sabaki" },
+            {
+              "text": "Técnica especial de Judo pie, que el candidato desarrollará ampliamente con dos desplazamientos, dos Renraku waza y Renzoku waza, antes y después del tokui waza, dos defensas, dos contras y un encadenamiento pie suelo.",
+              "terms": ["renraku-waza", "renzoku-waza"]
+            },
+            { "text": "Seoi nage", "techniques": ["seoi-nage"] },
+            { "text": "Ippon seoi nage", "techniques": ["ippon-seoi-nage"] },
+            { "text": "Tai otoshi", "techniques": ["tai-otoshi"] },
+            { "text": "O goshi", "techniques": ["o-goshi"] },
+            { "text": "Koshi guruma", "techniques": ["koshi-guruma"] },
+            { "text": "Uki goshi", "techniques": ["uki-goshi"] },
+            { "text": "Ushiro goshi", "techniques": ["ushiro-goshi"] },
+            { "text": "O uchi gari", "techniques": ["o-uchi-gari"] },
+            { "text": "O soto gari", "techniques": ["o-soto-gari"] },
+            { "text": "Ko uchi gari", "techniques": ["ko-uchi-gari"] },
+            { "text": "O soto otoshi", "techniques": ["o-soto-otoshi"] },
+            { "text": "Hiza guruma", "techniques": ["hiza-guruma"] }
+          ]
+        },
+        {
+          "slug": "katame-waza",
+          "title": { "en": "Katame waza", "es": "Katame waza" },
+          "items": [
+            { "text": "Uke siempre realizará uno o más intentos de salida o defensa." },
+            { "text": "Preguntar 2 inmovilizaciones, 1 luxación y 1 estrangulación" },
+            { "text": "Bases de las inmovilizaciones", "terms": ["osaekomi-waza"] },
+            { "text": "Bases de las estrangulaciones", "terms": ["shime-waza"] },
+            { "text": "Bases de las luxaciones", "terms": ["kansetsu-waza"] },
+            {
+              "text": "Técnica especial de Judo suelo forma fundamental, que el candidato desarrollará ampliamente con dos movimientos de ataque, dos defensas, encadenamiento con otras técnicas y dos salidas."
+            },
+            {
+              "text": "Kesa gatame y salida",
+              "techniques": ["kesa-gatame"],
+              "skills": ["kesa-gatame-escape-bridge-and-roll", "kesa-gatame-escape-leg-trap"]
+            },
+            {
+              "text": "Yoko shiho gatame y salida",
+              "techniques": ["yoko-shiho-gatame"],
+              "skills": ["yoko-shiho-gatame-escape-trap-bridge-roll", "escape-from-yoko-shiho-gatame-to-sankaku-gatame"]
+            },
+            {
+              "text": "Kami shiho gatame y salida",
+              "techniques": ["kami-shiho-gatame"],
+              "skills": ["kami-shiho-gatame-escape-action-reaction"]
+            },
+            {
+              "text": "Tate shiho gatame y salida",
+              "techniques": ["tate-shiho-gatame"],
+              "skills": ["tate-shiho-gatame-escape-clamp-and-roll"]
+            },
+            {
+              "text": "Kuzure kesa gatame y salida",
+              "techniques": ["kuzure-kesa-gatame"],
+              "skills": ["kuzure-kesa-gatame-escape-sit-up-and-push"]
+            },
+            { "text": "Kata juji jime", "techniques": ["kata-juji-jime"] },
+            { "text": "Nami juji jime", "techniques": ["nami-juji-jime"] },
+            { "text": "Gyaku juji jime", "techniques": ["gyaku-juji-jime"] },
+            { "text": "Hadaka jime", "techniques": ["hadaka-jime"] },
+            { "text": "Ude hishigi juji gatame", "techniques": ["juji-gatame"] },
+            { "text": "Ude garami", "techniques": ["ude-garami"] }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": { "en": "Kata", "es": "Kata" },
+          "items": [
+            { "text": "KATA (el tribunal podrá preguntar algún grupo de Uke)", "terms": ["kata", "uke"] },
+            { "text": "Nage no kata: Te waza- Koshi waza- Ashi waza", "terms": ["kata"] }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2nd-dan",
+      "label": { "en": "2nd Dan", "es": "2º Dan" },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "seoi-otoshi",
+        "kata-guruma",
+        "uki-otoshi",
+        "tsuri-goshi",
+        "harai-goshi",
+        "tsurikomi-goshi",
+        "sasae-tsurikomi-ashi",
+        "uchi-mata",
+        "ko-soto-gari",
+        "ko-soto-gake",
+        "de-ashi-harai",
+        "ashi-guruma",
+        "tomoe-nage",
+        "sumi-gaeshi",
+        "ushiro-kesa-gatame",
+        "kata-gatame",
+        "kuzure-kami-shiho-gatame",
+        "okuri-eri-jime",
+        "kata-ha-jime",
+        "sode-guruma-jime",
+        "ude-gatame",
+        "waki-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "nage-waza",
+          "title": { "en": "Nage waza", "es": "Nage waza" },
+          "items": [
+            { "text": "Todas las técnicas se realizarán en estático y en un desplazamiento." },
+            { "text": "De las 14 técnicas el tribunal preguntará mínimo 5" },
+            { "text": "Uchikomi", "terms": ["uchikomi"] },
+            { "text": "Nagekomi", "terms": ["nagekomi"] },
+            { "text": "Shiai", "terms": ["shiai"] },
+            { "text": "Randori", "terms": ["randori"] },
+            {
+              "text": "Técnica especial de Judo pie, que el candidato desarrollará ampliamente con dos desplazamientos, tres Renraku waza y Renzoku waza, antes y después del tokui waza, tres defensas, trs contras y un encadenamiento pie suelo.",
+              "terms": ["renraku-waza", "renzoku-waza"]
+            },
+            { "text": "Seoi otoshi", "techniques": ["seoi-otoshi"] },
+            { "text": "Kata guruma", "techniques": ["kata-guruma"] },
+            { "text": "Uki otoshi", "techniques": ["uki-otoshi"] },
+            { "text": "Tsuri goshi", "techniques": ["tsuri-goshi"] },
+            { "text": "Harai goshi", "techniques": ["harai-goshi"] },
+            { "text": "Tsurikomi goshi", "techniques": ["tsurikomi-goshi"] },
+            { "text": "Sasae tsuri komi ashi", "techniques": ["sasae-tsurikomi-ashi"] },
+            { "text": "Uchi mata", "techniques": ["uchi-mata"] },
+            { "text": "Ko soto gari", "techniques": ["ko-soto-gari"] },
+            { "text": "Ko soto gake", "techniques": ["ko-soto-gake"] },
+            { "text": "De ashi harai", "techniques": ["de-ashi-harai"] },
+            { "text": "Ashi guruma", "techniques": ["ashi-guruma"] },
+            { "text": "Tomoe nage", "techniques": ["tomoe-nage"] },
+            { "text": "Sumi gaeshi", "techniques": ["sumi-gaeshi"] }
+          ]
+        },
+        {
+          "slug": "katame-waza",
+          "title": { "en": "Katame waza", "es": "Katame waza" },
+          "items": [
+            { "text": "Uke siempre realizará uno o más intentos de salida o defensa." },
+            { "text": "Preguntar 2 inmovilizaciones, 1 luxación (fundamental y una más) y 1 estrangulación (fundamental y una más)" },
+            { "text": "Salidas de las inmovilizaciones", "terms": ["osaekomi-waza"] },
+            { "text": "Salidas de las estrangulaciones", "terms": ["shime-waza"] },
+            { "text": "Salidas de las luxaciones", "terms": ["kansetsu-waza"] },
+            {
+              "text": "Técnica especial de Judo suelo forma fundamental, que el candidato desarrollará ampliamente con encadenamiento con otras técnicas, tres movimientos de ataque, dos defensas y dos salidas."
+            },
+            { "text": "Ushiro kesa gatame y salida", "techniques": ["ushiro-kesa-gatame"] },
+            { "text": "Kata gatame y salida", "techniques": ["kata-gatame"] },
+            { "text": "Kuzure kami shiho gatame y salida", "techniques": ["kuzure-kami-shiho-gatame"] },
+            { "text": "Okuri Eri Jime", "techniques": ["okuri-eri-jime"] },
+            { "text": "Kataha jime", "techniques": ["kata-ha-jime"] },
+            { "text": "Sode guruma jime", "techniques": ["sode-guruma-jime"] },
+            { "text": "Ude hishigi ude gatame", "techniques": ["ude-gatame"] },
+            { "text": "Ude hishigi Waki gatame", "techniques": ["waki-gatame"] }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": { "en": "Kata", "es": "Kata" },
+          "items": [
+            { "text": "KATA (el tribunal podrá preguntar algún grupo de Uke)", "terms": ["kata", "uke"] },
+            { "text": "Nage no kata: Te waza - Koshi waza - Ashi waza - Ma sutemi waza - Yoko sutemi waza", "terms": ["kata"] }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "3rd-dan",
+      "label": { "en": "3rd Dan", "es": "3º Dan" },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "morote-gari",
+        "kuchiki-taoshi",
+        "kibisu-gaeshi",
+        "sode-tsurikomi-goshi",
+        "harai-goshi-gaeshi",
+        "okuri-ashi-harai",
+        "tsubame-gaeshi",
+        "o-soto-guruma",
+        "ura-nage",
+        "tani-otoshi",
+        "harai-makikomi",
+        "soto-makikomi",
+        "yoko-gake",
+        "hane-makikomi",
+        "uchi-mata-makikomi",
+        "uki-gatame",
+        "sankaku-jime",
+        "ashi-gatame",
+        "hiza-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "nage-waza",
+          "title": { "en": "Nage waza", "es": "Nage waza" },
+          "items": [
+            { "text": "Todas las técnicas se realizarán en estático y en dos desplazamientos." },
+            { "text": "De las 15 técnicas el tribunal preguntará mínimo 5, las técnicas en rojo solo se explicarán, no se ejecutarán" },
+            { "text": "Yaku soku geiko" },
+            { "text": "Kakari geiko" },
+            { "text": "Tandoku renshu", "terms": ["tandoku-renshu"] },
+            { "text": "Sotai renshu" },
+            { "text": "Chikara no oyo" },
+            {
+              "text": "Técnica especial de Judo pie, que el candidato desarrollará ampliamente con cuatro desplazamientos, cuatro Renraku waza y Renzoku waza, antes y después del tokui waza, tres defensas, dos contras y un encadenamiento pie suelo.",
+              "terms": ["renraku-waza", "renzoku-waza"]
+            },
+            { "text": "Morote gari", "techniques": ["morote-gari"] },
+            { "text": "Kuchiki taoshi", "techniques": ["kuchiki-taoshi"] },
+            { "text": "Kibisu gaeshi", "techniques": ["kibisu-gaeshi"] },
+            { "text": "Sode tsuri komi goshi", "techniques": ["sode-tsurikomi-goshi"] },
+            { "text": "Harai goshi gaeshi", "techniques": ["harai-goshi-gaeshi"] },
+            { "text": "Okuri ashi barai", "techniques": ["okuri-ashi-harai"] },
+            { "text": "Tsubame gaeshi", "techniques": ["tsubame-gaeshi"] },
+            { "text": "O soto guruma", "techniques": ["o-soto-guruma"] },
+            { "text": "Ura nage", "techniques": ["ura-nage"] },
+            { "text": "Tani otoshi", "techniques": ["tani-otoshi"] },
+            { "text": "Harai makikomi", "techniques": ["harai-makikomi"] },
+            { "text": "Soto makikomi", "techniques": ["soto-makikomi"] },
+            { "text": "Yoko gake", "techniques": ["yoko-gake"] },
+            { "text": "Hane makikomi", "techniques": ["hane-makikomi"] },
+            { "text": "Uchi mata makikomi", "techniques": ["uchi-mata-makikomi"] }
+          ]
+        },
+        {
+          "slug": "katame-waza",
+          "title": { "en": "Katame waza", "es": "Katame waza" },
+          "items": [
+            { "text": "Uke siempre realizará uno o más intentos de salida o defensa." },
+            { "text": "Preguntar 1 inmovilización, 1 luxación (fundamental y una más) y 1 estrangulación (fundamental y una más)" },
+            { "text": "Movimientos básicos de ataque" },
+            {
+              "text": "Técnica especial de Judo suelo forma fundamental, que el candidato desarrollará ampliamente con encadenamientos con otras técnicas, cuatro movimientos de ataque, dos defensas y dos salidas."
+            },
+            { "text": "Uki gatame y salida", "techniques": ["uki-gatame"] },
+            { "text": "Sankaku jime", "techniques": ["sankaku-jime"] },
+            { "text": "Ude hishigi ashi gatame", "techniques": ["ashi-gatame"] },
+            { "text": "Ude hishigi hiza gatame", "techniques": ["hiza-gatame"] }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": { "en": "Kata", "es": "Kata" },
+          "items": [
+            { "text": "KATA (el tribunal podrá preguntar algún grupo de Uke)", "terms": ["kata", "uke"] },
+            { "text": "Katame no kata: Osaekomi waza, Shime waza, Kansetsu waza", "terms": ["kata", "osaekomi-waza", "shime-waza", "kansetsu-waza"] }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "4th-dan",
+      "label": { "en": "4th Dan", "es": "4º Dan" },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "sukui-nage",
+        "uchi-mata-sukashi",
+        "ko-uchi-gaeshi",
+        "hane-goshi",
+        "uchi-mata-gaeshi",
+        "o-uchi-gaeshi",
+        "o-guruma",
+        "hikikomi-gaeshi",
+        "yoko-otoshi",
+        "uchi-makikomi",
+        "yoko-guruma",
+        "daki-wakare",
+        "o-soto-makikomi",
+        "kawazu-gake",
+        "ura-gatame",
+        "kata-te-jime",
+        "ryote-jime",
+        "sankaku-gatame",
+        "hara-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "nage-waza",
+          "title": { "en": "Nage waza", "es": "Nage waza" },
+          "items": [
+            { "text": "Todas las técnicas se realizarán en estático y en dos desplazamientos." },
+            { "text": "De las 14 técnicas el tribunal preguntará mínimo 5, las técnicas en rojo solo se explicarán, no se ejecutarán" },
+            { "text": "Renraku waza", "terms": ["renraku-waza"] },
+            { "text": "Renzoku waza", "terms": ["renzoku-waza"] },
+            { "text": "Kaeshi waza", "terms": ["kaeshi-waza"] },
+            {
+              "text": "Técnica especial de Judo pie, que el candidato desarrollará ampliamente con cuatro desplazamientos, cuatro Renraku waza y Renzoku waza, antes y después del tokui waza, tres defensas, dos contras y un encadenamiento pie suelo.",
+              "terms": ["renraku-waza", "renzoku-waza"]
+            },
+            { "text": "Sukui nage", "techniques": ["sukui-nage"] },
+            { "text": "Uchi mata sukashi", "techniques": ["uchi-mata-sukashi"] },
+            { "text": "Ko uchi gaeshi", "techniques": ["ko-uchi-gaeshi"] },
+            { "text": "Hane goshi", "techniques": ["hane-goshi"] },
+            { "text": "Uchi mata gaeshi", "techniques": ["uchi-mata-gaeshi"] },
+            { "text": "O uchi gaeshi", "techniques": ["o-uchi-gaeshi"] },
+            { "text": "O guruma", "techniques": ["o-guruma"] },
+            { "text": "Hikikomi gaeshi", "techniques": ["hikikomi-gaeshi"] },
+            { "text": "Yoko otoshi", "techniques": ["yoko-otoshi"] },
+            { "text": "Uchi makikomi", "techniques": ["uchi-makikomi"] },
+            { "text": "Yoko guruma", "techniques": ["yoko-guruma"] },
+            { "text": "Daki wakare", "techniques": ["daki-wakare"] },
+            { "text": "O soto maki komi", "techniques": ["o-soto-makikomi"] },
+            { "text": "Kawazu gake", "techniques": ["kawazu-gake"] }
+          ]
+        },
+        {
+          "slug": "katame-waza",
+          "title": { "en": "Katame waza", "es": "Katame waza" },
+          "items": [
+            { "text": "Uke siempre realizará uno o más intentos de salida o defensa." },
+            { "text": "Preguntar 1 inmovilización, 1 luxación (fundamental y una más) y 1 estrangulación (fundamental y una más)" },
+            { "text": "Movimientos básicos de defensa" },
+            {
+              "text": "Técnica especial de Judo suelo forma fundamental, que el candidato desarrollará ampliamente con encadenamientos con otras técnicas, cuatro movimientos de ataque, dos defensas y do salidas."
+            },
+            { "text": "Ura gatame y salida", "techniques": ["ura-gatame"] },
+            { "text": "Katate jime", "techniques": ["kata-te-jime"] },
+            { "text": "Ryote jime", "techniques": ["ryote-jime"] },
+            { "text": "Ude hishigi sankaku gatame", "techniques": ["sankaku-gatame"] },
+            { "text": "Ude hishigi hara gatame", "techniques": ["hara-gatame"] }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": { "en": "Kata", "es": "Kata" },
+          "items": [
+            { "text": "KATA (el tribunal podrá preguntar algún grupo de Uke)", "terms": ["kata", "uke"] },
+            { "text": "Kime no kata", "terms": ["kata"] }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "5th-dan",
+      "label": { "en": "5th Dan", "es": "5º Dan" },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "obi-tori-gaeshi",
+        "yama-arashi",
+        "obi-otoshi",
+        "sumi-otoshi",
+        "utsuri-goshi",
+        "hane-goshi-gaeshi",
+        "harai-tsurikomi-ashi",
+        "o-soto-gaeshi",
+        "tawara-gaeshi",
+        "uki-waza",
+        "ko-uchi-makikomi",
+        "yoko-wakare",
+        "kani-basami",
+        "do-jime",
+        "tsukkomi-jime",
+        "ashi-garami",
+        "te-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "nage-waza",
+          "title": { "en": "Nage waza", "es": "Nage waza" },
+          "items": [
+            { "text": "Todas las técnicas se realizarán en estático y en dos desplazamientos." },
+            { "text": "De las 15 técnicas el tribunal preguntará mínimo 5, las técnicas en rojo solo se explicarán, no se ejecutarán" },
+            { "text": "A elección del tribunal" },
+            {
+              "text": "Técnica especial de Judo pie, que el candidato desarrollará ampliamente con cuatro desplazamientos, cuatro Renraku waza y Renzoku waza, antes y después del tokui waza, tres defensas, dos contras y un encadenamiento pie suelo.",
+              "terms": ["renraku-waza", "renzoku-waza"]
+            },
+            { "text": "Obi tori gaeshi", "techniques": ["obi-tori-gaeshi"] },
+            { "text": "Yama arashi", "techniques": ["yama-arashi"] },
+            { "text": "Obi otoshi", "techniques": ["obi-otoshi"] },
+            { "text": "Sumi otoshi", "techniques": ["sumi-otoshi"] },
+            { "text": "Utsuri goshi", "techniques": ["utsuri-goshi"] },
+            { "text": "Hane goshi gaeshi", "techniques": ["hane-goshi-gaeshi"] },
+            { "text": "Harai tsurikomi ashi", "techniques": ["harai-tsurikomi-ashi"] },
+            { "text": "O soto gaeshi", "techniques": ["o-soto-gaeshi"] },
+            { "text": "Tawara gaeshi", "techniques": ["tawara-gaeshi"] },
+            { "text": "Uki waza", "techniques": ["uki-waza"] },
+            { "text": "Ko uchi makikomi", "techniques": ["ko-uchi-makikomi"] },
+            { "text": "Yoko wakare", "techniques": ["yoko-wakare"] },
+            { "text": "Kani basami", "techniques": ["kani-basami"] }
+          ]
+        },
+        {
+          "slug": "katame-waza",
+          "title": { "en": "Katame waza", "es": "Katame waza" },
+          "items": [
+            { "text": "Uke siempre realizará uno o más intentos de salida o defensa." },
+            { "text": "Preguntar 1 luxación (fundamental y una más) y 1 estrangulación (fundamental y una más)" },
+            { "text": "A elección del tribunal" },
+            {
+              "text": "Técnica especial de Judo suelo forma fundamental, que el candidato desarrollará ampliamente con encadenamientos con otras técnicas, cuatro movimientos de ataque, dos defensas y dos salidas."
+            },
+            { "text": "Do jime", "techniques": ["do-jime"] },
+            { "text": "Tsukomi jime", "techniques": ["tsukkomi-jime"] },
+            { "text": "Ashi garami", "techniques": ["ashi-garami"] },
+            { "text": "Ude hishigi te gatame", "techniques": ["te-gatame"] }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": { "en": "Kata", "es": "Kata" },
+          "items": [
+            { "text": "KATA (el tribunal podrá preguntar algún grupo de Uke)", "terms": ["kata", "uke"] },
+            { "text": "Ju no kata", "terms": ["kata"] }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "6th-dan",
+      "label": { "en": "6th Dan", "es": "6º Dan" },
+      "beltColor": "black",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "tachi-waza",
+          "title": { "en": "Tachi waza", "es": "Tachi waza" },
+          "items": [
+            { "text": "El candidato deberá presentar a la Escuela Federativa Territorial, con una antelación mínima de 30 días a la fecha de su convocatoria a examen, un guion del trabajo (especificando el contenido del trabajo a realizar), para su aprobación. Este guion, será requisito indispensable para poder examinarse, consistirá en un resumen del trabajo de libre elección de judo pie que el candidato desarrollará el día de su prueba. Es importante destacar que este trabajo no debe ser el tokui waza presentado en convocatorias anteriores.", "terms": ["tachi-waza"] }
+          ]
+        },
+        {
+          "slug": "ne-waza",
+          "title": { "en": "Ne waza", "es": "Ne waza" },
+          "items": [
+            { "text": "El candidato deberá presentar a la Escuela Federativa Territorial, con una antelación mínima de 30 días a la fecha de su convocatoria a examen, un guion del trabajo (especificando el contenido del trabajo a realizar), para su aprobación. Este guion, será requisito indispensable para poder examinarse, consistirá en un resumen del trabajo de libre elección de judo pie que el candidato desarrollará el día de su prueba. Es importante destacar que este trabajo no debe ser el tokui waza presentado en convocatorias anteriores.", "terms": ["newaza"] }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": { "en": "Kata", "es": "Kata" },
+          "items": [
+            { "text": "KATA (el tribunal podrá preguntar algún grupo de Uke)", "terms": ["kata", "uke"] },
+            { "text": "Kodokan Goshin-jutsu", "terms": ["kata"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

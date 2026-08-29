@@ -1,0 +1,68 @@
+{
+  "nameRomaji": "Ryote-jime",
+  "nameJa": "両手絞",
+  "nameKana": "りょうてじめ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "two-hand strangle"
+  },
+  "category": "katame-waza",
+  "subCategory": "shime-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 708,
+  "kodokanAbbr": "RYJ",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "-RHC4V7TQiY",
+      "title": "Ryote-jime",
+      "duration": "1:06"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Ryo-te-jime on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ryo-te-jime",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Ryote-jime, the two-hand strangle."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The strangle with both hands working as a pair: both fists grip the collars and drive together, knuckles turning in, like wringing a towel. Strangles are restricted by age in most federations; learn and practise this only under instruction and supervision."
+  },
+  "keyPoints": {
+    "en": [
+      "Both fists grip the collars close together at the front",
+      "Turn the knuckles in and draw the fists towards each other",
+      "The action is a wring, applied gradually"
+    ]
+  },
+  "described": {
+    "en": [
+      "Facing your partner on the ground, grip both of their collars near the front of the neck, one in each fist, thumbs wrapped in the cloth.",
+      "Bring your fists close together so the collars are gathered at the front of their neck.",
+      "Turn both wrists so the little-finger edges of your fists rotate towards their neck, the cloth tightening around it.",
+      "Draw the fists towards each other and slightly towards you, on a smooth curve, like wringing.",
+      "Release both hands fully at the tap, and check your partner."
+    ]
+  },
+  "receiving": {
+    "en": "Both fists gather your collars at the front and the cloth wrings tight from both sides at once. Grip their wrists and tuck your chin before the wring settles. Tap immediately and clearly the moment the strangle is properly on, on their arm or body where they will feel it; never hold out to prove toughness. Tell your instructor if you ever feel light-headed afterwards."
+  },
+  "viNotes": {
+    "en": "Both hands do the same thing, which makes the check simple by feel: two fists gathered together at the front of the neck. Take the collars near the front where the cloth is easiest to find, then turn the wrists and wring. Nothing in it needs sight, and all of it needs to be gradual."
+  }
+}

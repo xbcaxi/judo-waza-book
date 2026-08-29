@@ -1,0 +1,96 @@
+{
+  "nameRomaji": "Harai-tsurikomi-ashi",
+  "nameJa": "払釣込足",
+  "nameKana": "はらいつりこみあし",
+  "aliases": [
+    "Harai-tsuri-komi-ashi"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "sweeping drawing ankle throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": 3,
+  "kodokanNumber": 312,
+  "kodokanAbbr": "HTA",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "gGPXvWL8VbE",
+      "title": "Harai-tsuri-komi-ashi",
+      "duration": "1:34"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123993753",
+      "title": "Harai-tsurikomi-ashi"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "16:57 Harai-tsurikomi-ashi (sweeping lift-pull ankle throw)",
+      "start": 1017
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "K0EhY4EjM40",
+      "title": "Harai-tsuri-komi-ashi",
+      "duration": "0:11"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "j4044CaAYeY",
+      "title": "Harai-tsuri-komi-ashi"
+    }
+  ],
+  "ijfAnimation": "Harai-tsurikomi-ashi",
+  "links": [
+    {
+      "title": "Harai-tsuri-komi-ashi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Harai-tsurikomi-ashi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Harai-tsurikomi-ashi, the sweeping drawing ankle throw."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori draws uke up and forward with the hands and sweeps the advancing ankle away, so uke pivots over the swept foot."
+  },
+  "keyPoints": {
+    "en": [
+      "Lift-pull upward with the hands as you sweep",
+      "Sweep the ankle before the foot settles",
+      "Step back to draw uke onto the sweeping line"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, step backwards, drawing your partner after you so they step towards you with their right foot.",
+      "As they step, lift and pull with both hands, the lapel hand rising, so their weight is drawn up and forward onto the advancing foot before it can settle.",
+      "Sweep that advancing right ankle sideways with the sole of your left foot, catching it before the weight lands fully.",
+      "Continue turning your hands and trunk to your left as the foot is carried away, so their floating body rotates forward.",
+      "They turn over the swept ankle and land on their back in front of you; hold the sleeve firmly as they fall."
+    ]
+  },
+  "receiving": {
+    "en": "You are drawn up and forward onto a stepping foot, and that ankle is swept sideways out from under the lift: your body floats for a beat and then rotates. It feels like the floor was pulled away mid-stride. Ride the float, tuck your chin, and land on your back with your free arm slapping."
+  },
+  "viNotes": {
+    "en": "The whole set-up is a conversation through the hands: you step back, they step after you, and the lift you feel in the lapel hand tells you the advancing foot has not yet taken weight. Sweep by drawing your sole along the mat into the ankle rather than lifting your foot to meet it, so the foot is found by contact and arrives already moving."
+  }
+}

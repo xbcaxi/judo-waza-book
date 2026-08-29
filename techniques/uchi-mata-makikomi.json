@@ -1,0 +1,62 @@
+{
+  "nameRomaji": "Uchi-mata-makikomi",
+  "nameJa": "内股巻込",
+  "nameKana": "うちまたまきこみ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "inner thigh wrap-around"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 512,
+  "kodokanAbbr": "UMM",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "jZXENTLpJCI",
+      "title": "Uchi-mata-makikomi",
+      "duration": "0:51"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Uchi-mata-makikomi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Uchi-mata-makikomi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "Uchi-mata finished by wrapping: tori enters as for Uchi-mata but traps uke's arm across their shoulder and rolls with them rather than lifting them clear. A Kodokan side sacrifice, and the version most often seen when the entry is deep but the lift is not there."
+  },
+  "keyPoints": {
+    "en": [
+      "Enter as for Uchi-mata; the leg still lifts",
+      "Trap the sleeve arm over your shoulder before you fall",
+      "Rotate as you land, so they go over and you go through"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, turn in for Uchi-mata, your right leg swinging up between your partner's thighs.",
+      "Swing your right arm over their right arm and clamp it against your shoulder and chest.",
+      "Keep turning to your left, so your back is fully across their front and their arm cannot escape.",
+      "Continue the rotation and fall to your left side, wrapping them over your body as you go.",
+      "They land on their back and you land on your side beside them; turn straight in to a hold."
+    ]
+  },
+  "receiving": {
+    "en": "The entry feels like Uchi-mata, but instead of a lift your arm is trapped and the whole thing rotates downwards. You land on your back or your side, with one arm pinned. Chin tucked, free arm slapping, and stay loose: fighting the wrap on the way down is how shoulders get hurt."
+  },
+  "viNotes": {
+    "en": "This is the version you end up in when the entry is deep but the lift is not there, and that is a difference you feel through the grips rather than see. Clamp their arm to your shoulder before you rotate so nothing is lost on the way down. Land on your side and turn straight in to a hold."
+  }
+}

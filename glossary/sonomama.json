@@ -1,0 +1,14 @@
+{
+  "term": "Sono-mama",
+  "kanji": "そのまま",
+  "category": "command",
+  "meaning": {
+    "en": "Do not move. Both judoka freeze exactly as they are, usually so the referee can adjust something, and neither may improve their position."
+  },
+  "aliases": [
+    "Sonomama"
+  ],
+  "guides": [
+    "referee-commands-and-signals"
+  ]
+}

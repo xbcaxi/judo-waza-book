@@ -1,0 +1,68 @@
+{
+  "nameRomaji": "Obi-otoshi",
+  "nameJa": "帯落",
+  "nameKana": "おびおとし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "belt drop"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 107,
+  "kodokanAbbr": "OOS",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "ff8U2TVZIYI",
+      "title": "Obi-otoshi",
+      "duration": "1:15"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "TxSpejgNuHM",
+      "title": "Obi Otoshi"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Obi-otoshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Obi-otoshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "A hand throw driven from the belt: tori reaches across uke's front, takes the belt at the far hip, and turns uke down over their own base while the other hand steers the upper body. One of the Kodokan techniques recognised beyond the Gokyo, and a useful answer to a partner who stands square and heavy."
+  },
+  "keyPoints": {
+    "en": [
+      "Take the belt at the FAR hip, not the near one",
+      "Turn them across their toes, not over their heels",
+      "Your steering hand and your belt hand move as one"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, step your left foot outside your partner's right foot so you are standing at their side.",
+      "Reach your right arm across the front of their waist and take their belt at the far, left hip; feel the knot or the seam to place the hand.",
+      "Keep your left hand on their right sleeve and draw it across their body, so their shoulders begin to turn.",
+      "Pull the far hip towards you with your belt hand while your sleeve hand carries their upper body the same way.",
+      "They turn across the line of their own toes and drop to the mat in front of you; keep hold of the sleeve so they land under control."
+    ]
+  },
+  "receiving": {
+    "en": "You feel an arm cross your waist and settle on the far side of your belt, then your whole hip is drawn round while your sleeve is pulled the same way. The turn is horizontal rather than a lift, so the fall is a side breakfall onto your right side. Keep your chin tucked, let the held sleeve steer you, and slap with the free left arm."
+  },
+  "viNotes": {
+    "en": "The belt is the easiest landmark on a judogi, so this is a friendly throw to find: run your hand across their front to the far hip and feel for the knot or the seam. The posture it answers, square and heavy, is also one you can read through the grips before committing. Keep the sleeve as they turn down so you know where they have landed."
+  }
+}

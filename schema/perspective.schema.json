@@ -1,0 +1,155 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "sections": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "kind": {
+            "type": "string",
+            "enum": ["examining", "coaching", "safety", "terminology", "context"],
+            "description": "What this section IS, so the site can place and label it: examining (what this organisation's examiners look for), coaching (how it teaches the technique), safety (its local restrictions or matting rules), terminology (what it calls things), context (anything else worth saying)."
+          },
+          "heading": {
+            "$ref": "#/definitions/localisedText"
+          },
+          "prose": {
+            "$ref": "#/definitions/localisedText"
+          },
+          "steps": {
+            "$ref": "#/definitions/localisedSteps"
+          }
+        },
+        "required": ["kind"],
+        "additionalProperties": false
+      }
+    },
+    "videos": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/video"
+      }
+    },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "source": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": ["title", "url"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["sections"],
+  "additionalProperties": false,
+  "definitions": {
+    "localisedText": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": ["en"],
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Text by BCP 47 language code; \"en\" required, other languages optional."
+    },
+    "localisedSteps": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "minItems": 2,
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "required": ["en"],
+      "additionalProperties": {
+        "minItems": 2,
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "description": "Ordered movement steps per language (at least two); \"en\" required."
+    },
+    "video": {
+      "type": "object",
+      "properties": {
+        "provider": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        },
+        "platform": {
+          "type": "string",
+          "enum": ["youtube", "vimeo"]
+        },
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "start": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "note": {
+          "$ref": "#/definitions/localisedText"
+        },
+        "duration": {
+          "type": "string",
+          "minLength": 1
+        },
+        "role": {
+          "type": "string",
+          "minLength": 1
+        },
+        "recommended": {
+          "default": false,
+          "type": "boolean"
+        },
+        "lang": {
+          "type": "string"
+        },
+        "captions": {
+          "type": "boolean"
+        },
+        "spokenInstruction": {
+          "type": "boolean"
+        }
+      },
+      "required": ["provider", "platform", "id", "title"]
+    }
+  },
+  "title": "perspective",
+  "description": "One organisation's voice on one thing, layered OVER the record for readers who opt into that organisation's view - never shown by default, never a fork. The file is filed by what it speaks about: perspectives/<organisation>/techniques/<slug>.json or perspectives/<organisation>/exams/<slug>.json, every part of the path existing in its own collection. A perspective ADDS context (what examiners look for, how the club teaches it, how to prepare for an examination, local safety rules, terminology); a disagreement with the canonical content is a pull request against that file for everyone, not a shadow version here. Techniques are canonical and org-neutral, so any organisation may speak on one - but the banned rule inherits, so a technique documented for recognition only takes no step-by-step here either. An exam is one organisation's document, so only that organisation and the bodies beneath it (its affiliates and their clubs) may speak on it - the natural home for preparation guidance the printed form deliberately has no field for."
+}

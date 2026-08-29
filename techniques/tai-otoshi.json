@@ -1,0 +1,180 @@
+{
+  "nameRomaji": "Tai-otoshi",
+  "nameJa": "体落",
+  "nameKana": "たいおとし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "body drop"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": 2,
+  "kodokanNumber": 104,
+  "kodokanAbbr": "TOS",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "4x6S3Q-Ktv8",
+      "title": "Tai-otoshi",
+      "duration": "1:16"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "aWpnbVEKdVc",
+      "title": "Tai-Otoshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535079455",
+      "title": "Tai-Otoshi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124002072",
+      "title": "Tai-otoshi"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "Q5kH1IIid-Q",
+      "title": "Tai-otoshi - Basic Principles",
+      "role": "basic principles"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "lvKN5d2oYAg",
+      "title": "Tai-otoshi - Competitive Variations",
+      "role": "competitive variations"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "u34wRSY-suM",
+      "title": "Tai-otoshi - Set Up Combinations",
+      "role": "extra"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "2ZghxCOec0Q",
+      "title": "Tai-otoshi - Set Ups",
+      "role": "set ups"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "sJmnXRApmII",
+      "title": "古賀 稔彦 TOSHIHIKO KOGA - TAI OTOSHI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "JISY2MKKsXA",
+      "title": "吉田 秀彦 HIDEHIKO YOSHIDA - TAI OTOSHI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "1edEwG0tF9g",
+      "title": "東海大学 TOKAI UNIVERSITY - TAI OTOSHI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "ibEyuuR4CRo",
+      "title": "石井 慧 SATOSHI ISHII - TAI OTOSHI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "Y-q_GHLG2Kc",
+      "title": "穴井 隆将 TAKAMASA ANAI - TAI OTOSHI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "a9BH1jmDfac",
+      "title": "細川 伸二 SHINJI HOSOKAWA - TAI OTOSHI"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "S2HUrDOf2Q4",
+      "title": "Kata-ashi-tai-otoshi",
+      "duration": "0:12",
+      "role": "one-leg (kata-ashi) form"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "YZvtFTtmfx0",
+      "title": "Kata-hiza-tai-otoshi",
+      "duration": "0:26",
+      "role": "one-knee (kata-hiza) form"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "WJJGHHxvd7w",
+      "title": "Morote-kata-sode-tai-otoshi",
+      "duration": "0:11",
+      "role": "two-hand sleeve (morote-kata-sode) grip"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "7-ZNdB-3MF8",
+      "title": "Tai-otoshi"
+    }
+  ],
+  "ijfAnimation": "Tai-otoshi",
+  "links": [
+    {
+      "title": "Tai-otoshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Tai-otoshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Tai-otoshi, the body drop."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "A hand throw: tori turns in, extends a leg across uke's shin, and drives uke over it with a strong rotation of the arms and trunk."
+  },
+  "keyPoints": {
+    "en": [
+      "Your extended leg blocks the shin, carrying no weight",
+      "Throw with the hands and hips: it is not a leg lift",
+      "Bend the blocking knee, toes gripping the mat"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, pull your partner's balance forward and to their right front corner, so their weight loads onto their right foot.",
+      "Step your left foot back and across behind you, turning your body side-on to them; you do not make back contact in this throw.",
+      "Extend your right leg across the front of their right shin, your foot planted just outside their ankle, knee bent, toes gripping the mat. The leg is a bar; it carries none of their weight.",
+      "Pull the sleeve hard past your left hip and drive the lapel hand across their chest, rotating your whole trunk to the left.",
+      "Their body rotates over the barred shin and they land on their back in front of you and to your left. Release the rotation only when the sleeve has guided them down."
+    ]
+  },
+  "receiving": {
+    "en": "You are turned and drawn forward, and a straight leg appears as a bar across your shin while both hands wheel your shoulders on: your legs stop and your body does not. The fall is a clean forward rotation. Keep your chin tucked and swing your left arm ready; you land on your back past their leg, sleeve still held, left arm slapping."
+  },
+  "viNotes": {
+    "en": "There is no back contact here, which takes away the checkpoint most turning throws give you. Use the leg instead: slide your foot out along the mat until it plants just outside their ankle, so the bar is placed by contact and the distance is known rather than guessed. Their weight loading the front foot is the cue to turn, and the throw itself is the rotation of both hands."
+  }
+}

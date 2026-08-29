@@ -1,0 +1,1617 @@
+{
+  "name": {
+    "en": "Competitive dan grades"
+  },
+  "organisation": "British Judo Association",
+  "country": "GB",
+  "order": 4,
+  "description": {
+    "en": "The senior competitive pathway of the British Judo Association, 1st to 5th Dan, as it stands for promotions from 1 January 2026. The hundred techniques the Kodokan recognises are divided into five sets of twenty, one to a dan grade. A candidate demonstrates the whole set for the grade being taken, five techniques of their own choice from each set already passed, and then performance skills, where the technique is theirs to choose from any of the hundred: throws linked into combinations and counters, groundwork combined, escaped or entered, and standing judo carried into groundwork. Each grade below lists the techniques it can be examined on by name, which is its own twenty and every set beneath it; the performance sections range over all hundred. The examination itself, with its marks and pass marks, is in the examinations section, one form per grade. Judo that is graded on a technical rather than competitive pathway reaches the same grades by a different examination. The BJA recently replaced their 1982 scheme, built on 67 techniques, to teach the wider Kodokan curriculum and to bring its dan grade policy into line with IJF policy."
+  },
+  "source": {
+    "title": "BJA Competitive Dan Grade Scheme: Assessment Guide, mark sheets, kata requirements and promotion requirements",
+    "date": "October 2025",
+    "note": {
+      "en": "Transcribed from the BJA dan grade documents. The scheme governs promotions from 1 January 2026, after a transition period that began on 1 July 2025. Ages, times in grade and competition points are the competitive pathway's; the technical pathway sets its own. Kata is examined separately from the skills assessment and need not be taken on the same day."
+    }
+  },
+  "grades": [
+    {
+      "slug": "1st-dan",
+      "label": {
+        "en": "1st Dan"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "seoi-nage",
+        "tai-otoshi",
+        "uchi-mata-sukashi",
+        "o-goshi",
+        "harai-goshi",
+        "de-ashi-harai",
+        "o-soto-gari",
+        "uchi-mata",
+        "o-soto-otoshi",
+        "tomoe-nage",
+        "tani-otoshi",
+        "soto-makikomi",
+        "yoko-wakare",
+        "kesa-gatame",
+        "kuzure-kami-shiho-gatame",
+        "nami-juji-jime",
+        "kata-ha-jime",
+        "sankaku-jime",
+        "juji-gatame",
+        "waki-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Seoi-nage",
+              "techniques": [
+                "seoi-nage"
+              ]
+            },
+            {
+              "text": "Tai-otoshi",
+              "techniques": [
+                "tai-otoshi"
+              ]
+            },
+            {
+              "text": "Uchi-mata-sukashi",
+              "techniques": [
+                "uchi-mata-sukashi"
+              ]
+            },
+            {
+              "text": "O-goshi",
+              "techniques": [
+                "o-goshi"
+              ]
+            },
+            {
+              "text": "Harai-goshi",
+              "techniques": [
+                "harai-goshi"
+              ]
+            },
+            {
+              "text": "De-ashi-harai",
+              "techniques": [
+                "de-ashi-harai"
+              ]
+            },
+            {
+              "text": "O-soto-gari",
+              "techniques": [
+                "o-soto-gari"
+              ]
+            },
+            {
+              "text": "Uchi-mata",
+              "techniques": [
+                "uchi-mata"
+              ]
+            },
+            {
+              "text": "O-soto-otoshi",
+              "techniques": [
+                "o-soto-otoshi"
+              ]
+            },
+            {
+              "text": "Tomoe-nage",
+              "techniques": [
+                "tomoe-nage"
+              ]
+            },
+            {
+              "text": "Tani-otoshi",
+              "techniques": [
+                "tani-otoshi"
+              ]
+            },
+            {
+              "text": "Soto-makikomi",
+              "techniques": [
+                "soto-makikomi"
+              ]
+            },
+            {
+              "text": "Yoko-wakare",
+              "techniques": [
+                "yoko-wakare"
+              ]
+            },
+            {
+              "text": "Kesa-gatame",
+              "techniques": [
+                "kesa-gatame"
+              ]
+            },
+            {
+              "text": "Kuzure-kami-shiho-gatame",
+              "techniques": [
+                "kuzure-kami-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Nami-juji-jime",
+              "techniques": [
+                "nami-juji-jime"
+              ]
+            },
+            {
+              "text": "Kataha-jime",
+              "techniques": [
+                "kata-ha-jime"
+              ]
+            },
+            {
+              "text": "Sankaku-jime",
+              "techniques": [
+                "sankaku-jime"
+              ]
+            },
+            {
+              "text": "Ude-hishigi-juji-gatame",
+              "techniques": [
+                "juji-gatame"
+              ]
+            },
+            {
+              "text": "Ude-hishigi-waki-gatame",
+              "techniques": [
+                "waki-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Three nage-waza of the candidate's choice from the hundred, at least one from the fundamental skills for this grade, each shown with a renzoku-waza, a renraku-waza and a kaeshi-waza",
+              "terms": [
+                "nage-waza",
+                "renzoku-waza",
+                "renraku-waza",
+                "kaeshi-waza"
+              ]
+            },
+            {
+              "text": "Three katame-waza of the candidate's choice from the hundred, at least one from the fundamental skills for this grade, each shown with a combination, an escape or a complex entry",
+              "terms": [
+                "katame-waza",
+                "osaekomi-waza",
+                "shime-waza",
+                "kansetsu-waza"
+              ]
+            },
+            {
+              "text": "One throws carried into an osaekomi-waza and one into a kansetsu-waza or a shime-waza",
+              "terms": [
+                "tachi-waza",
+                "newaza"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Nage-no-kata, to BJA Level 1, examined separately from the skills assessment and not necessarily on the same day",
+              "terms": [
+                "kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "promotion-requirements",
+          "title": {
+            "en": "Promotion requirements"
+          },
+          "items": [
+            {
+              "text": "Minimum age 15"
+            },
+            {
+              "text": "Held 1st Kyu for at least 1 year"
+            },
+            {
+              "text": "100 competition points"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2nd-dan",
+      "label": {
+        "en": "2nd Dan"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "seoi-nage",
+        "tai-otoshi",
+        "uchi-mata-sukashi",
+        "o-goshi",
+        "harai-goshi",
+        "de-ashi-harai",
+        "o-soto-gari",
+        "uchi-mata",
+        "o-soto-otoshi",
+        "tomoe-nage",
+        "tani-otoshi",
+        "soto-makikomi",
+        "yoko-wakare",
+        "kesa-gatame",
+        "kuzure-kami-shiho-gatame",
+        "nami-juji-jime",
+        "kata-ha-jime",
+        "sankaku-jime",
+        "juji-gatame",
+        "waki-gatame",
+        "ippon-seoi-nage",
+        "obi-otoshi",
+        "ko-uchi-gaeshi",
+        "koshi-guruma",
+        "ushiro-goshi",
+        "hiza-guruma",
+        "o-uchi-gari",
+        "ko-soto-gake",
+        "o-soto-gaeshi",
+        "sumi-gaeshi",
+        "yoko-otoshi",
+        "hane-makikomi",
+        "yoko-guruma",
+        "harai-makikomi",
+        "kuzure-kesa-gatame",
+        "yoko-shiho-gatame",
+        "gyaku-juji-jime",
+        "kata-te-jime",
+        "ude-garami",
+        "hara-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Ippon-seoi-nage",
+              "techniques": [
+                "ippon-seoi-nage"
+              ]
+            },
+            {
+              "text": "Obi-otoshi",
+              "techniques": [
+                "obi-otoshi"
+              ]
+            },
+            {
+              "text": "Ko-uchi-gaeshi",
+              "techniques": [
+                "ko-uchi-gaeshi"
+              ]
+            },
+            {
+              "text": "Koshi-guruma",
+              "techniques": [
+                "koshi-guruma"
+              ]
+            },
+            {
+              "text": "Ushiro-goshi",
+              "techniques": [
+                "ushiro-goshi"
+              ]
+            },
+            {
+              "text": "Hiza-guruma",
+              "techniques": [
+                "hiza-guruma"
+              ]
+            },
+            {
+              "text": "O-uchi-gari",
+              "techniques": [
+                "o-uchi-gari"
+              ]
+            },
+            {
+              "text": "Ko-soto-gake",
+              "techniques": [
+                "ko-soto-gake"
+              ]
+            },
+            {
+              "text": "O-soto-gaeshi",
+              "techniques": [
+                "o-soto-gaeshi"
+              ]
+            },
+            {
+              "text": "Sumi-gaeshi",
+              "techniques": [
+                "sumi-gaeshi"
+              ]
+            },
+            {
+              "text": "Yoko-otoshi",
+              "techniques": [
+                "yoko-otoshi"
+              ]
+            },
+            {
+              "text": "Hane-makikomi",
+              "techniques": [
+                "hane-makikomi"
+              ]
+            },
+            {
+              "text": "Yoko-guruma",
+              "techniques": [
+                "yoko-guruma"
+              ]
+            },
+            {
+              "text": "Harai-makikomi",
+              "techniques": [
+                "harai-makikomi"
+              ]
+            },
+            {
+              "text": "Kuzure-kesa-gatame",
+              "techniques": [
+                "kuzure-kesa-gatame"
+              ]
+            },
+            {
+              "text": "Yoko-shiho-gatame",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Gyaku-juji-jime",
+              "techniques": [
+                "gyaku-juji-jime"
+              ]
+            },
+            {
+              "text": "Katate-jime",
+              "techniques": [
+                "kata-te-jime"
+              ]
+            },
+            {
+              "text": "Ude-garami",
+              "techniques": [
+                "ude-garami"
+              ]
+            },
+            {
+              "text": "Ude-hishigi-hara-gatame",
+              "techniques": [
+                "hara-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "prior-learning",
+          "title": {
+            "en": "Fundamental skills: prior learning"
+          },
+          "items": [
+            {
+              "text": "Five techniques of the candidate's choice from the 1st Dan fundamental skills",
+              "techniques": [
+                "seoi-nage",
+                "tai-otoshi",
+                "uchi-mata-sukashi",
+                "o-goshi",
+                "harai-goshi",
+                "de-ashi-harai",
+                "o-soto-gari",
+                "uchi-mata",
+                "o-soto-otoshi",
+                "tomoe-nage",
+                "tani-otoshi",
+                "soto-makikomi",
+                "yoko-wakare",
+                "kesa-gatame",
+                "kuzure-kami-shiho-gatame",
+                "nami-juji-jime",
+                "kata-ha-jime",
+                "sankaku-jime",
+                "juji-gatame",
+                "waki-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Four nage-waza of the candidate's choice from the hundred, at least one from the fundamental skills for this grade, each shown with a renzoku-waza, a renraku-waza and a kaeshi-waza",
+              "terms": [
+                "nage-waza",
+                "renzoku-waza",
+                "renraku-waza",
+                "kaeshi-waza"
+              ]
+            },
+            {
+              "text": "Four katame-waza of the candidate's choice from the hundred, at least one from the fundamental skills for this grade, each shown with a combination, an escape or a complex entry",
+              "terms": [
+                "katame-waza",
+                "osaekomi-waza",
+                "shime-waza",
+                "kansetsu-waza"
+              ]
+            },
+            {
+              "text": "Two throws carried into an osaekomi-waza and two into a kansetsu-waza or a shime-waza",
+              "terms": [
+                "tachi-waza",
+                "newaza"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Katame-no-kata, to BJA Level 1, examined separately from the skills assessment and not necessarily on the same day",
+              "terms": [
+                "kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "promotion-requirements",
+          "title": {
+            "en": "Promotion requirements"
+          },
+          "items": [
+            {
+              "text": "Minimum age 17"
+            },
+            {
+              "text": "Held 1st Dan for at least 2 years"
+            },
+            {
+              "text": "100 competition points"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "3rd-dan",
+      "label": {
+        "en": "3rd Dan"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "seoi-nage",
+        "tai-otoshi",
+        "uchi-mata-sukashi",
+        "o-goshi",
+        "harai-goshi",
+        "de-ashi-harai",
+        "o-soto-gari",
+        "uchi-mata",
+        "o-soto-otoshi",
+        "tomoe-nage",
+        "tani-otoshi",
+        "soto-makikomi",
+        "yoko-wakare",
+        "kesa-gatame",
+        "kuzure-kami-shiho-gatame",
+        "nami-juji-jime",
+        "kata-ha-jime",
+        "sankaku-jime",
+        "juji-gatame",
+        "waki-gatame",
+        "ippon-seoi-nage",
+        "obi-otoshi",
+        "ko-uchi-gaeshi",
+        "koshi-guruma",
+        "ushiro-goshi",
+        "hiza-guruma",
+        "o-uchi-gari",
+        "ko-soto-gake",
+        "o-soto-gaeshi",
+        "sumi-gaeshi",
+        "yoko-otoshi",
+        "hane-makikomi",
+        "yoko-guruma",
+        "harai-makikomi",
+        "kuzure-kesa-gatame",
+        "yoko-shiho-gatame",
+        "gyaku-juji-jime",
+        "kata-te-jime",
+        "ude-garami",
+        "hara-gatame",
+        "seoi-otoshi",
+        "uki-otoshi",
+        "obi-tori-gaeshi",
+        "kibisu-gaeshi",
+        "tsurikomi-goshi",
+        "hane-goshi",
+        "sasae-tsurikomi-ashi",
+        "ko-soto-gari",
+        "ashi-guruma",
+        "o-uchi-gaeshi",
+        "hikikomi-gaeshi",
+        "yoko-gake",
+        "uchi-mata-makikomi",
+        "ko-uchi-makikomi",
+        "ushiro-kesa-gatame",
+        "tate-shiho-gatame",
+        "kata-juji-jime",
+        "ryote-jime",
+        "ashi-gatame",
+        "ashi-garami"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Seoi-otoshi",
+              "techniques": [
+                "seoi-otoshi"
+              ]
+            },
+            {
+              "text": "Uki-otoshi",
+              "techniques": [
+                "uki-otoshi"
+              ]
+            },
+            {
+              "text": "Obi-tori-gaeshi",
+              "techniques": [
+                "obi-tori-gaeshi"
+              ]
+            },
+            {
+              "text": "Kibisu-gaeshi",
+              "techniques": [
+                "kibisu-gaeshi"
+              ]
+            },
+            {
+              "text": "Tsurikomi-goshi",
+              "techniques": [
+                "tsurikomi-goshi"
+              ]
+            },
+            {
+              "text": "Hane-goshi",
+              "techniques": [
+                "hane-goshi"
+              ]
+            },
+            {
+              "text": "Sasae-tsurikomi-ashi",
+              "techniques": [
+                "sasae-tsurikomi-ashi"
+              ]
+            },
+            {
+              "text": "Ko-soto-gari",
+              "techniques": [
+                "ko-soto-gari"
+              ]
+            },
+            {
+              "text": "Ashi-guruma",
+              "techniques": [
+                "ashi-guruma"
+              ]
+            },
+            {
+              "text": "O-uchi-gaeshi",
+              "techniques": [
+                "o-uchi-gaeshi"
+              ]
+            },
+            {
+              "text": "Hikikomi-gaeshi",
+              "techniques": [
+                "hikikomi-gaeshi"
+              ]
+            },
+            {
+              "text": "Yoko-gake",
+              "techniques": [
+                "yoko-gake"
+              ]
+            },
+            {
+              "text": "Uchi-mata-makikomi",
+              "techniques": [
+                "uchi-mata-makikomi"
+              ]
+            },
+            {
+              "text": "Ko-uchi-makikomi",
+              "techniques": [
+                "ko-uchi-makikomi"
+              ]
+            },
+            {
+              "text": "Ushiro-kesa-gatame",
+              "techniques": [
+                "ushiro-kesa-gatame"
+              ]
+            },
+            {
+              "text": "Tate-shiho-gatame",
+              "techniques": [
+                "tate-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Kata-juji-jime",
+              "techniques": [
+                "kata-juji-jime"
+              ]
+            },
+            {
+              "text": "Ryote-jime",
+              "techniques": [
+                "ryote-jime"
+              ]
+            },
+            {
+              "text": "Ude-hishigi-ashi-gatame",
+              "techniques": [
+                "ashi-gatame"
+              ]
+            },
+            {
+              "text": "Ashi-garami",
+              "techniques": [
+                "ashi-garami"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "prior-learning",
+          "title": {
+            "en": "Fundamental skills: prior learning"
+          },
+          "items": [
+            {
+              "text": "Five techniques of the candidate's choice from the 1st Dan fundamental skills",
+              "techniques": [
+                "seoi-nage",
+                "tai-otoshi",
+                "uchi-mata-sukashi",
+                "o-goshi",
+                "harai-goshi",
+                "de-ashi-harai",
+                "o-soto-gari",
+                "uchi-mata",
+                "o-soto-otoshi",
+                "tomoe-nage",
+                "tani-otoshi",
+                "soto-makikomi",
+                "yoko-wakare",
+                "kesa-gatame",
+                "kuzure-kami-shiho-gatame",
+                "nami-juji-jime",
+                "kata-ha-jime",
+                "sankaku-jime",
+                "juji-gatame",
+                "waki-gatame"
+              ]
+            },
+            {
+              "text": "Five techniques of the candidate's choice from the 2nd Dan fundamental skills",
+              "techniques": [
+                "ippon-seoi-nage",
+                "obi-otoshi",
+                "ko-uchi-gaeshi",
+                "koshi-guruma",
+                "ushiro-goshi",
+                "hiza-guruma",
+                "o-uchi-gari",
+                "ko-soto-gake",
+                "o-soto-gaeshi",
+                "sumi-gaeshi",
+                "yoko-otoshi",
+                "hane-makikomi",
+                "yoko-guruma",
+                "harai-makikomi",
+                "kuzure-kesa-gatame",
+                "yoko-shiho-gatame",
+                "gyaku-juji-jime",
+                "kata-te-jime",
+                "ude-garami",
+                "hara-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Five nage-waza of the candidate's choice from the hundred, at least one from the fundamental skills for this grade, each shown with a renzoku-waza, a renraku-waza and a kaeshi-waza",
+              "terms": [
+                "nage-waza",
+                "renzoku-waza",
+                "renraku-waza",
+                "kaeshi-waza"
+              ]
+            },
+            {
+              "text": "Five katame-waza of the candidate's choice from the hundred, at least one from the fundamental skills for this grade, each shown with a combination, an escape or a complex entry",
+              "terms": [
+                "katame-waza",
+                "osaekomi-waza",
+                "shime-waza",
+                "kansetsu-waza"
+              ]
+            },
+            {
+              "text": "Three throws carried into an osaekomi-waza and three into a kansetsu-waza or a shime-waza",
+              "terms": [
+                "tachi-waza",
+                "newaza"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Ju-no-kata, to BJA Level 1, examined separately from the skills assessment and not necessarily on the same day",
+              "terms": [
+                "kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "promotion-requirements",
+          "title": {
+            "en": "Promotion requirements"
+          },
+          "items": [
+            {
+              "text": "Minimum age 20"
+            },
+            {
+              "text": "Held 2nd Dan for at least 3 years"
+            },
+            {
+              "text": "120 competition points"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "4th-dan",
+      "label": {
+        "en": "4th Dan"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "seoi-nage",
+        "tai-otoshi",
+        "uchi-mata-sukashi",
+        "o-goshi",
+        "harai-goshi",
+        "de-ashi-harai",
+        "o-soto-gari",
+        "uchi-mata",
+        "o-soto-otoshi",
+        "tomoe-nage",
+        "tani-otoshi",
+        "soto-makikomi",
+        "yoko-wakare",
+        "kesa-gatame",
+        "kuzure-kami-shiho-gatame",
+        "nami-juji-jime",
+        "kata-ha-jime",
+        "sankaku-jime",
+        "juji-gatame",
+        "waki-gatame",
+        "ippon-seoi-nage",
+        "obi-otoshi",
+        "ko-uchi-gaeshi",
+        "koshi-guruma",
+        "ushiro-goshi",
+        "hiza-guruma",
+        "o-uchi-gari",
+        "ko-soto-gake",
+        "o-soto-gaeshi",
+        "sumi-gaeshi",
+        "yoko-otoshi",
+        "hane-makikomi",
+        "yoko-guruma",
+        "harai-makikomi",
+        "kuzure-kesa-gatame",
+        "yoko-shiho-gatame",
+        "gyaku-juji-jime",
+        "kata-te-jime",
+        "ude-garami",
+        "hara-gatame",
+        "seoi-otoshi",
+        "uki-otoshi",
+        "obi-tori-gaeshi",
+        "kibisu-gaeshi",
+        "tsurikomi-goshi",
+        "hane-goshi",
+        "sasae-tsurikomi-ashi",
+        "ko-soto-gari",
+        "ashi-guruma",
+        "o-uchi-gaeshi",
+        "hikikomi-gaeshi",
+        "yoko-gake",
+        "uchi-mata-makikomi",
+        "ko-uchi-makikomi",
+        "ushiro-kesa-gatame",
+        "tate-shiho-gatame",
+        "kata-juji-jime",
+        "ryote-jime",
+        "ashi-gatame",
+        "ashi-garami",
+        "kata-guruma",
+        "yama-arashi",
+        "kuchiki-taoshi",
+        "sode-tsurikomi-goshi",
+        "utsuri-goshi",
+        "ko-uchi-gari",
+        "harai-tsurikomi-ashi",
+        "o-guruma",
+        "hane-goshi-gaeshi",
+        "tawara-gaeshi",
+        "uchi-makikomi",
+        "daki-wakare",
+        "kani-basami",
+        "kata-gatame",
+        "uki-gatame",
+        "hadaka-jime",
+        "sode-guruma-jime",
+        "do-jime",
+        "ude-gatame",
+        "te-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Kata-guruma",
+              "techniques": [
+                "kata-guruma"
+              ]
+            },
+            {
+              "text": "Yama-arashi",
+              "techniques": [
+                "yama-arashi"
+              ]
+            },
+            {
+              "text": "Kuchiki-taoshi",
+              "techniques": [
+                "kuchiki-taoshi"
+              ]
+            },
+            {
+              "text": "Sode-tsurikomi-goshi",
+              "techniques": [
+                "sode-tsurikomi-goshi"
+              ]
+            },
+            {
+              "text": "Utsuri-goshi",
+              "techniques": [
+                "utsuri-goshi"
+              ]
+            },
+            {
+              "text": "Ko-uchi-gari",
+              "techniques": [
+                "ko-uchi-gari"
+              ]
+            },
+            {
+              "text": "Harai-tsurikomi-ashi",
+              "techniques": [
+                "harai-tsurikomi-ashi"
+              ]
+            },
+            {
+              "text": "O-guruma",
+              "techniques": [
+                "o-guruma"
+              ]
+            },
+            {
+              "text": "Hane-goshi-gaeshi",
+              "techniques": [
+                "hane-goshi-gaeshi"
+              ]
+            },
+            {
+              "text": "Tawara-gaeshi",
+              "techniques": [
+                "tawara-gaeshi"
+              ]
+            },
+            {
+              "text": "Uchi-makikomi",
+              "techniques": [
+                "uchi-makikomi"
+              ]
+            },
+            {
+              "text": "Daki-wakare",
+              "techniques": [
+                "daki-wakare"
+              ]
+            },
+            {
+              "text": "Kani-basami",
+              "techniques": [
+                "kani-basami"
+              ]
+            },
+            {
+              "text": "Kata-gatame",
+              "techniques": [
+                "kata-gatame"
+              ]
+            },
+            {
+              "text": "Uki-gatame",
+              "techniques": [
+                "uki-gatame"
+              ]
+            },
+            {
+              "text": "Hadaka-jime",
+              "techniques": [
+                "hadaka-jime"
+              ]
+            },
+            {
+              "text": "Sode-guruma-jime",
+              "techniques": [
+                "sode-guruma-jime"
+              ]
+            },
+            {
+              "text": "Do-jime",
+              "techniques": [
+                "do-jime"
+              ]
+            },
+            {
+              "text": "Ude-hishigi-ude-gatame",
+              "techniques": [
+                "ude-gatame"
+              ]
+            },
+            {
+              "text": "Ude-hishigi-te-gatame",
+              "techniques": [
+                "te-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "prior-learning",
+          "title": {
+            "en": "Fundamental skills: prior learning"
+          },
+          "items": [
+            {
+              "text": "Five techniques of the candidate's choice from the 1st Dan fundamental skills",
+              "techniques": [
+                "seoi-nage",
+                "tai-otoshi",
+                "uchi-mata-sukashi",
+                "o-goshi",
+                "harai-goshi",
+                "de-ashi-harai",
+                "o-soto-gari",
+                "uchi-mata",
+                "o-soto-otoshi",
+                "tomoe-nage",
+                "tani-otoshi",
+                "soto-makikomi",
+                "yoko-wakare",
+                "kesa-gatame",
+                "kuzure-kami-shiho-gatame",
+                "nami-juji-jime",
+                "kata-ha-jime",
+                "sankaku-jime",
+                "juji-gatame",
+                "waki-gatame"
+              ]
+            },
+            {
+              "text": "Five techniques of the candidate's choice from the 2nd Dan fundamental skills",
+              "techniques": [
+                "ippon-seoi-nage",
+                "obi-otoshi",
+                "ko-uchi-gaeshi",
+                "koshi-guruma",
+                "ushiro-goshi",
+                "hiza-guruma",
+                "o-uchi-gari",
+                "ko-soto-gake",
+                "o-soto-gaeshi",
+                "sumi-gaeshi",
+                "yoko-otoshi",
+                "hane-makikomi",
+                "yoko-guruma",
+                "harai-makikomi",
+                "kuzure-kesa-gatame",
+                "yoko-shiho-gatame",
+                "gyaku-juji-jime",
+                "kata-te-jime",
+                "ude-garami",
+                "hara-gatame"
+              ]
+            },
+            {
+              "text": "Five techniques of the candidate's choice from the 3rd Dan fundamental skills",
+              "techniques": [
+                "seoi-otoshi",
+                "uki-otoshi",
+                "obi-tori-gaeshi",
+                "kibisu-gaeshi",
+                "tsurikomi-goshi",
+                "hane-goshi",
+                "sasae-tsurikomi-ashi",
+                "ko-soto-gari",
+                "ashi-guruma",
+                "o-uchi-gaeshi",
+                "hikikomi-gaeshi",
+                "yoko-gake",
+                "uchi-mata-makikomi",
+                "ko-uchi-makikomi",
+                "ushiro-kesa-gatame",
+                "tate-shiho-gatame",
+                "kata-juji-jime",
+                "ryote-jime",
+                "ashi-gatame",
+                "ashi-garami"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Six nage-waza of the candidate's choice from the hundred, at least one from the fundamental skills for this grade, each shown with a renzoku-waza, a renraku-waza and a kaeshi-waza",
+              "terms": [
+                "nage-waza",
+                "renzoku-waza",
+                "renraku-waza",
+                "kaeshi-waza"
+              ]
+            },
+            {
+              "text": "Six katame-waza of the candidate's choice from the hundred, at least one from the fundamental skills for this grade, each shown with a combination, an escape or a complex entry",
+              "terms": [
+                "katame-waza",
+                "osaekomi-waza",
+                "shime-waza",
+                "kansetsu-waza"
+              ]
+            },
+            {
+              "text": "Four throws carried into an osaekomi-waza and four into a kansetsu-waza or a shime-waza",
+              "terms": [
+                "tachi-waza",
+                "newaza"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Kime-no-kata, to BJA Level 1, examined separately from the skills assessment and not necessarily on the same day",
+              "terms": [
+                "kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "promotion-requirements",
+          "title": {
+            "en": "Promotion requirements"
+          },
+          "items": [
+            {
+              "text": "Minimum age 24"
+            },
+            {
+              "text": "Held 3rd Dan for at least 4 years"
+            },
+            {
+              "text": "120 competition points"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "5th-dan",
+      "label": {
+        "en": "5th Dan"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "seoi-nage",
+        "tai-otoshi",
+        "uchi-mata-sukashi",
+        "o-goshi",
+        "harai-goshi",
+        "de-ashi-harai",
+        "o-soto-gari",
+        "uchi-mata",
+        "o-soto-otoshi",
+        "tomoe-nage",
+        "tani-otoshi",
+        "soto-makikomi",
+        "yoko-wakare",
+        "kesa-gatame",
+        "kuzure-kami-shiho-gatame",
+        "nami-juji-jime",
+        "kata-ha-jime",
+        "sankaku-jime",
+        "juji-gatame",
+        "waki-gatame",
+        "ippon-seoi-nage",
+        "obi-otoshi",
+        "ko-uchi-gaeshi",
+        "koshi-guruma",
+        "ushiro-goshi",
+        "hiza-guruma",
+        "o-uchi-gari",
+        "ko-soto-gake",
+        "o-soto-gaeshi",
+        "sumi-gaeshi",
+        "yoko-otoshi",
+        "hane-makikomi",
+        "yoko-guruma",
+        "harai-makikomi",
+        "kuzure-kesa-gatame",
+        "yoko-shiho-gatame",
+        "gyaku-juji-jime",
+        "kata-te-jime",
+        "ude-garami",
+        "hara-gatame",
+        "seoi-otoshi",
+        "uki-otoshi",
+        "obi-tori-gaeshi",
+        "kibisu-gaeshi",
+        "tsurikomi-goshi",
+        "hane-goshi",
+        "sasae-tsurikomi-ashi",
+        "ko-soto-gari",
+        "ashi-guruma",
+        "o-uchi-gaeshi",
+        "hikikomi-gaeshi",
+        "yoko-gake",
+        "uchi-mata-makikomi",
+        "ko-uchi-makikomi",
+        "ushiro-kesa-gatame",
+        "tate-shiho-gatame",
+        "kata-juji-jime",
+        "ryote-jime",
+        "ashi-gatame",
+        "ashi-garami",
+        "kata-guruma",
+        "yama-arashi",
+        "kuchiki-taoshi",
+        "sode-tsurikomi-goshi",
+        "utsuri-goshi",
+        "ko-uchi-gari",
+        "harai-tsurikomi-ashi",
+        "o-guruma",
+        "hane-goshi-gaeshi",
+        "tawara-gaeshi",
+        "uchi-makikomi",
+        "daki-wakare",
+        "kani-basami",
+        "kata-gatame",
+        "uki-gatame",
+        "hadaka-jime",
+        "sode-guruma-jime",
+        "do-jime",
+        "ude-gatame",
+        "te-gatame",
+        "sukui-nage",
+        "sumi-otoshi",
+        "morote-gari",
+        "uki-goshi",
+        "tsuri-goshi",
+        "okuri-ashi-harai",
+        "o-soto-guruma",
+        "tsubame-gaeshi",
+        "harai-goshi-gaeshi",
+        "uchi-mata-gaeshi",
+        "ura-nage",
+        "uki-waza",
+        "o-soto-makikomi",
+        "kawazu-gake",
+        "kami-shiho-gatame",
+        "ura-gatame",
+        "okuri-eri-jime",
+        "tsukkomi-jime",
+        "hiza-gatame",
+        "sankaku-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-skills",
+          "title": {
+            "en": "Fundamental skills"
+          },
+          "items": [
+            {
+              "text": "Sukui-nage",
+              "techniques": [
+                "sukui-nage"
+              ]
+            },
+            {
+              "text": "Sumi-otoshi",
+              "techniques": [
+                "sumi-otoshi"
+              ]
+            },
+            {
+              "text": "Morote-gari",
+              "techniques": [
+                "morote-gari"
+              ]
+            },
+            {
+              "text": "Uki-goshi",
+              "techniques": [
+                "uki-goshi"
+              ]
+            },
+            {
+              "text": "Tsuri-goshi",
+              "techniques": [
+                "tsuri-goshi"
+              ]
+            },
+            {
+              "text": "Okuri-ashi-harai",
+              "techniques": [
+                "okuri-ashi-harai"
+              ]
+            },
+            {
+              "text": "O-soto-guruma",
+              "techniques": [
+                "o-soto-guruma"
+              ]
+            },
+            {
+              "text": "Tsubame-gaeshi",
+              "techniques": [
+                "tsubame-gaeshi"
+              ]
+            },
+            {
+              "text": "Harai-goshi-gaeshi",
+              "techniques": [
+                "harai-goshi-gaeshi"
+              ]
+            },
+            {
+              "text": "Uchi-mata-gaeshi",
+              "techniques": [
+                "uchi-mata-gaeshi"
+              ]
+            },
+            {
+              "text": "Ura-nage",
+              "techniques": [
+                "ura-nage"
+              ]
+            },
+            {
+              "text": "Uki-waza",
+              "techniques": [
+                "uki-waza"
+              ]
+            },
+            {
+              "text": "O-soto-makikomi",
+              "techniques": [
+                "o-soto-makikomi"
+              ]
+            },
+            {
+              "text": "Kawazu-gake",
+              "techniques": [
+                "kawazu-gake"
+              ]
+            },
+            {
+              "text": "Kami-shiho-gatame",
+              "techniques": [
+                "kami-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Ura-gatame",
+              "techniques": [
+                "ura-gatame"
+              ]
+            },
+            {
+              "text": "Okuri-eri-jime",
+              "techniques": [
+                "okuri-eri-jime"
+              ]
+            },
+            {
+              "text": "Tsukkomi-jime",
+              "techniques": [
+                "tsukkomi-jime"
+              ]
+            },
+            {
+              "text": "Ude-hishigi-hiza-gatame",
+              "techniques": [
+                "hiza-gatame"
+              ]
+            },
+            {
+              "text": "Ude-hishigi-sankaku-gatame",
+              "techniques": [
+                "sankaku-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "prior-learning",
+          "title": {
+            "en": "Fundamental skills: prior learning"
+          },
+          "items": [
+            {
+              "text": "Five techniques of the candidate's choice from the 1st Dan fundamental skills",
+              "techniques": [
+                "seoi-nage",
+                "tai-otoshi",
+                "uchi-mata-sukashi",
+                "o-goshi",
+                "harai-goshi",
+                "de-ashi-harai",
+                "o-soto-gari",
+                "uchi-mata",
+                "o-soto-otoshi",
+                "tomoe-nage",
+                "tani-otoshi",
+                "soto-makikomi",
+                "yoko-wakare",
+                "kesa-gatame",
+                "kuzure-kami-shiho-gatame",
+                "nami-juji-jime",
+                "kata-ha-jime",
+                "sankaku-jime",
+                "juji-gatame",
+                "waki-gatame"
+              ]
+            },
+            {
+              "text": "Five techniques of the candidate's choice from the 2nd Dan fundamental skills",
+              "techniques": [
+                "ippon-seoi-nage",
+                "obi-otoshi",
+                "ko-uchi-gaeshi",
+                "koshi-guruma",
+                "ushiro-goshi",
+                "hiza-guruma",
+                "o-uchi-gari",
+                "ko-soto-gake",
+                "o-soto-gaeshi",
+                "sumi-gaeshi",
+                "yoko-otoshi",
+                "hane-makikomi",
+                "yoko-guruma",
+                "harai-makikomi",
+                "kuzure-kesa-gatame",
+                "yoko-shiho-gatame",
+                "gyaku-juji-jime",
+                "kata-te-jime",
+                "ude-garami",
+                "hara-gatame"
+              ]
+            },
+            {
+              "text": "Five techniques of the candidate's choice from the 3rd Dan fundamental skills",
+              "techniques": [
+                "seoi-otoshi",
+                "uki-otoshi",
+                "obi-tori-gaeshi",
+                "kibisu-gaeshi",
+                "tsurikomi-goshi",
+                "hane-goshi",
+                "sasae-tsurikomi-ashi",
+                "ko-soto-gari",
+                "ashi-guruma",
+                "o-uchi-gaeshi",
+                "hikikomi-gaeshi",
+                "yoko-gake",
+                "uchi-mata-makikomi",
+                "ko-uchi-makikomi",
+                "ushiro-kesa-gatame",
+                "tate-shiho-gatame",
+                "kata-juji-jime",
+                "ryote-jime",
+                "ashi-gatame",
+                "ashi-garami"
+              ]
+            },
+            {
+              "text": "Five techniques of the candidate's choice from the 4th Dan fundamental skills",
+              "techniques": [
+                "kata-guruma",
+                "yama-arashi",
+                "kuchiki-taoshi",
+                "sode-tsurikomi-goshi",
+                "utsuri-goshi",
+                "ko-uchi-gari",
+                "harai-tsurikomi-ashi",
+                "o-guruma",
+                "hane-goshi-gaeshi",
+                "tawara-gaeshi",
+                "uchi-makikomi",
+                "daki-wakare",
+                "kani-basami",
+                "kata-gatame",
+                "uki-gatame",
+                "hadaka-jime",
+                "sode-guruma-jime",
+                "do-jime",
+                "ude-gatame",
+                "te-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-skills",
+          "title": {
+            "en": "Performance skills"
+          },
+          "items": [
+            {
+              "text": "Seven nage-waza of the candidate's choice from the hundred, at least one from the fundamental skills for this grade, each shown with a renzoku-waza, a renraku-waza and a kaeshi-waza",
+              "terms": [
+                "nage-waza",
+                "renzoku-waza",
+                "renraku-waza",
+                "kaeshi-waza"
+              ]
+            },
+            {
+              "text": "Seven katame-waza of the candidate's choice from the hundred, at least one from the fundamental skills for this grade, each shown with a combination, an escape or a complex entry",
+              "terms": [
+                "katame-waza",
+                "osaekomi-waza",
+                "shime-waza",
+                "kansetsu-waza"
+              ]
+            },
+            {
+              "text": "Five throws carried into an osaekomi-waza and five into a kansetsu-waza or a shime-waza",
+              "terms": [
+                "tachi-waza",
+                "newaza"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Kodokan Goshin-jutsu, to BJA Level 1, examined separately from the skills assessment and not necessarily on the same day",
+              "terms": [
+                "kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "promotion-requirements",
+          "title": {
+            "en": "Promotion requirements"
+          },
+          "items": [
+            {
+              "text": "Minimum age 29"
+            },
+            {
+              "text": "Held 4th Dan for at least 5 years"
+            },
+            {
+              "text": "120 competition points"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

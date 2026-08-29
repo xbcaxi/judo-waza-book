@@ -1,0 +1,92 @@
+{
+  "nameRomaji": "Okuri-eri-jime",
+  "nameJa": "送襟絞",
+  "nameKana": "おくりえりじめ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "sliding lapel strangle"
+  },
+  "category": "katame-waza",
+  "subCategory": "shime-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 705,
+  "kodokanAbbr": "OEJ",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "EiqyoVcIAi8",
+      "title": "Okuri-eri-jime",
+      "duration": "1:24"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "rgw5T-Y1tKk",
+      "title": "Okuri-Eri-Jime - When Uke attempts dropping attack"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "oGB8uwElqhY",
+      "title": "Okuri-Eri-Jjime"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551843262",
+      "title": "Okuri-Eri-Jjime"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124000940",
+      "title": "Okuri eri jime"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Okuri-eri-jime on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Okuri-eri-jime",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Okuri-eri-jime, the sliding lapel strangle."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The classical strangle from behind: one hand slides deep into the far lapel around the neck while the other feeds the near lapel down, closing the collar like a noose. Perhaps the most important gi strangle. Strangles are restricted by age in most federations; learn and practise this only under instruction and supervision."
+  },
+  "keyPoints": {
+    "en": [
+      "From behind, chest glued to their back",
+      "The deep hand slides around the neck in the far lapel",
+      "The other hand feeds the near lapel down to tighten it"
+    ]
+  },
+  "described": {
+    "en": [
+      "You are behind your partner, chest against their back, both of you on the mat.",
+      "Reach your right arm over their right shoulder and slide the hand deep into their LEFT lapel, thumb inside or fingers inside, the forearm crossing the front of their neck.",
+      "With your left hand, reach under their left armpit and grip their right lapel low, feeding it downwards.",
+      "Keep your head close beside theirs and your chest tight to their back so they cannot turn inside the grip.",
+      "Close gradually: the deep hand draws across and back while the feeding hand pulls down, the collar tightening around the neck. Release both hands fully the moment they tap, and stay with them."
+    ]
+  },
+  "receiving": {
+    "en": "From behind, a hand slides deep across your neck in your own lapel while the other drags the collar downward: the noose closes smoothly and quickly. Defend the sliding hand before it reaches depth and tuck your chin hard. Tap immediately and clearly the moment the strangle is properly on, on their arm or body where they will feel it; never hold out to prove toughness. Tell your instructor if you ever feel light-headed afterwards."
+  },
+  "viNotes": {
+    "en": "From behind with your chest sealed to their back, all of this is contact. Feed the deep hand over the shoulder and down the lapel so the forearm arrives across the neck by following the cloth rather than by reaching around for it. Keep your head beside theirs, close gradually with each hand doing its own job, and release both at the tap."
+  }
+}

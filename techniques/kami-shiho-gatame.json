@@ -1,0 +1,101 @@
+{
+  "nameRomaji": "Kami-shiho-gatame",
+  "nameJa": "上四方固",
+  "nameKana": "かみしほうがため",
+  "aliases": [
+    "Hon-kami-shiho-gatame"
+  ],
+  "otherNames": [
+    {
+      "name": "north-south position",
+      "system": "bjj"
+    }
+  ],
+  "gloss": {
+    "en": "upper four-quarter hold"
+  },
+  "category": "katame-waza",
+  "subCategory": "osaekomi-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 605,
+  "kodokanAbbr": "KSG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "HFuMjOv0WN8",
+      "title": "Kami-shiho-gatame",
+      "duration": "0:42"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "seGsXy9I4G8",
+      "title": "Kami-siho-gatame Escapes",
+      "duration": "1:35",
+      "role": "escapes from it"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "A69AyMV3G-Y",
+      "title": "Kami-Shiho-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535079884",
+      "title": "Kami-Shiho-Gatame"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123994888",
+      "title": "Kami-shiho-gatame"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Kami-shiho-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Kami-shiho-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Kami-shiho-gatame, the upper four-quarter hold."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori controls uke from above the head, gripping the belt under both shoulders, chest over uke's face and chest."
+  },
+  "keyPoints": {
+    "en": [
+      "Grip the belt under both of uke's shoulders",
+      "Clamp uke's arms with your elbows",
+      "Keep your weight forward through your chest, legs spread or knees tucked"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner lies on their back; kneel above their head, facing down the line of their body.",
+      "Slide both arms beneath their shoulders and grip the belt on each side of their waist, your forearms lying along their sides.",
+      "Clamp their arms between your elbows and your body so both are trapped.",
+      "Lower your chest over their face and chest, your head low against their belly line, and either spread your legs wide behind you, toes driving, or tuck both knees against their shoulders.",
+      "Hold with forward pressure through the chest; as they wriggle or bridge, drive gently forward from the toes and re-settle so the space under you never opens."
+    ]
+  },
+  "receiving": {
+    "en": "The weight arrives from above your head, arms threaded under your shoulders, your own arms clamped: reaching for anything is suddenly hard. It feels smothering rather than sharp, so keep your breathing deliberate. Escapes come from your legs and hips: shrimp sideways, turn onto a shoulder, work an arm free. Tap clearly on them or the mat if you are held and need to stop."
+  },
+  "viNotes": {
+    "en": "Find the hold from the head end by sliding both arms down their sides until your hands meet the belt, which tells you immediately whether you are square. Read their escapes through your chest: a bridge arrives as a lift under your ribs, a turn as one shoulder dropping away. Answer both the same way, driving forward from the toes and settling again so no space opens under you."
+  }
+}

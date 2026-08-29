@@ -1,0 +1,107 @@
+{
+  "nameRomaji": "Ko-soto-gake",
+  "nameJa": "小外掛",
+  "nameKana": "こそとがけ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "minor outer hook"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": 3,
+  "kodokanNumber": 310,
+  "kodokanAbbr": "KSK",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "8b6kY4s4zH4",
+      "title": "Ko-soto-gake",
+      "duration": "1:34"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "p-yxqgxXTCw",
+      "title": "Ko-Soto-Gake"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548817140",
+      "title": "Ko-Soto-Gake"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123997583",
+      "title": "Ko-soto-gake"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "24:52 Kosoto-gake (small outer hook)",
+      "start": 1492
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "dmGKfx056PM",
+      "title": "Daki-ko-soto-gake",
+      "duration": "0:23",
+      "role": "hugging (daki) form"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "izmwTg7m5Q4",
+      "title": "ko-soto-gake"
+    }
+  ],
+  "ijfAnimation": "Ko-soto-gake",
+  "links": [
+    {
+      "title": "Ko-soto-gake on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ko-soto-gake",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Ko-soto-gake, the minor outer hook."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori hooks uke's heel from the outside and holds it in place while driving uke straight back over the trapped foot."
+  },
+  "keyPoints": {
+    "en": [
+      "Hook and keep the heel: this is a hook, not a sweep",
+      "Drive uke's weight back over the trapped heel",
+      "Stay close, chest to chest, as uke falls"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, step in close so your chest nearly meets your partner's, your left foot outside their right foot.",
+      "Hook your left heel and calf behind their right heel from the outside, and keep it there: this is a hook that stays, not a sweep that passes through.",
+      "Push their weight straight back over the trapped heel with both hands, your chest driving after them.",
+      "Follow them down as they topple, keeping the hook in place so the leg cannot step back to save them.",
+      "They land on their back with you close above; keep the sleeve held so their arm is free to slap the mat."
+    ]
+  },
+  "receiving": {
+    "en": "A heel hooks behind yours and stays there while their chest drives you back: the trapped foot cannot step to save you, and you go straight down with them close above. Tuck your chin, take the rear breakfall, and slap with your free arm. Because they follow you down, expect their weight to arrive a beat after the mat does."
+  },
+  "viNotes": {
+    "en": "One of the easiest throws to set from the gripped-up start, because all of it happens in contact: chest almost on chest, your calf behind their heel and staying there. Feel the hook seat itself against the back of the heel before you drive, and drive with your chest rather than your arms, so their weight goes back over a foot that cannot step away."
+  }
+}

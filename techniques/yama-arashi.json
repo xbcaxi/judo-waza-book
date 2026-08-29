@@ -1,0 +1,81 @@
+{
+  "nameRomaji": "Yama-arashi",
+  "nameJa": "山嵐",
+  "nameKana": "やまあらし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "mountain storm"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 110,
+  "kodokanAbbr": "YAS",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "MGlyKmSuzdc",
+      "title": "Yama-arashi",
+      "duration": "1:25"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "Cb_u_I7PKRs",
+      "title": "Yama-arashi",
+      "duration": "0:14"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "PdyppfYluGA",
+      "title": "Yama Arashi"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Yama-arashi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Yama-arashi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Yama-arashi, the mountain storm."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The mountain storm, made famous by Saigo Shiro: from a same-side grip on lapel and sleeve, tori sweeps like harai-goshi while the hands wrench like a hand throw. The Kodokan classifies it among the hand techniques; its exact classical form is much debated, so treat any single description as one reading."
+  },
+  "keyPoints": {
+    "en": [
+      "Same-side grips: right hand high on their right lapel, left on their right sleeve",
+      "The hands wrench over like a wheel while the leg sweeps",
+      "Balance entirely on the supporting leg through the sweep"
+    ]
+  },
+  "described": {
+    "en": [
+      "Take the characteristic same-side grip: your right hand high on their RIGHT lapel, palm out at the collar, your left hand on their right sleeve, so both of your hands control one side of their body.",
+      "Draw them strongly forward and up onto their toes with both grips, their weight loading over their right foot.",
+      "Pivot in on your left foot and sweep your right leg along the outside of their right leg, as in the sweeping hip throw.",
+      "As the leg sweeps, wrench both hands over to your left like turning a great wheel: the hand action, not the hip, is the heart of this throw.",
+      "They are carried over the sweeping leg and the turning hands and land on their back in front of you. Keep the sleeve; the same-side grip means their fall arrives across your body."
+    ]
+  },
+  "receiving": {
+    "en": "Both grips land on your right side and everything happens on that one line: drawn up over your right foot, the sweep and the wrench arrive together and you are turned in the air. Tuck your chin, go with the big rotation, and slap with your free left arm. The one-sided grip makes this feel less predictable than harai-goshi, so take it from experienced partners while learning."
+  },
+  "viNotes": {
+    "en": "The same-side grip is the thing to get right and the easiest thing to check by touch: both hands on one side of their body, the right one high on their right lapel with the palm turned out. The throw is in the wrench of the hands rather than in the hip, so it stays readable through your grips the whole way. Their fall comes across your body, so keep the sleeve."
+  }
+}

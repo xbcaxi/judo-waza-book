@@ -1,0 +1,62 @@
+{
+  "nameRomaji": "Ashi-garami",
+  "nameJa": "足緘",
+  "nameKana": "あしがらみ",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "leg entanglement",
+      "system": "bjj",
+      "note": {
+        "en": "BJJ keeps the name ashi garami for the position, the foundation of its leg lock systems, where entangling the leg is legal at advanced levels."
+      }
+    }
+  ],
+  "gloss": {
+    "en": "entangled leg lock"
+  },
+  "category": "katame-waza",
+  "subCategory": "kansetsu-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 810,
+  "kodokanAbbr": "AGR",
+  "kodokan": null,
+  "banned": "yes",
+  "bannedNote": {
+    "en": "Prohibited in competition and free practice: judo permits joint locks on the elbow only, because the knee gives way without the graduated warning an elbow gives. Ashi-garami is preserved in katame-no-kata as formal study."
+  },
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "BWWb0GoAtZw",
+      "title": "Ashi-garami",
+      "duration": "1:08"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Ashi-garami on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ashi-garami",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "A joint lock applied to the leg by entangling it, the classical example of why judo restricts kansetsu-waza to the elbow: knee joints give way without useful warning. Banned in competition and in randori; it survives formally in katame-no-kata, where it is studied under control."
+  },
+  "keyPoints": {
+    "en": [
+      "Recognise it: the leg entangled and rotated rather than the arm",
+      "Competition joint locks are restricted to the elbow; leg locks are prohibited",
+      "Studied only in kata under supervision, never applied live"
+    ]
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": {
+    "en": "Nothing here is practised, but the reason for the ban is worth carrying: a knee gives way without the graduated warning an elbow gives, and pressure you did not see arriving is pressure you start tapping to late. If a partner ever entangles your leg in randori and you feel load come onto the knee, tap at once rather than waiting to work out what it is."
+  }
+}

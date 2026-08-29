@@ -1,0 +1,84 @@
+{
+  "nameRomaji": "Koshi-jime",
+  "nameJa": "腰絞",
+  "nameKana": "こしじめ",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "clock choke",
+      "system": "bjj",
+      "note": {
+        "en": "BJJ's clock choke walks around the turtled opponent like a clock hand; the strangle is the same."
+      }
+    }
+  ],
+  "gloss": {
+    "en": "hip strangle"
+  },
+  "category": "katame-waza",
+  "subCategory": "shime-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": null,
+  "kodokanAbbr": null,
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "A4tIYEP4iv0",
+      "title": "Kata-Te-Ashi-Koshi-Jime",
+      "role": "hand-and-leg (kata-te-ashi) form"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "wM6Q5Nv2l20",
+      "title": "Koshi-Jime from Attack",
+      "role": "from your own attack"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551869018",
+      "title": "Kata-Te-Ashi-Koshi-Jime",
+      "role": "hand-and-leg (kata-te-ashi) form"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Koshi-jime, the hip strangle."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The hip strangle: applied on a turtled opponent, the deep collar grip closes the neck while tori's hip and body weight drive through the shoulders, the whole body doing the strangling. Strangles are restricted by age in most federations; learn and practise this only under instruction and supervision."
+  },
+  "keyPoints": {
+    "en": [
+      "Deep collar grip first, from beside the turtled opponent",
+      "Your hip and chest weight drive through their shoulder line",
+      "The body applies it; the arm only holds the collar"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner is turtled on elbows and knees; kneel at their right side, facing the same way.",
+      "Reach your left hand under their chin and slide it deep into their left collar, thumb inside, the forearm lying across the front of the neck.",
+      "Drop your hip and chest across the back of their shoulders, your weight settling through them.",
+      "Post your free hand or spread your legs for balance, and walk or shift your body slowly around towards their head.",
+      "Your moving weight tightens the collar around the neck: the body strangles, the hand only anchors. Release the grip and lift your weight at once when they tap."
+    ]
+  },
+  "receiving": {
+    "en": "In the turtle, a hand slips under your chin into your collar and a body's weight settles across your shoulders; as they walk around, the collar closes without their arm seeming to move. Tuck your chin the moment the hand comes under, and do not delay tapping once the pressure builds; the turtle position hides how far along the strangle already is. Tap immediately and clearly the moment the strangle is properly on, on their arm or body where they will feel it; never hold out to prove toughness. Tell your instructor if you ever feel light-headed afterwards."
+  },
+  "viNotes": {
+    "en": "This is applied to a turtled partner, so it starts from contact. Find the chin with the back of your hand and follow it into the collar, so the forearm arrives across the front of the throat rather than under the jaw. The strangle comes from your body walking round towards their head, so move slowly and feel it tighten; at the tap lift the weight before you open the hand."
+  }
+}

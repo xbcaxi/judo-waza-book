@@ -1,0 +1,184 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "kind": {
+      "type": "string",
+      "enum": [
+        "combination",
+        "counter",
+        "transition",
+        "chain"
+      ]
+    },
+    "techniques": {
+      "minItems": 2,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "about": {
+      "$ref": "#/definitions/localisedText"
+    },
+    "described": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/localisedSteps"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "The whole sequence narrated for the ear, from the first attack to the landing. Null where nobody has written it yet."
+    },
+    "receiving": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/localisedText"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "What the sequence feels like from the other side: the reaction the first technique asks for, the moment it changes, and how to land. Null where nobody has written it yet."
+    },
+    "viNotes": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/localisedText"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Notes for visually impaired judoka and their coaches. Null where nobody has written them yet."
+    },
+    "videos": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/video"
+      }
+    }
+  },
+  "required": [
+    "kind",
+    "techniques",
+    "about",
+    "described",
+    "receiving",
+    "viNotes",
+    "videos"
+  ],
+  "additionalProperties": false,
+  "definitions": {
+    "localisedText": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Text by BCP 47 language code; \"en\" required, other languages optional."
+    },
+    "localisedSteps": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "minItems": 2,
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": {
+        "minItems": 2,
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "description": "Ordered movement steps per language (at least two); \"en\" required."
+    },
+    "video": {
+      "type": "object",
+      "properties": {
+        "provider": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        },
+        "platform": {
+          "type": "string",
+          "enum": [
+            "youtube",
+            "vimeo"
+          ]
+        },
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "start": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "note": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/localisedText"
+            }
+          ]
+        },
+        "duration": {
+          "type": "string",
+          "minLength": 1
+        },
+        "role": {
+          "type": "string",
+          "minLength": 1
+        },
+        "recommended": {
+          "default": false,
+          "type": "boolean"
+        },
+        "lang": {
+          "type": "string"
+        },
+        "captions": {
+          "type": "boolean"
+        },
+        "spokenInstruction": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "provider",
+        "platform",
+        "id",
+        "title"
+      ]
+    }
+  },
+  "title": "sequence",
+  "description": "One combination (renraku-waza) or counter (kaeshi-waza) relating existing techniques. Like a technique record, every field is present in every file, in the order listed here: a field nobody has written yet is null, never absent, so that a gap is visible to a reader and countable by the validator."
+}

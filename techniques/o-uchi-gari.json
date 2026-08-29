@@ -1,0 +1,172 @@
+{
+  "nameRomaji": "O-uchi-gari",
+  "nameJa": "大内刈",
+  "nameKana": "おおうちがり",
+  "aliases": [
+    "Ouchi-gari"
+  ],
+  "otherNames": [
+    {
+      "name": "inside trip",
+      "system": "wrestling"
+    }
+  ],
+  "gloss": {
+    "en": "major inner reap"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": 1,
+  "kodokanNumber": 305,
+  "kodokanAbbr": "OUG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "0itJFhV9pDQ",
+      "title": "O-uchi-gari",
+      "duration": "1:28"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "a1XtoJcl7_k",
+      "title": "O-Uchi-Gari"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535080138",
+      "title": "O-Uchi-Gari"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124000206",
+      "title": "O-uchi-gari"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "I3BWf1ZoIuc",
+      "title": "o-uchi-gari - Basic Principles",
+      "role": "basic principles"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "21S9bwRxP8E",
+      "title": "o-uchi-gari - Competitive Variations",
+      "role": "competitive variations"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "t6VRvu7FgJ4",
+      "title": "o-uchi-gari - Set Ups",
+      "role": "set ups"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "F37Wpuz6q8Y",
+      "title": "GO TSUNODA - O UCHI GARI_O SOTO GARI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "W73mHQxRynY",
+      "title": "HIROSHI KATANISHI - O UCHI GARI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "63gEsv12EIg",
+      "title": "古賀 稔彦 TOSHIHIKO KOGA - O UCHI GARI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "nRgDEmBRTBk",
+      "title": "山下 泰裕 YASUHIRO YAMASHITA - O UCHI GARI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "TkQRy3vFL08",
+      "title": "東海大学 TOKAI UNIVERSITY - O UCHI GARI"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "29:36 Ouchi-gari (large inner reap)",
+      "start": 1776
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "2Z2EmS6iSoA",
+      "title": "O-uchi-gari",
+      "duration": "0:21"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "LvHZXNw02sA",
+      "title": "Soto-ashi-dori-ouchi-gari",
+      "duration": "0:24",
+      "role": "outside leg-grab (soto-ashi-dori) entry"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "BajrYNLW9JU",
+      "title": "o-uchi-gari"
+    }
+  ],
+  "ijfAnimation": "O-uchi-gari",
+  "links": [
+    {
+      "title": "O-uchi-gari on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/O-uchi-gari",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of O-uchi-gari, the major inner reap."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori reaps uke's leg from the inside with a circular action of the calf, driving uke to the rear as the supported leg is taken away."
+  },
+  "keyPoints": {
+    "en": [
+      "Reap the leg from inside in a circular, hooking arc",
+      "Drive uke backwards over the trapped leg with both hands",
+      "Keep your own supporting knee soft for balance"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, step your left foot forward and slightly across, so your body comes close to your partner's front, then bring your right foot between their feet.",
+      "Curl your right calf around the inside of their left leg, at the knee or just below, and reap it out to your right in a circular motion, in the direction their toes point.",
+      "As the leg is reaped, drive with both hands down and back towards their left rear corner, your chest following.",
+      "Keep your supporting left knee soft and your weight forward so you stay balanced over them.",
+      "They fall onto their back towards their left rear corner. Slide your grip up the sleeve and support it as they land."
+    ]
+  },
+  "receiving": {
+    "en": "A leg curls inside your left thigh and hooks it out while your weight is pushed back: you fall backwards towards your left rear corner. Tuck your chin, sit into the fall rather than reaching back for the mat, and slap with your free arm. Never post your hand behind you straight-armed; that is how wrists and elbows get hurt."
+  },
+  "viNotes": {
+    "en": "The reap is circular and travels along the inside of their leg, so let your calf find their thigh by contact instead of aiming at it. From the gripped-up start the moment to go is when their weight arrives on that leg, which comes to you through your hands. Keep your weight forward and the supporting knee soft, because a reap that misses takes your own balance with it."
+  }
+}

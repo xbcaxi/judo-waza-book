@@ -1,0 +1,14 @@
+# Every text file is stored and checked out with LF, on every platform.
+#
+# This repository is edited by hand, mostly as JSON, by contributors on
+# whatever machine they have. core.autocrlf=true is the Windows default, and
+# without this a contributor there returns a pull request whose diff is every
+# line of the file rather than the line they changed, which is unreviewable and
+# unmergeable for a reason nobody can see by reading it.
+#
+# Everything in the index is already LF, so this changes no file today. It only
+# holds that true once strangers start sending changes.
+* text=auto eol=lf
+
+# The illustrations and syllabus sheets. Never mangled, never diffed as text.
+*.webp binary

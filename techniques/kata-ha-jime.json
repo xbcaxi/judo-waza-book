@@ -1,0 +1,110 @@
+{
+  "nameRomaji": "Kata-ha-jime",
+  "nameJa": "片羽絞",
+  "nameKana": "かたはじめ",
+  "aliases": [
+    "Kataha-jime"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "single wing strangle"
+  },
+  "category": "katame-waza",
+  "subCategory": "shime-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 706,
+  "kodokanAbbr": "KHJ",
+  "kodokan": {
+    "nameRomaji": "Kataha-jime",
+    "nameJa": "片羽絞"
+  },
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "yaTGgRjnwB8",
+      "title": "Kataha-jime",
+      "duration": "1:09"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "3olsRmOHCmQ",
+      "title": "Kata-Ha-Jime"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "yAaCsPObSyE",
+      "title": "Kata-Ha-Jime - Uke on all Fous Position"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551868850",
+      "title": "Kata-Ha-Jime"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551868712",
+      "title": "Kata-Ha-Jime - Uke on all Fous Position"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123995936",
+      "title": "Kataha-jime"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "H94i4axDRBU",
+      "title": "Kata-ha-jime",
+      "duration": "0:17"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Kataha-jime on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Kataha-jime",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Kata-ha-jime, the single wing strangle."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The single wing strangle: from behind, one lapel grip closes the neck while the other arm lifts uke's arm and wing-locks it, the hand sliding behind their head. The trapped wing takes away the main defence. Strangles are restricted by age in most federations; learn and practise this only under instruction and supervision."
+  },
+  "keyPoints": {
+    "en": [
+      "Begin as the sliding lapel strangle from behind",
+      "The free arm lifts their arm high and slides behind their head",
+      "The trapped wing removes their defending hand; close gradually"
+    ]
+  },
+  "described": {
+    "en": [
+      "From behind your partner, take the deep lapel grip across their neck with your right hand, as in the sliding lapel strangle.",
+      "With your left arm, scoop under their left arm and lift it high, folding it upwards like a wing.",
+      "Continue the movement: slide your left hand behind their head, palm against the back of it, their lifted arm now trapped over yours.",
+      "Chest tight to their back, head close beside theirs.",
+      "Close gradually: the lapel hand draws across as the hand behind the head presses gently forward. Release everything at once when they tap, and lower their arm with care."
+    ]
+  },
+  "receiving": {
+    "en": "One lapel closes across your neck and your own arm is lifted away and pinned high; the hand you would defend with is gone, which is the point of the technique. Tap without delay once the wing is locked and the collar tightens. Tap immediately and clearly the moment the strangle is properly on, on their arm or body where they will feel it; never hold out to prove toughness. Tell your instructor if you ever feel light-headed afterwards."
+  },
+  "viNotes": {
+    "en": "Everything is found from the back position you already hold: the lapel by running your hand along their collar into the neck, the wing by scooping under their arm and lifting it. Keep your head beside theirs so you know at once if they turn. Close gradually, and when they tap release the whole thing together, lowering the lifted arm rather than dropping it."
+  }
+}

@@ -1,0 +1,663 @@
+{
+  "source": {
+    "title": "Kodokan Definitions of Judo Techniques",
+    "publisher": "Kodokan",
+    "issued": "2022-10-01",
+    "url": "https://kdkjudo.org/wp-content/uploads/2024/07/Kodokan-Definitions-of-Judo-Techniques-01.10.2022.pdf",
+    "retrieved": "2026-08-29"
+  },
+  "groups": [
+    {
+      "group": "te-waza",
+      "nameRomaji": "Te-waza",
+      "nameJa": "手技"
+    },
+    {
+      "group": "nage-waza",
+      "nameRomaji": "Nage-waza",
+      "nameJa": "投技"
+    },
+    {
+      "group": "koshi-waza",
+      "nameRomaji": "Koshi-waza",
+      "nameJa": "腰技"
+    },
+    {
+      "group": "ashi-waza",
+      "nameRomaji": "Ashi-waza",
+      "nameJa": "足技"
+    },
+    {
+      "group": "ma-sutemi-waza",
+      "nameRomaji": "Ma-sutemi-waza",
+      "nameJa": "真捨身技"
+    },
+    {
+      "group": "yoko-sutemi-waza",
+      "nameRomaji": "Yoko-sutemi-waza",
+      "nameJa": "横捨身技"
+    },
+    {
+      "group": "katame-waza",
+      "nameRomaji": "Katame-waza",
+      "nameJa": "固技"
+    },
+    {
+      "group": "shime-waza",
+      "nameRomaji": "Shime-waza",
+      "nameJa": "絞技"
+    },
+    {
+      "group": "osaekomi-waza",
+      "nameRomaji": "Osaekomi-waza",
+      "nameJa": "抑込技"
+    },
+    {
+      "group": "kansetsu-waza",
+      "nameRomaji": "Kansetsu-waza",
+      "nameJa": "関節技"
+    }
+  ],
+  "techniques": [
+    {
+      "technique": "seoi-nage",
+      "nameRomaji": "Seoi-nage",
+      "nameJa": "背負投",
+      "definition": "A technique to throw the opponent over the right shoulder by breaking his balance forward and inserting the right elbow underneath his right armpit to carry him on the back."
+    },
+    {
+      "technique": "ippon-seoi-nage",
+      "nameRomaji": "Ippon-seoi-nage",
+      "nameJa": "一本背負投",
+      "definition": "A technique to throw the opponent over the right shoulder by breaking his balance forward and holding his right arm from the inside with the right arm to carry him on the back."
+    },
+    {
+      "technique": "seoi-otoshi",
+      "nameRomaji": "Seoi-otoshi",
+      "nameJa": "背負落",
+      "definition": "A technique to pull down and throw the opponent by breaking his balance forward and falling on one of the knees or both while carrying him on the back."
+    },
+    {
+      "technique": "tai-otoshi",
+      "nameRomaji": "Tai-otoshi",
+      "nameJa": "体落",
+      "definition": "A technique to pull down and throw the opponent by breaking his balance forward and turning the body to the left to put the right foot in front of his right foot."
+    },
+    {
+      "technique": "kata-guruma",
+      "nameRomaji": "Kata-guruma",
+      "nameJa": "肩車",
+      "definition": "A technique to uplift the opponent on both shoulders across the back of the neck and throw him down by breaking his balance forward while holding his right thigh from the inside with the right arm."
+    },
+    {
+      "technique": "sukui-nage",
+      "nameRomaji": "Sukui-nage",
+      "nameJa": "掬投",
+      "definition": "A technique to uplift and throw down the opponent by breaking his balance backward while stepping behind him and holding both of his thighs from the front side with both hands or another technique to uplift the opponent’s one of thighs and throw him down by inserting the hand between his legs."
+    },
+    {
+      "technique": "obi-otoshi",
+      "nameRomaji": "Obi-otoshi",
+      "nameJa": "帯落",
+      "definition": "A technique to uplift and throw down the opponent by grabbing the front side of his belt with the right hand, pulling it forward while stepping behind him and holding his hip from the front side with the left hand to break his balance backward."
+    },
+    {
+      "technique": "uki-otoshi",
+      "nameRomaji": "Uki-otoshi",
+      "nameJa": "浮落",
+      "definition": "A technique to throw down the opponent by breaking his balance forward and pulling him down toward the frontal-right corner."
+    },
+    {
+      "technique": "sumi-otoshi",
+      "nameRomaji": "Sumi-otoshi",
+      "nameJa": "隅落",
+      "definition": "A technique to push and throw down the opponent by breaking his balance toward the retral- right corner while stepping onto the outside of his right foot with the left."
+    },
+    {
+      "technique": "yama-arashi",
+      "nameRomaji": "Yama-arashi",
+      "nameJa": "山嵐",
+      "definition": "A technique to sweep up the opponent’s right leg with the right foot and throw him down by grabbing his right sleeve with the left hand and gripping his right side-collar with the right thumb inside while breaking his balance by lifting him up forward."
+    },
+    {
+      "technique": "obi-tori-gaeshi",
+      "nameRomaji": "Obi-tori-gaeshi",
+      "nameJa": "帯取返",
+      "definition": "A technique to throw the opponent over the right shoulder by grabbing his belt over his shoulder with the right hand and holding his right arm or leg with the left hand while lifting him up."
+    },
+    {
+      "technique": "morote-gari",
+      "nameRomaji": "Morote-gari",
+      "nameJa": "双手刈",
+      "definition": "A technique to reap and throw down the opponent by holding both of his legs from the outside in both hands."
+    },
+    {
+      "technique": "kuchiki-taoshi",
+      "nameRomaji": "Kuchiki-taoshi",
+      "nameJa": "朽木倒",
+      "definition": "A technique to push down the opponent backward by holding one of his legs either from the inside or outside with one of the hands and pulling it up."
+    },
+    {
+      "technique": "kibisu-gaeshi",
+      "nameRomaji": "Kibisu-gaeshi",
+      "nameJa": "踵返",
+      "definition": "A technique to throw the opponent by reaping his heel either from the inside or outside with one of the hands."
+    },
+    {
+      "technique": "uchi-mata-sukashi",
+      "nameRomaji": "Uchi-mata-sukashi",
+      "nameJa": "内股すかし",
+      "definition": "A technique to fend off the opponent’s Uchi-mata attempt and throw him down."
+    },
+    {
+      "technique": "ko-uchi-gaeshi",
+      "nameRomaji": "Ko-uchi-gaeshi",
+      "nameJa": "小内返",
+      "definition": "A technique to dodge the opponent’s Ko-uchi-gari attempt and throw him down."
+    },
+    {
+      "technique": "uki-goshi",
+      "nameRomaji": "Uki-goshi",
+      "nameJa": "浮腰",
+      "definition": "A technique to throw down the opponent by breaking his balance forward and inserting the right arm through his left armpit while loading him slightly onto the hip and twisting the body."
+    },
+    {
+      "technique": "o-goshi",
+      "nameRomaji": "O-goshi",
+      "nameJa": "大腰",
+      "definition": "A technique to load the opponent onto the back of the hip and throw him down by breaking his balance forward and inserting the right arm through his left armpit while holding his hip and drawing it closer."
+    },
+    {
+      "technique": "koshi-guruma",
+      "nameRomaji": "Koshi-guruma",
+      "nameJa": "腰車",
+      "definition": "A technique to rotate the opponent on the axis of the hip and throw him down by breaking his balance forward and holding his neck in the right arm while thrusting the hip deeply."
+    },
+    {
+      "technique": "tsurikomi-goshi",
+      "nameRomaji": "Tsurikomi-goshi",
+      "nameJa": "釣込腰",
+      "definition": "A technique to load the opponent onto the back of the hip and throw him down by breaking his balance forward while gripping his left front-lapel with the right hand and lifting it up."
+    },
+    {
+      "technique": "sode-tsurikomi-goshi",
+      "nameRomaji": "Sode-tsurikomi-goshi",
+      "nameJa": "袖釣込腰",
+      "definition": "A technique to load the opponent onto the back of the hip and throw him down by breaking his balance forward while gripping his left sleeve with the right hand and lifting it up."
+    },
+    {
+      "technique": "harai-goshi",
+      "nameRomaji": "Harai-goshi",
+      "nameJa": "払腰",
+      "definition": "A technique to sweep up the opponent with the right leg and throw him down by breaking his balance forward and loading him onto the back of the right hip."
+    },
+    {
+      "technique": "tsuri-goshi",
+      "nameRomaji": "Tsuri-goshi",
+      "nameJa": "釣腰",
+      "definition": "A technique to load the opponent onto the back of the hip and throw him down by breaking his balance forward and grabbing the back of his belt to lift it up."
+    },
+    {
+      "technique": "hane-goshi",
+      "nameRomaji": "Hane-goshi",
+      "nameJa": "跳腰",
+      "definition": "A technique to spring up the opponent with the back of the right hip and the right leg and throw him down by breaking his balance forward."
+    },
+    {
+      "technique": "utsuri-goshi",
+      "nameRomaji": "Utsuri-goshi",
+      "nameJa": "移腰",
+      "definition": "A technique to throw down the opponent by counteracting his Nage-waza or other attack, holding and lifting his hip with the right arm and shifting him onto the back of the hip."
+    },
+    {
+      "technique": "ushiro-goshi",
+      "nameRomaji": "Ushiro-goshi",
+      "nameJa": "後腰",
+      "definition": "A technique to throw down the opponent vertically by counteracting his Nage-waza or other attack and holding and lifting his hip."
+    },
+    {
+      "technique": "de-ashi-harai",
+      "nameRomaji": "De-ashi-harai",
+      "nameJa": "出足払",
+      "definition": "A technique to sweep the opponent ’ s right foot with the left foot and throw him down immediately when he takes a step forward and loads his weight onto it."
+    },
+    {
+      "technique": "hiza-guruma",
+      "nameRomaji": "Hiza-guruma",
+      "nameJa": "膝車",
+      "definition": "A technique to throw down the opponent by breaking his balance forward and hold his right knee with the left foot to rotate him around it."
+    },
+    {
+      "technique": "sasae-tsurikomi-ashi",
+      "nameRomaji": "Sasae-tsurikomi-ashi",
+      "nameJa": "支釣込足",
+      "definition": "A technique to hold the opponent ’ s right ankle with the left foot and throw him down by breaking his balance while lifting him up forward."
+    },
+    {
+      "technique": "o-soto-gari",
+      "nameRomaji": "O-soto-gari",
+      "nameJa": "大外刈",
+      "definition": "A technique to reap the opponent’s right leg from the outside with the right leg and throw him down by breaking his balance backward."
+    },
+    {
+      "technique": "o-uchi-gari",
+      "nameRomaji": "O-uchi-gari",
+      "nameJa": "大内刈",
+      "definition": "A technique to reap the opponent’s left leg from the inside with the right leg and throw him down by breaking his balance backward."
+    },
+    {
+      "technique": "ko-soto-gari",
+      "nameRomaji": "Ko-soto-gari",
+      "nameJa": "小外刈",
+      "definition": "A technique to reap the opponent’s right foot from the outside with the left foot and throw him down by breaking his balance backward."
+    },
+    {
+      "technique": "ko-uchi-gari",
+      "nameRomaji": "Ko-uchi-gari",
+      "nameJa": "小内刈",
+      "definition": "A technique to reap the opponent’s right foot from the inside with the right foot and throw him down by breaking his balance backward."
+    },
+    {
+      "technique": "okuri-ashi-harai",
+      "nameRomaji": "Okuri-ashi-harai",
+      "nameJa": "送足払",
+      "definition": "A technique to throw down the opponent by driving him leftward and sweep his right foot with the left foot so that both of his feet are put together."
+    },
+    {
+      "technique": "uchi-mata",
+      "nameRomaji": "Uchi-mata",
+      "nameJa": "内股",
+      "definition": "A technique to sweep up the opponent’s left inner thigh with the back of the right thigh and throw him down by breaking his balance forward."
+    },
+    {
+      "technique": "ko-soto-gake",
+      "nameRomaji": "Ko-soto-gake",
+      "nameJa": "小外掛",
+      "definition": "A technique to throw down the opponent by breaking his balance backward, hooking the left foot or leg from the outside on his right leg and uplifting his body."
+    },
+    {
+      "technique": "ashi-guruma",
+      "nameRomaji": "Ashi-guruma",
+      "nameJa": "足車",
+      "definition": "A technique to throw down the opponent by breaking his balance forward, putting the right leg on his right knee and rotating him on its axis."
+    },
+    {
+      "technique": "harai-tsurikomi-ashi",
+      "nameRomaji": "Harai-tsurikomi-ashi",
+      "nameJa": "払釣込足",
+      "definition": "A technique to sweep up the opponent’s ankle with the left foot from the front and throw him down by breaking his balance while lifting him up forward."
+    },
+    {
+      "technique": "o-guruma",
+      "nameRomaji": "O-guruma",
+      "nameJa": "大車",
+      "definition": "A technique to throw down the opponent by breaking his balance forward and putting the right leg around the area from his lower abdomen to upper part of thighs to rotate him on its axis."
+    },
+    {
+      "technique": "o-soto-guruma",
+      "nameRomaji": "O-soto-guruma",
+      "nameJa": "大外車",
+      "definition": "A technique to throw down the opponent by breaking his balance backward and putting the right leg behind both of his legs to rotate him on its axis."
+    },
+    {
+      "technique": "o-soto-otoshi",
+      "nameRomaji": "O-soto-otoshi",
+      "nameJa": "大外落",
+      "definition": "A technique to throw down the opponent vertically by breaking his balance backward and sliding down the right leg on the back of his right thigh."
+    },
+    {
+      "technique": "tsubame-gaeshi",
+      "nameRomaji": "Tsubame-gaeshi",
+      "nameJa": "燕返",
+      "definition": "A technique to throw down the opponent by fending off his foot sweeping attempt and counter-sweeping with the same foot that was being attacked."
+    },
+    {
+      "technique": "o-soto-gaeshi",
+      "nameRomaji": "O-soto-gaeshi",
+      "nameJa": "大外返",
+      "definition": "A technique to throw down the opponent by counter-reaping his O-soto-gari attempt with the leg that is being attacked."
+    },
+    {
+      "technique": "o-uchi-gaeshi",
+      "nameRomaji": "O-uchi-gaeshi",
+      "nameJa": "大内返",
+      "definition": "A technique to throw down the opponent by counter-reaping his O-uchi-gari attempt with the leg that is being attacked."
+    },
+    {
+      "technique": "hane-goshi-gaeshi",
+      "nameRomaji": "Hane-goshi-gaeshi",
+      "nameJa": "跳腰返",
+      "definition": "A technique to throw down the opponent by counteracting his Hane-goshi attempt either to reap or hook his pivot foot from the outside with the foot or leg."
+    },
+    {
+      "technique": "harai-goshi-gaeshi",
+      "nameRomaji": "Harai-goshi-gaeshi",
+      "nameJa": "払腰返",
+      "definition": "A technique to throw down the opponent by counteracting his Harai-goshi attempt either to reap or hook his pivot foot from the outside with the foot or leg."
+    },
+    {
+      "technique": "uchi-mata-gaeshi",
+      "nameRomaji": "Uchi-mata-gaeshi",
+      "nameJa": "内股返",
+      "definition": "A technique to throw down the opponent by counteracting his Uchi-mata attempt either to reap or hook his pivot foot from the outside with the foot or leg."
+    },
+    {
+      "technique": "tomoe-nage",
+      "nameRomaji": "Tomoe-nage",
+      "nameJa": "巴投",
+      "definition": "A technique to throw the opponent over the head by breaking his balance forward and putting the right sole on his lower abdomen while laying down the body onto the back."
+    },
+    {
+      "technique": "sumi-gaeshi",
+      "nameRomaji": "Sumi-gaeshi",
+      "nameJa": "隅返",
+      "definition": "A technique to throw the opponent over the head by breaking his balance forward, drawing his upper body closer, while grabbing his lapel or back with the right hand and laying down the body onto the back, and lifting up the inside of his left thigh with the right lower leg."
+    },
+    {
+      "technique": "hikikomi-gaeshi",
+      "nameRomaji": "Hikikomi-gaeshi",
+      "nameJa": "引込返",
+      "definition": "A technique to throw the opponent over the head by breaking his balance forward, drawing his upper body closer, while grabbing the back of his belt with the right hand and laying down the body onto the back, and lifting up the inside of his left thigh with the right lower leg."
+    },
+    {
+      "technique": "tawara-gaeshi",
+      "nameRomaji": "Tawara-gaeshi",
+      "nameJa": "俵返",
+      "definition": "A technique to throw the opponent over the shoulder by breaking his balance forward, leaning over his back, holding and lifting his upper body in both arms while laying down the body onto the back."
+    },
+    {
+      "technique": "ura-nage",
+      "nameRomaji": "Ura-nage",
+      "nameJa": "裏投",
+      "definition": "A technique to throw the opponent over the shoulder by counteracting the opponent’s Nage- waza or other attack and holding and lifting his upper body while laying down the body onto the back."
+    },
+    {
+      "technique": "yoko-otoshi",
+      "nameRomaji": "Yoko-otoshi",
+      "nameJa": "横落",
+      "definition": "A technique to pull and throw down the opponent by breaking his balance rightward and laying down the body onto the left side while sliding the left leg toward the outside of his right foot."
+    },
+    {
+      "technique": "tani-otoshi",
+      "nameRomaji": "Tani-otoshi",
+      "nameJa": "谷落",
+      "definition": "A technique to pull and throw down the opponent by breaking his balance backward and laying down the body onto the left side while sliding the left leg behind him."
+    },
+    {
+      "technique": "hane-makikomi",
+      "nameRomaji": "Hane-makikomi",
+      "nameJa": "跳巻込",
+      "definition": "A technique to wrap the opponent round and throw down him by applying Hane-goshi and holding his right arm in the right armpit."
+    },
+    {
+      "technique": "soto-makikomi",
+      "nameRomaji": "Soto-makikomi",
+      "nameJa": "外巻込",
+      "definition": "A technique to wrap the opponent round and throw down him by breaking his balance forward, holding his right arm in the right armpit and thrusting the hip deeply."
+    },
+    {
+      "technique": "uchi-makikomi",
+      "nameRomaji": "Uchi-makikomi",
+      "nameJa": "内巻込",
+      "definition": "A technique to wrap the opponent round and throw down him by breaking his balance forward, holding his right arm from the inside in the right arm and thrusting the hip deeply."
+    },
+    {
+      "technique": "uki-waza",
+      "nameRomaji": "Uki-waza",
+      "nameJa": "浮技",
+      "definition": "A technique to throw down the opponent by breaking his balance toward the frontal-right corner and stretching the left leg to put it on the outside of his right foot while laying down the body onto the left side and rotating him."
+    },
+    {
+      "technique": "yoko-wakare",
+      "nameRomaji": "Yoko-wakare",
+      "nameJa": "横分",
+      "definition": "A technique to throw down the opponent by breaking his balance forward and stepping both feet onto the outside of his right foot while laying down the body onto the left side and rotating him over the body."
+    },
+    {
+      "technique": "yoko-guruma",
+      "nameRomaji": "Yoko-guruma",
+      "nameJa": "横車",
+      "definition": "A technique to rotate and throw down the opponent by counteracting his Nage-waza or other attack, holding his hip with the left arm to break his balance forward, sliding the right leg between his legs from the front while twisting the body and laying down the body onto the left side."
+    },
+    {
+      "technique": "yoko-gake",
+      "nameRomaji": "Yoko-gake",
+      "nameJa": "横掛",
+      "definition": "A technique to throw down the opponent by breaking his balance toward his right small toe and pushing and sweeping his right outer ankle with the left foot while laying down the body onto the left side."
+    },
+    {
+      "technique": "daki-wakare",
+      "nameRomaji": "Daki-wakare",
+      "nameJa": "抱分",
+      "definition": "A technique to throw the opponent over the body by holding his upper body from behind when he is about to be on the mat with both hands and feet and twisting the body while laying down the body onto the left side."
+    },
+    {
+      "technique": "o-soto-makikomi",
+      "nameRomaji": "O-soto-makikomi",
+      "nameJa": "大外巻込",
+      "definition": "A technique to wrap the opponent round and throw him down by applying O-soto-gari and holding his right arm in the right armpit."
+    },
+    {
+      "technique": "uchi-mata-makikomi",
+      "nameRomaji": "Uchi-mata-makikomi",
+      "nameJa": "内股巻込",
+      "definition": "A technique to wrap the opponent round and throw him down by applying Uchi-mata and holding his right arm in the right armpit."
+    },
+    {
+      "technique": "harai-makikomi",
+      "nameRomaji": "Harai-makikomi",
+      "nameJa": "払巻込",
+      "definition": "A technique to wrap the opponent round and throw him down by applying Harai-goshi and holding his right arm in the right armpit."
+    },
+    {
+      "technique": "ko-uchi-makikomi",
+      "nameRomaji": "Ko-uchi-makikomi",
+      "nameJa": "小内巻込",
+      "definition": "A technique to wrap the opponent round and throw him down by breaking his balance backward and hooking the right leg on his right leg from the inside while laying down the body forward."
+    },
+    {
+      "technique": "kani-basami",
+      "nameRomaji": "Kani-basami",
+      "nameJa": "蟹挟",
+      "definition": "A technique to throw down the opponent while holding his lower body with both legs by breaking his balance backward, turning the body toward his left side and putting the right leg on his lower abdomen and the left leg on the backside of both of his knees while laying down the body onto the left side."
+    },
+    {
+      "technique": "kawazu-gake",
+      "nameRomaji": "Kawazu-gake",
+      "nameJa": "河津掛",
+      "definition": "A technique to throw down the opponent by drawing him closer, turning the body, hooking the right leg around his left leg from the inside and raising the leg forward while laying down the body with him."
+    },
+    {
+      "technique": "kesa-gatame",
+      "nameRomaji": "Kesa-gatame",
+      "nameJa": "袈裟固",
+      "definition": "A technique to hold down the opponent’s upper body under the right side of the chest region by holding his right arm in the left arm from the right side of the opponent lying on his back and gripping the back of his collar with the right hand."
+    },
+    {
+      "technique": "kuzure-kesa-gatame",
+      "nameRomaji": "Kuzure-kesa-gatame",
+      "nameJa": "崩袈裟固",
+      "definition": "A technique to hold down the opponent’s upper body under the right side of the chest region by holding his right arm in the left arm from the right side of the opponent lying on his back and inserting the right arm through his left armpit."
+    },
+    {
+      "technique": "ushiro-kesa-gatame",
+      "nameRomaji": "Ushiro-kesa-gatame",
+      "nameJa": "後袈裟固",
+      "definition": "A technique to hold down the opponent’s upper body under the left side of the chest region by putting the left hip on the right side of his body from the right side of the opponent lying on his back, holding his right arm in the right arm and holding his upper body in the left arm."
+    },
+    {
+      "technique": "kata-gatame",
+      "nameRomaji": "Kata-gatame",
+      "nameJa": "肩固",
+      "definition": "A technique to hold down the opponent by holding his right arm and neck with the right side of the neck and both arms from the right side of the opponent lying on his back."
+    },
+    {
+      "technique": "kami-shiho-gatame",
+      "nameRomaji": "Kami-shiho-gatame",
+      "nameJa": "上四方固",
+      "definition": "A technique to hold down the opponent’s upper body under the chest and abdomen region by gripping both sides of his belt with both hands from the top side of his head while he is lying on his back."
+    },
+    {
+      "technique": "kuzure-kami-shiho-gatame",
+      "nameRomaji": "Kuzure-kami-shiho-gatame",
+      "nameJa": "崩上四方固",
+      "definition": "A technique to hold down the opponent’s upper body under the chest and abdomen region by holding his right arm in the right arm from the diagonal-right side of his head and gripping the left side of his belt with the left hand while he is lying on his back."
+    },
+    {
+      "technique": "yoko-shiho-gatame",
+      "nameRomaji": "Yoko-shiho-gatame",
+      "nameJa": "横四方固",
+      "definition": "A technique to hold down the opponent’s upper body under the chest and abdomen region by grabbing his belt or trousers through his legs with the right hand from the right side of the opponent lying on his back and gripping his left side-collar through the back of his neck with the left hand."
+    },
+    {
+      "technique": "tate-shiho-gatame",
+      "nameRomaji": "Tate-shiho-gatame",
+      "nameJa": "縦四方固",
+      "definition": "A technique to hold down the opponent’s upper body under the chest and abdomen region by lying on the stomach over the opponent lying on his back, holding his right arm and neck with both hands and holding his lower body with both legs."
+    },
+    {
+      "technique": "uki-gatame",
+      "nameRomaji": "Uki-gatame",
+      "nameJa": "浮固",
+      "definition": "A technique to hold down the opponent’s upper body with the right leg by holding his right arm with one of the arms or both from the right side of the opponent lying on his back and stretching the left leg backward."
+    },
+    {
+      "technique": "ura-gatame",
+      "nameRomaji": "Ura-gatame",
+      "nameJa": "裏固",
+      "definition": "A technique to hold down the opponent under the back region by holding his right arm with the right arm from the right side of the opponent lying on his back and grabbing his leg with the left hand."
+    },
+    {
+      "technique": "nami-juji-jime",
+      "nameRomaji": "Nami-juji-jime",
+      "nameJa": "並十字絞",
+      "definition": "A technique to choke the opponent ’ s neck region by crossing the wrists from the front, gripping his side-collars with both thumbs inside and pushing both hands."
+    },
+    {
+      "technique": "gyaku-juji-jime",
+      "nameRomaji": "Gyaku-juji-jime",
+      "nameJa": "逆十字絞",
+      "definition": "A technique to choke the opponent ’ s neck region by crossing the wrists from the front, gripping his side-collars with four fingers of both hands inside and tightening arms."
+    },
+    {
+      "technique": "kata-juji-jime",
+      "nameRomaji": "Kata-juji-jime",
+      "nameJa": "片十字絞",
+      "definition": "A technique to choke the opponent ’ s neck region by crossing the wrists from the front, gripping his left side-collar with four fingers of the left hand inside and the right side-collar with right thumb inside, pulling the left hand and pushing the right hand."
+    },
+    {
+      "technique": "hadaka-jime",
+      "nameRomaji": "Hadaka-jime",
+      "nameJa": "裸絞",
+      "definition": "A technique to choke the opponent’s neck region without using judogi by putting the right forearm on the opponent’s throat from behind and joining the left arm on it."
+    },
+    {
+      "technique": "okuri-eri-jime",
+      "nameRomaji": "Okuri-eri-jime",
+      "nameJa": "送襟絞",
+      "definition": "A technique to choke the opponent’s neck region by gripping his left side-collar through his throat with the right hand and the right front-lapel through the left armpit with the left hand from behind, pulling the right hand in a right-rear direction and pulling down the left hand."
+    },
+    {
+      "technique": "kata-ha-jime",
+      "nameRomaji": "Kataha-jime",
+      "nameJa": "片羽絞",
+      "definition": "A technique to choke the opponent’s neck region by gripping his left side-collar through his throat with right hand from behind, inserting the left arm through the left armpit to raise the arm upward, pulling the right hand in a right-rear direction and thrusting the left hand under the right arm."
+    },
+    {
+      "technique": "kata-te-jime",
+      "nameRomaji": "Katate-jime",
+      "nameJa": "片手絞",
+      "definition": "A technique to choke the opponent’s neck region by gripping his right side-collar with the right thumb inside from the left side of the opponent lying on his back."
+    },
+    {
+      "technique": "ryote-jime",
+      "nameRomaji": "Ryote-jime",
+      "nameJa": "両手絞",
+      "definition": "A technique to choke the opponent’s neck region with fists from the front by gripping his left side-collar with right thumb inside and the right side-collar with left thumb inside."
+    },
+    {
+      "technique": "sode-guruma-jime",
+      "nameRomaji": "Sode-guruma-jime",
+      "nameJa": "袖車絞",
+      "definition": "A technique to choke the opponent’s neck region from the front by putting the right forearm on his throat and the left forearm behind the neck to hold his neck between them, gripping the right cuff with left hand and thrusting the right hand into the right side of his neck."
+    },
+    {
+      "technique": "tsukkomi-jime",
+      "nameRomaji": "Tsukkomi-jime",
+      "nameJa": "突込絞",
+      "definition": "A technique to choke the opponent’s neck region from the front by gripping his right front- lapel with the left hand and the left front-lapel with the right hand and thrusting the right hand toward the right side of his neck."
+    },
+    {
+      "technique": "sankaku-jime",
+      "nameRomaji": "Sankaku-jime",
+      "nameJa": "三角絞",
+      "definition": "A technique to choke the opponent ’ s neck region by holding his neck and right armpit between both legs and hooking the right foot on the back of the left knee while forming a triangular form."
+    },
+    {
+      "technique": "do-jime",
+      "nameRomaji": "Do-jime",
+      "nameJa": "胴絞",
+      "definition": "A technique to choke the opponent by holding his torso region between both legs."
+    },
+    {
+      "technique": "ude-garami",
+      "nameRomaji": "Ude-garami",
+      "nameJa": "腕緘",
+      "definition": "A technique to twist and lock the opponent’s elbow joint by grabbing his left wrist with the left hand from the right side of the opponent lying on his back and inserting the right hand to grip one's left wrist underneath his upper arm."
+    },
+    {
+      "technique": "juji-gatame",
+      "nameRomaji": "Ude-hishigi-juji-gatame",
+      "nameJa": "腕挫十字固",
+      "definition": "A technique to stretch and lock the opponent’s elbow joint by grabbing his right wrist with both hands from the right side of the opponent lying on his back and holding his upper arm between both thighs."
+    },
+    {
+      "technique": "ude-gatame",
+      "nameRomaji": "Ude-hishigi-ude-gatame",
+      "nameJa": "腕挫腕固",
+      "definition": "A technique to stretch and lock the opponent’s elbow joint with both hands by holding his left wrist between the neck and the right shoulder from the right side of the opponent lying on his back."
+    },
+    {
+      "technique": "hiza-gatame",
+      "nameRomaji": "Ude-hishigi-hiza-gatame",
+      "nameJa": "腕挫膝固",
+      "definition": "A technique to stretch and lock the opponent’s elbow joint with the left knee by holding his right arm under the left armpit from the front."
+    },
+    {
+      "technique": "waki-gatame",
+      "nameRomaji": "Ude-hishigi-waki-gatame",
+      "nameJa": "腕挫腋固",
+      "definition": "A technique to stretch and lock the opponent’s elbow joint by grabbing his right wrist with both hands and holding the arm under the left armpit."
+    },
+    {
+      "technique": "hara-gatame",
+      "nameRomaji": "Ude-hishigi-hara-gatame",
+      "nameJa": "腕挫腹固",
+      "definition": "A technique to stretch and lock the opponent’s elbow joint by grabbing his right wrist with the right hand from the right side of the opponent and pressing his arm on the abdomen."
+    },
+    {
+      "technique": "ashi-gatame",
+      "nameRomaji": "Ude-hishigi-ashi-gatame",
+      "nameJa": "腕挫脚固",
+      "definition": "A technique to stretch and lock the opponent’s elbow joint by hooking the right leg on his right arm from the right side of the opponent lying on his stomach."
+    },
+    {
+      "technique": "te-gatame",
+      "nameRomaji": "Ude-hishigi-te-gatame",
+      "nameJa": "腕挫手固",
+      "definition": "A technique to stretch and lock the opponent’s elbow joint by inserting the left arm from the right side of the opponent through his right armpit to grip his left front-lapel and grabbing his right wrist with the right hand or another technique to lock the opponent’ s elbow joint by grabbing his wrist with one of the hands or both and twisting his wrist behind his back."
+    },
+    {
+      "technique": "sankaku-gatame",
+      "nameRomaji": "Ude-hishigi-sankaku-gatame",
+      "nameJa": "腕挫三角固",
+      "definition": "A technique either to twist or stretch and lock the opponent’s elbow joint by holding his neck and right armpit between both legs and hooking the right foot on the back of the left knee while forming a triangular form."
+    },
+    {
+      "technique": "ashi-garami",
+      "nameRomaji": "Ashi-garami",
+      "nameJa": "足緘",
+      "definition": "A technique to stretch and lock the opponent’s knee joint by inserting the left foot between the opponent’s legs from the front and wrapping the left leg around his right leg from behind to thrust it onto his lower abdomen."
+    }
+  ]
+}

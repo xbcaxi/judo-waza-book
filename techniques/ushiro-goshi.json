@@ -1,0 +1,100 @@
+{
+  "nameRomaji": "Ushiro-goshi",
+  "nameJa": "後腰",
+  "nameKana": "うしろごし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "rear hip throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "koshi-waza",
+  "gokyoSet": 5,
+  "kodokanNumber": 210,
+  "kodokanAbbr": "USH",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "ORIYstuxYT8",
+      "title": "Ushiro-goshi",
+      "duration": "1:04"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "ZmaX6dep2wk",
+      "title": "Ushiro-Goshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551879183",
+      "title": "Ushiro-Goshi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124017466",
+      "title": "Ushiro-goshi"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "8:54 Ushiro-goshi (rear hip throw)",
+      "start": 534
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "Zhz54q7az7I",
+      "title": "Ushiro-goshi",
+      "duration": "0:16"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "TY46zYb-mAY",
+      "title": "Ushiro-goshi"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Ushiro-goshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ushiro-goshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The classical counter to hip throws: tori scoops uke's entering hips from behind, lifts, and lets uke fall in front."
+  },
+  "keyPoints": {
+    "en": [
+      "Drop your hips below uke's as the attack comes in",
+      "Lift uke clear of the mat with the hips, arms around the waist",
+      "Let uke slide down in front of you, guiding the fall"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner turns in for a hip throw. Before it bites, bend your knees deeply and sink your hips below theirs.",
+      "Wrap both arms around their waist from behind their turned-in position, clamping their hips to your belly.",
+      "Straighten your legs and thrust your hips forward and up: their body lifts clear of the mat, their feet swinging up in front.",
+      "Hold the lift for a beat so their throw is fully dead, then step back a half pace.",
+      "Lower and release them so they drop feet-and-side first onto the mat in front of you, your arms guiding the descent until they land."
+    ]
+  },
+  "receiving": {
+    "en": "Your hip attack is swallowed: their hips drop below yours, arms clamp your waist, and you are lifted straight up, feet leaving the mat, your throw dead in the air. The landing is a drop rather than a rotation. Stay compact, keep your feet under you if you can, and take the mat with your feet and side as they lower you; a good partner controls this descent, and in practice you should agree beforehand how high the lift will be."
+  },
+  "viNotes": {
+    "en": "The attack comes to you in contact, so you know the hip turn is coming before it bites: sink below them and clamp their waist. The lift tells you whether you have them squarely, and holding it for a beat kills their throw completely. Lower them under control rather than dropping them, because they are in the air with no idea where the mat is."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "rankRules": {
+    "Olympic Games": "olympic",
+    "Paralympic Games": "paralympic",
+    "World Championships": "worlds",
+    "Masters": "masters",
+    "Grand Slam": "ijf-tour",
+    "Grand Prix": "ijf-tour",
+    "World Cup": "continental-open",
+    "European Championships": "continental",
+    "Asian Championships": "continental",
+    "Panamerica Championships": "continental",
+    "African Championships": "continental",
+    "Oceanian Championships": "continental",
+    "Commonwealth": "continental",
+    "European Open": "continental-open",
+    "Asian Open": "continental-open",
+    "Panamerica Open": "continental-open",
+    "African Open": "continental-open",
+    "Oceanian Open": "continental-open",
+    "Continental Cup": "continental-open",
+    "Kata Tournament": "kata",
+    "Team event": "teams",
+    "Mixed Teams": "teams",
+    "Military World Championships": "other"
+  },
+  "rules": [
+    { "match": "Olympic", "tier": "olympic" },
+    { "match": "World Championships", "tier": "worlds" },
+    { "match": "World Judo Masters", "tier": "masters" },
+    { "match": "Grand Slam", "tier": "ijf-tour" },
+    { "match": "Grand Prix", "tier": "ijf-tour" },
+    { "match": "European Championships", "tier": "continental" },
+    { "match": "Asian Championships", "tier": "continental" },
+    { "match": "Pan American", "tier": "continental" },
+    { "match": "African Championships", "tier": "continental" },
+    { "match": "Oceania Championships", "tier": "continental" },
+    { "match": "Open", "tier": "continental-open" }
+  ],
+  "overrides": {},
+  "default": "other"
+}

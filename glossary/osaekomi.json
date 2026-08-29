@@ -1,0 +1,11 @@
+{
+  "term": "Osaekomi",
+  "kanji": "抑え込み",
+  "category": "command",
+  "meaning": {
+    "en": "Holding. The referee calls it when a hold-down is properly on, and the clock for the hold starts."
+  },
+  "guides": [
+    "referee-commands-and-signals"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ko-uchi-gari",
+    "harai-tsurikomi-ashi"
+  ],
+  "about": {
+    "en": "Withdrawing the reaped foot and sweeping the ankle they are standing on answers the minor inner reap on the same beat, before their weight has finished transferring."
+  },
+  "described": {
+    "en": [
+      "Feel their sole arrive against the inside of your foot as they attempt Ko-uchi-gari.",
+      "Snatch that foot back and up rather than fighting for the ground, keeping both grips.",
+      "Put it down behind you and keep your chest upright over your hips.",
+      "Their weight is on their supporting leg: pull their sleeve up and across so their shoulders turn.",
+      "Sweep the front of their supporting ankle with the sole of your foot as your hands turn them.",
+      "They fall forward and onto their side; keep the sleeve so their head stays supported."
+    ]
+  },
+  "receiving": {
+    "en": "You attacked the inside of their foot and they snatched it back rather than fighting for the ground, so your reaping leg is committed and your weight is on your supporting leg. Their hands then turn your shoulders while their sole meets the front of that ankle. You go forward and onto your side, not backwards. Keep your chin tucked, slap with your free arm as your side arrives, and let the held sleeve support your upper body."
+  },
+  "viNotes": {
+    "en": "The whole counter starts at your own foot, which is why it works without sight: their sole arriving on the inside of your foot is the cue, and snatching that foot back and up is the answer. Keep both grips through the snatch so their body stays with yours, and let your hands turn them before your foot sweeps. Hands first, foot second, is what makes an ankle sweep land."
+  },
+  "videos": [
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "ynKHSNn1ILQ",
+      "title": "Ko-uchi-gari countered by Harai-tsuri-komi-ashi",
+      "duration": "0:11"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "V8vTaFAqMmo",
+      "title": "ko-uchi-gari countered by harai-tsuri-komi-ashi",
+      "duration": "0:15"
+    }
+  ]
+}

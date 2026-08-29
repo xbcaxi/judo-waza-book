@@ -1,0 +1,77 @@
+{
+  "nameRomaji": "Uchi-makikomi",
+  "nameJa": "内巻込",
+  "nameKana": "うちまきこみ",
+  "aliases": [
+    "Uchi-maki-komi"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "inner wraparound"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 505,
+  "kodokanAbbr": "UMK",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "5BowcjduxVc",
+      "title": "Uchi-maki-komi",
+      "duration": "1:07"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "cBAgidgRKIs",
+      "title": "Uchi-makikomi",
+      "duration": "0:17"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "SsliRSYVfl8",
+      "title": "Uchi maki-komi"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Uchi-maki-komi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Uchi-makikomi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The winding sacrifice on the inside line: tori turns in as for a one-armed shoulder throw, wraps uke's arm, and winds to the mat with the body rotating inside uke's arm rather than outside it."
+  },
+  "keyPoints": {
+    "en": [
+      "Enter as for ippon-seoi-nage; the wind answers resistance",
+      "Their arm wraps over your shoulder as you rotate down",
+      "Land rolling on your side, them carried over you"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, turn in as for the one-armed shoulder throw, their right arm drawn over your right shoulder.",
+      "As they resist the lift, keep their arm wrapped and commit to rotation, winding your body down and around to your left.",
+      "Your body travels to the mat as one turning unit with their arm still wrapped.",
+      "You land on your left side; they are carried over your body and land on their back beyond you.",
+      "Release the wrapped arm the moment they land so both of you can rise."
+    ]
+  },
+  "receiving": {
+    "en": "The shoulder-throw entry keeps hold of your arm and dives: you are wound over their rotating body with your right side committed. Curl with the rotation, chin tucked, and let your side and back land together. Wrapped falls are heavy; build up gradually."
+  },
+  "viNotes": {
+    "en": "You are committing to the mat inside their arm, so the wrap has to be secure before the rotation starts: keep their arm over your shoulder from the entry and never let it slide. Once you are winding, that arm is your only sense of where they are. Release it as they land so both of you can get up."
+  }
+}

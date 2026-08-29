@@ -1,0 +1,76 @@
+{
+  "nameRomaji": "Kuzure-kami-shiho-gatame",
+  "nameJa": "崩上四方固",
+  "nameKana": "くずれかみしほうがため",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "modified upper four-quarter hold"
+  },
+  "category": "katame-waza",
+  "subCategory": "osaekomi-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 606,
+  "kodokanAbbr": "KKS",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "YUrogQWdwiY",
+      "title": "Kuzure-kami-shiho-gatame",
+      "duration": "1:22"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "PPe7E_7d7UI",
+      "title": "Kuzure-kami-siho-gatame Escapes",
+      "duration": "1:10",
+      "role": "escapes from it"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Kuzure-kami-shiho-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Kuzure-kami-shiho-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Kuzure-kami-shiho-gatame, the modified upper four-quarter hold."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Kami-shiho-gatame with one arm controlling uke's arm and shoulder instead of the belt: the practical contest version."
+  },
+  "keyPoints": {
+    "en": [
+      "Control uke's arm and shoulder on one side",
+      "Keep chest pressure centred over uke's chest",
+      "Switch between the pure and modified forms as uke escapes"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner lies on their back; take the upper hold position above their head, facing down their body.",
+      "On your right side, thread your arm under their right shoulder and grip the belt or the cloth behind their neck, so that shoulder is wrapped.",
+      "With your left arm, control their left arm: pin it to your side, or trap it between your arm and knee, rather than gripping the belt.",
+      "Bring your chest down over their chest, slightly off-centre towards the wrapped shoulder, legs wide or knees tucked.",
+      "This broken form trades symmetry for arm control; switch between it and the pure form as they work their arms free, keeping the chest heavy throughout."
+    ]
+  },
+  "receiving": {
+    "en": "As the upper hold, but one of your arms is wrapped and controlled, and the weight sits slightly off-centre towards it. The free side is where the escape lives: turn towards your free arm, bridge, and work your hips out sideways. Do not burn everything in the first five seconds; steady pressure and timed bridges beat frantic ones. Tap clearly if you need to stop."
+  },
+  "viNotes": {
+    "en": "This is the form you keep ending up in, because you switch to it by feel the moment an arm starts to work free. That is the first thing to change, before their hips move, and you read it through your chest and the trapped arm rather than by looking. Keep the wrapped shoulder as your anchor and let the rest of the hold move around it."
+  }
+}

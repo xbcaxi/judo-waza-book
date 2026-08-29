@@ -1,0 +1,257 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "title": {
+      "$ref": "#/definitions/localisedText"
+    },
+    "organisation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "country": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 2
+    },
+    "summary": {
+      "$ref": "#/definitions/localisedText"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "current",
+        "legacy"
+      ],
+      "description": "Whether this examination is the one currently sat. Omitted means current; \"legacy\" means the federation has replaced it and the transcription is kept as a record."
+    },
+    "statusNote": {
+      "description": "Required when status is \"legacy\": what replaced this examination, and from when.",
+      "allOf": [
+        {
+          "$ref": "#/definitions/localisedText"
+        }
+      ]
+    },
+    "source": {
+      "allOf": [
+        {
+          "$ref": "#/definitions/sourceRef"
+        }
+      ]
+    },
+    "marking": {
+      "$ref": "#/definitions/localisedText"
+    },
+    "levels": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "$ref": "#/definitions/localisedText"
+          },
+          "passMark": {
+            "type": "integer",
+            "minimum": -9007199254740991,
+            "maximum": 9007199254740991
+          },
+          "maxMarks": {
+            "type": "integer",
+            "minimum": -9007199254740991,
+            "maximum": 9007199254740991
+          },
+          "requirements": {
+            "default": [],
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "section": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "requirement": {
+                  "$ref": "#/definitions/localisedText"
+                },
+                "marks": {
+                  "type": "integer",
+                  "minimum": -9007199254740991,
+                  "maximum": 9007199254740991
+                }
+              },
+              "required": [
+                "section",
+                "requirement"
+              ]
+            }
+          }
+        },
+        "required": [
+          "label",
+          "passMark",
+          "maxMarks"
+        ]
+      }
+    },
+    "sections": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]*$"
+          },
+          "title": {
+            "$ref": "#/definitions/localisedText"
+          },
+          "notes": {
+            "allOf": [
+              {
+                "$ref": "#/definitions/localisedText"
+              }
+            ]
+          },
+          "groups": {
+            "minItems": 1,
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "label": {
+                  "allOf": [
+                    {
+                      "$ref": "#/definitions/localisedText"
+                    }
+                  ]
+                },
+                "items": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/definitions/referenceItem"
+                  }
+                }
+              },
+              "required": [
+                "items"
+              ]
+            }
+          }
+        },
+        "required": [
+          "slug",
+          "title",
+          "groups"
+        ]
+      }
+    }
+  },
+  "required": [
+    "title",
+    "organisation",
+    "summary",
+    "marking",
+    "levels",
+    "sections"
+  ],
+  "definitions": {
+    "localisedText": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Text by BCP 47 language code; \"en\" required, other languages optional."
+    },
+    "sourceRef": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "date": {
+          "type": "string",
+          "minLength": 1
+        },
+        "note": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/localisedText"
+            }
+          ]
+        }
+      },
+      "required": [
+        "title"
+      ]
+    },
+    "referenceItem": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "techniques": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "sequences": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "skills": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "guides": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "terms": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "required": [
+        "text"
+      ]
+    }
+  },
+  "title": "exam",
+  "description": "One grading examination as actually sat: sections, set groups, items as printed, pass marks per grade."
+}

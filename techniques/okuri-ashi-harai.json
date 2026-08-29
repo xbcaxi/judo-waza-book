@@ -1,0 +1,102 @@
+{
+  "nameRomaji": "Okuri-ashi-harai",
+  "nameJa": "送足払",
+  "nameKana": "おくりあしはらい",
+  "aliases": [
+    "Okuri-ashi-barai"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "sliding foot sweep"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": 2,
+  "kodokanNumber": 308,
+  "kodokanAbbr": "OAB",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "nw1ZdRjrdRI",
+      "title": "Okuri-ashi-harai",
+      "duration": "1:59"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548838168",
+      "title": "okuri-ashi-barai"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124000601",
+      "title": "Okuri ashi barai"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "Ra8qoi8GgD8",
+      "title": "Okuri-ashi-barai",
+      "duration": "0:12"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "DHiKsOafizw",
+      "title": "Okuri-ashi-barai",
+      "duration": "0:16"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "_zAomCu7KVo",
+      "title": "Okuri-ashi-harai"
+    }
+  ],
+  "ijfAnimation": "Okuri-ashi-harai",
+  "links": [
+    {
+      "title": "Okuri-ashi-harai on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Okuri-ashi-harai",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Okuri-ashi-harai, the sliding foot sweep."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Both of uke's feet are swept together sideways as they come level during sideways movement: a throw of rhythm rather than force."
+  },
+  "keyPoints": {
+    "en": [
+      "Sweep as uke's feet come together, in the direction of travel",
+      "Use a long, low sweeping action against both ankles",
+      "Lift with the hands so uke floats as the feet are swept"
+    ]
+  },
+  "described": {
+    "en": [
+      "Take a right-handed grip and move sideways with your partner, you stepping to your left as they follow, their feet sliding together and apart in rhythm.",
+      "Feel through your hands for the moment both their feet come close together, the trailing foot chasing the leading one.",
+      "Sweep the outside of their trailing right ankle with the sole of your left foot, a long low sweep that carries both their feet together in the direction they are already sliding.",
+      "As you sweep, lift with both hands so their body floats for a beat, then steer down in the direction of travel.",
+      "Both feet leave the mat together and they land on their side or back beside you. Hold the sleeve up firmly through the landing: this fall arrives quickly."
+    ]
+  },
+  "receiving": {
+    "en": "You are moving sideways and, in one beat, both feet are swept together and the mat is gone: this is the throw that arrives with the least warning in judo. You fall flat and quickly. Slap hard with your free arm the moment your side or back touches, and trust the held sleeve; there is no time to plan this one, which is why the side breakfall must already be a reflex."
+  },
+  "viNotes": {
+    "en": "Pure rhythm, and rhythm travels through the hands better than it ever does through the eyes. Move sideways with them and count the beat through your grips until you feel both feet coming together, then sweep long and low along the mat so the ankle is found by contact. Warn uke in practice: both feet leave at once and the fall arrives quickly."
+  }
+}

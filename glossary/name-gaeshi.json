@@ -1,0 +1,15 @@
+{
+  "term": "Gaeshi",
+  "kanji": "返",
+  "category": "name-part",
+  "meaning": {
+    "en": "Reversal or counter: their attack becomes your throw. It is the ending that marks a counter technique."
+  },
+  "aliases": [
+    "Kaeshi"
+  ],
+  "techniques": [
+    "uchi-mata-gaeshi",
+    "o-uchi-gaeshi"
+  ]
+}

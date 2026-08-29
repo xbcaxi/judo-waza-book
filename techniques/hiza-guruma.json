@@ -1,0 +1,100 @@
+{
+  "nameRomaji": "Hiza-guruma",
+  "nameJa": "膝車",
+  "nameKana": "ひざぐるま",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "knee wheel"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": 1,
+  "kodokanNumber": 302,
+  "kodokanAbbr": "HIZ",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "JPJx9-oAVns",
+      "title": "Hiza-guruma",
+      "duration": "1:26"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548842830",
+      "title": "hiza-guruma"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123994013",
+      "title": "Hisa guruma"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "15:15 Hiza-guruma (knee wheel)",
+      "start": 915
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "wcVy5VREaYk",
+      "title": "Hiza-guruma",
+      "duration": "0:12"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "XZF5XHOlo_k",
+      "title": "Hiza-guruma"
+    }
+  ],
+  "ijfAnimation": "Hiza-guruma",
+  "links": [
+    {
+      "title": "Hiza-guruma on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Hiza-guruma",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Hiza-guruma, the knee wheel."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori blocks uke's knee with the sole of the foot and wheels uke forward over it, using rotation of the hands rather than strength."
+  },
+  "keyPoints": {
+    "en": [
+      "Place the sole lightly on the side of uke's knee, do not kick",
+      "Break balance to uke's front corner before the block",
+      "Turn the steering-wheel action of the hands all the way through"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, drift your partner's balance towards their right front corner, drawing them slightly onto their toes.",
+      "Step your right foot out to the side, roughly level with their right foot and a shoulder-width away, toes turned out, so your body faces across theirs.",
+      "Place the sole of your left foot lightly against the outside of their right knee, at the kneecap. The foot rests there as a block: do not kick or push.",
+      "Turn both hands as if turning a large wheel to your left: your left hand pulls their sleeve down past your hip, your right hand carries their lapel up and across.",
+      "Their body wheels over the blocked knee. Keep the wheel turning until they roll over and land on their back to your left, and keep the sleeve in your hand."
+    ]
+  },
+  "receiving": {
+    "en": "You feel your balance drawn to your front corner, then a light block arrives at your knee and your body keeps travelling over it. You wheel forwards and land on your back. Your right sleeve is held; tuck your chin, turn with the rotation rather than fighting it, and slap with your left arm as your back lands."
+  },
+  "viNotes": {
+    "en": "The block is placed by touch: slide your sole up the outside of their shin until it meets the swell of the knee, then stop pushing and turn your hands. From the gripped-up start the wheel is in the arms in any case, and you can feel it working as soon as their shoulders start turning around a leg that has stopped moving."
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "title": {
+    "en": "BJA Kata Certification"
+  },
+  "organisation": "British Judo Association",
+  "country": "GB",
+  "summary": {
+    "en": "The kata examination every BJA dan grade promotion requires alongside the skills assessment, and the one part of a promotion that is examined on its own terms: one named kata for each grade, certified at Level 1 on the competitive pathway and Level 2 on the technical one. It need not be taken on the same day as the skills assessment, or in the same year."
+  },
+  "source": {
+    "title": "Kata Requirements for Dan Gradings",
+    "date": "November 2025",
+    "note": {
+      "en": "Transcribed from the BJA kata requirements for promotions from 1 January 2026, with the rules on who may examine and when from the scheme's published questions and answers. The forms are the authority; where this page and a current BJA form disagree, the form wins."
+    }
+  },
+  "marking": {
+    "en": "The pass marks are percentages: 60 per cent for Level 1 and 65 per cent for Level 2. Level 1 is an entry level pass, and a candidate who has prepared properly, including a relevant BJA kata course, should reach it. Level 2 may be taken six months after a Level 1 pass; going straight to Level 2 is exceptional and needs the evaluation of a Senior Kata Examiner or higher. A BJA Senior Examiner, Kata Examiner or Senior Kata Examiner may examine kata. Attending a course does not exempt anyone: an attendance certificate is not a pass, and from 1 January 2026 attendance certificates are no longer issued."
+  },
+  "levels": [
+    {
+      "label": {
+        "en": "Level 1"
+      },
+      "passMark": 60,
+      "maxMarks": 100,
+      "requirements": [
+        {
+          "section": "kata-by-grade",
+          "requirement": {
+            "en": "The kata named for the grade being taken. Required on the competitive pathway."
+          }
+        },
+        {
+          "section": "level-1",
+          "requirement": {
+            "en": "The correct techniques, in the correct order, with technical competence and the protocol that surrounds the kata."
+          }
+        }
+      ]
+    },
+    {
+      "label": {
+        "en": "Level 2"
+      },
+      "passMark": 65,
+      "maxMarks": 100,
+      "requirements": [
+        {
+          "section": "kata-by-grade",
+          "requirement": {
+            "en": "The kata named for the grade being taken. Required on the technical pathway."
+          }
+        },
+        {
+          "section": "level-2",
+          "requirement": {
+            "en": "Everything Level 1 asks for, performed with the skill, timing and partnership a higher grade is expected to show."
+          }
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "slug": "kata-by-grade",
+      "title": {
+        "en": "The kata each grade requires"
+      },
+      "notes": {
+        "en": "One kata per grade, and only the one for the grade being taken: a candidate going for 4th Dan does not repeat the kata of the three grades below. The competitive pathway needs a Level 1 certificate in it, the technical pathway a Level 2."
+      },
+      "groups": [
+        {
+          "label": {
+            "en": "Dan grades"
+          },
+          "items": [
+            {
+              "text": "1st Dan - Nage-no-kata",
+              "terms": [
+                "kata"
+              ]
+            },
+            {
+              "text": "2nd Dan - Katame-no-kata",
+              "terms": [
+                "kata"
+              ]
+            },
+            {
+              "text": "3rd Dan - Ju-no-kata",
+              "terms": [
+                "kata"
+              ]
+            },
+            {
+              "text": "4th Dan - Kime-no-kata",
+              "terms": [
+                "kata"
+              ]
+            },
+            {
+              "text": "5th Dan - Kodokan Goshin-jutsu",
+              "terms": [
+                "kata"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Beyond 5th Dan"
+          },
+          "items": [
+            {
+              "text": "For 6th Dan, in addition to the five kata above, a minimum BJA Level 1 certificate in Koshiki-no-kata",
+              "terms": [
+                "kata"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "level-1",
+      "title": {
+        "en": "What Level 1 asks for"
+      },
+      "notes": {
+        "en": "A 60 per cent pass, and very much an entry level one."
+      },
+      "groups": [
+        {
+          "items": [
+            {
+              "text": "The correct techniques"
+            },
+            {
+              "text": "In the correct order"
+            },
+            {
+              "text": "With technical competence"
+            },
+            {
+              "text": "Including the \"kata protocol\" elements"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "level-2",
+      "title": {
+        "en": "What Level 2 asks for"
+      },
+      "notes": {
+        "en": "A 65 per cent pass, taken no sooner than six months after Level 1. The same kata again, with everything sharper."
+      },
+      "groups": [
+        {
+          "items": [
+            {
+              "text": "Skill in technique execution"
+            },
+            {
+              "text": "Timing and opportunity exploitation"
+            },
+            {
+              "text": "Smoothness and fluidity"
+            },
+            {
+              "text": "Coordination between tori and uke"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

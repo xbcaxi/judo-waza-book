@@ -1,0 +1,84 @@
+{
+  "nameRomaji": "Harai-makikomi",
+  "nameJa": "払巻込",
+  "nameKana": "はらいまきこみ",
+  "aliases": [
+    "Harai-maki-komi"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "sweeping wraparound"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 513,
+  "kodokanAbbr": "HRM",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "VBaHzKaCXss",
+      "title": "Harai-maki-komi",
+      "duration": "1:07"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "K630zfdnWRY",
+      "title": "Harai-makikomi",
+      "duration": "0:18"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "Zb8WJPtC_eI",
+      "title": "Harai-makikomi",
+      "duration": "0:14"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Harai-maki-komi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Harai-makikomi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Harai-makikomi, the sweeping wraparound."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The sweeping hip throw finished as a winding sacrifice: when harai-goshi is resisted, tori releases the lapel, wraps uke's arm, and rotates to the mat with the sweep still working, carrying uke over."
+  },
+  "keyPoints": {
+    "en": [
+      "Enter as an honest harai-goshi; the wrap answers their defence",
+      "Trap the arm and wind your whole body as one unit",
+      "Land rolling on your side with them wrapped, never flat beneath them"
+    ]
+  },
+  "described": {
+    "en": [
+      "Attack with the sweeping hip throw from a right-handed grip: back turned in, right leg sweeping along the outside of their right thigh.",
+      "As they resist, release your lapel grip and throw your right arm up and over their right arm and shoulder, wrapping it tight against your body.",
+      "Commit your body into rotation towards the mat, the sweeping leg still rising as you wind.",
+      "You travel to the mat together as one turning unit, your side taking the landing.",
+      "They roll over and past you and land on their back beyond; release the wrapped arm the moment they land."
+    ]
+  },
+  "receiving": {
+    "en": "The harai-goshi you were defending suddenly wraps your arm and commits: their whole body weight joins the throw and you rotate together. Your wrapped right side cannot slap, so curl with the rotation, chin tucked, and let your side and back arrive together beside them. Build this one up gradually; wrapped falls are heavy."
+  },
+  "viNotes": {
+    "en": "You switch to this when the sweep meets resistance, and resistance is something you feel clearly through the lapel hand. Releasing that grip costs you half your information, so take the wrap straight away, sliding your arm up their arm to the shoulder, and turn as one piece rather than in two movements. Learn the winding landing with a coach beside you."
+  }
+}

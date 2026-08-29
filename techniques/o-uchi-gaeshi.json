@@ -1,0 +1,62 @@
+{
+  "nameRomaji": "O-uchi-gaeshi",
+  "nameJa": "大内返",
+  "nameKana": "おおうちがえし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "major inner reversal"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 318,
+  "kodokanAbbr": "OUG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "dCyZTXyjIXE",
+      "title": "O-uchi-gaeshi",
+      "duration": "1:02"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "O-uchi-gaeshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/O-uchi-gaeshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The counter to O-uchi-gari: as uke reaps deep inside, tori steps the attacked leg back out of the hook, brings their own leg round behind uke's standing leg and drives them over it. Classified by the Kodokan as a foot technique, because the leg does the work."
+  },
+  "keyPoints": {
+    "en": [
+      "Step out of the hook before it takes your weight",
+      "Their standing leg is now the target",
+      "Drive their chest back as your leg goes in"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner attacks O-uchi-gari, hooking their right leg deep inside your left.",
+      "Step your left leg backwards out of the hook, keeping your hips square and your weight on it.",
+      "Their attacking leg is committed and their standing leg is loaded; bring your right leg round behind it.",
+      "Reap that standing leg forward while both hands drive their chest backwards.",
+      "They fall on their back where they stood; keep the sleeve and lower them under control."
+    ]
+  },
+  "receiving": {
+    "en": "Your reap finds nothing, and before you can put the leg down your standing leg is taken from behind. The fall is straight backwards with both legs gone, so it is a full back breakfall: chin tucked, arms ready, and let the held sleeve turn you slightly onto one side if it can."
+  },
+  "viNotes": {
+    "en": "Their hook is deep inside your leg, so you know exactly where their attacking leg is. Step out of it backwards while you can still feel it, then bring your own leg round behind the leg they are standing on, which by then is the only one on the mat. The whole exchange happens with legs touching, so nothing has to be judged across a gap."
+  }
+}

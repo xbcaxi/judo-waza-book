@@ -1,0 +1,123 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "generated": {
+      "type": ["string", "null"],
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+      "description": "Date of the aggregation run, or null before the first crawl has ever run."
+    },
+    "source": {
+      "type": "string",
+      "minLength": 1
+    },
+    "coverage": {
+      "type": "object",
+      "properties": {
+        "from_year": { "type": ["integer", "null"] },
+        "to_year": { "type": ["integer", "null"] },
+        "competitions": { "type": "integer", "minimum": 0 },
+        "contests": { "type": "integer", "minimum": 0 },
+        "stats_from_year": {
+          "type": "integer",
+          "description": "The earliest year that reaches a ranking. The crawl goes back further than this on purpose: the IJF published its footage to YouTube until about 2022 and to its own subscription player afterwards, so older contests are where the freely watchable video is, while event tagging is unreliable before 2020. A ranking needs reliable tagging; a clip only needs to exist and be watchable. Contests older than this contribute their footage and nothing else."
+        },
+        "excluded": {
+          "type": "object",
+          "description": "What the aggregation left out, recorded rather than silently dropped. paralympic_contests counts contests excluded because they are visually impaired judo: Paralympic Games Tokyo 2020 is the only VI event in the IJF's feed carrying results, and across its 39 contests not one event carries a technique tag, so it can contribute no score and only makes the tagging rates it touches look worse. That the IJF publishes no technique data for VI judo is a finding, and it should not be discoverable only by noticing an absence.",
+          "properties": {
+            "paralympic_contests": { "type": "integer", "minimum": 0 },
+            "pre_window_contests": { "type": "integer", "minimum": 0, "description": "Contests read for their clips alone, being older than stats_from_year." }
+          },
+          "required": ["paralympic_contests", "pre_window_contests"],
+          "additionalProperties": false
+        }
+      },
+      "required": ["from_year", "to_year", "competitions", "contests", "stats_from_year", "excluded"],
+      "additionalProperties": false
+    },
+    "rows": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "technique": {
+            "type": ["string", "null"],
+            "pattern": "^[a-z0-9][a-z0-9-]*$",
+            "description": "Waza Book slug, resolved through ijf-technique-map.json. Null only in the importer's permissive mode, which must not be committed."
+          },
+          "ijf_name": {
+            "type": "string",
+            "minLength": 1,
+            "description": "The IJF tag name verbatim, kept so a slug fed by several IJF names stays separable."
+          },
+          "sex": { "enum": ["m", "f"] },
+          "weight": {
+            "type": "string",
+            "minLength": 1,
+            "description": "IJF weight class label as-is: -60, +100, -48, +78."
+          },
+          "tier": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+          "age": { "enum": ["senior", "u23", "junior", "cadet", "veteran", "other"] },
+          "year": { "type": "integer", "minimum": 1948, "maximum": 2100 },
+          "minute": {
+            "enum": ["1", "2", "3", "4", "gs", "unknown"],
+            "description": "When in the contest the score fell: minute of regular time (a score at exactly 4:00 is minute 4), \"gs\" for golden score, \"unknown\" where the event carried no parseable time. What works in the first minute is not what works in golden score, and this axis is how a reader sees the difference."
+          },
+          "side": {
+            "enum": ["left", "right", "unknown"],
+            "description": "Left or right, from the IJF's direction tag on the scoring event; \"unknown\" where the event carried none, which is most ne-waza. WHICH left or right is not settled, and the IJF documents neither. Two readings survive: the direction the throw went, or the side tori threw from on the occasion - and in ordinary judo usage \"left uchi-mata\" means the second. What it is NOT is the thrower's habitual side: the IJF keeps that on the athlete's own record, beside their favourite technique, so it would not be restated on every throw. Settling this needs footage checked against tagged events, not more data. Until then any presentation should say left or right and let the reader read it as the throw's side, claiming neither reading in words."
+          },
+          "score": {
+            "enum": ["ippon", "waza-ari", "yuko"],
+            "description": "Waza-ari-awasete-ippon counts as ippon. Yuko exists pre-2017 and in the brief 2025 reintroduction; whether to show it is the website's decision."
+          },
+          "count": { "type": "integer", "minimum": 1 }
+        },
+        "required": ["technique", "ijf_name", "sex", "weight", "tier", "age", "year", "minute", "side", "score", "count"],
+        "additionalProperties": false
+      }
+    },
+    "denominators": {
+      "type": "array",
+      "description": "Contest counts per slice, so a reader sees scores per 100 contests rather than raw counts that mostly track how much was crawled. `tagged` is how many of those contests carry event tags at all - the honest base, since untagged contests can score without being counted.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "sex": { "enum": ["m", "f"] },
+          "weight": { "type": "string", "minLength": 1 },
+          "tier": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+          "age": { "enum": ["senior", "u23", "junior", "cadet", "veteran", "other"] },
+          "year": { "type": "integer", "minimum": 1948, "maximum": 2100 },
+          "contests": { "type": "integer", "minimum": 1 },
+          "tagged": { "type": "integer", "minimum": 0 }
+        },
+        "required": ["sex", "weight", "tier", "age", "year", "contests", "tagged"],
+        "additionalProperties": false
+      }
+    },
+    "decisions": {
+      "type": "array",
+      "description": "Contests ENDED by penalty rather than a score, and when: \"third-shido\" is hansoku-make by accumulation - the third shido to the same athlete - and \"hansoku-make\" a direct disqualification. One decision per contest, third-shido taking precedence where the timeline logs both for the same moment. Counting the third shido requires the timeline to name the penalised athlete, so these figures can undercount; the aggregation reports how many shido events it could not attribute.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "sex": { "enum": ["m", "f"] },
+          "weight": { "type": "string", "minLength": 1 },
+          "tier": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+          "age": { "enum": ["senior", "u23", "junior", "cadet", "veteran", "other"] },
+          "year": { "type": "integer", "minimum": 1948, "maximum": 2100 },
+          "minute": { "enum": ["1", "2", "3", "4", "gs", "unknown"] },
+          "by": { "enum": ["third-shido", "hansoku-make"] },
+          "count": { "type": "integer", "minimum": 1 }
+        },
+        "required": ["sex", "weight", "tier", "age", "year", "minute", "by", "count"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["generated", "source", "coverage", "rows", "denominators", "decisions"],
+  "additionalProperties": false,
+  "title": "ijf-technique-frequency",
+  "description": "How often each technique SCORES in IJF competition, by sex, weight, tier, age group, year, minute of the contest, side and score type. Scoring frequency, not attempt frequency: the IJF API only reliably records scoring events, and any presentation should say so. Generated by tools/ijf-results/aggregate.mjs; never edited by hand."
+}

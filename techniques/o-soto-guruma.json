@@ -1,0 +1,94 @@
+{
+  "nameRomaji": "O-soto-guruma",
+  "nameJa": "大外車",
+  "nameKana": "おおそとぐるま",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "major outer wheel"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": 5,
+  "kodokanNumber": 314,
+  "kodokanAbbr": "OGR",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "92KbCm6pQeI",
+      "title": "O-soto-guruma",
+      "duration": "1:00"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123999991",
+      "title": "O-soto-guruma"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "28:36 Osoto-guruma (large outer wheel)",
+      "start": 1716
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "PLgO2HKpQ0k",
+      "title": "O-soto-guruma",
+      "duration": "0:11"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "UlSqCI3p6ew",
+      "title": "o-soto-guruma"
+    }
+  ],
+  "ijfAnimation": "O-soto-guruma",
+  "links": [
+    {
+      "title": "O-soto-guruma on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/O-soto-guruma",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of O-soto-guruma, the major outer wheel."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori's leg bars behind both of uke's legs and uke is wheeled straight backwards over it."
+  },
+  "keyPoints": {
+    "en": [
+      "Bar the reaping leg behind both of uke's legs",
+      "Break balance to the rear before the leg goes in",
+      "Wheel uke back over the barring leg with both hands"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, step your left foot deep beside the outside of your partner's right foot, breaking their weight back over both heels with your hands.",
+      "Swing your right leg through and lay it as a bar behind both of their legs, across the backs of both thighs.",
+      "Your chest presses forward as the leg holds behind them: their weight is trapped over the bar.",
+      "Turn your trunk and hands so they wheel backwards over the barring leg.",
+      "They fall onto their back behind the line of the bar; keep the sleeve and pull up on it as they land, because this fall goes straight back."
+    ]
+  },
+  "receiving": {
+    "en": "Like the major outer reap, but the leg arrives behind both of your legs at once: your weight is already back, and now nothing behind you can step. The fall is straight backwards and firm. Tuck your chin hard, breathe out, and slap with your free arm the moment your back lands."
+  },
+  "viNotes": {
+    "en": "The bar goes behind both legs, so the step has to be deep: you are deep enough when your hip passes theirs, which you feel rather than judge. Lay the leg across the backs of both thighs by drawing it back until it meets them both. Pull hard on the sleeve as they go, because this one drops them straight backwards with neither leg able to step."
+  }
+}

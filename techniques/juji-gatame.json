@@ -1,0 +1,142 @@
+{
+  "nameRomaji": "Juji-gatame",
+  "nameJa": "十字固",
+  "nameKana": "じゅうじがため",
+  "aliases": [
+    "Ude-hishigi-juji-gatame"
+  ],
+  "otherNames": [
+    {
+      "name": "armbar",
+      "system": "bjj",
+      "note": {
+        "en": "BJJ's armbar is a family of positions; juji-gatame is its classical cross-body form."
+      }
+    }
+  ],
+  "gloss": {
+    "en": "cross armlock"
+  },
+  "category": "katame-waza",
+  "subCategory": "kansetsu-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 802,
+  "kodokanAbbr": "JGT",
+  "kodokan": {
+    "nameRomaji": "Ude-hishigi-juji-gatame",
+    "nameJa": "腕挫十字固"
+  },
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "OWgSOlCuMXw",
+      "title": "Ude-hishigi-juji-gatame",
+      "duration": "1:12"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "GCkAgBgDe1k",
+      "title": "Juji-Gatame"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "bZbPnqqpnmM",
+      "title": "Juji-Gatame - Entry from Beneath"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "yFFfdKAxmug",
+      "title": "Juji-Gatame - Over the Shoulder Entry"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "scmsmTdiRsY",
+      "title": "Juji-Gatame - Roll over entry"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548843143",
+      "title": "Juji-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548843358",
+      "title": "Juji-Gatame - Entry from Beneath"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548830006",
+      "title": "Juji-Gatame - Over the Shoulder Entry"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548843565",
+      "title": "Juji-Gatame - Roll over entry"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123994415",
+      "title": "Juji-gatame"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "lx68r7n38VA",
+      "title": "JANE BRIDGE - UDE HISHIGI JUJI GATAME"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Juji-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Juji-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Juji-gatame, the cross armlock."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The cross armlock: uke's extended arm is levered across tori's hips, the whole body bending the elbow against its hinge. The most successful armlock in competition judo. Kansetsu-waza are restricted by age in most federations; learn and practise this only under instruction."
+  },
+  "keyPoints": {
+    "en": [
+      "Sit close: your hips against their shoulder, no space under the arm",
+      "Knees pinched together, their thumb pointing to the ceiling",
+      "Lift your hips gently to apply; release the instant they tap"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner lies on their back; you are beside their right shoulder, controlling their right arm with both of yours, hugging it to your chest.",
+      "Place your left leg over their head and your right leg over their chest, then sit down close, your hips tight against their right shoulder: there must be no space between your hips and their arm.",
+      "Lie back, keeping the arm hugged to your chest with their thumb turned towards the ceiling, your knees pinched together over the arm.",
+      "Keep both of your legs heavy: the leg over their head stops them sitting up, the leg over their chest stops them rolling towards you.",
+      "Apply the lock by lifting your hips gently upward against the back of their elbow while the arm stays hugged straight. The pressure builds gradually; there is never a jerk.",
+      "The moment they tap, lower your hips and release the arm completely. In practice, apply only under instruction and within your federation's age rules."
+    ]
+  },
+  "receiving": {
+    "en": "Your arm is hugged away and their legs arrive over your head and chest; as their hips lift you feel a straightening pressure at the back of your elbow that builds rather than strikes. Tap early and clearly, on them or the mat, at the FIRST feeling of pressure on the joint; an elbow gives little warning between discomfort and damage, and there is nothing to be gained by waiting. Never snatch the arm out with a twist; if your partner releases, come out calmly."
+  },
+  "viNotes": {
+    "en": "Every checkpoint here is a contact, which is why armlocks travel so well into VI judo. Hips tight to their shoulder with no gap, both knees pinched over the arm, their thumb turned up in your hands. Lift the hips slowly and keep your head near the trapped arm so you can hear the tap as well as feel it, then lower and release the arm completely."
+  }
+}

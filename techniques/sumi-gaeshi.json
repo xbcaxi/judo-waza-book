@@ -1,0 +1,148 @@
+{
+  "nameRomaji": "Sumi-gaeshi",
+  "nameJa": "隅返",
+  "nameKana": "すみがえし",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "butterfly sweep",
+      "system": "bjj",
+      "note": {
+        "en": "The lifting instep is the butterfly hook; BJJ applies the same reversal from butterfly guard."
+      }
+    }
+  ],
+  "gloss": {
+    "en": "corner reversal"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "ma-sutemi-waza",
+  "gokyoSet": 4,
+  "kodokanNumber": 402,
+  "kodokanAbbr": "SUG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "5VhduA5xkbA",
+      "title": "Sumi-gaeshi",
+      "duration": "1:01"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "dxhcRPkrDx8",
+      "title": "Sumi-Gaeshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551879097",
+      "title": "Sumi-Gaeshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551889206",
+      "title": "sumi-gaeshi-cross-grip",
+      "role": "cross grip"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551889300",
+      "title": "sumi-gaeshi-from-belt",
+      "role": "from the belt"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124001792",
+      "title": "Sumi-gaeshi"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "0BuqVnafVSg",
+      "title": "Sumi-gaeshi - Basic Principles",
+      "role": "basic principles"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "y_73gsi1V00",
+      "title": "Sumi-gaeshi - Competitive Variations",
+      "role": "competitive variations"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "2q-3jS3BEEA",
+      "title": "Sumi-gaeshi - Set Ups",
+      "role": "set ups"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "3P9CjBd_nx0",
+      "title": "柏崎 克彦 KATSUHIKO KASHIWAZAKI - SUMI GAESHI"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "32:49 Sumi-gaeshi (corner reversal)",
+      "start": 1969
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "4OWfBx3xlXM",
+      "title": "Sumi-gaeshi"
+    }
+  ],
+  "ijfAnimation": "Sumi-gaeshi",
+  "links": [
+    {
+      "title": "Sumi-gaeshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Sumi-gaeshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Sumi-gaeshi, the corner reversal."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "A sacrifice throw against a crouching opponent: tori rolls back and lifts with the instep inside uke's thigh, turning uke over the corner."
+  },
+  "keyPoints": {
+    "en": [
+      "Hook the instep inside uke's thigh as you roll back",
+      "Throw towards uke's front corner, not straight over",
+      "Keep pulling with the hands so uke rolls, not lands on you"
+    ]
+  },
+  "described": {
+    "en": [
+      "Face your partner in a crouched, defensive posture, both of you bent forward; take a grip over their back or on the collar with your right hand, sleeve with your left.",
+      "Step your right foot between their feet and sit down close, folding back beneath them; your partner's own forward pressure follows you down.",
+      "As you roll onto your back, hook your right instep into the inside of their left thigh, lifting as your back meets the mat.",
+      "Pull with both hands towards a point past your left shoulder while the instep lifts, steering them over you towards their right front corner.",
+      "They roll over you diagonally and land on their back beyond your shoulder. Keep pulling until the roll is complete so they land rolling, not dropping."
+    ]
+  },
+  "receiving": {
+    "en": "From a crouched grip fight, your partner sits away beneath you and an instep lifts inside your thigh: your own forward pressure is turned into a roll. You travel diagonally over them. Keep your head tucked to one side, roll across your shoulder rather than your head, and finish the roll onto your back; the momentum wants you to keep rolling to your feet, and you can let it."
+  },
+  "viNotes": {
+    "en": "Both of you are crouched and gripped, which is contact you already have, and their forward pressure is the signal to sit. Find the inside of their thigh by running your instep up the inside of their leg as you go down. Keep pulling all the way through the roll so they land rolling; from underneath, a partner who stops pulling is how a roll turns into a drop."
+  }
+}

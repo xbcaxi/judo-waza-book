@@ -1,0 +1,47 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "tai-otoshi",
+    "ko-soto-gake"
+  ],
+  "about": {
+    "en": "The extended blocking leg of a Tai-otoshi carries no weight. Hooking behind it while your partner is committed to the turn drops them backwards over their own block."
+  },
+  "described": {
+    "en": [
+      "Feel their leg arrive across the front of your foot as they turn in for Tai-otoshi.",
+      "Stop your own forward momentum: sink your hips and keep your chest upright.",
+      "Keep both grips and step your blocked foot back over their extended leg.",
+      "Hook the sole of your near foot behind the heel of their supporting leg.",
+      "Drive their chest backwards with your lapel hand while the hook holds the heel.",
+      "They fall backwards; keep the sleeve and stay balanced over them."
+    ]
+  },
+  "receiving": {
+    "en": "You are the attacker. The blocking leg of a body drop carries no weight, and if they sink instead of turning, you are standing on one foot with a leg stretched across in front of them. Their foot hooks behind your supporting heel and your own block becomes the thing you fall over. It is a backward fall with a leg still committed forwards: chin on your chest, no straight arm behind you, and slap with your free arm as your back lands."
+  },
+  "viNotes": {
+    "en": "The block itself tells you where their supporting foot is, because your own foot is against their leg. Sink your hips first so you are not turned, then step back over the block and let your foot follow their shin down to the heel. Hook and push at the same moment: the foot holds the heel while your hand takes their chest the other way."
+  },
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "ujrI7-1eHGw",
+      "title": "Tai-Otoshi countered by Ko-Soto-Gake/Gari"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548840970",
+      "title": "Tai-Otoshi countered by Ko-Soto-Gake/Gari"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "l4WmQJgbMY4",
+      "title": "Tai-otoshi countered by Ko-soto-gake",
+      "duration": "0:12"
+    }
+  ]
+}

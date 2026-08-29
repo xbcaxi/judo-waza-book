@@ -1,0 +1,74 @@
+{
+  "nameRomaji": "Sumi-otoshi",
+  "nameJa": "隅落",
+  "nameKana": "すみおとし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "corner drop"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": 5,
+  "kodokanNumber": 109,
+  "kodokanAbbr": "SOT",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "lLU9wv52ni0",
+      "title": "Sumi-otoshi",
+      "duration": "0:52"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124001927",
+      "title": "Sumi-otoshi"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "qAmTULTqQSo",
+      "title": "Sumi-otoshi"
+    }
+  ],
+  "ijfAnimation": "Sumi-otoshi",
+  "links": [
+    {
+      "title": "Sumi-otoshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Sumi-otoshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "A hand throw to uke's rear corner: as uke's weight settles onto the heels, tori steps in and drops uke straight down into the open corner."
+  },
+  "keyPoints": {
+    "en": [
+      "Break balance to the rear corner over uke's heel",
+      "Step deep behind uke's line as you drive down",
+      "Throw with both hands together: there is no leg contact"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, move so your partner's weight settles back towards their right heel, their balance leaning to their right rear corner.",
+      "Step your left foot forward and outside their right foot, your body coming close past their right side.",
+      "Drive both hands down towards their right rear corner: sleeve hand pressing down and back, lapel hand pushing through their chest line towards the same spot on the mat.",
+      "Nothing touches their legs; your step and the two-handed drive alone send their weight past their heel.",
+      "They sit back into the corner and land on their back; hold the sleeve up as they land so the fall is broken."
+    ]
+  },
+  "receiving": {
+    "en": "No leg touches you: a step past your side and a two-handed drive send your weight past your right heel into the rear corner. It feels abrupt, like a chair being pulled away. Sit into the fall, chin tucked, back rounded, and slap with your free arm; do not reach a straight arm behind you to save it."
+  },
+  "viNotes": {
+    "en": "Nothing touches their legs, so the whole throw is read and delivered through the hands: you are waiting for their weight to settle back onto the heel, which arrives as their pressure coming onto your grips. Step past their side and drive both hands at the corner behind them. It works well from the gripped-up start, because grips are all it ever needed."
+  }
+}

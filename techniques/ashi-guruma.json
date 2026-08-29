@@ -1,0 +1,94 @@
+{
+  "nameRomaji": "Ashi-guruma",
+  "nameJa": "足車",
+  "nameKana": "あしぐるま",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "leg wheel"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": 3,
+  "kodokanNumber": 311,
+  "kodokanAbbr": "AGU",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "ROeayhvom9U",
+      "title": "Ashi-guruma",
+      "duration": "0:57"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123977021",
+      "title": "Ashi-guruma"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "26:03 Ashi-guruma (leg wheel)",
+      "start": 1563
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "z6qw_oGcRtU",
+      "title": "Ashi-guruma",
+      "duration": "0:12"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "5w0JqjB3eKY",
+      "title": "Ashi-guruma"
+    }
+  ],
+  "ijfAnimation": "Ashi-guruma",
+  "links": [
+    {
+      "title": "Ashi-guruma on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ashi-guruma",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Ashi-guruma, the leg wheel."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori's leg bars across uke's knee line and uke is wheeled over it with a strong rotary action of the hands, without the leg ever taking weight."
+  },
+  "keyPoints": {
+    "en": [
+      "The barring leg touches lightly across the knee line",
+      "Wheel uke over the leg with hands and trunk rotation",
+      "Balance on the supporting leg through the whole throw"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, draw your partner forward onto their toes as if beginning a hip throw.",
+      "Pivot on your left foot, turning your back partway into them, but instead of taking hip contact, raise your right leg and lay it as a bar across the front of their right leg, just below the knee, without resting weight on it.",
+      "Balance entirely on your bent left leg; the barring leg stays light.",
+      "Turn both hands and your trunk powerfully to the left, wheeling their floating weight over the barred leg.",
+      "They rotate over your leg like a wheel over an axle and land on their back to your front left. Keep the sleeve through the landing and step down with the barring leg once they are down."
+    ]
+  },
+  "receiving": {
+    "en": "You are drawn forward and a leg lies across your knee line as a bar; your upper body is wheeled on while your legs stay. The rotation is like tai-otoshi but higher up the leg. Tuck your chin, follow the wheel, and land on your back with your free left arm slapping."
+  },
+  "viNotes": {
+    "en": "From the gripped-up start the entry feels like a hip throw right up to the moment the hip contact never comes, so judge the turn by their weight rising through both grips rather than by the shape of it. Place the barring leg by sliding your shin up the outside of theirs until it meets the knee line; a leg lifted to a height you have guessed will either miss or take weight, and both spoil the wheel."
+  }
+}

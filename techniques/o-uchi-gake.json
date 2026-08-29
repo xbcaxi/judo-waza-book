@@ -1,0 +1,63 @@
+{
+  "nameRomaji": "O-uchi-gake",
+  "nameJa": "大内掛",
+  "nameKana": "おおうちがけ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "major inner hook"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": null,
+  "kodokanAbbr": null,
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "FzZMvsM1_lY",
+      "title": "Kata-hiza-te-ouchi-gake-ashi-dori",
+      "duration": "0:22",
+      "role": "one-knee leg-grab (ashi-dori) entry"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of O-uchi-gake, the major inner hook."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The hooking form of the major inner reap, named separately in the British Judo syllabus: the leg hooks uke's inner thigh and STAYS, and tori drives forward to the mat over the trapped leg rather than reaping it away."
+  },
+  "keyPoints": {
+    "en": [
+      "Hook and keep the leg; the drive of your chest does the throwing",
+      "Weight forward: this technique walks them backwards over the trap",
+      "Follow them down with control, your hooked leg releasing as they land"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, step in close and curl your right calf around the inside of their left leg, as for the major inner reap.",
+      "Instead of reaping through, keep the hook: your leg stays wrapped behind their thigh or knee.",
+      "Drive forward with your chest and both hands, walking them backwards over the trapped leg.",
+      "Follow them down as they topple, keeping the hook until their balance is fully gone.",
+      "They land on their back with you close above; release the leg as they land and keep the sleeve up for their breakfall."
+    ]
+  },
+  "receiving": {
+    "en": "A leg wraps inside yours and stays, and their chest starts driving: with the leg trapped you cannot step back to save the balance. The fall is backwards with them following in close. Tuck your chin, take the rear breakfall, and expect their weight to arrive just after the mat does."
+  },
+  "viNotes": {
+    "en": "The hook stays, and that is the advantage: once your calf is wrapped behind their thigh you have a fixed contact and can drive with the whole body without needing to place anything else. Curl the leg in by sliding it up the inside of theirs rather than reaching for the position. Follow them down, and keep the sleeve up for their breakfall."
+  }
+}

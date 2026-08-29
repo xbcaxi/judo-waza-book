@@ -1,0 +1,62 @@
+{
+  "nameRomaji": "Hane-goshi-gaeshi",
+  "nameJa": "跳腰返",
+  "nameKana": "はねごしがえし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "springing hip counter"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 319,
+  "kodokanAbbr": "HGG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "9bZAZSBtnGs",
+      "title": "Hane-goshi-gaeshi",
+      "duration": "0:42"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Hane-goshi-gaeshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Hane-goshi-gaeshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The counter to Hane-goshi: as uke turns in and springs the leg out, tori blocks or sweeps the springing leg and takes them over in the direction they were already turning. A Kodokan foot technique, and one that rewards feeling the turn early."
+  },
+  "keyPoints": {
+    "en": [
+      "Meet the spring: block the leg before it lifts you",
+      "Keep your hips back and heavy as they turn in",
+      "Sweep the loaded leg, and use their own rotation"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner turns in for Hane-goshi, their right leg bending to spring across your thigh.",
+      "Drop your hips back and lower your weight so their spring cannot get underneath you.",
+      "Take your right leg round the outside and hook or sweep their springing leg as it comes up.",
+      "Pull down on their collar with your left hand so their head goes where their hips were going.",
+      "They continue their own turn all the way over and land in front of you."
+    ]
+  },
+  "receiving": {
+    "en": "Your entry is going well until the lift fails and your springing leg is caught in the air. You are already rotating, so the counter simply completes the turn: the landing is on your side or back, on the side you were turning towards. Tuck your chin, keep the free arm ready to slap, and do not reach a hand back to break the fall."
+  },
+  "viNotes": {
+    "en": "The attack announces itself before it lands: their hip turns in and a bent leg presses across the front of your thigh. Drop your weight the instant you feel the turn rather than waiting for the leg, or the spring gets underneath you. Take your own leg round the outside by tracing their calf with yours, and start the pull down on the collar as soon as your legs touch."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "nameRomaji": "Harai-goshi-gaeshi",
+  "nameJa": "払腰返",
+  "nameKana": "はらいごしがえし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "sweeping hip counter"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 320,
+  "kodokanAbbr": "HGE",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "4U3It-7PPsc",
+      "title": "Harai-goshi-gaeshi",
+      "duration": "0:43"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Harai-goshi-gaeshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Harai-goshi-gaeshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The counter to Harai-goshi: as uke turns in and sweeps, tori catches the sweeping leg with their own and lifts it, so uke is turned over on the leg they were standing on. Recognised by the Kodokan as a technique in its own right."
+  },
+  "keyPoints": {
+    "en": [
+      "Hips back and low the moment they turn in",
+      "Trap their sweeping leg with your own",
+      "Lift the trapped leg and turn them, do not just resist"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner turns in for Harai-goshi, their right leg swinging back to sweep your thigh.",
+      "Drop your hips away and bend your knees so the sweep cannot lift you.",
+      "Catch their sweeping leg between or against your own, hooking it with your right leg.",
+      "Lift that trapped leg upwards while pulling their collar down and across with your left hand.",
+      "Their standing leg cannot hold them and they turn over onto their back beside you."
+    ]
+  },
+  "receiving": {
+    "en": "Your sweeping leg meets resistance and then rises, which is the moment the throw becomes theirs. You land on your back or side, having been turned rather than dropped. Chin tucked, slap wide with the free arm, and trust the grip you still hold to steady the landing."
+  },
+  "viNotes": {
+    "en": "The sweep reaches you as a leg swinging back along the outside of your thigh, and that contact is the signal to drop your hips. Catch the sweeping leg by following it with your own rather than reaching for where you think it is, and pull their collar down and across the moment your legs meet. Their own turn does most of the work from there."
+  }
+}

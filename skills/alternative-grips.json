@@ -1,0 +1,35 @@
+{
+  "name": {
+    "en": "Alternative grips"
+  },
+  "nameRomaji": "Kumi-kata",
+  "nameJa": "組み方",
+  "kind": "kumi-kata",
+  "about": {
+    "en": "Everything other than the standard grip: same-side and cross grips, the double lapel, the high collar over the shoulder, and the sleeve-and-belt. Each changes which throws are available and which are shut down, and the syllabuses ask you to show that you know several."
+  },
+  "keyPoints": {
+    "en": [
+      "Every grip opens some techniques and closes others",
+      "A grip you cannot attack from within a few seconds is a penalty risk",
+      "Change the grip rather than fight to keep a bad one"
+    ]
+  },
+  "described": {
+    "en": [
+      "From the standard grip, try the high collar: take their collar behind the neck with your right hand, elbow high, which bends their posture forward.",
+      "Try the double lapel: both hands on their lapels, one high and one low, which controls their posture squarely but gives up the sleeve.",
+      "Try the cross grip: reach your right hand across to their right lapel, which turns their shoulders and opens the opposite side.",
+      "Try sleeve and belt: your right hand on their belt at the side, which is strong for forward throws and weak against backward ones.",
+      "For each grip in turn, name a throw it makes easy and a throw it makes hard.",
+      "Return to the standard grip between each so the difference is obvious. Remember that holding any grip without attacking draws a penalty in contest."
+    ]
+  },
+  "receiving": {
+    "en": "A grip you have never felt before is disorienting more than dangerous. Notice what it does to your posture: a high collar bends you forward, a belt grip stops you stepping back. Answer by breaking the grip or by moving, not by standing still and enduring it."
+  },
+  "viNotes": {
+    "en": "Grip changes are the part of standing judo most readily felt rather than seen, so this is a strength rather than a gap. Name each grip aloud when drilling it with a partner, so the feel and the name are learned together."
+  },
+  "videos": []
+}

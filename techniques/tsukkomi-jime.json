@@ -1,0 +1,71 @@
+{
+  "nameRomaji": "Tsukkomi-jime",
+  "nameJa": "突込絞",
+  "nameKana": "つっこみじめ",
+  "aliases": [
+    "Tsuki-komi-jime",
+    "Tsukomi-jime"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "thrusting strangle"
+  },
+  "category": "katame-waza",
+  "subCategory": "shime-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 710,
+  "kodokanAbbr": "TKJ",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "dKKpnD3eLcY",
+      "title": "Tsukkomi-jime",
+      "duration": "1:18"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Tsukomi-jime on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Tsukomi-jime",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Tsukkomi-jime, the thrusting strangle."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "A strangle by thrust: one hand grips deep in the far collar and the other drives the near collar across the throat like a bar. Direct and fast. Strangles are restricted by age in most federations; learn and practise this only under instruction and supervision."
+  },
+  "keyPoints": {
+    "en": [
+      "One deep anchor grip, one thrusting fist across",
+      "The thrust drives the cloth, never the knuckles, into the neck",
+      "Control their posture first; the thrust needs a fixed target"
+    ]
+  },
+  "described": {
+    "en": [
+      "Facing your partner on the ground, grip deep in their left collar with your left hand, thumb inside, anchoring their head.",
+      "With your right hand, take their right collar low, near the chest, gathering the cloth in your fist.",
+      "Fix their posture with the anchor grip so they cannot pull away.",
+      "Thrust your right fist across their throat, driving the gathered collar cloth like a bar, while the anchor hand pulls the other way.",
+      "Apply on a smooth curve, and release both hands completely the moment they tap."
+    ]
+  },
+  "receiving": {
+    "en": "One grip anchors your collar and a fist drives the other side of the cloth straight across your throat: this one arrives faster than the crossed strangles. Defend the anchoring grip early and keep your chin tucked. Tap immediately and clearly the moment the strangle is properly on, on their arm or body where they will feel it; never hold out to prove toughness. Tell your instructor if you ever feel light-headed afterwards."
+  },
+  "viNotes": {
+    "en": "Two hands doing different jobs, so check them separately by feel: the anchor deep in the far collar, the fist gathered low on the near one. The thrust is the fast part, which is exactly why it goes on a smooth curve rather than as a push. Release both hands together at the tap."
+  }
+}

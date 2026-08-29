@@ -1,0 +1,68 @@
+{
+  "nameRomaji": "Yoko-tomoe-nage",
+  "nameJa": "横巴投",
+  "nameKana": "よこともえなげ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "side circle throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "ma-sutemi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": null,
+  "kodokanAbbr": null,
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "OSCbe6KHR_4",
+      "title": "Yoko-Tomoe-Nage"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551843548",
+      "title": "Yoko-Tomoe-Nage"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "kqi9k4uzv10",
+      "title": "Yoko-tomoe-nage",
+      "duration": "0:45"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [],
+  "image": null,
+  "about": {
+    "en": "The circle throw taken to the side: tori falls to one side rather than straight back, the foot steering uke over the diagonal. The form most used in modern competition; the Kodokan treats it as a form of tomoe-nage."
+  },
+  "keyPoints": {
+    "en": [
+      "Fall to your side, not straight back, under their advancing corner",
+      "The foot lands at their hip or thigh crease, steering diagonally",
+      "Pull around your head, not over it; the throw travels sideways"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, step your left foot outside their right foot as you begin to sit away to your left side.",
+      "Place your right sole at the crease of their left hip or inner thigh as your body folds to the side beneath them.",
+      "Pull both hands around past your left shoulder, your body lying on its side rather than flat.",
+      "Your foot steers their weight over the diagonal and they travel over your folded body.",
+      "They land rolling on their back past your shoulder; keep pulling until the roll completes."
+    ]
+  },
+  "receiving": {
+    "en": "Instead of dropping straight back beneath you, they fold away to one side and the foot steers you over a diagonal: the flight is shorter and quicker than the classical circle throw. Tuck your head to the side and roll across your shoulder onto your back beyond them."
+  },
+  "viNotes": {
+    "en": "The side version is easier to commit to without sight than the straight-back one, because you fold onto your side rather than travelling over your own head. Place your foot at the hip crease by sliding it up their thigh. Pull past your left shoulder and keep pulling until the roll completes, and know where the mat edge is before you sit."
+  }
+}

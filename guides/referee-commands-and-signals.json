@@ -1,0 +1,212 @@
+{
+  "category": "refereeing",
+  "title": {
+    "en": "Referee commands and signals"
+  },
+  "summary": {
+    "en": "What the referee says, what it means, and what happens next. The commands are spoken aloud in Japanese in every country, which makes them the most accessible part of competition: you hear everything that matters."
+  },
+  "sections": [
+    {
+      "prose": {
+        "en": "Every command that changes the state of a contest is spoken, not just signalled, and always in Japanese. For a visually impaired judoka this matters: the voice carries the whole contest. The arm signals are described here too, so coaches and spectators can follow, but the word alone is always sufficient. This guide covers the commands heard in every contest; a first draft pending review against your federation's current rulebook."
+      }
+    },
+    {
+      "heading": {
+        "en": "Hajime"
+      },
+      "prose": {
+        "en": "Begin. Said at the start of the contest and after every pause. When you hear it, you are live: grips, movement and attacks may start at once."
+      }
+    },
+    {
+      "heading": {
+        "en": "Matte"
+      },
+      "prose": {
+        "en": "Wait, stop. Both contestants stop immediately, return to their marks, and adjust their judogi. The clock stops. Nothing that happens after matte can score. Signal: arm raised towards the timekeepers, palm forward."
+      }
+    },
+    {
+      "heading": {
+        "en": "Osaekomi and Toketa"
+      },
+      "prose": {
+        "en": "Osaekomi announces that a hold-down is on and its clock is running; toketa announces the hold is broken and the clock stops. Under current international rules the hold scores at three points: yuko at five seconds, waza-ari at ten, and ippon at twenty, which ends the contest. Signal: arm extended down towards the contestants for osaekomi, waved side to side for toketa."
+      }
+    },
+    {
+      "heading": {
+        "en": "Ippon"
+      },
+      "prose": {
+        "en": "Full point; the contest ends at once. Awarded for a throw with control, largely on the back, with speed and force; for twenty seconds of hold-down; or for submission. Signal: arm raised straight above the head, palm forward."
+      }
+    },
+    {
+      "heading": {
+        "en": "Waza-ari"
+      },
+      "prose": {
+        "en": "Half point. Awarded for a throw that lands past ninety degrees of the shoulder axis but not on the back, or that nearly earns ippon, and for a hold-down of ten to nineteen seconds. Two waza-ari end the contest as waza-ari-awasete-ippon. Signal: arm raised sideways to shoulder height, palm down."
+      }
+    },
+    {
+      "heading": {
+        "en": "Yuko"
+      },
+      "prose": {
+        "en": "The smallest score, returned to international judo for the current Olympic cycle after eight years away, so a referee's yuko may be the first many spectators have seen called. Awarded for a landing on the side at about ninety degrees or further forward, on the upper back, across shoulder and one elbow or hand, on one or both buttocks, or on the neck; and for a hold-down of five to nine seconds. Yuko are counted and called out, but they never add up to a waza-ari: they separate contestants who are otherwise level, and in golden score the first one wins the contest. Signal: arm extended down and out from the side of the body, about forty-five degrees from vertical, palm down."
+      }
+    },
+    {
+      "heading": {
+        "en": "Shido and Hansoku-make"
+      },
+      "prose": {
+        "en": "Shido is a penalty for minor infringements: passivity, false attacks, stepping out, dangerous or purely defensive gripping, breaking a grip with both hands and taking nothing in return, and wasting the time between matte and hajime over a judogi, hair or belt - for which the referee shows a warning first and penalises the second time. A third shido becomes hansoku-make, disqualification. Hansoku-make is also given directly for prohibited acts: the banned techniques in this reference, and any ushiro-sankaku entanglement that puts the neck or spine at risk. Signal: a raised arm with the index finger extended towards the penalised contestant."
+      }
+    },
+    {
+      "heading": {
+        "en": "Sono-mama and Yoshi"
+      },
+      "prose": {
+        "en": "Heard mainly in groundwork: sono-mama means freeze exactly as you are, usually so a penalty can be given; yoshi means carry on from that exact position. Do not adjust your grip between the two."
+      }
+    },
+    {
+      "heading": {
+        "en": "Sore-made"
+      },
+      "prose": {
+        "en": "That is all: the end of the contest. Return to your marks, adjust your judogi, and wait for the result to be indicated before bowing off."
+      }
+    }
+  ],
+  "videos": [
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124103417",
+      "title": "Judo Referee Hand Signal Matte"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124105549",
+      "title": "Judo Referee Hand Signal: Osaekomi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124105828",
+      "title": "Judo Referee Hand Signal: Toketa"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124105248",
+      "title": "Judo Referee Hand Signal: Sonomama"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124105356",
+      "title": "Judo Referee Hand Signal: Yoshi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124103221",
+      "title": "Judo Referee Hand Signal Wazari"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124103020",
+      "title": "Wazari",
+      "role": "the score signalled"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124103307",
+      "title": "Judo Referee Hand Signal Yuko"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124106208",
+      "title": "Judo Referee Hand Signal: Hansoku-make"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124103566",
+      "title": "Judo Referee Hand Signal Non combativity"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124105072",
+      "title": "Judo Referee Hand Signal: False Attack"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124103658",
+      "title": "Judo Referee Hand Signal Defensive Posture"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124103765",
+      "title": "Judo Referee Hand Signal: Refuse to Grip"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124104486",
+      "title": "Judo Referee Hand Signald: Refuse to grip"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124104372",
+      "title": "Judo Referee Hand Signal: Blocking Lapel Grip"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124104985",
+      "title": "Judo Referee Hand Signal: Two hands on one Side"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124104889",
+      "title": "Judo Referee Hand Signal: Finger inside gi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124104140",
+      "title": "Judo Referee Hand Signals: Duck under Gi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124104693",
+      "title": "Judo Referee Hand Signal: Walk Out of Contest Area"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124103142",
+      "title": "Judo Referee Hand Signals",
+      "role": "the set together"
+    }
+  ]
+}

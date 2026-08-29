@@ -1,0 +1,80 @@
+{
+  "category": "rules",
+  "title": {
+    "en": "Competition rules: the basics"
+  },
+  "summary": {
+    "en": "How a judo contest is won, scored and penalised, in one page, with the three scores now in use: ippon, waza-ari and yuko. A summary of the essentials; your federation's current rulebook is always the authority."
+  },
+  "sections": [
+    {
+      "prose": {
+        "en": "Rules change more often than techniques do, and the scoring is where they change most. Yuko was taken out of international judo in 2017 and brought back for the current Olympic cycle, so a contest now has three scores again and the coach shouting from the mat side may be working from any of the last three rulebooks. This page covers the shape of a contest under current international (IJF) rules so a newcomer or a grading candidate can follow one; where it disagrees with your federation's current rulebook, the rulebook wins."
+      }
+    },
+    {
+      "heading": {
+        "en": "Winning"
+      },
+      "prose": {
+        "en": "A contest is won by ippon: a throw landing largely on the back with control, speed and force; twenty seconds of hold-down; or submission to a strangle or an elbow lock. Two waza-ari make ippon and end it the same way, and so does a third shido against the other contestant. If time runs out with nothing decisive, the higher score wins: more waza-ari first, and if the waza-ari are level, more yuko. Only if the contestants are level on both does the contest go into golden score."
+      }
+    },
+    {
+      "heading": {
+        "en": "The three scores"
+      },
+      "prose": {
+        "en": "Ippon ends the contest. Waza-ari is the throw that lands past ninety degrees of the shoulder axis but not on the back, or that misses one of the four elements of ippon - speed, force, on the back, controlled to the landing. Yuko is the smallest score: a landing on the side at about ninety degrees or further forward, on the upper back, on the side across shoulder and one elbow or hand, on one or both buttocks, or on the neck. There is no score at all where the stomach, the front of the hip or a knee touches first."
+      }
+    },
+    {
+      "heading": {
+        "en": "Scores do not add up, except two waza-ari"
+      },
+      "prose": {
+        "en": "Two waza-ari make ippon. Nothing else accumulates. Yuko are counted and announced - one, two, three - but they never combine into a waza-ari: ten yuko still lose to one waza-ari. This is what makes them a tie-breaker rather than a running total, and it is the part most often got wrong by anyone who learned the pre-2017 rules, where scores did build."
+      }
+    },
+    {
+      "heading": {
+        "en": "Hold-downs"
+      },
+      "prose": {
+        "en": "Osaekomi has its own clock, started when the referee calls it and stopped by toketa or matte. Five to nine seconds scores yuko, ten to nineteen scores waza-ari, and twenty seconds is ippon and the end of the contest. A hold broken at four seconds scores nothing."
+      }
+    },
+    {
+      "heading": {
+        "en": "Golden score"
+      },
+      "prose": {
+        "en": "Golden score has no time limit and begins with the scores as they stand; the shido already given stay on the board. The first score of any kind wins it - a yuko is enough - and so does the other contestant's third shido. This is the practical effect of bringing yuko back: an overtime that could once run for many minutes now ends on the first properly controlled landing on the side."
+      }
+    },
+    {
+      "heading": {
+        "en": "Penalties"
+      },
+      "prose": {
+        "en": "Shido punishes passivity and minor infringements: false attacks, stepping out, defensive or dangerous gripping, breaking a grip with two hands and taking nothing in return, and wasting time between matte and hajime by dawdling over a judogi, hair or belt. Three shido make hansoku-make. Direct hansoku-make punishes acts against the spirit or safety of judo, including the banned techniques listed in this reference, and ends the contest immediately. Shido never score: they decide a contest only by reaching three."
+      }
+    },
+    {
+      "heading": {
+        "en": "Groundwork"
+      },
+      "prose": {
+        "en": "Ne-waza continues while there is progress: working towards a hold, strangle or lock. When it stalls, the referee calls matte and the contest returns to standing. Real groundwork attacks now count towards combativity exactly as standing attacks do, so a contestant who genuinely attacks on the mat is not penalised for failing to attack on their feet - though pushing and holding on is not an attack. Strangles and elbow locks are for senior age groups only; check your federation's age rules."
+      }
+    },
+    {
+      "heading": {
+        "en": "VI judo differences"
+      },
+      "prose": {
+        "en": "In IBSA (Paralympic) judo, contestants begin already gripped and are restarted in grips after each break, and the classifications group contestants by sight and experience. If you are a visually impaired judoka reading this, your contest starts at the part most others have to fight for."
+      }
+    }
+  ]
+}

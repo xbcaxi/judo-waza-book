@@ -1,0 +1,112 @@
+{
+  "nameRomaji": "Uki-waza",
+  "nameJa": "浮技",
+  "nameKana": "うきわざ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "floating technique"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": 5,
+  "kodokanNumber": 506,
+  "kodokanAbbr": "UWA",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "weVOpJ63gII",
+      "title": "Uki-waza",
+      "duration": "1:03"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "Ou9Slc-uKvg",
+      "title": "Uki-Waza"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551851386",
+      "title": "Uki-Waza"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124017269",
+      "title": "Uki-waza"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "EKtbju_kwpw",
+      "title": "柏崎 克彦 KATSUHIKO KASHIWAZAKI - UKI WAZA"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "44:56 Uki-waza (floating technique)",
+      "start": 2696
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "Js-WM0EplqI",
+      "title": "Uki-waza",
+      "duration": "0:09"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "PIrbj0PiIao",
+      "title": "Uki-waza"
+    }
+  ],
+  "ijfAnimation": "Uki-waza",
+  "links": [
+    {
+      "title": "Uki-waza on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Uki-waza",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Uki-waza, the floating technique."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "A side sacrifice against a forward-leaning uke: tori extends a leg and drops to the side, floating uke over the outstretched body to the front corner."
+  },
+  "keyPoints": {
+    "en": [
+      "Extend the leg to uke's advancing foot as you drop",
+      "Throw to the front corner uke is already leaning towards",
+      "Guide with the hands so uke floats past, not onto, you"
+    ]
+  },
+  "described": {
+    "en": [
+      "Face your partner as they press or lean forward onto you from a right-handed grip; their forward commitment powers this throw.",
+      "Slide your left leg out along the mat past the outside of their right foot, your leg extended and light.",
+      "Drop onto your left side, close along their front, your body folding out of the space they were pressing into.",
+      "As you fall, pull down and past your left shoulder with the sleeve hand, steering their motion over your extended leg towards their right front corner.",
+      "They float over your leg and roll to their back beyond you. Keep the sleeve until their roll finishes."
+    ]
+  },
+  "receiving": {
+    "en": "Your forward pressure is answered by your partner folding away to the side, a leg extended past your foot: you float over it into space they have just left. The fall is a long forward roll to your front corner. Keep your head tucked to the side, roll across your shoulder, and let the roll carry you through onto your back or up to your feet."
+  },
+  "viNotes": {
+    "en": "Their forward pressure powers it, so the moment is one you feel rather than pick. Slide your leg out along the mat past their foot instead of lifting it into place, drop onto your side, and steer with the sleeve past your own shoulder. Know where the edge of the mat is before you sacrifice, because you are putting yourself down as well as them."
+  }
+}

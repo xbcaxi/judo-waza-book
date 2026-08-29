@@ -1,0 +1,14 @@
+{
+  "term": "Sore-made",
+  "kanji": "それまで",
+  "category": "command",
+  "meaning": {
+    "en": "That is all. The referee ends the contest with it."
+  },
+  "aliases": [
+    "Soremade"
+  ],
+  "guides": [
+    "referee-commands-and-signals"
+  ]
+}

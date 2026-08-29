@@ -1,0 +1,111 @@
+{
+  "nameRomaji": "Hadaka-jime",
+  "nameJa": "裸絞",
+  "nameKana": "はだかじめ",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "rear naked choke",
+      "system": "bjj",
+      "note": {
+        "en": "Often abbreviated RNC; the mechanics are the same, gi or no-gi."
+      }
+    },
+    {
+      "name": "mata leao",
+      "system": "bjj"
+    }
+  ],
+  "gloss": {
+    "en": "naked strangle"
+  },
+  "category": "katame-waza",
+  "subCategory": "shime-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 704,
+  "kodokanAbbr": "HAD",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "9f0n8jez7iA",
+      "title": "Hadaka-jime",
+      "duration": "1:20"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "b5QzoSL0l_4",
+      "title": "Hadaka-Jime"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "HyW4r2bcbc8",
+      "title": "Hadaka-Jime - Uke in Prone Position"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551878793",
+      "title": "Hadaka-Jime"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551878891",
+      "title": "Hadaka-Jime - Uke in Prone Position"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123992985",
+      "title": "Hadaka jime"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Hadaka-jime on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Hadaka-jime",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Hadaka-jime, the naked strangle."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The strangle that needs no cloth: applied from behind with the forearm across the front of the neck, hence naked. One of the fundamental shime-waza. Strangles are restricted by age in most federations; learn and practise this only under instruction and supervision."
+  },
+  "keyPoints": {
+    "en": [
+      "Applied from behind; your forearm, not your hand, crosses the neck",
+      "The pressure is a squeeze that builds, never a pull or a jerk",
+      "Release completely and immediately at the tap, and watch your partner after"
+    ]
+  },
+  "described": {
+    "en": [
+      "You are behind your partner, chest against their back, both of you on the mat or with them seated in front of you.",
+      "Slide your right arm around the front of their neck so the bony edge of your forearm lies across it, your right hand reaching towards your left shoulder.",
+      "Place your right hand on your left upper arm or into the crook of your left elbow, and bring your left hand behind their head, palm towards it.",
+      "Keep your chest glued to their back and your head close beside theirs so they cannot turn inside the arm.",
+      "Apply by squeezing your arms together gradually, drawing your right forearm back and in. The pressure builds smoothly; there is never a snatch.",
+      "Release fully the moment they tap, open both arms, and stay with them for a moment. Practise only under instruction and within your federation's age rules."
+    ]
+  },
+  "receiving": {
+    "en": "An arm comes around your neck from behind and their chest fixes to your back; the pressure is a closing squeeze rather than a blow. Tuck your chin early to fight for space, but the moment the strangle is properly on, tap immediately and clearly, on their arm where they will feel it. Never hold out against a strangle to prove toughness; that is how blackouts happen, and in practice there is nothing to prove. Tell your instructor if you ever felt light-headed after one."
+  },
+  "viNotes": {
+    "en": "There is no cloth to find, so the whole technique runs on contact. Seal your chest to their back as you take the position and keep it there; that contact, not your hands, is what tells you whether they are turning inside your arm. Their tap may come on your arm, your leg or the mat, so stay ready for it anywhere and let go at the first one."
+  }
+}

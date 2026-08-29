@@ -1,0 +1,35 @@
+{
+  "name": {
+    "en": "Gripping against the opposite stance"
+  },
+  "nameRomaji": "Kumi-kata",
+  "nameJa": "組み方",
+  "kind": "kumi-kata",
+  "about": {
+    "en": "Right-handed against left-handed, and the reverse. The grips collide instead of mirroring, both of you can reach the same lapel, and the throws that work change completely. The higher grades in every scheme here examine it separately for that reason."
+  },
+  "keyPoints": {
+    "en": [
+      "Fight for the inside position on the lapel side first",
+      "Their forward foot is closer to you than in a same-stance grip",
+      "Attacks on the open side, away from their leading hand, come cheapest"
+    ]
+  },
+  "described": {
+    "en": [
+      "Face a partner in the opposite stance: your right foot forward, their left foot forward.",
+      "Notice both of you are reaching for the same side, so the first exchange is about whose lapel hand gets inside the other's.",
+      "Take your right hand to their lapel underneath their arm rather than over it, keeping your elbow low and inside.",
+      "Take their sleeve with your left hand as usual, but expect their leading arm to be closer to you than in a same-stance grip.",
+      "Step your right foot outside their left foot to reach the open side, where their leading hand cannot easily follow.",
+      "Attack from that open side. Practise it in both directions: whichever hand you favour, half the people you meet will stand the other way."
+    ]
+  },
+  "receiving": {
+    "en": "An opposite-stance grip feels crowded, because the leading feet are close and the hands are contesting the same space. Keep your own posture upright, do not let their lapel hand get inside yours, and watch that your leading foot is not left within easy reach."
+  },
+  "viNotes": {
+    "en": "The stance mismatch is immediately obvious through the hands, before anything else happens: the reach is shorter on one side and the lapel is contested. From the gripped-up start used in VI contests, this is information available to everyone at the same instant."
+  },
+  "videos": []
+}

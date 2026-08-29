@@ -1,0 +1,11 @@
+{
+  "name": "JudoScotland",
+  "kind": "affiliate",
+  "country": "GB",
+  "homepage": "https://www.judoscotland.com/",
+  "parent": "bja",
+  "about": {
+    "en": "The home-nation governing body for judo in Scotland, affiliated to the British Judo Association. Its Kai pathway for the youngest judoka is its own; the Kyu syllabus it publishes is its edition of the BJA family's grading, and both are transcribed in this reference."
+  },
+  "schemes": ["judo-scotland-kai", "judo-scotland-kyu"]
+}

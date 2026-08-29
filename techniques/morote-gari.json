@@ -1,0 +1,80 @@
+{
+  "nameRomaji": "Morote-gari",
+  "nameJa": "双手刈",
+  "nameKana": "もろてがり",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "double leg takedown",
+      "system": "wrestling"
+    },
+    {
+      "name": "double leg",
+      "system": "bjj"
+    }
+  ],
+  "gloss": {
+    "en": "two-hand reap"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 112,
+  "kodokanAbbr": "MGA",
+  "kodokan": null,
+  "banned": "in-competition",
+  "bannedNote": {
+    "en": "Prohibited in competition: the IJF bars any direct attack on the legs with the hands or arms, and taking both legs is the plainest case of it. The technique is unaffected outside contest, and the BJA sets it as a 5th Dan fundamental skill."
+  },
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "BHLQS4K85bs",
+      "title": "Morote-gari",
+      "duration": "0:49"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "9nbgdPiU49s",
+      "title": "Morote Gari"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Morote-gari on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Morote-gari",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The two-handed leg reap: tori drops under the grips, wraps both hands behind uke's knees and drives through with the shoulder, taking both legs away. A Kodokan-recognised te-waza and a staple of wrestling and BJJ, it is prohibited in current IJF competition under the leg-grab rules, but remains legal to practise, appears in older and junior syllabuses, and is essential to recognise and defend."
+  },
+  "keyPoints": {
+    "en": [
+      "Change levels first: bend the knees, not the back",
+      "Both hands behind the knees, shoulder tight to the body",
+      "Drive through with the legs; pull the knees towards you"
+    ]
+  },
+  "described": {
+    "en": [
+      "From your own grips or as your partner reaches, bend both knees sharply so your head comes below their chest; keep your back straight.",
+      "Step your right foot between their feet and drive forward, placing your right shoulder against their stomach or chest.",
+      "Wrap both hands behind their knees, one behind each, palms pulling towards you.",
+      "Drive forward and up with your legs while your hands pull their knees past your hips.",
+      "Their legs come away and they fall onto their back; keep your head up and to the side, and lower them under control rather than spiking them.",
+      "Note for competition: this technique is banned in current IJF contest rules; practise it for grading, ne-waza entries and defence."
+    ]
+  },
+  "receiving": {
+    "en": "The warning is your partner's level dropping suddenly: their head leaves your upper zone and a shoulder plants into your middle, then both your knees are pulled forward while the shoulder keeps driving. Both legs go at once, so the fall is flat onto the back with little time to step out. Neither arm is held, so slap with both, chin tucked hard because the drive can carry you quickly. In practice, agree the pace first; taken gently it is a soft, flat landing."
+  },
+  "viNotes": {
+    "en": "VI judo contests start gripped up, which removes the shooting entry this throw is best known for; from contact it becomes a level-change you feel through the grips as your partner's arms drop away. Defending it is mostly tactile: the instant the head drops and a shoulder touches your middle, sprawl your hips back and take the head."
+  }
+}

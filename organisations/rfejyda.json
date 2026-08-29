@@ -1,0 +1,11 @@
+{
+  "name": "Real Federación Española de Judo y Deportes Asociados",
+  "kind": "national-body",
+  "country": "ES",
+  "homepage": "https://www.rfejudo.com/",
+  "about": {
+    "en": "The national governing body for judo in Spain, known as the RFEJYDA, with territorial federations in each autonomous community. Its dan grade programme, approved in October 2025 and in force from 1 January 2026, is transcribed in this reference and is the first grading pathway here from outside Great Britain.",
+    "es": "La federación nacional que rige el judo en España, conocida como RFEJYDA, con federaciones territoriales en cada comunidad autónoma. Su programa de grados dan, aprobado en octubre de 2025 y en vigor desde el 1 de enero de 2026, está transcrito en esta referencia."
+  },
+  "schemes": ["rfejyda-dan"]
+}

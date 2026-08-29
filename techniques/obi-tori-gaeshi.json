@@ -1,0 +1,75 @@
+{
+  "nameRomaji": "Obi-tori-gaeshi",
+  "nameJa": "帯取返",
+  "nameKana": "おびとりがえし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "belt grab reversal"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 111,
+  "kodokanAbbr": "OTG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "bpc82SrunUU",
+      "title": "Obi-tori-gaeshi",
+      "duration": "1:27"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "hrH_gM81CXg",
+      "title": "柏崎 克彦 KATSUHIKO KASHIWAZAKI - OBI TORI GAESHI"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "start": 2221,
+      "title": "37:01 Obi-tori-gaeshi (belt grab reversal)"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Obi-tori-gaeshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Obi-tori-gaeshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The answer to a partner bent forward and defending: tori takes the back of their belt, lifts them off their base and turns them over backwards. Recognised by the Kodokan beyond the Gokyo and common in contest, where a bent-over posture invites it."
+  },
+  "keyPoints": {
+    "en": [
+      "Take the belt at the BACK, over their spine",
+      "Lift with the legs and hips, never the lower back",
+      "Turn them as you lift; a straight lift only stands them up"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner is bent forward, defending, their head below your chest.",
+      "Slide your right arm over their back and take the belt behind them, thumb hooked under it.",
+      "Step in close so your hips are under theirs and your knees are bent; keep your own back straight.",
+      "Straighten your legs to lift them off the mat, and at the same moment turn to your left so they rotate rather than simply rise.",
+      "They come over and land on their back in front of you; lower them with the belt hand rather than dropping them."
+    ]
+  },
+  "receiving": {
+    "en": "A hand hooks the back of your belt while you are bent forward, and your feet leave the mat before you can straighten up. The fall is backwards onto your back, and you cannot step out of it once the lift starts, so tuck your chin hard, keep both arms ready to slap, and stay heavy rather than fighting the turn in the air. Build this one up gradually with a partner you trust."
+  },
+  "viNotes": {
+    "en": "A bent-over defence announces itself, their weight dropping and their head coming below your chest, and this is the answer to it. Take the belt by sliding your arm along their back until your thumb hooks under it, and get your hips under theirs before you straighten. Lower them with the belt hand rather than letting go at the top of the lift."
+  }
+}

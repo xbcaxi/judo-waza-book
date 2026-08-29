@@ -1,0 +1,59 @@
+{
+  "nameRomaji": "Do-jime",
+  "nameJa": "胴絞",
+  "nameKana": "どうじめ",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "body scissors",
+      "system": "english"
+    }
+  ],
+  "gloss": {
+    "en": "trunk squeeze"
+  },
+  "category": "katame-waza",
+  "subCategory": "shime-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 712,
+  "kodokanAbbr": "DOJ",
+  "kodokan": null,
+  "banned": "yes",
+  "bannedNote": {
+    "en": "Prohibited act under competition rules: squeezing the trunk with crossed legs (scissoring the body) is penalised with hansoku-make. Unlike most banned techniques it has no legitimate contest history to preserve; it is listed so it can be recognised and stopped."
+  },
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "D_0fFcoIbvY",
+      "title": "Do-jime",
+      "duration": "1:06"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Do-jime on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Do-jime",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "Squeezing the opponent's trunk between the legs, ankles crossed around the body. Judo classifies it among the strangles but bans it outright: compressing the trunk this way can injure ribs and organs, and it wins nothing. Documented for recognition only."
+  },
+  "keyPoints": {
+    "en": [
+      "Recognise it: legs wrapped around the trunk with the ankles crossed, squeezing",
+      "Prohibited in competition and in randori alike",
+      "If you feel it applied in practice, tap at once and say so; it should simply not be used"
+    ]
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": {
+    "en": "Recognition only, and worth knowing by feel: the pressure comes around your ribs from legs crossed behind your back, not at a joint or the neck, and it does not build the way a legal technique does. Tap and tell your coach. Nobody should be applying this to anyone."
+  }
+}

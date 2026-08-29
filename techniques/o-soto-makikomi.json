@@ -1,0 +1,62 @@
+{
+  "nameRomaji": "O-soto-makikomi",
+  "nameJa": "大外巻込",
+  "nameKana": "おおそとまきこみ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "major outer wrap-around"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 511,
+  "kodokanAbbr": "OSM",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "DGDv2oMwmas",
+      "title": "O-soto-makikomi",
+      "duration": "1:10"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "O-soto-makikomi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/O-soto-makikomi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "O-soto-gari finished by wrapping: instead of reaping and staying upright, tori traps uke's right arm over their own shoulder, turns in and falls, rolling uke over with them. A Kodokan side sacrifice, and the usual answer when a strong partner blocks the plain reap."
+  },
+  "keyPoints": {
+    "en": [
+      "Trap their arm over your shoulder and keep it",
+      "Turn your back in fully before you fall",
+      "Fall onto your own side, taking them with you"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, step your left foot outside your partner's right foot as for O-soto-gari.",
+      "Release your right hand from the collar and swing your right arm over their right arm, trapping it against your shoulder.",
+      "Turn your back into them so your right hip is across their front and their arm is locked to you.",
+      "Swing your right leg back past their right leg and fall to your right side, wrapping them over as you go.",
+      "They land on their back with their arm still trapped; keep turning in to a hold rather than lying still."
+    ]
+  },
+  "receiving": {
+    "en": "Your arm is wrapped and you cannot take it back, and your partner then falls, taking you over their body. It is a committed throw that lands you on your back or side with one arm trapped, so the free arm must do the slapping. Tuck your chin, do not fight the wrap, and let your body follow theirs to the mat."
+  },
+  "viNotes": {
+    "en": "You reach this when the plain reap is blocked, and a block is something you feel through the arms rather than see. Trap their arm over your shoulder before you turn, so contact is unbroken from the reap into the wind, and land on your side rather than your shoulder. Turn straight in to a hold once you are down: you have arrived on the ground beside someone you can now only find by touch."
+  }
+}

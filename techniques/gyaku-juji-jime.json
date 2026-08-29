@@ -1,0 +1,86 @@
+{
+  "nameRomaji": "Gyaku-juji-jime",
+  "nameJa": "逆十字絞",
+  "nameKana": "ぎゃくじゅうじじめ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "reverse cross strangle"
+  },
+  "category": "katame-waza",
+  "subCategory": "shime-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 702,
+  "kodokanAbbr": "GJJ",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "t3tQriIPdlI",
+      "title": "Gyaku-juji-jime",
+      "duration": "1:15"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "lpjsPtts9_4",
+      "title": "Gyaku-Juji-Jime"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551842436",
+      "title": "Gyaku-Juji-Jime"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123992592",
+      "title": "Gyaku juji-jime"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Gyaku-juji-jime on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Gyaku-juji-jime",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Gyaku-juji-jime, the reverse cross strangle."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The cross strangle with both grips reversed: thumbs inside the opposite collars, fingers outside, the closing action turning the other way. Strangles are restricted by age in most federations; learn and practise this only under instruction and supervision."
+  },
+  "keyPoints": {
+    "en": [
+      "Both hands: thumbs inside the opposite collars, fingers out",
+      "The same deep crossed grip as the normal form, mirrored",
+      "Close with the wrist turn and elbows, gradually and under control"
+    ]
+  },
+  "described": {
+    "en": [
+      "Facing your partner on the ground, slide your right thumb deep inside their left collar, fingers gripping outside the cloth.",
+      "Cross your left arm and take their right collar the same reversed way, thumb inside, as deep as you can reach.",
+      "Your arms cross at their chest, palms facing you rather than away.",
+      "Close gradually: turn the wrists and draw the elbows down and in, the forearm blades pressing the sides of the neck.",
+      "Release completely at the tap, open both hands, and check your partner."
+    ]
+  },
+  "receiving": {
+    "en": "The crossed grip arrives with the palms turned the other way, and the squeeze comes on the same smooth curve as the normal form. Grip their forearms and tuck your chin early. Tap immediately and clearly the moment the strangle is properly on, on their arm or body where they will feel it; never hold out to prove toughness. Tell your instructor if you ever feel light-headed afterwards."
+  },
+  "viNotes": {
+    "en": "Groundwork is where sight matters least, and the grips here are taken by touch in any case. Track the collar with your fingers from the shoulder into the neck so the depth is felt rather than guessed, and check which way your palms are facing before you close: reversed grips feel almost identical to the standard cross until the pressure arrives. Release completely at the tap, which may land on your arm or on the mat."
+  }
+}

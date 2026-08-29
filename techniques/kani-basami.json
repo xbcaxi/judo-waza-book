@@ -1,0 +1,61 @@
+{
+  "nameRomaji": "Kani-basami",
+  "nameJa": "蟹挟",
+  "nameKana": "かにばさみ",
+  "aliases": [
+    "Kani-hasami"
+  ],
+  "otherNames": [
+    {
+      "name": "scissor takedown",
+      "system": "english"
+    }
+  ],
+  "gloss": {
+    "en": "crab scissors"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 515,
+  "kodokanAbbr": "KBA",
+  "kodokan": null,
+  "banned": "yes",
+  "bannedNote": {
+    "en": "Prohibited in competition since the 1980s after serious knee and leg injuries to receivers; attempting it in shiai is direct hansoku-make. It remains part of judo's historical canon and study."
+  },
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "OR-HGHnarYc",
+      "title": "Kani-basami",
+      "duration": "0:44"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Kani-basami on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Kani-basami",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "A sacrifice throw in which tori leaps sideways and scissors uke's body between both legs, one across the waist and one behind the knees, felling uke like a cut stalk. It is documented here for recognition and history only: the technique is banned in competition and should not be practised in randori."
+  },
+  "keyPoints": {
+    "en": [
+      "Recognise it: both of the attacker's legs leave the mat and scissor the body",
+      "Banned in competition; attempting it is direct hansoku-make",
+      "Do not practise it in randori; the falling scissor risks serious knee injury"
+    ]
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": {
+    "en": "Recognition only, and worth knowing from the receiving end because it arrives with no warning at all: a leg across your middle and another behind your knees in the same instant. The danger is to the leg you are standing on, so go down with it rather than resisting on a planted foot, and report it however it was meant."
+  }
+}

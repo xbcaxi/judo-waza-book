@@ -1,0 +1,106 @@
+{
+  "nameRomaji": "Yoko-gake",
+  "nameJa": "横掛",
+  "nameKana": "よこがけ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "side hook"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": 5,
+  "kodokanNumber": 509,
+  "kodokanAbbr": "YGA",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "tP1Sj1uDfSo",
+      "title": "Yoko-gake",
+      "duration": "1:07"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "oKofAg-YCC4",
+      "title": "Yoko-Gake"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551879274",
+      "title": "Yoko-Gake"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124032903",
+      "title": "Yoko-gake"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "47:40 Yoko-gake (side hook)",
+      "start": 2860
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "j2eAXnWfqGM",
+      "title": "Yoko-gake",
+      "duration": "0:16"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "JM3ODogDvlM",
+      "title": "Yoko-gake"
+    }
+  ],
+  "ijfAnimation": "Yoko-gake",
+  "links": [
+    {
+      "title": "Yoko-gake on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Yoko-gake",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Yoko-gake, the side hook."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori sweeps uke's ankle sideways while falling to the side, so both go down together with uke thrown flat."
+  },
+  "keyPoints": {
+    "en": [
+      "Sweep the ankle with the sole as you begin to fall",
+      "Pull uke's sleeve down towards your own falling side",
+      "Sacrifice fully: your fall is what powers the sweep"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, draw your partner's weight onto their right foot, their balance leaning slightly to that side.",
+      "Sweep the outside of their right ankle with the sole of your left foot, sweeping across in front of your body.",
+      "As you sweep, let yourself fall onto your left side, your fall and the sweep happening together: your dropping body powers the sweep.",
+      "Pull the sleeve down towards your own falling shoulder so their body tips flat.",
+      "Their feet are taken sideways and they land flat on their back beside you while you lie on your side, still holding the sleeve."
+    ]
+  },
+  "receiving": {
+    "en": "Your ankle is swept sideways at the same instant as your partner's body drops: their falling weight powers the sweep, and you go from standing to flat with very little in between. The landing is flat on your back beside them. Slap hard with your free arm exactly as your back lands, breathe out, and keep your head off the mat with your chin tucked."
+  },
+  "viNotes": {
+    "en": "Your own falling weight powers the sweep, so the two happen together: a sweep first and a fall afterwards misses. Draw their weight onto the foot you mean to take, sweep along the mat to find the ankle, and let your side go down in the same instant. Both of you land, so drill it with a partner who knows it is coming."
+  }
+}

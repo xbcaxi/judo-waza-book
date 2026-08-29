@@ -1,0 +1,76 @@
+{
+  "nameRomaji": "Ushiro-kesa-gatame",
+  "nameJa": "後袈裟固",
+  "nameKana": "うしろけさがため",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "reverse scarf hold"
+  },
+  "category": "katame-waza",
+  "subCategory": "osaekomi-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 603,
+  "kodokanAbbr": "UKG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "SBapox2M2dE",
+      "title": "Ushiro-kesa-gatame",
+      "duration": "0:54"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "4QuzAAucQsA",
+      "title": "Ushiro-kesa-gatame Escapes",
+      "duration": "1:01",
+      "role": "escapes from it"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Ushiro-kesa-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ushiro-kesa-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Ushiro-kesa-gatame, the reverse scarf hold."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The scarf hold facing the other way: tori sits at uke's right shoulder facing their feet, uke's arm trapped, weight through the chest. A natural landing after some turnovers and armlock entries."
+  },
+  "keyPoints": {
+    "en": [
+      "Face their feet, hip tight against their shoulder",
+      "Trap their right arm under your right armpit",
+      "Legs wide and braced; ride their bridge with your hips"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner lies on their back; sit beside their right shoulder facing towards their feet, your right hip against their shoulder.",
+      "Trap their right arm under your right armpit and pin it against your side, gripping cloth at their sleeve or shoulder.",
+      "Lay your left forearm across their body or grip their belt, and lower your chest onto their chest from this reversed angle.",
+      "Spread your legs wide along the mat, one forward and one back, soles ready to post.",
+      "Hold with heaviness through the chest; when they bridge towards you, sink your hip, and when they turn away, follow around with your legs."
+    ]
+  },
+  "receiving": {
+    "en": "The weight arrives facing the wrong way: their hip is at your shoulder and their legs are up past your head, which makes the usual bridge-and-turn feel unfamiliar. Work your trapped arm and turn towards the gap under their chest; keep your breathing low, and tap clearly if you are held and need to stop."
+  },
+  "viNotes": {
+    "en": "The reversed angle is disorienting without sight, so use a landmark: their shoulder against your hip with their arm trapped under your armpit means you are facing their feet. Read a bridge through your hip and a turn through your chest, and answer both with your legs. The weight stays down while you travel around them."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "nameRomaji": "Sasae-tsurikomi-ashi",
+  "nameJa": "支釣込足",
+  "nameKana": "ささえつりこみあし",
+  "aliases": [
+    "Sasae-tsuri-komi-ashi"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "propping drawing ankle throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": 1,
+  "kodokanNumber": 303,
+  "kodokanAbbr": "STA",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "699i--pvYmE",
+      "title": "Sasae-tsuri-komi-ashi",
+      "duration": "1:14"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "QQN2Mv5IC0w",
+      "title": "Sasae-Tsuri-Komi-Ashi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548837527",
+      "title": "Sasae-Tsuri-Komi-Ashi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124001621",
+      "title": "Sasae-tsurikomi-ashi"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "Uk1TJZHiDQY",
+      "title": "JANE BRIDGE - SASAE TSURI KOMI ASHI"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "16:08 Sasae-tsurikomi-ashi (supporting foot lift-pull ankle throw)",
+      "start": 968
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "7kyRBmG5D7M",
+      "title": "Sasae-tsuri-komi-ashi",
+      "duration": "0:11"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "gATiNoUUaHw",
+      "title": "Sasae-tsuri-komi-ashi"
+    }
+  ],
+  "ijfAnimation": "Sasae-tsurikomi-ashi",
+  "links": [
+    {
+      "title": "Sasae-tsuri-komi-ashi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Sasae-tsurikomi-ashi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Sasae-tsurikomi-ashi, the propping drawing ankle throw."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori props uke's ankle while lifting and pulling with the hands, so uke rotates over the blocked foot."
+  },
+  "keyPoints": {
+    "en": [
+      "Prop the ankle, not the shin: the foot stays low",
+      "The lift-pull of the hands does the throwing, the foot only blocks",
+      "Time the prop as uke's weight commits onto the stepping foot"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, step back a half pace, drawing your partner forward so they step towards you with their right foot.",
+      "As that step comes in, lift and pull with both hands, the lapel hand rising as if hanging them on a hook, so their weight floats up and forward onto the stepping foot.",
+      "Prop the front of their right ankle with the sole of your left foot, low against the joint. The foot only blocks; it does not sweep away.",
+      "Keep turning your hands and trunk to your left, carrying their floating weight forward over the blocked ankle.",
+      "They rotate over the prop and land on their back in front of you and to your left. Hold the sleeve throughout so they can fall cleanly."
+    ]
+  },
+  "receiving": {
+    "en": "You are drawn up and forward onto a stepping foot that suddenly is not allowed to land: a prop at your ankle stops the foot while your body carries on. The rotation is smooth and forward. Keep your chin tucked, ride the turn, and slap with your free left arm as your back reaches the mat; the held sleeve supports you through it."
+  },
+  "viNotes": {
+    "en": "Place the prop by sliding your sole up the front of their shin until it meets the ankle, so contact finds the joint rather than a guessed height. From the gripped-up start the lift is what makes the throw, and it is easy to feel: their weight comes up onto the stepping foot before the prop matters at all. The foot blocks, the hands wheel."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "nameRomaji": "Sode-tsurikomi-goshi",
+  "nameJa": "袖釣込腰",
+  "nameKana": "そでつりこみごし",
+  "aliases": [
+    "Sode-tsuri-komi-goshi"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "sleeve lifting pulling hip throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "koshi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 205,
+  "kodokanAbbr": "STG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "QsmAxpmYLOI",
+      "title": "Sode-tsuri-komi-goshi",
+      "duration": "1:37"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "Jia9urRsBtM",
+      "title": "Sode-Tsuri-Komi-Goshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551889114",
+      "title": "Sode-Tsuri-Komi-Goshi"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "ia5gRfHbdRE",
+      "title": "中西 英敏 HIDETOSHI NAKANISHI - SODE TSURI KOMI GOSHI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "zy198dSDRC8",
+      "title": "古賀 稔彦 TOSHIHIKO KOGA - SODE TSURI KOMI GOSHI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "Jr8JHpjJ0pc",
+      "title": "塘内 将彦 MASAHIKO TOMOUCHI - SODE TSURI KOMI GOSHI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "ozzbLSrncYU",
+      "title": "細川 伸二 SHINJI HOSOKAWA - SODE TSURI KOMI GOSHI"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "Sf1yri_8F-o",
+      "title": "Sode-tsuri-komi-goshi",
+      "duration": "0:17"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "rm5owo5ePNk",
+      "title": "Kata-eri-sode-tsuri-komi-goshi",
+      "duration": "0:13",
+      "role": "lapel-and-sleeve (kata-eri-sode) grip"
+    }
+  ],
+  "ijfAnimation": "Sode-tsurikomi-goshi",
+  "links": [
+    {
+      "title": "Sode-tsuri-komi-goshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Sode-tsurikomi-goshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Sode-tsurikomi-goshi, the sleeve lifting pulling hip throw."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The lifting pulling hip throw driven from a double-sleeve grip: uke's sleeve-side arm is swung high across as the hips enter, so the throw works even against a stiff defensive arm. A modern competition favourite."
+  },
+  "keyPoints": {
+    "en": [
+      "Drive their gripped sleeve high across your body as you enter",
+      "Hips through low, as for any lifting hip throw",
+      "The high sleeve arm replaces the lapel lift entirely"
+    ]
+  },
+  "described": {
+    "en": [
+      "Grip both of their sleeves, your right hand on their left sleeve at the wrist or forearm, your left on their right sleeve at the elbow.",
+      "Swing their left sleeve arm high, up and across your body, as if raising a flag past your left ear, drawing them onto their toes.",
+      "Pivot in beneath the raised arm, knees deeply bent, hips through and below theirs.",
+      "Load them across your hips with the raised sleeve still driving over, your left hand pulling their right sleeve around you.",
+      "Straighten your legs and bow forward; they roll over your hips and land on their back in front of you. Keep the right-sleeve grip for their landing."
+    ]
+  },
+  "receiving": {
+    "en": "Both of your sleeves are taken and one arm is suddenly swung high across; with it goes your posture, and their hips arrive underneath. You are thrown over the hip with one arm up and one held, so tuck your chin, turn with it, and land on your back; the fall is a standard hip-throw landing but the raised arm makes it feel less controllable, so commit to the rotation early."
+  },
+  "viNotes": {
+    "en": "Both hands are on sleeves, so you keep two channels of information right through the throw, which makes it a good one for VI judo. The high swing is also how you read them: when the sleeve arm goes up and their weight comes with it, the space underneath is open. Pivot in beneath the raised arm and keep the other sleeve for their landing."
+  }
+}

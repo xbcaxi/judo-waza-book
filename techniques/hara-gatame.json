@@ -1,0 +1,67 @@
+{
+  "nameRomaji": "Hara-gatame",
+  "nameJa": "腹固",
+  "nameKana": "はらがため",
+  "aliases": [
+    "Ude-hishigi-hara-gatame"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "stomach armlock"
+  },
+  "category": "katame-waza",
+  "subCategory": "kansetsu-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 806,
+  "kodokanAbbr": "HGA",
+  "kodokan": {
+    "nameRomaji": "Ude-hishigi-hara-gatame",
+    "nameJa": "腕挫腹固"
+  },
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "ZzEycg8R_9M",
+      "title": "Ude-hishigi-hara-gatame",
+      "duration": "0:55"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Hara-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Hara-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The armlock levered over the stomach: uke's straightened arm is held across tori's abdomen and the lock comes from tori turning their body, not from pulling with the hands. Reachable standing as well as on the ground, which makes it one to treat with particular care. Competition joint locks are restricted to the elbow and to senior age groups; learn and practise this only under instruction."
+  },
+  "keyPoints": {
+    "en": [
+      "Their elbow sits ON your stomach, not on your ribs",
+      "Hold the wrist with both hands, thumb up",
+      "Turn your body to apply; the hands only hold"
+    ]
+  },
+  "described": {
+    "en": [
+      "Take your partner's right wrist in both hands with their palm turned upward.",
+      "Draw the arm across the front of your body so their elbow rests against your stomach.",
+      "Straighten the arm gently and keep the wrist high, so the joint sits square on your abdomen.",
+      "Turn your hips slowly away from them; your body, not your grip, is what applies the pressure.",
+      "Stop the moment they tap, and step back to give the arm room rather than simply letting go of the wrist."
+    ]
+  },
+  "receiving": {
+    "en": "Your arm is drawn across their body and your elbow finds a hard surface, then their whole body turns. The lock arrives fast because their hips are stronger than your arm. Tap the instant you feel the elbow load, on their body or the mat, or call out; do not try to spin out of it, which loads the shoulder as well as the elbow."
+  },
+  "viNotes": {
+    "en": "The lock comes from your hips, so the joint has to be found with your hands first: run both hands from the wrist to the elbow and set the elbow squarely on your stomach before you turn anything. Turn slowly. This one can also be reached standing, where neither of you has a clear picture of where the arm is, which is exactly why it is taken gently or not at all."
+  }
+}

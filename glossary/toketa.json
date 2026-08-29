@@ -1,0 +1,11 @@
+{
+  "term": "Toketa",
+  "kanji": "解けた",
+  "category": "command",
+  "meaning": {
+    "en": "Broken. The hold-down no longer counts and the clock stops; the contest continues."
+  },
+  "guides": [
+    "referee-commands-and-signals"
+  ]
+}

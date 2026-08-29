@@ -1,0 +1,62 @@
+{
+  "nameRomaji": "Ko-uchi-gaeshi",
+  "nameJa": "小内返",
+  "nameKana": "こうちがえし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "minor inner reversal"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 116,
+  "kodokanAbbr": "KOU",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "_MWAdYi_LC4",
+      "title": "Ko-uchi-gaeshi",
+      "duration": "1:36"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Ko-uchi-gaeshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ko-uchi-gaeshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The counter to Ko-uchi-gari: as uke's foot comes in to reap the heel, tori lifts the attacked foot clear, turns into the space the attack has opened and drops uke backwards with the hands. A Kodokan technique in its own right, not merely an escape."
+  },
+  "keyPoints": {
+    "en": [
+      "Lift the attacked foot early, before the reap arrives",
+      "Turn towards the attack, not away from it",
+      "Finish with the hands: their weight is already going back"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner attacks Ko-uchi-gari, their right foot coming in to reap your right heel inward.",
+      "Lift your right foot just clear of the mat so the reap passes underneath and step it down behind theirs.",
+      "Turn your hips towards the attack and take their sleeve down and across with your left hand.",
+      "Drive your right hand into their chest or lapel as their attacking leg is still returning to the mat.",
+      "They fall backwards into the space their own attack created; follow them down with the sleeve still held."
+    ]
+  },
+  "receiving": {
+    "en": "You attack, the target foot lifts away and your own reaping leg is still in the air with nowhere to stand. The counter arrives while you are on one leg, so the fall is straight back. Tuck your chin, round your back, and slap wide with the free arm as you land."
+  },
+  "viNotes": {
+    "en": "Their attack tells you where their foot is: the reap arrives at your own heel, and that touch is the cue to lift the foot clear and step it down behind theirs. The counter only works in the beat while their attacking leg is still off the mat, so act on the first contact rather than waiting to be certain what it was."
+  }
+}

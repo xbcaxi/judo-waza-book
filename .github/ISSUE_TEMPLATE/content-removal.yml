@@ -1,0 +1,57 @@
+name: Content removal request
+description: You own material published here and want it removed, credited or licensed. No justification needed.
+title: "[Removal] "
+labels: ["rights", "priority"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Removal is the default and you do not need to justify the request.**
+        Naming the file is enough. We aim to acknowledge within 7 days and
+        remove within 14, and usually much sooner. Say it is urgent and it goes
+        to the front. See [NOTICE.md](../blob/main/NOTICE.md) for the full
+        position.
+
+        If the material is sensitive, or you would rather not post publicly,
+        contact the project owner directly instead of filing this form.
+  - type: textarea
+    id: material
+    attributes:
+      label: Which material?
+      description: A file path (`media/techniques/o-goshi.webp`), a page URL, or just a description. More than one is fine.
+      placeholder: media/techniques/o-goshi.webp
+    validations:
+      required: true
+  - type: input
+    id: owner
+    attributes:
+      label: Who owns it?
+      description: You, your club, your federation, a photographer. A name is enough.
+    validations:
+      required: true
+  - type: dropdown
+    id: outcome
+    attributes:
+      label: What would you like us to do?
+      options:
+        - Remove it
+        - Remove it, and also purge it from the Git history
+        - Keep it, but credit me as I specify below
+        - Keep it under a licence I will specify below
+        - Something else, described below
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Anything else
+      description: Credit wording, a licence, a link to the original, or how you would like to be contacted.
+    validations:
+      required: false
+  - type: checkboxes
+    id: goodfaith
+    attributes:
+      label: Confirmation
+      options:
+        - label: I believe in good faith that I own this material or act for whoever does.
+          required: true

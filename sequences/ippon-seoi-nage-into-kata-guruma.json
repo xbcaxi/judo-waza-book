@@ -1,0 +1,43 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ippon-seoi-nage",
+    "kata-guruma"
+  ],
+  "about": {
+    "en": "When the shoulder throw is blocked by dropping the hips and hanging back, dropping lower still and taking the legs turns the same entry into Kata-guruma. The form described here is the classical one, where your hand passes between their legs. The IJF bars any direct attack on the legs with the hands or arms, so this belongs in the dojo: the version that takes them across the shoulders without touching the legs is the one thrown in shiai."
+  },
+  "described": {
+    "en": [
+      "Take your right grips and spin in for Ippon-seoi-nage, your right arm hooked under their right armpit.",
+      "Feel the throw stall: their hips drop, their weight hangs back, and turning your shoulders moves nothing.",
+      "Keep pulling their right sleeve down and across with your left hand so their upper body stays committed forward over you.",
+      "Bend your knees and sink lower still, until your right shoulder is underneath their stomach.",
+      "Pass your right arm between their legs to grip the back of their right thigh, and straighten your legs to load them across both shoulders.",
+      "Turn your shoulders to your left and lower them to the mat in front of you, keeping the sleeve so they land on their back under control."
+    ]
+  },
+  "receiving": {
+    "en": "Defending a shoulder throw by dropping your hips and hanging back is right against the throw you were given and wrong against this one: as they sink underneath you, your weight is already forward and your leg is within reach. You are lifted across their shoulders, which is high and slow and offers you nothing to control. Stay long rather than struggling at the top, keep your chin tucked, and slap with your free arm as your back lands."
+  },
+  "viNotes": {
+    "en": "The second attack goes downwards rather than around, so everything stays in contact: sink under the arm you already have instead of letting go and looking for a new position. Keep the sleeve pulling throughout so their upper body cannot leave you while your shoulder finds their stomach. Load and lower, never throw from height, and agree the drill in advance."
+  },
+  "videos": [
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "aI2AVE_NSQ4",
+      "title": "Ippon-seoi-nage into Kata-guruma",
+      "duration": "0:20"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "F8XuYst6b-A",
+      "title": "Ippon-seoi-nage into Kata-hiza-kata-guruma",
+      "duration": "0:17",
+      "role": "one-knee (kata-hiza) finish"
+    }
+  ]
+}

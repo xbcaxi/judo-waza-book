@@ -1,0 +1,79 @@
+{
+  "nameRomaji": "Hiza-gatame",
+  "nameJa": "膝固",
+  "nameKana": "ひざがため",
+  "aliases": [
+    "Ude-hishigi-hiza-gatame"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "knee armlock"
+  },
+  "category": "katame-waza",
+  "subCategory": "kansetsu-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 804,
+  "kodokanAbbr": "HIG",
+  "kodokan": {
+    "nameRomaji": "Ude-hishigi-hiza-gatame",
+    "nameJa": "腕挫膝固"
+  },
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "H2HtAJdiJcE",
+      "title": "Ude-hishigi-hiza-gatame",
+      "duration": "1:05"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548844119",
+      "title": "hiza-gatame"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Hiza-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Hiza-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Hiza-gatame, the knee armlock."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The armlock applied with the knee: from guard or side-on, uke's extended arm is trapped and tori's knee presses the elbow against its hinge. The name describes tori's knee, not uke's; no leg joint is attacked. Competition joint locks are restricted to the elbow and to senior age groups; learn and practise this only under instruction."
+  },
+  "keyPoints": {
+    "en": [
+      "Their arm trapped straight across your body, wrist controlled",
+      "YOUR knee presses the back of their elbow",
+      "The hips fine-tune the pressure; apply slowly"
+    ]
+  },
+  "described": {
+    "en": [
+      "You are on your back with your partner kneeling between or beside your legs, gripping as they posture.",
+      "Trap their right arm: hug their wrist and forearm to your chest with both hands so the arm lies straight across your body.",
+      "Bring your left knee up and place it against the back of their trapped elbow, your foot hooked at their hip or thigh.",
+      "Control their posture with your grip and your other leg so they cannot rise away.",
+      "Apply by drawing the wrist to your chest while the knee presses gently forward; the pressure meets at the elbow, builds slowly, and releases the instant they tap."
+    ]
+  },
+  "receiving": {
+    "en": "Your arm is hugged straight across their body and a knee arrives against the back of your elbow; the squeeze between wrist-pull and knee builds quietly. Tap early and clearly at the FIRST feeling of pressure on the joint; an elbow or shoulder gives little warning between discomfort and damage. Never snatch out of a lock with a twist."
+  },
+  "viNotes": {
+    "en": "On your back you have full contact already, and the arm is trapped entirely by feel. Hug the wrist to your chest and follow the forearm with your hands until you find where the elbow bends, then bring the knee to that point rather than to where you expect it. Draw the wrist in slowly, and listen for the tap as well as feel for it."
+  }
+}

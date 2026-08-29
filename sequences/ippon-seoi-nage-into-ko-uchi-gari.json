@@ -1,0 +1,42 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ippon-seoi-nage",
+    "ko-uchi-gari"
+  ],
+  "about": {
+    "en": "Same reaction, reaping instead of hooking: when your partner defends the shoulder throw by sitting back, their near foot can be swept out from the inside before their weight returns to it."
+  },
+  "described": {
+    "en": [
+      "Take your right grips and turn in for Ippon-seoi-nage.",
+      "Feel them sit back and brace, taking their weight onto their heels.",
+      "Step back out to face them, keeping your left hand on their sleeve.",
+      "Push their chest backwards so their right foot is loaded but not yet planted.",
+      "Reap their right foot away with the sole of your right foot, sweeping inwards across the mat.",
+      "They fall backwards as the foot leaves; keep the sleeve and follow them down under control."
+    ]
+  },
+  "receiving": {
+    "en": "You defend the shoulder throw by sitting back and taking your weight onto your heels, which stops the first attack and sets up the second: your right foot is loaded but not yet planted, and the sole of their foot sweeps it out from the inside before your weight can return to it. You go backwards and down. Keep your chin tucked, keep the held arm long, and slap with your free arm as your back arrives; expect them to follow you down still holding the sleeve."
+  },
+  "viNotes": {
+    "en": "Their defence is a pull, and you feel it in both hands before your turn has finished. Step back out to face them without losing contact, because the reap needs their foot exactly where your hands say their body is. Reap across the mat rather than at the leg: a sweeping sole finds a foot that a poking toe would miss."
+  },
+  "videos": [
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "1:11:44 Ippon-seoi-nage to Kouchi-gari",
+      "start": 4304
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "T_AJ-A0N_qs",
+      "title": "Ippon-seoi-nage into Ko-uchi-gari",
+      "duration": "0:18"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "nameRomaji": "Hikikomi-gaeshi",
+  "nameJa": "引込返",
+  "nameKana": "ひきこみがえし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "pulling-in reversal"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "ma-sutemi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 403,
+  "kodokanAbbr": "HKG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "92zUYWBp5N8",
+      "title": "Hikikomi-gaeshi",
+      "duration": "0:59"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "YgOCElhRR7c",
+      "title": "柏崎 克彦 KATSUHIKO KASHIWAZAKI - HIKKOMI GAESHI"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "start": 2028,
+      "title": "33:48 Hikikomi-gaeshi (pulling-in reversal)"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "UKu66VNU504",
+      "title": "Hikikomi Gaeshi"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Hikikomi-gaeshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Hikikomi-gaeshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "A rear sacrifice against a partner who is bent forward: tori takes the belt or wraps the far arm, sits straight down and rolls backwards, pulling uke over the top and out onto their back. A Kodokan sacrifice technique that flows naturally into groundwork."
+  },
+  "keyPoints": {
+    "en": [
+      "Take a deep grip first: belt, or under the far arm",
+      "Sit down close to your own heels, not away from them",
+      "Roll along your back and keep pulling all the way over"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner is bent forward, their head down and their weight over their front foot.",
+      "Reach your right arm over their back and take the far side of their belt, or wrap it under their left arm.",
+      "Sit straight down, close to your own heels, and pull them onto you as you go.",
+      "Roll backwards along your spine, not onto your head, keeping the grip tight to your chest.",
+      "Their weight carries over the top of you and they land on their back; keep rolling with them and follow into a hold."
+    ]
+  },
+  "receiving": {
+    "en": "You are pulled downwards and forwards as your partner disappears beneath you, and the mat arrives over the top rather than in front. Keep your chin tucked and your arms in front of you so you do not post a straight arm into the mat. The landing is on your back or shoulders, and the roll continues, so stay relaxed and be ready to keep moving in ne-waza."
+  },
+  "viNotes": {
+    "en": "This begins from a partner already bent over you, which is contact you have. Run your hand across their back to the far hip to find the belt, and sit down close to your own heels so you know where the mat is before you commit to rolling. Roll along your spine with your chin tucked: the landing is the one part of this you cannot check on the way."
+  }
+}

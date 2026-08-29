@@ -1,0 +1,83 @@
+{
+  "nameRomaji": "Sukui-nage",
+  "nameJa": "掬投",
+  "nameKana": "すくいなげ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "scooping throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": 4,
+  "kodokanNumber": 106,
+  "kodokanAbbr": "SUK",
+  "kodokan": null,
+  "banned": "in-competition",
+  "bannedNote": {
+    "en": "Prohibited in competition in its classical form, which scoops uke's legs from behind: the IJF bars any direct attack on the legs with the hands or arms. The technique is unaffected outside contest, and the BJA sets it as a 5th Dan fundamental skill."
+  },
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "vU6aJ2kFxoI",
+      "title": "Sukui-nage",
+      "duration": "1:47"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124083932",
+      "title": "Sukui-nage"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "yq8d9K2hxgM",
+      "title": "Sukui-nage",
+      "duration": "0:16"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "NENBc6zp_8g",
+      "title": "Sukui-nage"
+    }
+  ],
+  "ijfAnimation": "Sukui-nage",
+  "links": [
+    {
+      "title": "Sukui-nage on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Sukui-nage",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "Tori steps behind or across uke, scoops both legs or the trunk with the arms, and throws uke backwards without using the lapels."
+  },
+  "keyPoints": {
+    "en": [
+      "Get your hips behind or across uke before you scoop",
+      "Scoop at thigh height, lifting with legs and hips",
+      "Turn uke over your hip line as you lift"
+    ]
+  },
+  "described": {
+    "en": [
+      "Move past your partner's right side so your chest comes to their side or slightly behind them, releasing the standard grips.",
+      "Bend your knees and wrap both arms around their thighs, one arm in front, one behind, palms clasping or pressing flat.",
+      "Draw their thighs tight to your chest and lift with your legs, scooping them from the mat.",
+      "Turn your hips so their body tips backwards over your arms, their legs rising as their shoulders go back.",
+      "Lower them onto their back in front of you, controlling the descent with your arms all the way down: this is a lift and a placement, not a drop."
+    ]
+  },
+  "receiving": {
+    "en": "Arms wrap your thighs from the side or behind and your feet leave the floor: you are scooped, tipped backwards, and for a moment fully carried. There is little you can do mid-air except stay compact and keep your chin tucked. A good partner places you down; as your back arrives, slap with whichever arm is free."
+  },
+  "viNotes": {
+    "en": "Barred in contest in the classical form because it takes the legs, but drilled all the same. Both standard grips go, leaving you working from body contact alone: come past their side chest first, and find the thighs by sliding your arms down their body rather than reaching. Lower them the whole way with your arms, since neither of you can see where they are going."
+  }
+}

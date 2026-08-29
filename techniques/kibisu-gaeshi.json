@@ -1,0 +1,89 @@
+{
+  "nameRomaji": "Kibisu-gaeshi",
+  "nameJa": "踵返",
+  "nameKana": "きびすがえし",
+  "aliases": [
+    "Soto-kibisu-gaeshi",
+    "Uchi-kibisu-gaeshi"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "heel reversal"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 114,
+  "kodokanAbbr": "KIG",
+  "kodokan": null,
+  "banned": "in-competition",
+  "bannedNote": {
+    "en": "Prohibited in competition: catching the heel is a direct attack on the legs, which the IJF penalises with hansoku-make. The technique is unaffected outside contest, and the BJA sets it as a 3rd Dan fundamental skill."
+  },
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "tJylJYfBliA",
+      "title": "Kibisu-gaeshi",
+      "duration": "1:03"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "9oA9Srf7KLk",
+      "title": "Kibisu Gaeshi"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "NtoJ9lx0hR4",
+      "title": "Soto-kibisu-gaeshi",
+      "duration": "0:24",
+      "role": "outside (soto) form"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "DEtEzKQX07I",
+      "title": "Uchi-kibisu-gaeshi",
+      "duration": "0:22",
+      "role": "inside (uchi) form"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Kibisu-gaeshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Kibisu-gaeshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "A hand throw taken at the heel: tori drops, scoops the heel forward and pushes the upper body back, so uke sits down over a foot that can no longer take their weight. Recognised by the Kodokan beyond the Gokyo. Like other leg grabs it is prohibited in current IJF competition, and the BJA syllabus names inside and outside forms of it (Uchi- and Soto-kibisu-gaeshi)."
+  },
+  "keyPoints": {
+    "en": [
+      "Take the HEEL, not the knee: scoop it forward",
+      "Push the chest back at the same instant",
+      "Stay low; standing up gives the leg back"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, bend your knees and drop your level as your partner steps.",
+      "Reach your right hand low and cup the back of their right heel, fingers behind the bone.",
+      "Scoop that heel forward and towards you, as if pulling a chair leg out from under them.",
+      "At the same moment push their lapel or shoulder backwards with your left hand.",
+      "They sit down backwards where the foot used to be; keep the heel and lower them rather than letting them drop, and note that this technique is banned in current IJF contest rules."
+    ]
+  },
+  "receiving": {
+    "en": "The cue is your partner dropping low and a hand arriving at your ankle rather than your knee. The heel goes forward and your weight has nowhere to sit, so you go straight down and backwards. Round your back, keep your chin tucked, and slap with the free arm; do not throw a hand behind you to catch the mat."
+  },
+  "viNotes": {
+    "en": "Barred in contest with every other leg grab, so this is a practice and dan-grade technique rather than a contest one. Find the heel by running your hand down the back of their leg to it instead of reaching for the floor, and let the push with the other hand leave at the same moment. Keep hold of the heel as they sit down: that grip is how you know where they have landed."
+  }
+}

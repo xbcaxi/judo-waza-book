@@ -1,0 +1,81 @@
+{
+  "nameRomaji": "Kuchiki-taoshi",
+  "nameJa": "朽木倒",
+  "nameKana": "くちきたおし",
+  "aliases": [
+    "Kuchiki-daoshi"
+  ],
+  "otherNames": [
+    {
+      "name": "single leg takedown",
+      "system": "wrestling"
+    },
+    {
+      "name": "single leg",
+      "system": "bjj"
+    }
+  ],
+  "gloss": {
+    "en": "single-leg drop"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 113,
+  "kodokanAbbr": "KTA",
+  "kodokan": null,
+  "banned": "in-competition",
+  "bannedNote": {
+    "en": "Prohibited in competition: taking uke's leg with the hand is a direct attack on the legs, which the IJF penalises with hansoku-make. The technique is unaffected outside contest, and the BJA sets it as a 4th Dan fundamental skill."
+  },
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "ZNL47q1aJNY",
+      "title": "Kuchiki-taoshi",
+      "duration": "1:09"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "EaBtg5zhleg",
+      "title": "Kuchiki Taoshi"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Kuchiki-taoshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Kuchiki-taoshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The single-leg takedown, named for felling a rotten tree: tori drops level, catches one leg behind the knee and drives the upper body back over it. A Kodokan te-waza and a wrestling staple, it is prohibited in current IJF competition under the leg-grab rules, but remains legal to practise and appears in older syllabuses."
+  },
+  "keyPoints": {
+    "en": [
+      "Change levels with the knees, keeping your back straight",
+      "One hand behind the knee, the other driving the chest back",
+      "Take the leg AND move them; a held leg alone is no throw"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, bend both knees sharply so your head drops below your partner's chest.",
+      "Step your left foot forward beside their right foot and reach your right hand behind their right knee, palm pulling in towards you.",
+      "Keep your left hand on their lapel or shoulder and push it backwards and slightly across.",
+      "Pull the knee up and towards you while the pushing hand takes their chest back over the leg they can no longer step with.",
+      "They sit and fall backwards; keep hold of the leg so they land on their back rather than their tailbone, and note that this technique is banned in current IJF contest rules."
+    ]
+  },
+  "receiving": {
+    "en": "Your partner's level drops and a hand closes behind your knee, and from that moment you have one leg to balance on. Do not fight to stay upright: let the leg go with them, turn slightly to your side as you fall, and slap with the free arm. Landing on the point of the tailbone is the risk, so sit back rather than down."
+  },
+  "viNotes": {
+    "en": "Barred in contest under the leg-grab rules, so it is drilled rather than fought. Drop your level first and let your hand find the leg on the way down by running it along their thigh to the back of the knee, which is far more reliable than reaching for it. Keep hold of the leg as they fall so you know where they have gone and can follow in."
+  }
+}

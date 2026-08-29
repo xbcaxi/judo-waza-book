@@ -1,0 +1,339 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "$ref": "#/definitions/localisedText"
+    },
+    "organisation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "country": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 2
+    },
+    "order": {
+      "type": "integer",
+      "minimum": -9007199254740991,
+      "maximum": 9007199254740991
+    },
+    "description": {
+      "allOf": [
+        {
+          "$ref": "#/definitions/localisedText"
+        }
+      ]
+    },
+    "source": {
+      "allOf": [
+        {
+          "$ref": "#/definitions/sourceRef"
+        }
+      ]
+    },
+    "posters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "alt": {
+            "$ref": "#/definitions/localisedText"
+          },
+          "provenance": {
+            "type": "string",
+            "enum": [
+              "own",
+              "licensed",
+              "third-party",
+              "unknown"
+            ]
+          },
+          "credit": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source": {
+            "type": "string",
+            "minLength": 1
+          },
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]*$"
+          }
+        },
+        "required": [
+          "alt",
+          "provenance",
+          "id"
+        ]
+      }
+    },
+    "beltMark": {
+      "type": "string",
+      "enum": [
+        "stripe",
+        "tab"
+      ]
+    },
+    "beltNote": {
+      "allOf": [
+        {
+          "$ref": "#/definitions/localisedText"
+        }
+      ]
+    },
+    "grades": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]*$"
+          },
+          "label": {
+            "$ref": "#/definitions/localisedText"
+          },
+          "beltColor": {
+            "type": "string",
+            "enum": [
+              "white",
+              "red",
+              "yellow",
+              "orange",
+              "green",
+              "blue",
+              "purple",
+              "brown",
+              "black"
+            ]
+          },
+          "beltStripe": {
+            "type": "string",
+            "enum": [
+              "white",
+              "red",
+              "yellow",
+              "orange",
+              "green",
+              "blue",
+              "purple",
+              "brown",
+              "black"
+            ]
+          },
+          "techniqueSlugs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "description": "Every technique slug this grade requires, denormalised from the syllabus because it drives the tick list and the progress bars. Required, and written even when empty. EMPTY IS MEANINGFUL AND NOT A GAP: a grade can genuinely prescribe no techniques, as the RFEJYDA 6th Dan does - free-choice tachi-waza and ne-waza submitted to the territorial school thirty days ahead, plus Kodokan Goshin-jutsu, naming no technique at all."
+          },
+          "syllabus": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "slug": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9][a-z0-9-]*$"
+                },
+                "title": {
+                  "$ref": "#/definitions/localisedText"
+                },
+                "items": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/definitions/referenceItem"
+                  }
+                }
+              },
+              "required": [
+                "slug",
+                "title",
+                "items"
+              ]
+            }
+          },
+          "image": {
+            "allOf": [
+              {
+                "$ref": "#/definitions/imageRef"
+              }
+            ]
+          },
+          "links": {
+            "default": [],
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/linkRef"
+            }
+          }
+        },
+        "required": [
+          "slug",
+          "label",
+          "beltColor",
+          "techniqueSlugs"
+        ]
+      }
+    }
+  },
+  "required": [
+    "name",
+    "organisation",
+    "grades"
+  ],
+  "definitions": {
+    "localisedText": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Text by BCP 47 language code; \"en\" required, other languages optional."
+    },
+    "sourceRef": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "date": {
+          "type": "string",
+          "minLength": 1
+        },
+        "note": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/localisedText"
+            }
+          ]
+        }
+      },
+      "required": [
+        "title"
+      ]
+    },
+    "referenceItem": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "techniques": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "sequences": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "skills": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "guides": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "terms": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "required": [
+        "text"
+      ]
+    },
+    "imageRef": {
+      "type": "object",
+      "properties": {
+        "alt": {
+          "$ref": "#/definitions/localisedText"
+        },
+        "provenance": {
+          "type": "string",
+          "enum": [
+            "own",
+            "licensed",
+            "third-party",
+            "unknown"
+          ]
+        },
+        "credit": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "alt",
+        "provenance"
+      ]
+    },
+    "linkRef": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "source": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "title",
+        "url",
+        "source"
+      ]
+    }
+  },
+  "title": "scheme",
+  "description": "One grading scheme (a federation's belt progression). The scheme id is the filename."
+}

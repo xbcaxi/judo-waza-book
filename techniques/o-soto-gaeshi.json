@@ -1,0 +1,62 @@
+{
+  "nameRomaji": "O-soto-gaeshi",
+  "nameJa": "大外返",
+  "nameKana": "おおそとがえし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "major outer reap counter"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 317,
+  "kodokanAbbr": "OGA",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "8ZjM3X_EANo",
+      "title": "O-soto-gaeshi",
+      "duration": "1:14"
+    }
+  ],
+  "ijfAnimation": "O-soto-gaeshi",
+  "links": [
+    {
+      "title": "O-soto-gaeshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/O-soto-gaeshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The counter to the major outer reap: as the attacker commits their reap, tori resists the balance-break, steps through, and reaps back with the same-side leg, turning the attack around. A recognised Kodokan technique."
+  },
+  "keyPoints": {
+    "en": [
+      "Survive the balance-break first: hips forward, weight off the heel",
+      "Their reaping leg is airborne; that is the moment",
+      "Reap back through their standing leg with your own attack"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner attacks with the major outer reap: their leg swings to reap your right leg, their chest driving.",
+      "Deny the balance-break: drive your hips forward and keep your weight off the attacked heel.",
+      "Their reaping leg is in the air and their balance rides on one supporting leg: swing your right leg through.",
+      "Reap back against that supporting leg, your chest now driving them backwards, the mirror of their own attack.",
+      "They fall back where they meant to throw you; keep the sleeve and pull up as they land."
+    ]
+  },
+  "receiving": {
+    "en": "Your own o-soto-gari is absorbed and, with your reaping leg still in the air, the same attack comes back through your standing leg. The fall is straight backwards and quick. Tuck your chin hard, breathe out, and slap with your free arm; this is the classical lesson in not attacking o-soto half-heartedly."
+  },
+  "viNotes": {
+    "en": "The attack hands you everything you need: their chest driving in, their leg swinging past yours. Answer the balance-break first by driving your hips forward, then swing your own leg through against a supporting leg you can locate precisely, because they are standing on it alone. Counters like this suit VI judo, since none of it happens out of contact."
+  }
+}

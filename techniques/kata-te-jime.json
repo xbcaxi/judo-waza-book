@@ -1,0 +1,85 @@
+{
+  "nameRomaji": "Kata-te-jime",
+  "nameJa": "片手絞",
+  "nameKana": "かたてじめ",
+  "aliases": [
+    "Katate-jime"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "one-hand strangle"
+  },
+  "category": "katame-waza",
+  "subCategory": "shime-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 707,
+  "kodokanAbbr": "KTJ",
+  "kodokan": {
+    "nameRomaji": "Katate-jime",
+    "nameJa": "片手絞"
+  },
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "cHeIs-fSqwE",
+      "title": "Katate-jime",
+      "duration": "0:49"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "Qd0Csmlw86Y",
+      "title": "Kata-Te-Jime - Uke on all Fours Position"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551852120",
+      "title": "Kata-Te-Jime - Uke on all Fours Position"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551851982",
+      "title": "kata-te-jimi"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Katate-jime on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Katate-jime",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The one-hand strangle: a single forearm across the throat, anchored by a deep collar grip, while position and body weight supply the pressure. It appears where one arm is trapped or busy and only one hand can strangle. Strangles are restricted by age in most federations; learn and practise this only under instruction and supervision."
+  },
+  "keyPoints": {
+    "en": [
+      "One deep collar grip does the holding, the forearm bar does the work",
+      "Position first: control the body before the neck",
+      "Pressure comes from body weight, not arm strength"
+    ]
+  },
+  "described": {
+    "en": [
+      "Control your partner's upper body first, typically from the side or on top so they cannot simply turn away.",
+      "Slide one hand deep into the far collar, thumb inside, until your forearm lies across the front of the throat.",
+      "Anchor your other arm on the mat, their body or your own leg; it balances, it does not strangle.",
+      "Lower your chest so your body weight passes through the forearm bar; small shifts of weight, not arm squeezing, apply the strangle.",
+      "Release the grip and lift your weight the instant your partner taps."
+    ]
+  },
+  "receiving": {
+    "en": "One hand slips deep into your collar and a forearm settles across your throat; the pressure then comes from their body lowering, not the arm tightening, which makes it feel slow until suddenly it is not. Tuck your chin the moment the hand enters the collar and defend the grip early. Tap immediately and clearly on their arm or body once the strangle is on; never hold out, and tell your instructor if you feel light-headed afterwards."
+  },
+  "viNotes": {
+    "en": "Only one hand is strangling, so the other arm is your contact with the mat and with them: post it deliberately and leave it there. The pressure comes from your chest settling through the forearm, which means you can feel exactly how much you are applying and small shifts of weight are enough. When they tap, lift the weight first and then the grip."
+  }
+}

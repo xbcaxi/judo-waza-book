@@ -1,0 +1,47 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "uki-goshi",
+    "kuzure-kesa-gatame"
+  ],
+  "about": {
+    "en": "The floating hip turns your partner around your hip rather than over it, so they land close beside you and slightly on their side: the broken scarf hold takes that position as it is."
+  },
+  "described": {
+    "en": [
+      "Take the standard grip, slide your right arm around their waist and turn them around your hip with Uki-goshi.",
+      "Keep their right sleeve as they land beside you.",
+      "Drop your hips to the mat at their right side, facing their head.",
+      "Pass your right arm under their right armpit rather than around the neck, and grip the mat or their far shoulder.",
+      "Trap their right arm under your left armpit and spread your legs wide, one forward, one back.",
+      "Settle your chest across theirs, keep your head up, and release the moment they tap."
+    ]
+  },
+  "receiving": {
+    "en": "The floating hip turns you around their hip rather than over it, so you land close beside them and slightly on your side rather than flat: chin tucked, slap with your free left arm, and expect them to be right there. The broken scarf hold takes the position exactly as it is, so move before their chest settles. Turn towards them and free the trapped arm early; once their weight is through your ribs it is patience that gets you out."
+  },
+  "viNotes": {
+    "en": "Because the throw keeps them close rather than throwing them away, this transition is short and stays in contact throughout, which makes it a good first throw-into-hold to own. Keep the arm around their waist until your hip reaches the mat, then swap it for the hold along their body rather than lifting it clear. Trap the arm, spread the legs, and settle only when your chest is across theirs."
+  },
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "bLoR5aFqHU0",
+      "title": "Uki-Goshi into Kuzure-Kesa-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535079229",
+      "title": "Uki-Goshi into Kuzure-Kesa-Gatame"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "BaxDK6pljFU",
+      "title": "Uki-goshi into Kuzure-kesa-gatame",
+      "duration": "0:30"
+    }
+  ]
+}

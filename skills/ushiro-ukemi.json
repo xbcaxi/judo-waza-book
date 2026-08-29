@@ -1,0 +1,75 @@
+{
+  "name": {
+    "en": "Ushiro Ukemi"
+  },
+  "nameRomaji": "Ushiro Ukemi",
+  "nameJa": "後受身",
+  "kind": "ukemi",
+  "about": {
+    "en": "The rear breakfall: how to land safely on your back. It is the first thing taught in every judo club and the first thing every syllabus in this reference examines, because almost every throw a beginner receives finishes here. The whole skill is keeping your head off the mat and spreading the landing across your back and arms."
+  },
+  "keyPoints": {
+    "en": [
+      "Chin tucked to your chest from start to finish",
+      "Slap the mat with both arms flat, at about forty-five degrees",
+      "Land on the rounded muscle of your back, never on your elbows"
+    ]
+  },
+  "described": {
+    "en": [
+      "Start crouched, sitting back on your heels with both arms held out in front of you at shoulder height.",
+      "Tuck your chin firmly to your chest and keep it there: this is what keeps your head off the mat.",
+      "Roll backwards along the curve of your spine, keeping your back rounded rather than flat.",
+      "As your shoulders reach the mat, slap it hard with both arms straight, palms down, angled out about forty-five degrees from your body.",
+      "Keep your legs relaxed and let them follow; do not let your heels crash down.",
+      "Finish looking at your own belt, chin still tucked, arms flat on the mat. Practise it low and slow before doing it standing."
+    ]
+  },
+  "viNotes": {
+    "en": "This is a solo skill, so it is one of the easiest to learn without sight: work it lying down first so the ground is already found, then from a crouch, then from standing. The cue for the slap is feeling your shoulder blades touch the mat, not seeing the ground come up."
+  },
+  "videos": [
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124015424",
+      "title": "Ukemi: Sitting Back Fall",
+      "role": "from sitting"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "125155343",
+      "title": "Ukemi - Ushiro: Sitting Rear Back Fall",
+      "role": "from sitting"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124016109",
+      "title": "Ukemi: Squat - Back & Side Fall",
+      "role": "from a squat"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124016672",
+      "title": "Ukemi: Standing Back & Side Fall",
+      "role": "from standing"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "125156726",
+      "title": "Ukemi - Ushiro/Yoko: Standing Back & Side Fall",
+      "role": "from standing"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "_g7rvsxTkz8",
+      "title": "Ushiro-ukemi",
+      "role": "set ups"
+    }
+  ]
+}

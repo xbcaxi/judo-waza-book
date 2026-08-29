@@ -1,0 +1,159 @@
+{
+  "nameRomaji": "O-soto-gari",
+  "nameJa": "大外刈",
+  "nameKana": "おおそとがり",
+  "aliases": [
+    "Osoto-gari"
+  ],
+  "otherNames": [
+    {
+      "name": "outside leg trip",
+      "system": "english"
+    }
+  ],
+  "gloss": {
+    "en": "major outer reap"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": 1,
+  "kodokanNumber": 304,
+  "kodokanAbbr": "OSG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "c-A_nP7mKAc",
+      "title": "O-soto-gari",
+      "duration": "1:45"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548838301",
+      "title": "o-soto-gari"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123999807",
+      "title": "O-soto-gari"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "KeIPk8O58zs",
+      "title": "o-soto-gari - Basic Principles",
+      "role": "basic principles"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "JCYTHcJK1O8",
+      "title": "o-soto-gari - Competitive Variations",
+      "role": "competitive variations"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "BIrhmaUkB_8",
+      "title": "o-soto-gari - Set Up Combinations",
+      "role": "extra"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "nPs1pa3mZLs",
+      "title": "o-soto-gari - Set Ups",
+      "role": "set ups"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "97IZSgy--dQ",
+      "title": "古賀 稔彦 TOSHIHIKO KOGA - O SOTO GARI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "aU9nxYZBsnc",
+      "title": "吉田 秀彦 HIDEHIKO YOSHIDA - O SOTO GARI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "u0ax8T1e_Fc",
+      "title": "山下 泰裕 YASUHIRO YAMASHITA - O SOTO GARI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "f8Fw032NFxg",
+      "title": "高井 洋平 YOHEI TAKAI - O SOTO GARI"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "19:35 Osoto-gari (large outer reap)",
+      "start": 1175
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "GfzfsASa8eI",
+      "title": "O-soto-gari",
+      "duration": "0:17"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "DjIecEDiVJg",
+      "title": "o-soto-gari"
+    }
+  ],
+  "ijfAnimation": "O-soto-gari",
+  "links": [
+    {
+      "title": "O-soto-gari on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/O-soto-gari",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of O-soto-gari, the major outer reap."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori steps beside uke, breaks balance to uke's rear corner, and reaps the supporting leg away from the outside with a large sweep of the leg."
+  },
+  "keyPoints": {
+    "en": [
+      "Break balance backwards over uke's heel before you reap",
+      "Chest stays close: head forward, leg back like a see-saw",
+      "Reap through the thigh with your calf, toes pointed"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, step your left foot forward beside the outside of your partner's right foot, close enough that your chests nearly touch.",
+      "As you step, drive both hands so their weight tips over their right heel: sleeve hand pulling down and out, lapel hand pressing towards their rear corner. Their right leg is now carrying their weight.",
+      "Swing your right leg forward past theirs, then reap it back hard, the back of your thigh and calf cutting through the back of their right thigh and calf.",
+      "Let your head and chest drive forward and down as the leg reaps back, like a see-saw: leg goes back, chest goes forward.",
+      "Their supporting leg is taken away and they fall straight back. Keep hold of the sleeve and pull up on it as they land, so the fall is broken."
+    ]
+  },
+  "receiving": {
+    "en": "Your weight is pressed back over your right heel, their chest close, and then your supporting leg is reaped away: the fall is straight backwards and can be fast. Tuck your chin hard so the back of your head never reaches the mat, and slap with your free arm as your back lands. The held sleeve should lift you a little; expect this one to knock the wind if you land flat, and breathe out as you fall."
+  },
+  "viNotes": {
+    "en": "From the gripped-up start the step in is the whole set-up, and your check is contact: chests close enough to touch means you are near enough to reap. The reaping leg finds theirs by cutting back through that contact rather than swinging through open space, with leg back and chest forward as one see-saw. Pull up on the sleeve as they land, because this fall goes straight back and uke has no preview of it."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "nameRomaji": "O-soto-gake",
+  "nameJa": "大外掛",
+  "nameKana": "おおそとがけ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "major outer hook"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": null,
+  "kodokanAbbr": null,
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "OM11NEW1f3g",
+      "title": "O-soto-gake",
+      "duration": "0:09"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [],
+  "image": null,
+  "about": {
+    "en": "The hooking counterpart of the major outer reap: the attacking leg hooks behind uke's leg and STAYS, driving them down over the trap rather than reaping through. Named separately in British syllabuses; gake (hook) and gari (reap) are different actions, not different spellings."
+  },
+  "keyPoints": {
+    "en": [
+      "Hook behind their leg and keep it; do not reap through",
+      "Drive with the chest over the trapped leg",
+      "Follow down with control, releasing the hook as they land"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, step your left foot beside the outside of their right foot, close, as for the major outer reap.",
+      "Swing your right leg past theirs and hook it back around their right leg, calf to calf, and keep it hooked.",
+      "Drive your chest forward and down over the trapped leg, both hands pressing their weight back.",
+      "Follow them down as they topple over the hook, staying balanced above.",
+      "They land on their back; release the hook as they land and hold the sleeve up for the breakfall."
+    ]
+  },
+  "receiving": {
+    "en": "Like the outer reap, but the leg stays wrapped behind yours: no reap, just a trap and a growing drive backwards. Tuck your chin, take the rear breakfall, and expect them to arrive close behind the fall."
+  },
+  "viNotes": {
+    "en": "The hook is set calf to calf and stays there, which gives you a fixed reference for both bodies. Find it by swinging your leg past theirs and drawing it back until the calves meet, rather than placing it where you expect their leg to be. Drive with the chest, follow them down, and hold the sleeve up as they land."
+  }
+}

@@ -1,0 +1,1492 @@
+{
+  "name": {
+    "en": "Kyu grades (Scotland)"
+  },
+  "organisation": "JudoScotland",
+  "country": "GB",
+  "order": 3,
+  "description": {
+    "en": "JudoScotland's Kyu grade pathway: six grades from red to brown belt, open to judoka from 14 years of age. Promotion is based on technical knowledge and understanding with no contest requirement; a structured Randori element grows through the grades."
+  },
+  "source": {
+    "title": "JudoScotland Kyu Grade Promotion Syllabus",
+    "date": "1 October 2013",
+    "note": {
+      "en": "Item wording kept as printed in the 2013 syllabus, which is the authority. The pictorial sheets come from JudoScotland's older Senior Grading Programme companion guide and differ from the written syllabus in the blue and brown belt grades (they show the earlier leg-grab era arrangement). The British Judo Association's Kyu Grade Promotion Syllabus (revised 1 May 2016) carries the same technique requirements."
+    }
+  },
+  "grades": [
+    {
+      "slug": "6th-kyu",
+      "label": {
+        "en": "6th Kyu"
+      },
+      "beltColor": "red",
+      "techniqueSlugs": [
+        "o-soto-otoshi",
+        "de-ashi-harai",
+        "uki-goshi",
+        "kesa-gatame",
+        "mune-gatame",
+        "kuzure-kesa-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-ukemi",
+          "title": {
+            "en": "Fundamental skills: Ukemi"
+          },
+          "items": [
+            {
+              "text": "Ushiro Ukemi (rear breakfall)",
+              "techniques": [],
+              "skills": [
+                "ushiro-ukemi"
+              ]
+            },
+            {
+              "text": "Yoko Ukemi (side breakfall)",
+              "techniques": [],
+              "skills": [
+                "yoko-ukemi"
+              ]
+            },
+            {
+              "text": "Mae Mawari Ukemi (forward rolling breakfall)",
+              "techniques": [],
+              "skills": [
+                "mae-mawari-ukemi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamental-tachi-waza",
+          "title": {
+            "en": "Fundamental skills: Tachi-waza"
+          },
+          "items": [
+            {
+              "text": "Osoto-otoshi",
+              "techniques": [
+                "o-soto-otoshi"
+              ]
+            },
+            {
+              "text": "De-ashi-barai",
+              "techniques": [
+                "de-ashi-harai"
+              ]
+            },
+            {
+              "text": "Uki-goshi",
+              "techniques": [
+                "uki-goshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamental-osaekomi-waza",
+          "title": {
+            "en": "Fundamental skills: Osaekomi-waza"
+          },
+          "items": [
+            {
+              "text": "Kesa-gatame",
+              "techniques": [
+                "kesa-gatame"
+              ]
+            },
+            {
+              "text": "Mune-gatame",
+              "techniques": [
+                "mune-gatame"
+              ]
+            },
+            {
+              "text": "Kuzure-kesa-gatame",
+              "techniques": [
+                "kuzure-kesa-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-combinations",
+          "title": {
+            "en": "Performance skills: Combination techniques"
+          },
+          "items": [
+            {
+              "text": "Osoto-otoshi into Kesa-gatame",
+              "techniques": [
+                "o-soto-otoshi",
+                "kesa-gatame"
+              ],
+              "sequences": [
+                "o-soto-otoshi-into-kesa-gatame"
+              ]
+            },
+            {
+              "text": "De-ashi-barai into Mune-gatame",
+              "techniques": [
+                "de-ashi-harai",
+                "mune-gatame"
+              ],
+              "sequences": [
+                "de-ashi-harai-into-mune-gatame"
+              ]
+            },
+            {
+              "text": "Uki-goshi into Kuzure-kesa-gatame",
+              "techniques": [
+                "uki-goshi",
+                "kuzure-kesa-gatame"
+              ],
+              "sequences": [
+                "uki-goshi-into-kuzure-kesa-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-ne-waza",
+          "title": {
+            "en": "Performance skills: Ne-waza"
+          },
+          "items": [
+            {
+              "text": "Escape from Kesa-gatame by trapping Uke's leg",
+              "techniques": [
+                "kesa-gatame"
+              ],
+              "skills": [
+                "kesa-gatame-escape-leg-trap"
+              ]
+            },
+            {
+              "text": "Escape from Mune-gatame using a ‘bridge and roll’ action",
+              "techniques": [
+                "mune-gatame"
+              ],
+              "skills": [
+                "mune-gatame-escape-bridge-and-roll"
+              ]
+            },
+            {
+              "text": "Escape from Kuzure-kesa-gatame using ‘sit up and push’",
+              "techniques": [
+                "kuzure-kesa-gatame"
+              ],
+              "skills": [
+                "kuzure-kesa-gatame-escape-sit-up-and-push"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "personal-choice",
+          "title": {
+            "en": "Personal choice"
+          },
+          "items": [
+            {
+              "text": "Select and demonstrate two Tachi-waza and two Osaekomi-waza from the Technical Grading Syllabus",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology and supplementary knowledge"
+          },
+          "items": [
+            {
+              "text": "Know the common English translations and meaning of all Japanese terminology used in this section",
+              "techniques": []
+            },
+            {
+              "text": "Translate into their common English names and explain: Dojo, Hajime, Rei, Judogi, Matte, Toketa, Zori, Osaekomi, Randori",
+              "techniques": [],
+              "terms": [
+                "matte",
+                "hajime",
+                "dojo",
+                "judogi",
+                "zori",
+                "rei",
+                "osaekomi",
+                "toketa",
+                "randori"
+              ]
+            },
+            {
+              "text": "Demonstrate the correct tying of the Obi, the correct wearing of the judogi, and the bowing procedures Tachi-rei and Za-rei",
+              "techniques": [],
+              "guides": [
+                "tying-your-belt",
+                "bowing-and-the-judogi"
+              ],
+              "terms": [
+                "judogi"
+              ]
+            },
+            {
+              "text": "Answer: who is the founder of modern judo? In which country was judo devised?",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial guide pages for the Novice to 6th Kyu grading, with step-by-step drawings of the required skills. The guide is an older companion to the written syllabus and differs from it in the later grades."
+        },
+        "provenance": "third-party",
+        "credit": "JudoScotland",
+        "source": "JudoScotland Senior Grading Programme pictorial guide"
+      }
+    },
+    {
+      "slug": "5th-kyu",
+      "label": {
+        "en": "5th Kyu"
+      },
+      "beltColor": "yellow",
+      "techniqueSlugs": [
+        "tai-otoshi",
+        "ippon-seoi-nage",
+        "o-uchi-gari",
+        "yoko-shiho-gatame",
+        "tate-shiho-gatame",
+        "kami-shiho-gatame",
+        "kesa-gatame",
+        "mune-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-ukemi",
+          "title": {
+            "en": "Fundamental skills: Ukemi"
+          },
+          "items": [
+            {
+              "text": "Mae Ukemi (forward breakfall)",
+              "techniques": [],
+              "skills": [
+                "mae-ukemi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamental-tachi-waza",
+          "title": {
+            "en": "Fundamental skills: Tachi-waza"
+          },
+          "items": [
+            {
+              "text": "Tai-otoshi",
+              "techniques": [
+                "tai-otoshi"
+              ]
+            },
+            {
+              "text": "Ippon-seoi-nage",
+              "techniques": [
+                "ippon-seoi-nage"
+              ]
+            },
+            {
+              "text": "O-uchi-gari",
+              "techniques": [
+                "o-uchi-gari"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamental-osaekomi-waza",
+          "title": {
+            "en": "Fundamental skills: Osaekomi-waza"
+          },
+          "items": [
+            {
+              "text": "Yoko-shiho-gatame",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Tate-shiho-gatame",
+              "techniques": [
+                "tate-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Kami-shiho-gatame",
+              "techniques": [
+                "kami-shiho-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-combinations",
+          "title": {
+            "en": "Performance skills: Combination techniques"
+          },
+          "items": [
+            {
+              "text": "O-uchi-gari into Tate-shiho-gatame",
+              "techniques": [
+                "o-uchi-gari",
+                "tate-shiho-gatame"
+              ],
+              "sequences": [
+                "o-uchi-gari-into-tate-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Ippon-seoi-nage into Kami-shiho-gatame",
+              "techniques": [
+                "ippon-seoi-nage",
+                "kami-shiho-gatame"
+              ],
+              "sequences": [
+                "ippon-seoi-nage-into-kami-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Tai-otoshi into Yoko-shiho-gatame",
+              "techniques": [
+                "tai-otoshi",
+                "yoko-shiho-gatame"
+              ],
+              "sequences": [
+                "tai-otoshi-into-yoko-shiho-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-ne-waza",
+          "title": {
+            "en": "Performance skills: Ne-waza"
+          },
+          "items": [
+            {
+              "text": "Escape from Kami-shiho-gatame using ‘action and re-action’",
+              "techniques": [
+                "kami-shiho-gatame"
+              ],
+              "skills": [
+                "kami-shiho-gatame-escape-action-reaction"
+              ]
+            },
+            {
+              "text": "Escape from Tate-shiho-gatame using a ‘clamp and roll’ action",
+              "techniques": [
+                "tate-shiho-gatame"
+              ],
+              "skills": [
+                "tate-shiho-gatame-escape-clamp-and-roll"
+              ]
+            },
+            {
+              "text": "Escape from Yoko-shiho-gatame using ‘trap, bridge and roll’",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ],
+              "skills": [
+                "yoko-shiho-gatame-escape-trap-bridge-roll"
+              ]
+            },
+            {
+              "text": "Turnover into Kesa-gatame (Uke in “all fours” position)",
+              "techniques": [
+                "kesa-gatame"
+              ],
+              "skills": [
+                "turnover-into-kesa-gatame"
+              ]
+            },
+            {
+              "text": "Turnover into Mune-gatame (Uke in “all fours” position)",
+              "techniques": [
+                "mune-gatame"
+              ],
+              "skills": [
+                "turnover-into-mune-gatame"
+              ]
+            },
+            {
+              "text": "Turnover into Yoko-shiho-gatame (Uke in prone position)",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ],
+              "skills": [
+                "turnover-into-yoko-shiho-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-kumi-kata",
+          "title": {
+            "en": "Performance skills: Kumi-kata"
+          },
+          "items": [
+            {
+              "text": "Right and left standard grips",
+              "techniques": [],
+              "skills": [
+                "standard-grip"
+              ]
+            },
+            {
+              "text": "Alternatives to standard grips e.g. right versus left grips, double lapel and high collar grips",
+              "techniques": [],
+              "skills": [
+                "alternative-grips"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-randori",
+          "title": {
+            "en": "Performance skills: Randori"
+          },
+          "items": [
+            {
+              "text": "Demonstration of Nage-komi in light Randori with a co-operative partner",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "personal-choice",
+          "title": {
+            "en": "Personal choice"
+          },
+          "items": [
+            {
+              "text": "Select and demonstrate two Tachi-waza and two Osaekomi-waza from the Technical Grading Syllabus",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology and supplementary knowledge"
+          },
+          "items": [
+            {
+              "text": "Know the common English translations and meaning of all Japanese terminology used in this section",
+              "techniques": []
+            },
+            {
+              "text": "Give two examples of actions against the contest rules",
+              "techniques": [],
+              "guides": [
+                "competition-rules-basics"
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial guide pages for the 6th Kyu to 5th Kyu grading, with step-by-step drawings of the required skills. The guide is an older companion to the written syllabus and differs from it in the later grades."
+        },
+        "provenance": "third-party",
+        "credit": "JudoScotland",
+        "source": "JudoScotland Senior Grading Programme pictorial guide"
+      }
+    },
+    {
+      "slug": "4th-kyu",
+      "label": {
+        "en": "4th Kyu"
+      },
+      "beltColor": "orange",
+      "techniqueSlugs": [
+        "tsurikomi-goshi",
+        "o-goshi",
+        "seoi-otoshi",
+        "seoi-nage",
+        "o-soto-gari",
+        "ko-uchi-gari",
+        "ko-soto-gake",
+        "ko-soto-gari",
+        "o-uchi-gari",
+        "o-soto-gake",
+        "ippon-seoi-nage",
+        "tai-otoshi",
+        "kesa-gatame",
+        "yoko-shiho-gatame",
+        "tate-shiho-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-tachi-waza",
+          "title": {
+            "en": "Fundamental skills: Tachi-waza"
+          },
+          "items": [
+            {
+              "text": "Tsuri-komi-goshi",
+              "techniques": [
+                "tsurikomi-goshi"
+              ]
+            },
+            {
+              "text": "O-goshi",
+              "techniques": [
+                "o-goshi"
+              ]
+            },
+            {
+              "text": "Seoi-otoshi",
+              "techniques": [
+                "seoi-otoshi"
+              ]
+            },
+            {
+              "text": "Morote-seoi-nage",
+              "techniques": [
+                "seoi-nage"
+              ]
+            },
+            {
+              "text": "O-soto-gari",
+              "techniques": [
+                "o-soto-gari"
+              ]
+            },
+            {
+              "text": "Ko-uchi-gari",
+              "techniques": [
+                "ko-uchi-gari"
+              ]
+            },
+            {
+              "text": "Ko-soto-gake",
+              "techniques": [
+                "ko-soto-gake"
+              ]
+            },
+            {
+              "text": "Ko-soto-gari",
+              "techniques": [
+                "ko-soto-gari"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-combinations",
+          "title": {
+            "en": "Performance skills: Combination techniques"
+          },
+          "items": [
+            {
+              "text": "O-uchi-gari into Ko-uchi-gari",
+              "techniques": [
+                "o-uchi-gari",
+                "ko-uchi-gari"
+              ],
+              "sequences": [
+                "o-uchi-gari-into-ko-uchi-gari"
+              ]
+            },
+            {
+              "text": "Ko-uchi-gari into O-soto-gari or O-soto-gake",
+              "techniques": [
+                "ko-uchi-gari",
+                "o-soto-gari",
+                "o-soto-gake"
+              ],
+              "sequences": [
+                "ko-uchi-gari-into-o-soto-gari",
+                "ko-uchi-gari-into-o-soto-gake"
+              ]
+            },
+            {
+              "text": "Ko-uchi-gari into Morote-seoi-nage",
+              "techniques": [
+                "ko-uchi-gari",
+                "seoi-nage"
+              ],
+              "sequences": [
+                "ko-uchi-gari-into-seoi-nage"
+              ]
+            },
+            {
+              "text": "Ippon-seoi-nage into Ko-uchi-gari",
+              "techniques": [
+                "ippon-seoi-nage",
+                "ko-uchi-gari"
+              ],
+              "sequences": [
+                "ippon-seoi-nage-into-ko-uchi-gari"
+              ]
+            },
+            {
+              "text": "Any technique as combinations with Seoi-otoshi and with Ko-uchi-gari",
+              "techniques": [
+                "seoi-otoshi",
+                "ko-uchi-gari"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-counters",
+          "title": {
+            "en": "Performance skills: Counter techniques"
+          },
+          "items": [
+            {
+              "text": "O-uchi-gari countered by Tsuri-komi-goshi",
+              "techniques": [
+                "o-uchi-gari",
+                "tsurikomi-goshi"
+              ],
+              "sequences": [
+                "o-uchi-gari-countered-by-tsurikomi-goshi"
+              ]
+            },
+            {
+              "text": "Tai-otoshi countered by Ko-soto-gari or gake",
+              "techniques": [
+                "tai-otoshi",
+                "ko-soto-gari",
+                "ko-soto-gake"
+              ],
+              "sequences": [
+                "tai-otoshi-countered-by-ko-soto-gari",
+                "tai-otoshi-countered-by-ko-soto-gake"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-ne-waza",
+          "title": {
+            "en": "Performance skills: Ne-waza"
+          },
+          "items": [
+            {
+              "text": "Escape from Kesa-gatame using ‘bridge and roll’",
+              "techniques": [
+                "kesa-gatame"
+              ],
+              "skills": [
+                "kesa-gatame-escape-bridge-and-roll"
+              ]
+            },
+            {
+              "text": "Escape into Kesa-gatame from between Uke's legs",
+              "techniques": [
+                "kesa-gatame"
+              ],
+              "skills": [
+                "escape-into-kesa-gatame-between-legs"
+              ]
+            },
+            {
+              "text": "Escape into Yoko-shiho-gatame from between Uke's legs",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ],
+              "skills": [
+                "escape-into-yoko-shiho-gatame-past-legs"
+              ]
+            },
+            {
+              "text": "Arm roll from behind Uke",
+              "techniques": [],
+              "skills": [
+                "arm-roll-from-the-side"
+              ]
+            },
+            {
+              "text": "Arm roll from in front of Uke",
+              "techniques": [],
+              "skills": [
+                "arm-roll-from-the-front"
+              ]
+            },
+            {
+              "text": "Turn over from underneath Uke into Tate-shiho-gatame",
+              "techniques": [
+                "tate-shiho-gatame"
+              ],
+              "skills": [
+                "turnover-into-tate-shiho-gatame-from-beneath"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-randori",
+          "title": {
+            "en": "Performance skills: Randori"
+          },
+          "items": [
+            {
+              "text": "Demonstration of attacking and defending in light Randori with a co-operative partner",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "personal-choice",
+          "title": {
+            "en": "Personal choice"
+          },
+          "items": [
+            {
+              "text": "Select and demonstrate three Waza (two Tachi-waza and one Ne-waza) from the Technical Grading Syllabus and demonstrate them as a combination, a counter and as a transition into Ne-waza",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology and supplementary knowledge"
+          },
+          "items": [
+            {
+              "text": "Know the common English translations and meaning of all Japanese terminology used in this section, and be able to discuss with the examiner the reasons for choice of technique, grip etc.",
+              "techniques": []
+            },
+            {
+              "text": "Translate into their common English names and explain: Shido, Hiki-wake, Uke, Tori, Hansoku-make, Waza-ari-awasete-ippon",
+              "techniques": [],
+              "terms": [
+                "uke",
+                "tori",
+                "waza-ari-awasete-ippon"
+              ]
+            },
+            {
+              "text": "Demonstrate the Referee's signals for Matte, Osaekomi, Toketa and adjusting the judogi",
+              "techniques": [],
+              "guides": [
+                "referee-commands-and-signals"
+              ],
+              "terms": [
+                "matte",
+                "judogi",
+                "osaekomi",
+                "toketa"
+              ]
+            },
+            {
+              "text": "Demonstrate the proper procedures for coming onto and leaving the mat during a contest",
+              "techniques": [],
+              "guides": [
+                "bowing-and-the-judogi"
+              ]
+            },
+            {
+              "text": "Give two examples of actions (not grips) against the contest rules",
+              "techniques": [],
+              "guides": [
+                "competition-rules-basics"
+              ]
+            },
+            {
+              "text": "Give two examples of grips against the contest rules for negative or safety reasons",
+              "techniques": [],
+              "guides": [
+                "competition-rules-basics"
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial guide pages for the 5th Kyu to 4th Kyu grading, with step-by-step drawings of the required skills. The guide is an older companion to the written syllabus and differs from it in the later grades."
+        },
+        "provenance": "third-party",
+        "credit": "JudoScotland",
+        "source": "JudoScotland Senior Grading Programme pictorial guide"
+      }
+    },
+    {
+      "slug": "3rd-kyu",
+      "label": {
+        "en": "3rd Kyu"
+      },
+      "beltColor": "green",
+      "techniqueSlugs": [
+        "harai-goshi",
+        "uchi-mata",
+        "hiza-guruma",
+        "sasae-tsurikomi-ashi",
+        "hane-goshi",
+        "okuri-ashi-harai",
+        "seoi-nage",
+        "ude-gatame",
+        "waki-gatame",
+        "hiza-gatame",
+        "juji-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-tachi-waza",
+          "title": {
+            "en": "Fundamental skills: Tachi-waza"
+          },
+          "items": [
+            {
+              "text": "Harai-goshi",
+              "techniques": [
+                "harai-goshi"
+              ]
+            },
+            {
+              "text": "Uchi-mata",
+              "techniques": [
+                "uchi-mata"
+              ]
+            },
+            {
+              "text": "Hiza-guruma",
+              "techniques": [
+                "hiza-guruma"
+              ]
+            },
+            {
+              "text": "Sasae-tsuri-komi-ashi",
+              "techniques": [
+                "sasae-tsurikomi-ashi"
+              ]
+            },
+            {
+              "text": "Hane-goshi",
+              "techniques": [
+                "hane-goshi"
+              ]
+            },
+            {
+              "text": "Okuri-ashi-barai",
+              "techniques": [
+                "okuri-ashi-harai"
+              ]
+            },
+            {
+              "text": "Morote-eri-seoi-nage",
+              "techniques": [
+                "seoi-nage"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamental-kansetsu-waza",
+          "title": {
+            "en": "Fundamental skills: Kansetsu-waza"
+          },
+          "items": [
+            {
+              "text": "Ude-gatame",
+              "techniques": [
+                "ude-gatame"
+              ]
+            },
+            {
+              "text": "Waki-gatame",
+              "techniques": [
+                "waki-gatame"
+              ]
+            },
+            {
+              "text": "Hiza-gatame",
+              "techniques": [
+                "hiza-gatame"
+              ]
+            },
+            {
+              "text": "Juji-gatame",
+              "techniques": [
+                "juji-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-kansetsu-waza",
+          "title": {
+            "en": "Performance skills: Kansetsu-waza"
+          },
+          "items": [
+            {
+              "text": "Juji-gatame – sit back entry",
+              "techniques": [
+                "juji-gatame"
+              ]
+            },
+            {
+              "text": "Juji-gatame – roll over entry",
+              "techniques": [
+                "juji-gatame"
+              ]
+            },
+            {
+              "text": "Juji-gatame – over the shoulder entry",
+              "techniques": [
+                "juji-gatame"
+              ]
+            },
+            {
+              "text": "Juji-gatame – entry from beneath",
+              "techniques": [
+                "juji-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-randori",
+          "title": {
+            "en": "Performance skills: Randori"
+          },
+          "items": [
+            {
+              "text": "Demonstration of attacking, defence, avoidance and continuous attacking performance skills in Tachi-waza and Ne-waza in Randori with a co-operative partner",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "personal-choice",
+          "title": {
+            "en": "Personal choice"
+          },
+          "items": [
+            {
+              "text": "Select and demonstrate four techniques from the Technical Grading Syllabus and demonstrate them individually and then as a series of combinations and counters",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology and supplementary knowledge"
+          },
+          "items": [
+            {
+              "text": "Know the common English translations and meaning of all Japanese terminology used in this section, and be able to discuss with the examiner the reasons for choice of technique, grip etc.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial guide pages for the 4th Kyu to 3rd Kyu grading, with step-by-step drawings of the required skills. The guide is an older companion to the written syllabus and differs from it in the later grades."
+        },
+        "provenance": "third-party",
+        "credit": "JudoScotland",
+        "source": "JudoScotland Senior Grading Programme pictorial guide"
+      }
+    },
+    {
+      "slug": "2nd-kyu",
+      "label": {
+        "en": "2nd Kyu"
+      },
+      "beltColor": "blue",
+      "techniqueSlugs": [
+        "soto-makikomi",
+        "tani-otoshi",
+        "yoko-guruma",
+        "tomoe-nage",
+        "yoko-tomoe-nage",
+        "uki-waza",
+        "okuri-eri-jime",
+        "nami-juji-jime",
+        "gyaku-juji-jime",
+        "ude-garami",
+        "kuzure-kesa-gatame",
+        "koshi-jime",
+        "seoi-otoshi",
+        "kata-te-jime"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-tachi-waza",
+          "title": {
+            "en": "Fundamental skills: Tachi-waza"
+          },
+          "items": [
+            {
+              "text": "Soto-maki-komi",
+              "techniques": [
+                "soto-makikomi"
+              ]
+            },
+            {
+              "text": "Tani-otoshi",
+              "techniques": [
+                "tani-otoshi"
+              ]
+            },
+            {
+              "text": "Yoko-guruma",
+              "techniques": [
+                "yoko-guruma"
+              ]
+            },
+            {
+              "text": "Tomoe-nage",
+              "techniques": [
+                "tomoe-nage"
+              ]
+            },
+            {
+              "text": "Yoko-tomoe-nage",
+              "techniques": [
+                "yoko-tomoe-nage"
+              ]
+            },
+            {
+              "text": "Uki-waza",
+              "techniques": [
+                "uki-waza"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamental-shime-waza",
+          "title": {
+            "en": "Fundamental skills: Shime-waza"
+          },
+          "items": [
+            {
+              "text": "Okuri-eri-jime",
+              "techniques": [
+                "okuri-eri-jime"
+              ]
+            },
+            {
+              "text": "Nami-juji-jime",
+              "techniques": [
+                "nami-juji-jime"
+              ]
+            },
+            {
+              "text": "Gyaku-juji-jime",
+              "techniques": [
+                "gyaku-juji-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamental-kansetsu-waza",
+          "title": {
+            "en": "Fundamental skills: Kansetsu-waza"
+          },
+          "items": [
+            {
+              "text": "Ude-garami",
+              "techniques": [
+                "ude-garami"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-combinations",
+          "title": {
+            "en": "Performance skills: Combination techniques"
+          },
+          "items": [
+            {
+              "text": "Ude-garami from Kuzure-kesa-gatame",
+              "techniques": [
+                "ude-garami",
+                "kuzure-kesa-gatame"
+              ]
+            },
+            {
+              "text": "Knowledge of selected Kaeshi-waza",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "performance-ne-waza",
+          "title": {
+            "en": "Performance skills: Ne-waza"
+          },
+          "items": [
+            {
+              "text": "Koshi-jime – Uke attempts Seoi-otoshi (dropping attack)",
+              "techniques": [
+                "koshi-jime",
+                "seoi-otoshi"
+              ]
+            },
+            {
+              "text": "Kata-te-jime – Uke in “all fours” position",
+              "techniques": [
+                "kata-te-jime"
+              ]
+            },
+            {
+              "text": "Nami-juji-jime – Uke underneath (between Tori's legs)",
+              "techniques": [
+                "nami-juji-jime"
+              ]
+            },
+            {
+              "text": "Gyaku-juji-jime – Uke on top (between Tori's legs)",
+              "techniques": [
+                "gyaku-juji-jime"
+              ]
+            },
+            {
+              "text": "Okuri-eri-jime – Uke makes Seoi-otoshi (dropping attack)",
+              "techniques": [
+                "okuri-eri-jime",
+                "seoi-otoshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-kumi-kata",
+          "title": {
+            "en": "Performance skills: Kumi-kata"
+          },
+          "items": [
+            {
+              "text": "Introduction to performance Kumi-kata (gripping) skills",
+              "techniques": [],
+              "skills": [
+                "gripping-against-opposite-stance"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-randori",
+          "title": {
+            "en": "Performance skills: Randori"
+          },
+          "items": [
+            {
+              "text": "Demonstration of attacking, defence, avoidance and continuous attacking performance skills in Tachi-waza and Ne-waza in Randori with a co-operative partner",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "personal-choice",
+          "title": {
+            "en": "Personal choice"
+          },
+          "items": [
+            {
+              "text": "Select and demonstrate four techniques from the Technical Grading Syllabus and demonstrate them individually and then as a series of combinations and counters",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology and supplementary knowledge"
+          },
+          "items": [
+            {
+              "text": "Know the common English translations and meaning of all Japanese terminology used in this section, and be able to discuss with the examiner the reasons for choice of technique, grip etc.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial guide pages for the 3rd Kyu to 2nd Kyu grading, with step-by-step drawings of the required skills. The guide is an older companion to the written syllabus and differs from it in the later grades."
+        },
+        "provenance": "third-party",
+        "credit": "JudoScotland",
+        "source": "JudoScotland Senior Grading Programme pictorial guide"
+      }
+    },
+    {
+      "slug": "1st-kyu",
+      "label": {
+        "en": "1st Kyu"
+      },
+      "beltColor": "brown",
+      "techniqueSlugs": [
+        "sode-tsurikomi-goshi",
+        "kata-guruma",
+        "seoi-otoshi",
+        "sumi-gaeshi",
+        "yoko-gake",
+        "ko-uchi-gake",
+        "ushiro-goshi",
+        "ura-nage",
+        "uki-otoshi",
+        "koshi-guruma",
+        "kata-ha-jime",
+        "hadaka-jime",
+        "koshi-jime",
+        "sankaku-jime"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamental-tachi-waza",
+          "title": {
+            "en": "Fundamental skills: Tachi-waza"
+          },
+          "items": [
+            {
+              "text": "Sode-tsuri-komi-goshi",
+              "techniques": [
+                "sode-tsurikomi-goshi"
+              ]
+            },
+            {
+              "text": "Kata-guruma",
+              "techniques": [
+                "kata-guruma"
+              ]
+            },
+            {
+              "text": "Ryo-hiza-seoi-otoshi",
+              "techniques": [
+                "seoi-otoshi"
+              ]
+            },
+            {
+              "text": "Sumi-gaeshi",
+              "techniques": [
+                "sumi-gaeshi"
+              ]
+            },
+            {
+              "text": "Yoko-gake",
+              "techniques": [
+                "yoko-gake"
+              ]
+            },
+            {
+              "text": "Ko-uchi-gake-maki-komi",
+              "techniques": [
+                "ko-uchi-gake"
+              ]
+            },
+            {
+              "text": "Ushiro-goshi",
+              "techniques": [
+                "ushiro-goshi"
+              ]
+            },
+            {
+              "text": "Ura-nage",
+              "techniques": [
+                "ura-nage"
+              ]
+            },
+            {
+              "text": "Uki-otoshi",
+              "techniques": [
+                "uki-otoshi"
+              ]
+            },
+            {
+              "text": "Koshi-guruma",
+              "techniques": [
+                "koshi-guruma"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamental-shime-waza",
+          "title": {
+            "en": "Fundamental skills: Shime-waza"
+          },
+          "items": [
+            {
+              "text": "Kata-ha-jime",
+              "techniques": [
+                "kata-ha-jime"
+              ]
+            },
+            {
+              "text": "Hadaka-jime",
+              "techniques": [
+                "hadaka-jime"
+              ]
+            },
+            {
+              "text": "Kata-te-ashi-koshi-jime",
+              "techniques": [
+                "koshi-jime"
+              ]
+            },
+            {
+              "text": "San-gaku-jime",
+              "techniques": [
+                "sankaku-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-tachi-waza",
+          "title": {
+            "en": "Performance skills: Tachi-waza"
+          },
+          "items": [
+            {
+              "text": "Knowledge of performance forms of selected techniques",
+              "techniques": []
+            },
+            {
+              "text": "Demonstrate any two variations of Sumi-gaeshi",
+              "techniques": [
+                "sumi-gaeshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-ne-waza",
+          "title": {
+            "en": "Performance skills: Ne-waza"
+          },
+          "items": [
+            {
+              "text": "San-gaku-gatame – complex entry",
+              "techniques": [
+                "sankaku-jime"
+              ]
+            },
+            {
+              "text": "San-gaku-jime – complex entry",
+              "techniques": [
+                "sankaku-jime"
+              ]
+            },
+            {
+              "text": "San-gaku-osae-gatame – turnover and hold",
+              "techniques": [
+                "sankaku-jime"
+              ]
+            },
+            {
+              "text": "Hadaka-jime – Uke prone position",
+              "techniques": [
+                "hadaka-jime"
+              ]
+            },
+            {
+              "text": "Kata-ha-jime – Uke “all fours” position",
+              "techniques": [
+                "kata-ha-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "performance-randori",
+          "title": {
+            "en": "Performance skills: Randori"
+          },
+          "items": [
+            {
+              "text": "Demonstration of attacking, defence, avoidance and continuous attacking performance skills in Tachi-waza and Ne-waza in Randori with a co-operative partner",
+              "techniques": [],
+              "terms": [
+                "randori"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "personal-choice-1",
+          "title": {
+            "en": "Personal choice 1"
+          },
+          "items": [
+            {
+              "text": "Select and demonstrate four techniques from the Technical Grading Syllabus and demonstrate them individually and then as a series of combinations and counters",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "personal-choice-2",
+          "title": {
+            "en": "Personal choice 2: Kata"
+          },
+          "items": [
+            {
+              "text": "Demonstrate any one set of the Nage-no-kata or any one set of the Katame-no-kata",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "terminology",
+          "title": {
+            "en": "Terminology and supplementary knowledge"
+          },
+          "items": [
+            {
+              "text": "Know the common English translations and meaning of all Japanese terminology used in this section, and be able to discuss with the examiner the reasons for choice of technique, grip etc.",
+              "techniques": []
+            },
+            {
+              "text": "Give three examples of any of the penalties in the competition rules",
+              "techniques": [],
+              "guides": [
+                "competition-rules-basics"
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "alt": {
+          "en": "Pictorial guide pages for the 2nd Kyu to 1st Kyu grading, with step-by-step drawings of the required skills. The guide is an older companion to the written syllabus and differs from it in the later grades."
+        },
+        "provenance": "third-party",
+        "credit": "JudoScotland",
+        "source": "JudoScotland Senior Grading Programme pictorial guide"
+      }
+    }
+  ]
+}

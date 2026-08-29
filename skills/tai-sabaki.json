@@ -1,0 +1,42 @@
+{
+  "name": {
+    "en": "Turning"
+  },
+  "nameRomaji": "Tai-sabaki",
+  "nameJa": "体捌き",
+  "kind": "movement",
+  "about": {
+    "en": "Turning the body out of the line of an attack and into a position to make one. There are four forms, each named for the direction and whether the body turns: forward, backward, forward with a turn, backward with a turn. Each has a right and a left version, named for the foot that moves. Tai-sabaki is what makes counters possible, because a counter is an evasion and an attack in one movement, and it is where kuzushi is applied from once you can move without losing your posture."
+  },
+  "keyPoints": {
+    "en": [
+      "Move the feet, not the shoulders; turning from the waist leaves your feet behind and your balance with them",
+      "The turning forms end with your hips facing where you want to throw, which is the whole point of them",
+      "Named for the moving foot, so migi-ashi-mae-sabaki steps the right foot forward"
+    ]
+  },
+  "described": {
+    "en": [
+      "Stand in natural posture. For mae-sabaki, step one foot forward and slightly across, turning the hips a little so you finish side-on rather than square. Stepping the right foot makes migi-ashi-mae-sabaki, the left makes hidari-ashi-mae-sabaki.",
+      "Return, and for ushiro-sabaki step the same foot backward and slightly across, again finishing side-on. Right foot back is migi-ashi-ushiro-sabaki, left foot back is hidari-ashi-ushiro-sabaki.",
+      "Now the turning forms. For mae-mawari-sabaki, step forward as before but keep turning on the balls of the feet until your hips have come right round and you finish facing back the way you came. This is the entry shape for most forward throws.",
+      "For ushiro-mawari-sabaki, step back and turn the same way, finishing facing the other direction. Right and left are named for the moving foot as before.",
+      "Practise each form alone, six of each side, until you can do them without watching your feet.",
+      "Then with a partner holding a sleeve and lapel: let them step in, use mae-mawari-sabaki to turn out of the line of the attack, and finish with your hips in front of theirs. That position is where the throw comes from."
+    ]
+  },
+  "receiving": {
+    "en": "Attack at a steady, honest pace so your partner has something real to move against, and keep hold of the grip so you feel where they go. When they turn correctly you will feel your own weight arrive over your front foot with nobody in front of it, which is what being off balance feels like from the inside."
+  },
+  "viNotes": {
+    "en": "Do this from contact throughout, which is how it is done in VI judo anyway. Because the grip is already taken and kept, your partner's turn is felt through the sleeve and lapel rather than seen, and that feedback is more precise than watching: you know exactly when their hips have come round because your own arm tells you. Count the steps out loud together while learning the four forms, so the names attach to a rhythm rather than to a diagram."
+  },
+  "videos": [],
+  "image": {
+    "alt": {
+      "en": "The four tai-sabaki movements as footprints. Grey feet mark where you start and black feet where you finish: mae-sabaki forward, ushiro-sabaki backward, and mae-mawari-sabaki and ushiro-mawari-sabaki, which finish turned to face back the way you came."
+    },
+    "provenance": "own",
+    "credit": "Waza Book"
+  }
+}

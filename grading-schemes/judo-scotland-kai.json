@@ -1,0 +1,741 @@
+{
+  "name": {
+    "en": "Kai grades (Scotland)"
+  },
+  "organisation": "JudoScotland",
+  "country": "GB",
+  "order": 1,
+  "description": {
+    "en": "JudoScotland's Kai pathway: nine gradings for children aged 5 to 7, marked on one belt by a coloured stripe. At 8 a Kai holder transfers into the Mon system."
+  },
+  "beltMark": "stripe",
+  "beltNote": {
+    "en": "Kai is not regulated centrally. Your club's colours may differ."
+  },
+  "source": {
+    "title": "JudoScotland Kai Grade Syllabus (1st to 3rd, 4th to 6th, 7th to 9th Kai)",
+    "note": {
+      "en": "Item wording is exactly as printed on the three syllabus sheets, which name techniques only from 7th Kai: everything below that is \"coaches choice\", deliberately, because a coach picks what suits a five-year-old. The techniques listed for each grade are therefore those the sheet names PLUS the Mon syllabus the owner's equivalence chart pairs the grade with (1st to 3rd Kai with 2nd Mon, 4th to 6th with 3rd Mon, 7th to 9th with 4th Mon), which is the pool a coach chooses from. The sheets carry no column headings; the three section titles here describe the sheet's own three columns."
+    }
+  },
+  "posters": [
+    {
+      "id": "poster-1st-3rd-kai",
+      "alt": {
+        "en": "JudoScotland syllabus sheet for 1st to 3rd Kai: back, forward and side breakfalls from crouching, jumping and hopping with a partner, a throw and a hold of the coach's choice, bowing, and the meaning of matte, hajime, dojo and judogi."
+      },
+      "provenance": "third-party",
+      "credit": "JudoScotland",
+      "source": "JudoScotland Kai Grade Syllabus 1st To 3rd Kai"
+    },
+    {
+      "id": "poster-4th-6th-kai",
+      "alt": {
+        "en": "JudoScotland syllabus sheet for 4th to 6th Kai: front breakfall from knees, forward roll, side and back breakfalls from standing, two throws and two holds of the coach's choice, tying the belt, submitting, and the meaning of ukemi, ippon, soremade, waza ari, sonomama and yoshi."
+      },
+      "provenance": "third-party",
+      "credit": "JudoScotland",
+      "source": "JudoScotland Kai Grade Syllabus 4th to 6th Kai"
+    },
+    {
+      "id": "poster-7th-9th-kai",
+      "alt": {
+        "en": "JudoScotland syllabus sheet for 7th to 9th Kai: backward and forward rolls, two throws and two holds of the coach's choice with Osoto-otoshi, De-ashi-barai, Kesa-gatame and Mune-gatame named, taking a grip, a minute of randori and of newaza, and the referee signs for matte, ippon and waza ari."
+      },
+      "provenance": "third-party",
+      "credit": "JudoScotland",
+      "source": "JudoScotland Kai Grade Syllabus 7th to 9th Kai"
+    }
+  ],
+  "grades": [
+    {
+      "slug": "1st-kai",
+      "label": {
+        "en": "1st Kai"
+      },
+      "beltColor": "white",
+      "beltStripe": "red",
+      "techniqueSlugs": [
+        "de-ashi-harai",
+        "mune-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "breakfalls-and-movement",
+          "title": {
+            "en": "Breakfalls and movement"
+          },
+          "items": [
+            {
+              "text": "Back breakfall from crouching position.",
+              "skills": [
+                "ushiro-ukemi"
+              ]
+            },
+            {
+              "text": "Vertical jumping with partner."
+            }
+          ]
+        },
+        {
+          "slug": "throws",
+          "title": {
+            "en": "Throws"
+          },
+          "items": [
+            {
+              "text": "Throw coaches choice."
+            }
+          ]
+        },
+        {
+          "slug": "holds-and-knowledge",
+          "title": {
+            "en": "Holds, etiquette and knowledge"
+          },
+          "items": [
+            {
+              "text": "Hold coaches choice."
+            },
+            {
+              "text": "What does Matte, Hajime Mean?",
+              "guides": [
+                "referee-commands-and-signals"
+              ],
+              "terms": [
+                "matte",
+                "hajime"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Grading video for 1st Kai",
+          "url": "https://www.youtube.com/watch?v=6WcMhNaahEA",
+          "source": "Destination Judo"
+        }
+      ]
+    },
+    {
+      "slug": "2nd-kai",
+      "label": {
+        "en": "2nd Kai"
+      },
+      "beltColor": "white",
+      "beltStripe": "yellow",
+      "techniqueSlugs": [
+        "de-ashi-harai",
+        "mune-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "breakfalls-and-movement",
+          "title": {
+            "en": "Breakfalls and movement"
+          },
+          "items": [
+            {
+              "text": "Forward breakfall from crouching position.",
+              "skills": [
+                "mae-ukemi"
+              ]
+            },
+            {
+              "text": "Horizontal jumping with partner."
+            }
+          ]
+        },
+        {
+          "slug": "throws",
+          "title": {
+            "en": "Throws"
+          },
+          "items": [
+            {
+              "text": "Throw coaches choice."
+            }
+          ]
+        },
+        {
+          "slug": "holds-and-knowledge",
+          "title": {
+            "en": "Holds, etiquette and knowledge"
+          },
+          "items": [
+            {
+              "text": "Hold coaches choice."
+            },
+            {
+              "text": "Do a standing bow ritsurei.",
+              "guides": [
+                "bowing-and-the-judogi"
+              ],
+              "terms": [
+                "ritsurei"
+              ]
+            },
+            {
+              "text": "What does dojo mean?",
+              "terms": [
+                "dojo"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Grading video for 2nd Kai",
+          "url": "https://www.youtube.com/watch?v=h2CZVVZbbzY",
+          "source": "Destination Judo"
+        }
+      ]
+    },
+    {
+      "slug": "3rd-kai",
+      "label": {
+        "en": "3rd Kai"
+      },
+      "beltColor": "white",
+      "beltStripe": "orange",
+      "techniqueSlugs": [
+        "de-ashi-harai",
+        "mune-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "breakfalls-and-movement",
+          "title": {
+            "en": "Breakfalls and movement"
+          },
+          "items": [
+            {
+              "text": "Side breakfall from crouching position.",
+              "skills": [
+                "yoko-ukemi"
+              ]
+            },
+            {
+              "text": "Hopping with partner."
+            }
+          ]
+        },
+        {
+          "slug": "throws",
+          "title": {
+            "en": "Throws"
+          },
+          "items": [
+            {
+              "text": "Throw coaches choice."
+            }
+          ]
+        },
+        {
+          "slug": "holds-and-knowledge",
+          "title": {
+            "en": "Holds, etiquette and knowledge"
+          },
+          "items": [
+            {
+              "text": "Hold coaches choice."
+            },
+            {
+              "text": "Do a kneeling bow (zarei).",
+              "guides": [
+                "bowing-and-the-judogi"
+              ],
+              "terms": [
+                "zarei"
+              ]
+            },
+            {
+              "text": "What does judogi mean?",
+              "guides": [
+                "bowing-and-the-judogi"
+              ],
+              "terms": [
+                "judogi"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Grading video for 3rd Kai",
+          "url": "https://www.youtube.com/watch?v=fKbm_bkEyEs",
+          "source": "Destination Judo"
+        }
+      ]
+    },
+    {
+      "slug": "4th-kai",
+      "label": {
+        "en": "4th Kai"
+      },
+      "beltColor": "white",
+      "beltStripe": "green",
+      "techniqueSlugs": [
+        "uki-goshi",
+        "kuzure-kesa-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "breakfalls-and-movement",
+          "title": {
+            "en": "Breakfalls and movement"
+          },
+          "items": [
+            {
+              "text": "Front breakfall from knees.",
+              "skills": [
+                "mae-ukemi"
+              ]
+            },
+            {
+              "text": "Forward roll from standing.",
+              "skills": [
+                "mae-mawari-ukemi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "throws",
+          "title": {
+            "en": "Throws"
+          },
+          "items": [
+            {
+              "text": "Two throws coaches choice."
+            },
+            {
+              "text": "Show movement with partner."
+            }
+          ]
+        },
+        {
+          "slug": "holds-and-knowledge",
+          "title": {
+            "en": "Holds, etiquette and knowledge"
+          },
+          "items": [
+            {
+              "text": "Two holds coaches choice."
+            },
+            {
+              "text": "Show how to tie your belt.",
+              "guides": [
+                "tying-your-belt"
+              ]
+            },
+            {
+              "text": "What does ukemi mean?",
+              "terms": [
+                "ukemi"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Grading video for 4th Kai",
+          "url": "https://www.youtube.com/watch?v=iI05gVzaL5g",
+          "source": "Destination Judo"
+        }
+      ]
+    },
+    {
+      "slug": "5th-kai",
+      "label": {
+        "en": "5th Kai"
+      },
+      "beltColor": "white",
+      "beltStripe": "blue",
+      "techniqueSlugs": [
+        "uki-goshi",
+        "kuzure-kesa-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "breakfalls-and-movement",
+          "title": {
+            "en": "Breakfalls and movement"
+          },
+          "items": [
+            {
+              "text": "Side breakfall from standing.",
+              "skills": [
+                "yoko-ukemi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "throws",
+          "title": {
+            "en": "Throws"
+          },
+          "items": [
+            {
+              "text": "Show two throws coaches choice."
+            }
+          ]
+        },
+        {
+          "slug": "holds-and-knowledge",
+          "title": {
+            "en": "Holds, etiquette and knowledge"
+          },
+          "items": [
+            {
+              "text": "Two holds coaches choice."
+            },
+            {
+              "text": "Show how to submit."
+            },
+            {
+              "text": "What does ippon and soremade mean?",
+              "guides": [
+                "referee-commands-and-signals"
+              ],
+              "terms": [
+                "ippon",
+                "soremade"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Grading video for 5th Kai",
+          "url": "https://www.youtube.com/watch?v=BT5uDcotOZA",
+          "source": "Destination Judo"
+        }
+      ]
+    },
+    {
+      "slug": "6th-kai",
+      "label": {
+        "en": "6th Kai"
+      },
+      "beltColor": "white",
+      "beltStripe": "purple",
+      "techniqueSlugs": [
+        "uki-goshi",
+        "kuzure-kesa-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "breakfalls-and-movement",
+          "title": {
+            "en": "Breakfalls and movement"
+          },
+          "items": [
+            {
+              "text": "Back breakfall from standing.",
+              "skills": [
+                "ushiro-ukemi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "throws",
+          "title": {
+            "en": "Throws"
+          },
+          "items": [
+            {
+              "text": "Two throws coaches choice."
+            }
+          ]
+        },
+        {
+          "slug": "holds-and-knowledge",
+          "title": {
+            "en": "Holds, etiquette and knowledge"
+          },
+          "items": [
+            {
+              "text": "Two holds coaches choice."
+            },
+            {
+              "text": "What do waza ari, sonomama and yoshi mean?",
+              "guides": [
+                "referee-commands-and-signals"
+              ],
+              "terms": [
+                "waza-ari",
+                "sonomama",
+                "yoshi"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Grading video for 6th Kai",
+          "url": "https://www.youtube.com/watch?v=uLHZrUPCtbQ",
+          "source": "Destination Judo"
+        }
+      ]
+    },
+    {
+      "slug": "7th-kai",
+      "label": {
+        "en": "7th Kai"
+      },
+      "beltColor": "white",
+      "beltStripe": "brown",
+      "techniqueSlugs": [
+        "o-soto-otoshi",
+        "kesa-gatame",
+        "tai-otoshi",
+        "yoko-shiho-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "breakfalls-and-movement",
+          "title": {
+            "en": "Breakfalls and movement"
+          },
+          "items": [
+            {
+              "text": "Backward roll from crouching position on to your knees."
+            }
+          ]
+        },
+        {
+          "slug": "throws",
+          "title": {
+            "en": "Throws"
+          },
+          "items": [
+            {
+              "text": "Two throws coaches choice."
+            },
+            {
+              "text": "Osoto otoshi.",
+              "techniques": [
+                "o-soto-otoshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "holds-and-knowledge",
+          "title": {
+            "en": "Holds, etiquette and knowledge"
+          },
+          "items": [
+            {
+              "text": "Two holds coaches choice Kesa gatame.",
+              "techniques": [
+                "kesa-gatame"
+              ]
+            },
+            {
+              "text": "Show how to take a grip.",
+              "skills": [
+                "standard-grip"
+              ]
+            },
+            {
+              "text": "Show the referees sign for matte.",
+              "guides": [
+                "referee-commands-and-signals"
+              ],
+              "terms": [
+                "matte"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Grading video for 7th Kai",
+          "url": "https://www.youtube.com/watch?v=YudU4khsZOk",
+          "source": "Destination Judo"
+        }
+      ]
+    },
+    {
+      "slug": "8th-kai",
+      "label": {
+        "en": "8th Kai"
+      },
+      "beltColor": "white",
+      "beltStripe": "black",
+      "techniqueSlugs": [
+        "de-ashi-harai",
+        "mune-gatame",
+        "tai-otoshi",
+        "yoko-shiho-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "breakfalls-and-movement",
+          "title": {
+            "en": "Breakfalls and movement"
+          },
+          "items": [
+            {
+              "text": "Forward roll from standing on to your feet.",
+              "skills": [
+                "mae-mawari-ukemi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "throws",
+          "title": {
+            "en": "Throws"
+          },
+          "items": [
+            {
+              "text": "Two throws coaches choice."
+            },
+            {
+              "text": "De ashi barai.",
+              "techniques": [
+                "de-ashi-harai"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "holds-and-knowledge",
+          "title": {
+            "en": "Holds, etiquette and knowledge"
+          },
+          "items": [
+            {
+              "text": "Two holds coaches choice."
+            },
+            {
+              "text": "Mune gatame.",
+              "techniques": [
+                "mune-gatame"
+              ]
+            },
+            {
+              "text": "1 minute randori with a willing partner.",
+              "terms": [
+                "randori"
+              ]
+            },
+            {
+              "text": "Show the referees sign for ippon.",
+              "guides": [
+                "referee-commands-and-signals"
+              ],
+              "terms": [
+                "ippon"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Grading video for 8th Kai",
+          "url": "https://www.youtube.com/watch?v=vzz1rqCIGew",
+          "source": "Destination Judo"
+        }
+      ]
+    },
+    {
+      "slug": "9th-kai",
+      "label": {
+        "en": "9th Kai"
+      },
+      "beltColor": "red",
+      "beltStripe": "white",
+      "techniqueSlugs": [
+        "o-soto-otoshi",
+        "de-ashi-harai",
+        "kesa-gatame",
+        "mune-gatame",
+        "tai-otoshi",
+        "yoko-shiho-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "breakfalls-and-movement",
+          "title": {
+            "en": "Breakfalls and movement"
+          },
+          "items": [
+            {
+              "text": "Backward roll from standing on to your knees."
+            }
+          ]
+        },
+        {
+          "slug": "throws",
+          "title": {
+            "en": "Throws"
+          },
+          "items": [
+            {
+              "text": "Two throws coaches choice."
+            },
+            {
+              "text": "Osoto otoshi De ashi barai.",
+              "techniques": [
+                "o-soto-otoshi",
+                "de-ashi-harai"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "holds-and-knowledge",
+          "title": {
+            "en": "Holds, etiquette and knowledge"
+          },
+          "items": [
+            {
+              "text": "Two holds coaches choice."
+            },
+            {
+              "text": "Kesa gatame Mune gatame.",
+              "techniques": [
+                "kesa-gatame",
+                "mune-gatame"
+              ]
+            },
+            {
+              "text": "1 minutes newaza with a willing partner."
+            },
+            {
+              "text": "Show the referees sign for waza ari.",
+              "guides": [
+                "referee-commands-and-signals"
+              ],
+              "terms": [
+                "waza-ari"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Grading video for 9th Kai",
+          "url": "https://www.youtube.com/watch?v=NoYVY_HkFe4",
+          "source": "Destination Judo"
+        }
+      ]
+    }
+  ]
+}

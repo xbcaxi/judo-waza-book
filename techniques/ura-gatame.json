@@ -1,0 +1,70 @@
+{
+  "nameRomaji": "Ura-gatame",
+  "nameJa": "裏固",
+  "nameKana": "うらがため",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "reverse hold"
+  },
+  "category": "katame-waza",
+  "subCategory": "osaekomi-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 610,
+  "kodokanAbbr": "URG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "eeAHZB0v3XY",
+      "title": "Ura-gatame",
+      "duration": "1:27"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "0aY2Tmchzs8",
+      "title": "Ura-gatame Escapes",
+      "duration": "0:50",
+      "role": "escapes from it"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Ura-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ura-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The reverse hold: tori lies across uke's chest facing their feet, the reverse of a normal side hold, controlling the head and near arm from underneath. Added to the Kodokan's recognised hold-downs, and often the natural landing place after a rolling entry or a failed turnover."
+  },
+  "keyPoints": {
+    "en": [
+      "Chest across theirs, but facing their feet",
+      "Wrap the head and the near arm together",
+      "Sprawl your legs wide: the roll comes from behind you"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner is on their back and you are across their chest, but facing towards their feet rather than their head.",
+      "Slide your right arm under their neck and your left around their near arm, then clasp your hands.",
+      "Drop your chest onto theirs and keep your hips low and heavy.",
+      "Spread both legs wide behind you so you cannot be rolled over your own shoulder.",
+      "Hold their shoulders to the mat and stay chest to chest as they turn; move your feet, not your chest."
+    ]
+  },
+  "receiving": {
+    "en": "The weight is on your chest but the head above you is facing the wrong way, which makes the usual escapes read strangely. Your near arm and head are wrapped together, so work on freeing the arm and bridging towards their head, which is the direction their legs cannot defend as well. Tap if pressure builds on your neck rather than your chest."
+  },
+  "viNotes": {
+    "en": "You often arrive here by accident, at the end of a roll or a failed turnover, so the first job is working out which way you are facing. Their neck under one arm and their near arm under the other is the answer: you are looking towards their feet. Clasp your hands, drop the chest, spread your legs wide, and move your feet rather than your chest."
+  }
+}

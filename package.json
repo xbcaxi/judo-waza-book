@@ -1,0 +1,29 @@
+{
+  "name": "judo-waza-book",
+  "description": "A community-maintained reference of judo techniques, grading schemes and examinations as structured, freely reusable data.",
+  "homepage": "https://wazabook.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbcaxi/judo-waza-book.git"
+  },
+  "bugs": "https://github.com/xbcaxi/judo-waza-book/issues",
+  "license": "SEE LICENSE IN LICENSE",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "video": "node scripts/video-url.mjs",
+    "pronunciation": "node scripts/pronunciation-list.mjs",
+    "pronunciation:audio": "node scripts/pronunciation-audio.mjs",
+    "test": "node --test tools/ijf-results/test/*.test.mjs",
+    "ijf:update": "node scripts/ijf-update.mjs",
+    "ijf:fetch": "node tools/ijf-results/crawl.mjs",
+    "ijf:aggregate": "node tools/ijf-results/aggregate.mjs"
+  },
+  "devDependencies": {
+    "ajv": "8.20.0"
+  }
+}

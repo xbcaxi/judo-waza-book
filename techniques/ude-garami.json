@@ -1,0 +1,122 @@
+{
+  "nameRomaji": "Ude-garami",
+  "nameJa": "腕緘",
+  "nameKana": "うでがらみ",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "americana",
+      "system": "bjj",
+      "note": {
+        "en": "BJJ's americana is ude-garami with the hand pointing up towards the head."
+      }
+    },
+    {
+      "name": "kimura",
+      "system": "bjj",
+      "note": {
+        "en": "BJJ's kimura, named for Masahiko Kimura, is the reverse form with the hand pointing down towards the hips."
+      }
+    }
+  ],
+  "gloss": {
+    "en": "entangled armlock"
+  },
+  "category": "katame-waza",
+  "subCategory": "kansetsu-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 801,
+  "kodokanAbbr": "UGR",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "AIlTvZb4RlE",
+      "title": "Ude-garami",
+      "duration": "1:31"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "DKD8h6-nGtg",
+      "title": "Ude-Garami"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "GjAAa7EaxJI",
+      "title": "Ude-Garami from Kuzure-Kesa-Gatame",
+      "role": "from Kuzure-kesa-gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551441032",
+      "title": "Ude-Garami"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551440828",
+      "title": "Ude-Garami from Kuzure-Kesa-Gatame",
+      "role": "from Kuzure-kesa-gatame"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124003799",
+      "title": "Ude-garami"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123992778",
+      "title": "Gyaku Ude-garami",
+      "role": "reverse (gyaku) form"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Ude-garami on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ude-garami",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Ude-garami, the entangled armlock."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The entangled armlock: uke's bent arm is wrapped in a figure-four of tori's arms and rotated against the shoulder and elbow. Applied with the hand up or down, which BJJ names as two techniques. Competition joint locks are restricted to the elbow and to senior age groups; learn and practise this only under instruction."
+  },
+  "keyPoints": {
+    "en": [
+      "Figure-four grip: your hands lock through each other around their bent arm",
+      "Keep their elbow pinned; rotate the whole frame, do not push the wrist",
+      "Slow, small movements; the shoulder gives little warning"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner is on their back and you are at their right side, chest low over theirs.",
+      "Pin their left wrist to the mat with your left hand, their arm bent at a right angle, knuckles pointing up past their head.",
+      "Thread your right arm under their upper arm and grip your own left wrist: the figure-four that names the entanglement.",
+      "Keep their elbow and wrist both pinned, your chest heavy on theirs.",
+      "Apply by sliding their elbow down towards their body while your framed arms rotate the whole arm gently; the pressure turns the shoulder. Movements are small and slow, and everything releases the instant they tap."
+    ]
+  },
+  "receiving": {
+    "en": "Your bent arm is pinned and a second arm threads beneath it, locking into a frame; the rotation that follows loads your shoulder more than your elbow. Tap early and clearly at the FIRST feeling of pressure on the joint; an elbow or shoulder gives little warning between discomfort and damage. Never snatch out of a lock with a twist. Shoulders tolerate even less late tapping than elbows."
+  },
+  "viNotes": {
+    "en": "A figure-four is easy to confirm without looking: your own wrist in your own hand. Pin their wrist to the mat first with the arm bent, then thread the other arm and clasp. The pressure turns the shoulder rather than straightening the elbow, so it arrives differently from a straight lock: small movements, chest heavy, everything released at the tap."
+  }
+}

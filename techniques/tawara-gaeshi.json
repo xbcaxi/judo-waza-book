@@ -1,0 +1,68 @@
+{
+  "nameRomaji": "Tawara-gaeshi",
+  "nameJa": "俵返",
+  "nameKana": "たわらがえし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "rice-bale reversal"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "ma-sutemi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 404,
+  "kodokanAbbr": "TWG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "TmTWgrmViZc",
+      "title": "Tawara-gaeshi",
+      "duration": "1:06"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "L_X-MK9ostY",
+      "title": "Tawara Gaeshi"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Tawara-gaeshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Tawara-gaeshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "Named for the way a rice bale is tossed over the shoulder: as uke drives in bent forward, tori clasps their body, falls straight backwards and throws them over their own head. A Kodokan rear sacrifice, and a real answer to a partner who attacks head down."
+  },
+  "keyPoints": {
+    "en": [
+      "Clasp the body high, above their hips",
+      "Fall straight back, not to the side",
+      "Send them over your head, not onto your face"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner drives in bent forward, their head against your chest or under your arm.",
+      "Wrap both arms around their body above the hips and clasp your hands, pulling them tight to you.",
+      "Sit and fall straight backwards, taking their weight with you rather than pushing them away.",
+      "As your back reaches the mat, extend your arms and body so their momentum carries them over your head.",
+      "They land on their back behind you; keep your chin tucked to your chest throughout and turn to follow them."
+    ]
+  },
+  "receiving": {
+    "en": "You are driving forward, then wrapped and weightless, and the direction is over your partner rather than down. The landing is on your upper back and shoulders, behind them. Chin tucked hard, arms out ready to slap, and let go of your own grips so nothing traps an arm underneath you."
+  },
+  "viNotes": {
+    "en": "A partner driving in head down arrives with plenty of contact, so the clasp is easy to find: run both arms around their body above the hips until your hands meet. The risk is all in your own landing, so tuck your chin hard to your chest and take the fall along your back. Practise this one with a coach watching."
+  }
+}

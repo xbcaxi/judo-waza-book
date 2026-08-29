@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Kesa-gatame bridge-and-roll escape"
+  },
+  "kind": "escape",
+  "techniques": [
+    "kesa-gatame"
+  ],
+  "about": {
+    "en": "The other side of the same hold: instead of trapping a leg you attack their head-side balance, bridging hard and rolling them over your own shoulder line. Higher grades in every scheme here examine both escapes."
+  },
+  "keyPoints": {
+    "en": [
+      "Get onto your side before you bridge, not flat on your back",
+      "Bridge towards their head, over your own shoulder, not straight up",
+      "Follow them over; do not stop when they start to move"
+    ]
+  },
+  "described": {
+    "en": [
+      "You are held in Kesa-gatame with your right arm trapped and their weight across your chest.",
+      "Reach your free left arm over their back and grip their belt or their far side to stop them posting away.",
+      "Turn onto your right side and pull yourself in tight to them, taking away the space they need.",
+      "Bridge sharply up and over your right shoulder, driving your hips towards their head rather than straight upwards.",
+      "As their weight goes past your shoulder, keep turning in the same direction and roll them over.",
+      "Finish on top or on your knees, and pull the trapped arm free once you are settled."
+    ]
+  },
+  "receiving": {
+    "en": "You will feel them tuck in tight and take a grip on your back before anything happens. The answer is to post your head-side arm out wide and lower your hips: a hold with a wide base and a low centre does not roll."
+  },
+  "viNotes": {
+    "en": "The cue to bridge is contact, not sight: their body tight against yours with no gap. Feel for their belt with your free hand first, then commit. Roll in the direction your own shoulder is already pointing."
+  },
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "EXsEqKPpyE8",
+      "title": "Escape from Kesa-Gatame using Bridge and Roll"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548829824",
+      "title": "Escape from Kesa-Gatame using Bridge and Roll"
+    }
+  ]
+}

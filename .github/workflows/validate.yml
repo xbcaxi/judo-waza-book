@@ -1,0 +1,110 @@
+name: Validate content
+
+# Every push and every pull request. Validation is mechanical (JSON Schema,
+# naming, cross-file integrity - see scripts/validate.mjs), so a green check
+# means review can focus on whether the judo is right.
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+# Read-only, explicitly. Pull requests arrive from strangers' forks on a public
+# repository, and nothing here writes: validation reads the tree, and the
+# rebuild dispatch below authenticates as its own PAT rather than as this token.
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Validate techniques and grading schemes
+        run: npm run validate
+
+      # The IJF importer's unit and end-to-end tests. Pure logic plus a local
+      # mock of the API - no network, so green here says the code honours its
+      # contract, not that the live API still matches it.
+      - name: Test the competition data importer
+        run: npm test
+
+  notify-website:
+    name: Rebuild the Waza Book website
+    # Only for content that has actually landed on main. A pull request has
+    # not changed what the site should show, and rebuilding for one would
+    # publish a proposal.
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    # Only if the content is valid. A rebuild on a broken file would either
+    # fail over there, where nobody is looking, or ship the breakage.
+    needs: validate
+    runs-on: ubuntu-latest
+
+    # A later push supersedes an in-flight dispatch rather than queueing a
+    # second rebuild of the same site.
+    concurrency:
+      group: notify-website
+      cancel-in-progress: true
+
+    steps:
+      - name: Dispatch content update
+        env:
+          GH_TOKEN: ${{ secrets.WEBSITE_DISPATCH_TOKEN }}
+          SOURCE_SHA: ${{ github.sha }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::Add WEBSITE_DISPATCH_TOKEN as an Actions secret in this repository. It needs a fine-grained PAT with Contents: read and write on xbcaxi/judo-website."
+            exit 1
+          fi
+
+          # The commit travels with the event so the website builds THIS
+          # content, not whatever main holds by the time the runner starts.
+          #
+          # 204 is the only answer that means anything was delivered, and
+          # anything else now fails this job. It did not used to: the response
+          # was printed and then ignored, so three consecutive dispatches that
+          # returned 404 produced three green runs and three notices saying
+          # "Dispatch accepted". A pipeline that cannot report its own failure
+          # is worse than one that has none, because it is trusted.
+          response=$(gh api \
+            --method POST \
+            repos/xbcaxi/judo-website/dispatches \
+            -f event_type=content-updated \
+            -f "client_payload[source_sha]=$SOURCE_SHA" \
+            --include --silent 2>&1) || true
+
+          echo "$response"
+
+          code=$(printf '%s\n' "$response" | sed -n 's:^HTTP/[0-9.]* \([0-9]\{3\}\).*:\1:p' | head -n 1)
+
+          if [ "$code" != "204" ]; then
+            echo "::error::Dispatch to xbcaxi/judo-website returned ${code:-no HTTP status}. The event was NOT delivered and the site will not rebuild from $SOURCE_SHA."
+            case "$code" in
+              404)
+                # The confusing one, and the reason this check exists.
+                echo "::error::404 does not mean the repository is missing. GitHub hides a private repository from a caller that cannot see it, so 404 here means the token has no access. WEBSITE_DISPATCH_TOKEN needs Contents: read and write ON xbcaxi/judo-website - the repository it writes TO, not the one it runs IN. A token scoped to judo-waza-book, however wide its permissions there, cannot dispatch to the website."
+                ;;
+              401)
+                echo "::error::401 means the token is invalid or expired. Reissue it and update the WEBSITE_DISPATCH_TOKEN secret."
+                ;;
+              403)
+                echo "::error::403 means the token is recognised but not permitted. Check that it grants Contents: read and write on xbcaxi/judo-website."
+                ;;
+            esac
+            exit 1
+          fi
+
+          echo "Sent event_type=content-updated for $SOURCE_SHA."
+          # A 204 still proves delivery rather than a rebuild: GitHub accepts a
+          # repository_dispatch even when no workflow listens for the event
+          # type. If the site goes stale on a green run, check the listener.
+          echo "::notice::Dispatch delivered (204). Confirm a repository_dispatch run started in xbcaxi/judo-website."
+

@@ -1,0 +1,96 @@
+{
+  "nameRomaji": "Hane-makikomi",
+  "nameJa": "跳巻込",
+  "nameKana": "はねまきこみ",
+  "aliases": [
+    "Hane-maki-komi"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "spring wrapping throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": 4,
+  "kodokanNumber": 503,
+  "kodokanAbbr": "HNM",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "6CRBGLGz9j8",
+      "title": "Hane-maki-komi",
+      "duration": "1:00"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123993424",
+      "title": "Hane-makikomi"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "42:15 Hane-makikomi (springing wraparound throw)",
+      "start": 2535
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "k_sJUu8wD3g",
+      "title": "Hane-makikomi",
+      "duration": "0:14"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "BAd0GzKxAdo",
+      "title": "Hane-maki-komi"
+    }
+  ],
+  "ijfAnimation": "Hane-makikomi",
+  "links": [
+    {
+      "title": "Hane-maki-komi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Hane-makikomi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Hane-makikomi, the spring wrapping throw."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "A spring hip entry finished as a winding sacrifice: tori wraps uke's arm and body and rotates to the mat, carrying uke over."
+  },
+  "keyPoints": {
+    "en": [
+      "Enter as for hane-goshi, then release the lapel and wrap the arm",
+      "Wind uke around your body as you turn to the mat",
+      "Land rolling on your side with uke wrapped, not underneath"
+    ]
+  },
+  "described": {
+    "en": [
+      "Begin as for the spring hip throw from a right-handed grip: enter with your back turning in, bent right leg set against the front of their right leg.",
+      "As they resist the spring, release the lapel and throw your right arm up and over their right arm and shoulder, wrapping it against your body.",
+      "Wind: rotate your whole body to the left, their trapped arm and chest wrapped to you, and let yourself travel towards the mat as one turning unit.",
+      "Your spring leg lifts as you wind, carrying them over your body.",
+      "You land on your left side with them rolling over and past you; they land on their back beyond you. Keep the wrapped arm until they are down, then release so both of you can rise."
+    ]
+  },
+  "receiving": {
+    "en": "The spring-hip entry arrives and then their arm wraps over yours, trapping it, and their whole body turns and drops: you are wound around them to the mat. Your wrapped arm cannot slap, so this landing is about shape: stay curled around their rotation, chin tucked, and let your side and back take the mat together as you land beside them. In practice, wind gradually; this is a heavy fall to receive at full speed."
+  },
+  "viNotes": {
+    "en": "The wrap is the part that needs care without sight. Slide your arm up their sleeve arm to the shoulder so you know exactly what you have trapped before you commit both of you to the mat. Say what you are drilling before you start: uke is landing too, and needs to know which side is coming."
+  }
+}

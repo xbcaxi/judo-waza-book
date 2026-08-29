@@ -1,0 +1,101 @@
+{
+  "nameRomaji": "Tate-shiho-gatame",
+  "nameJa": "縦四方固",
+  "nameKana": "たてしほうがため",
+  "aliases": [
+    "Hon-tate-shiho-gatame"
+  ],
+  "otherNames": [
+    {
+      "name": "full mount",
+      "system": "bjj"
+    }
+  ],
+  "gloss": {
+    "en": "vertical four-quarter hold"
+  },
+  "category": "katame-waza",
+  "subCategory": "osaekomi-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 608,
+  "kodokanAbbr": "TSG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "55-rFmBx53g",
+      "title": "Tate-shiho-gatame",
+      "duration": "0:46"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "JMJBjnst_DA",
+      "title": "Tate-shiho-gatame Escapes",
+      "duration": "1:08",
+      "role": "escapes from it"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "TfzWwgsMBVU",
+      "title": "Tate-Shiho-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "536316046",
+      "title": "Tate-Shiho-Gatame"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124002403",
+      "title": "Tate-shiho-gatame"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Tate-shiho-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Tate-shiho-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Tate-shiho-gatame, the vertical four-quarter hold."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori sits astride uke, chest down, controlling an arm and the head: the mount position of judo."
+  },
+  "keyPoints": {
+    "en": [
+      "Sit astride with your hooks in or feet locked under uke's legs",
+      "Control uke's arm and head, chest heavy",
+      "Ride uke's bridge with loose hips rather than fighting it"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner lies on their back; step across and sit astride their body, your seat on their belly, knees on the mat either side.",
+      "Hook your feet under their thighs, or cross your ankles beneath their legs, so their bridging cannot simply tip you off.",
+      "Wrap their right arm and their head together with your right arm, gripping cloth or your own leg, and bring your chest down onto theirs.",
+      "Keep your head low beside theirs on the wrapped side, your left hand posted wide on the mat for balance.",
+      "When they bridge, float with the movement, hips loose, and let your hooks and chest bring you back down; riding the bridge, not fighting it, is what keeps the hold."
+    ]
+  },
+  "receiving": {
+    "en": "They sit astride your body, chest coming down onto yours, your arm and head often wrapped together, their feet hooked under your legs. Bridging throws them forward but the hooks bring them back, so combine it: bridge, turn, and hunt for an elbow or a hooked foot to free. The position feels dominant and heavy; keep your breathing low, protect your neck by keeping your chin down, and tap clearly if you need to stop."
+  },
+  "viNotes": {
+    "en": "Astride them, your seat and chest report everything, so hold by riding rather than by clamping. Wrap their arm and head together on one side and keep your head down beside theirs on that side, since that is where you will feel a turn start. Hook your feet under their thighs so a bridge lifts you instead of tipping you, then float and settle back down."
+  }
+}

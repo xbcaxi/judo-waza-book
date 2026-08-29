@@ -1,0 +1,100 @@
+{
+  "nameRomaji": "Yoko-guruma",
+  "nameJa": "横車",
+  "nameKana": "よこぐるま",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "side wheel"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": 5,
+  "kodokanNumber": 508,
+  "kodokanAbbr": "YGU",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "MehP6I5cY2c",
+      "title": "Yoko-guruma",
+      "duration": "1:12"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "zpmUW0xqeyA",
+      "title": "Yoko-Guruma"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551441161",
+      "title": "Yoko-Guruma"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124033204",
+      "title": "Yoko-guruma"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "49:54 Yoko-guruma (side wheel)",
+      "start": 2994
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "THWTDtUF8PQ",
+      "title": "Yoko-guruma",
+      "duration": "0:18"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "uvpefRzLEZY",
+      "title": "Yoko-guruma"
+    }
+  ],
+  "ijfAnimation": "Yoko-guruma",
+  "links": [
+    {
+      "title": "Yoko-guruma on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Yoko-guruma",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "A counter sacrifice: as uke attacks, tori thrusts a leg between uke's legs and drops to the side, wheeling uke over in the direction of the attack."
+  },
+  "keyPoints": {
+    "en": [
+      "Thrust the leg deep between uke's legs as you drop",
+      "Continue uke's own rotation rather than fighting it",
+      "Wheel uke over your falling body to the mat beyond"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner attacks with a forward throw and you resist, bending them back towards you: this technique continues their motion rather than stopping it.",
+      "Thrust your right leg deep between their legs as you let yourself fall, your body dropping to your right side beneath them.",
+      "Keep your arms wrapped around their trunk or gripping cloth as you go down, so your fall and their attack become one rotation.",
+      "Steer them over your falling body in the direction their attack was already turning, your leg between theirs guiding the arc.",
+      "They wheel over you and land on their back beyond your head side; release the wrap as they land so both of you can move."
+    ]
+  },
+  "receiving": {
+    "en": "Mid-attack, you feel your own rotation continued rather than stopped: a leg threads between yours as they drop to the side, and you are steered over their falling body. The world turns diagonally. Stay round, keep your head tucked to one side, and roll across your shoulder onto your back beyond them."
+  },
+  "viNotes": {
+    "en": "A counter that continues their attack rather than stopping it, which suits judo done in contact: their commitment is already in your arms. Thrust your leg deep between theirs as you drop, keep the trunk wrapped, and let your fall and their attack become one rotation. Release the wrap as they land, since you are both on the mat and have to find each other again."
+  }
+}

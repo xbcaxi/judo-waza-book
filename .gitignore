@@ -1,0 +1,15 @@
+node_modules/
+
+# Local agent configuration and its session state. Ignored here rather than
+# only in a global excludes file, so that a clone on another machine cannot
+# quietly commit somebody's local settings to a public repository.
+.claude/
+
+# The IJF crawl's raw response cache: thousands of contest responses that
+# would swamp the history on every refresh. Re-crawlable; never committed.
+tools/ijf-results/cache/
+
+# The pronunciation sheet: generated from the collections by
+# `npm run pronunciation`, so committing it would be committing a second copy
+# of every Japanese name. Regenerate it, do not edit it.
+wazabook-pronunciation.csv

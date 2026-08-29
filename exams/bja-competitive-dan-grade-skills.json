@@ -1,0 +1,1588 @@
+{
+  "title": {
+    "en": "Competitive Dan Grade Skills Examination"
+  },
+  "organisation": "British Judo Association",
+  "country": "GB",
+  "summary": {
+    "en": "The BJA's technical examination for promotion to 1st to 5th Dan: single techniques from the British Judo Gokyo, continuation and combination techniques, counters, groundwork chains and escapes, and kata, marked out of ten per technique with pass marks rising by grade."
+  },
+  "status": "legacy",
+  "statusNote": {
+    "en": "The examination of the scheme the BJA introduced in 1982, built on 67 techniques, and replaced for promotions from 1 January 2026 by the Competitive Dan Grade Scheme, which examines one set of twenty Kodokan techniques per grade and is transcribed here as a separate examination for each of 1st to 5th Dan. A candidate who had completed this examination by 31 December 2025 keeps it. This page is the record of what was sat until then, and of the syllabus older certificates were awarded against; it is not the form to prepare against for a current grading."
+  },
+  "source": {
+    "title": "Competitive Dan Grade Skills Examination Form (fillable)",
+    "date": "January 2020",
+    "note": {
+      "en": "Transcribed from the official BJA form. The form is the authority; where this page and a current BJA form disagree, the form wins. The Senior Examiner must be at least one grade above the candidate."
+    }
+  },
+  "marking": {
+    "en": "Marking ranges from 0 to 10 points for each technique. In the kata sections each technique is demonstrated both right- and left-handed with the combined score recorded, plus a mark out of ten for presentation; a candidate holding a BJA Kata certificate may claim exemption at 65% of the marks. Section requirements are the examiner's choice of one technique from each set in Section 1, and the candidate's choice of sets elsewhere until all sets are required."
+  },
+  "levels": [
+    {
+      "label": {
+        "en": "1st Dan"
+      },
+      "passMark": 190,
+      "maxMarks": 270,
+      "requirements": [
+        {
+          "section": "gokyo",
+          "requirement": {
+            "en": "Examiner's choice: one from each set"
+          },
+          "marks": 100
+        },
+        {
+          "section": "renzoku-waza",
+          "requirement": {
+            "en": "One set, candidate's choice"
+          },
+          "marks": 30
+        },
+        {
+          "section": "renraku-waza",
+          "requirement": {
+            "en": "One set, candidate's choice"
+          },
+          "marks": 30
+        },
+        {
+          "section": "kaeshi-waza",
+          "requirement": {
+            "en": "One set, candidate's choice"
+          },
+          "marks": 30
+        },
+        {
+          "section": "ne-waza-chains",
+          "requirement": {
+            "en": "One set, candidate's choice"
+          },
+          "marks": 20
+        },
+        {
+          "section": "kata",
+          "requirement": {
+            "en": "One set of Nage-no-kata, candidate's choice"
+          },
+          "marks": 60
+        }
+      ]
+    },
+    {
+      "label": {
+        "en": "2nd Dan"
+      },
+      "passMark": 320,
+      "maxMarks": 440,
+      "requirements": [
+        {
+          "section": "gokyo",
+          "requirement": {
+            "en": "Examiner's choice: one from each set"
+          },
+          "marks": 100
+        },
+        {
+          "section": "renzoku-waza",
+          "requirement": {
+            "en": "Two sets, candidate's choice"
+          },
+          "marks": 60
+        },
+        {
+          "section": "renraku-waza",
+          "requirement": {
+            "en": "Two sets, candidate's choice"
+          },
+          "marks": 60
+        },
+        {
+          "section": "kaeshi-waza",
+          "requirement": {
+            "en": "Two sets, candidate's choice"
+          },
+          "marks": 60
+        },
+        {
+          "section": "ne-waza-chains",
+          "requirement": {
+            "en": "Two sets, candidate's choice"
+          },
+          "marks": 40
+        },
+        {
+          "section": "kata",
+          "requirement": {
+            "en": "Two sets of Nage-no-kata, candidate's choice"
+          },
+          "marks": 120
+        }
+      ]
+    },
+    {
+      "label": {
+        "en": "3rd Dan"
+      },
+      "passMark": 520,
+      "maxMarks": 670,
+      "requirements": [
+        {
+          "section": "gokyo",
+          "requirement": {
+            "en": "Examiner's choice: one from each set"
+          },
+          "marks": 100
+        },
+        {
+          "section": "renzoku-waza",
+          "requirement": {
+            "en": "Three sets, candidate's choice"
+          },
+          "marks": 90
+        },
+        {
+          "section": "renraku-waza",
+          "requirement": {
+            "en": "Three sets, candidate's choice"
+          },
+          "marks": 90
+        },
+        {
+          "section": "kaeshi-waza",
+          "requirement": {
+            "en": "Three sets, candidate's choice"
+          },
+          "marks": 90
+        },
+        {
+          "section": "ne-waza-chains",
+          "requirement": {
+            "en": "Three sets, candidate's choice"
+          },
+          "marks": 60
+        },
+        {
+          "section": "kata",
+          "requirement": {
+            "en": "Three sets of Nage-no-kata and one set of Katame-no-kata"
+          },
+          "marks": 240
+        }
+      ]
+    },
+    {
+      "label": {
+        "en": "4th Dan"
+      },
+      "passMark": 700,
+      "maxMarks": 900,
+      "requirements": [
+        {
+          "section": "gokyo",
+          "requirement": {
+            "en": "Examiner's choice: one from each set"
+          },
+          "marks": 100
+        },
+        {
+          "section": "renzoku-waza",
+          "requirement": {
+            "en": "All four sets"
+          },
+          "marks": 120
+        },
+        {
+          "section": "renraku-waza",
+          "requirement": {
+            "en": "All four sets"
+          },
+          "marks": 120
+        },
+        {
+          "section": "kaeshi-waza",
+          "requirement": {
+            "en": "All four sets"
+          },
+          "marks": 120
+        },
+        {
+          "section": "ne-waza-chains",
+          "requirement": {
+            "en": "All four sets"
+          },
+          "marks": 80
+        },
+        {
+          "section": "kata",
+          "requirement": {
+            "en": "Four sets of Nage-no-kata and two sets of Katame-no-kata"
+          },
+          "marks": 360
+        }
+      ]
+    },
+    {
+      "label": {
+        "en": "5th Dan"
+      },
+      "passMark": 800,
+      "maxMarks": 1020,
+      "requirements": [
+        {
+          "section": "gokyo",
+          "requirement": {
+            "en": "Examiner's choice: one from each set"
+          },
+          "marks": 100
+        },
+        {
+          "section": "renzoku-waza",
+          "requirement": {
+            "en": "All four sets"
+          },
+          "marks": 120
+        },
+        {
+          "section": "renraku-waza",
+          "requirement": {
+            "en": "All four sets"
+          },
+          "marks": 120
+        },
+        {
+          "section": "kaeshi-waza",
+          "requirement": {
+            "en": "All four sets"
+          },
+          "marks": 120
+        },
+        {
+          "section": "ne-waza-chains",
+          "requirement": {
+            "en": "All four sets"
+          },
+          "marks": 80
+        },
+        {
+          "section": "kata",
+          "requirement": {
+            "en": "Complete Nage-no-kata and complete Katame-no-kata"
+          },
+          "marks": 480
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "slug": "gokyo",
+      "title": {
+        "en": "Section 1: Gokyo (single techniques)"
+      },
+      "notes": {
+        "en": "The British Judo Gokyo: throws in five sets, groundwork in five sets. The examiner chooses one technique from each set."
+      },
+      "groups": [
+        {
+          "label": {
+            "en": "Nage-waza, 1st set"
+          },
+          "items": [
+            {
+              "text": "O-goshi",
+              "techniques": [
+                "o-goshi"
+              ]
+            },
+            {
+              "text": "Uki-goshi",
+              "techniques": [
+                "uki-goshi"
+              ]
+            },
+            {
+              "text": "Tsuri-goshi",
+              "techniques": [
+                "tsuri-goshi"
+              ]
+            },
+            {
+              "text": "Tsuri-komi-goshi",
+              "techniques": [
+                "tsurikomi-goshi"
+              ]
+            },
+            {
+              "text": "Tai-otoshi",
+              "techniques": [
+                "tai-otoshi"
+              ]
+            },
+            {
+              "text": "Ippon-seoi-nage",
+              "techniques": [
+                "ippon-seoi-nage"
+              ]
+            },
+            {
+              "text": "Morote-seoi-nage",
+              "techniques": [
+                "seoi-nage"
+              ]
+            },
+            {
+              "text": "Seoi-otoshi",
+              "techniques": [
+                "seoi-otoshi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Nage-waza, 2nd set"
+          },
+          "items": [
+            {
+              "text": "Ashi-guruma",
+              "techniques": [
+                "ashi-guruma"
+              ]
+            },
+            {
+              "text": "O-guruma",
+              "techniques": [
+                "o-guruma"
+              ]
+            },
+            {
+              "text": "Harai-goshi",
+              "techniques": [
+                "harai-goshi"
+              ]
+            },
+            {
+              "text": "Hane-goshi",
+              "techniques": [
+                "hane-goshi"
+              ]
+            },
+            {
+              "text": "Uchi-mata",
+              "techniques": [
+                "uchi-mata"
+              ]
+            },
+            {
+              "text": "Harai-maki-komi",
+              "techniques": [
+                "harai-makikomi"
+              ]
+            },
+            {
+              "text": "Hane-maki-komi",
+              "techniques": [
+                "hane-makikomi"
+              ]
+            },
+            {
+              "text": "Soto-maki-komi",
+              "techniques": [
+                "soto-makikomi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Nage-waza, 3rd set"
+          },
+          "items": [
+            {
+              "text": "O-soto-gari",
+              "techniques": [
+                "o-soto-gari"
+              ]
+            },
+            {
+              "text": "Ko-soto-gari",
+              "techniques": [
+                "ko-soto-gari"
+              ]
+            },
+            {
+              "text": "O-uchi-gari",
+              "techniques": [
+                "o-uchi-gari"
+              ]
+            },
+            {
+              "text": "Ko-uchi-gari",
+              "techniques": [
+                "ko-uchi-gari"
+              ]
+            },
+            {
+              "text": "O-uchi-gake",
+              "techniques": [
+                "o-uchi-gake"
+              ]
+            },
+            {
+              "text": "Ko-soto-gake",
+              "techniques": [
+                "ko-soto-gake"
+              ]
+            },
+            {
+              "text": "O-soto-guruma",
+              "techniques": [
+                "o-soto-guruma"
+              ]
+            },
+            {
+              "text": "Sode-tsuri-komi-goshi",
+              "techniques": [
+                "sode-tsurikomi-goshi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Nage-waza, 4th set"
+          },
+          "items": [
+            {
+              "text": "De-ashi-barai",
+              "techniques": [
+                "de-ashi-harai"
+              ]
+            },
+            {
+              "text": "Okuri-ashi-barai",
+              "techniques": [
+                "okuri-ashi-harai"
+              ]
+            },
+            {
+              "text": "Sasae-tsuri-komi-ashi",
+              "techniques": [
+                "sasae-tsurikomi-ashi"
+              ]
+            },
+            {
+              "text": "Harai-tsuri-komi-ashi",
+              "techniques": [
+                "harai-tsurikomi-ashi"
+              ]
+            },
+            {
+              "text": "Hiza-guruma",
+              "techniques": [
+                "hiza-guruma"
+              ]
+            },
+            {
+              "text": "Uki-otoshi",
+              "techniques": [
+                "uki-otoshi"
+              ]
+            },
+            {
+              "text": "Tomoe-nage",
+              "techniques": [
+                "tomoe-nage"
+              ]
+            },
+            {
+              "text": "Sumi-gaeshi",
+              "techniques": [
+                "sumi-gaeshi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Nage-waza, 5th set"
+          },
+          "items": [
+            {
+              "text": "Kata-guruma",
+              "techniques": [
+                "kata-guruma"
+              ]
+            },
+            {
+              "text": "Koshi-guruma",
+              "techniques": [
+                "koshi-guruma"
+              ]
+            },
+            {
+              "text": "Yama-arashi",
+              "techniques": [
+                "yama-arashi"
+              ]
+            },
+            {
+              "text": "Tani-otoshi",
+              "techniques": [
+                "tani-otoshi"
+              ]
+            },
+            {
+              "text": "Yoko-otoshi",
+              "techniques": [
+                "yoko-otoshi"
+              ]
+            },
+            {
+              "text": "Yoko-wakare",
+              "techniques": [
+                "yoko-wakare"
+              ]
+            },
+            {
+              "text": "Yoko-gake",
+              "techniques": [
+                "yoko-gake"
+              ]
+            },
+            {
+              "text": "Uki-waza",
+              "techniques": [
+                "uki-waza"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Ne-waza, 1st set"
+          },
+          "items": [
+            {
+              "text": "Hon-kesa-gatame",
+              "techniques": [
+                "kesa-gatame"
+              ]
+            },
+            {
+              "text": "Kuzure-kesa-gatame",
+              "techniques": [
+                "kuzure-kesa-gatame"
+              ]
+            },
+            {
+              "text": "Ushiro-kesa-gatame",
+              "techniques": [
+                "ushiro-kesa-gatame"
+              ]
+            },
+            {
+              "text": "Makura-kesa-gatame",
+              "techniques": [
+                "makura-kesa-gatame"
+              ]
+            },
+            {
+              "text": "Mune-gatame",
+              "techniques": [
+                "mune-gatame"
+              ]
+            },
+            {
+              "text": "Kata-gatame",
+              "techniques": [
+                "kata-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Ne-waza, 2nd set"
+          },
+          "items": [
+            {
+              "text": "Hon-kami-shiho-gatame",
+              "techniques": [
+                "kami-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Kuzure-kami-shiho-gatame",
+              "techniques": [
+                "kuzure-kami-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Hon-yoko-shiho-gatame",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Kuzure-yoko-shiho-gatame",
+              "techniques": [
+                "kuzure-yoko-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Hon-tate-shiho-gatame",
+              "techniques": [
+                "tate-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Kuzure-tate-shiho-gatame",
+              "techniques": [
+                "kuzure-tate-shiho-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Ne-waza, 3rd set"
+          },
+          "items": [
+            {
+              "text": "Nami-juji-jime",
+              "techniques": [
+                "nami-juji-jime"
+              ]
+            },
+            {
+              "text": "Gyaku-juji-jime",
+              "techniques": [
+                "gyaku-juji-jime"
+              ]
+            },
+            {
+              "text": "Kata-juji-jime",
+              "techniques": [
+                "kata-juji-jime"
+              ]
+            },
+            {
+              "text": "Tsuki-komi-jime",
+              "techniques": [
+                "tsukkomi-jime"
+              ]
+            },
+            {
+              "text": "Ryote-jime",
+              "techniques": [
+                "ryote-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Ne-waza, 4th set"
+          },
+          "items": [
+            {
+              "text": "Hadaka-jime",
+              "techniques": [
+                "hadaka-jime"
+              ]
+            },
+            {
+              "text": "Okuri-eri-jime",
+              "techniques": [
+                "okuri-eri-jime"
+              ]
+            },
+            {
+              "text": "Kata-ha-jime",
+              "techniques": [
+                "kata-ha-jime"
+              ]
+            },
+            {
+              "text": "Sode-guruma-jime",
+              "techniques": [
+                "sode-guruma-jime"
+              ]
+            },
+            {
+              "text": "Koshi-jime",
+              "techniques": [
+                "koshi-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Ne-waza, 5th set"
+          },
+          "items": [
+            {
+              "text": "Ude-garami",
+              "techniques": [
+                "ude-garami"
+              ]
+            },
+            {
+              "text": "Juji-gatame",
+              "techniques": [
+                "juji-gatame"
+              ]
+            },
+            {
+              "text": "Ude-gatame",
+              "techniques": [
+                "ude-gatame"
+              ]
+            },
+            {
+              "text": "Hiza-gatame",
+              "techniques": [
+                "hiza-gatame"
+              ]
+            },
+            {
+              "text": "Waki-gatame",
+              "techniques": [
+                "waki-gatame"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "renzoku-waza",
+      "title": {
+        "en": "Section 2: Renzoku-waza (continuation techniques)"
+      },
+      "notes": {
+        "en": "Two attacks in the same direction, the second continuing the first."
+      },
+      "groups": [
+        {
+          "label": {
+            "en": "1st set"
+          },
+          "items": [
+            {
+              "text": "Seoi-nage to Seoi-otoshi",
+              "techniques": [
+                "seoi-nage",
+                "seoi-otoshi"
+              ],
+              "sequences": [
+                "seoi-nage-into-seoi-otoshi"
+              ]
+            },
+            {
+              "text": "O-uchi-gari to Ko-uchi-gari",
+              "techniques": [
+                "o-uchi-gari",
+                "ko-uchi-gari"
+              ],
+              "sequences": [
+                "o-uchi-gari-into-ko-uchi-gari"
+              ]
+            },
+            {
+              "text": "Hiza-guruma to Ashi-guruma",
+              "techniques": [
+                "hiza-guruma",
+                "ashi-guruma"
+              ],
+              "sequences": [
+                "hiza-guruma-into-ashi-guruma"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "2nd set"
+          },
+          "items": [
+            {
+              "text": "O-goshi to Uki-goshi",
+              "techniques": [
+                "o-goshi",
+                "uki-goshi"
+              ],
+              "sequences": [
+                "o-goshi-into-uki-goshi"
+              ]
+            },
+            {
+              "text": "O-uchi-gari to Ko-soto-gake",
+              "techniques": [
+                "o-uchi-gari",
+                "ko-soto-gake"
+              ],
+              "sequences": [
+                "o-uchi-gari-into-ko-soto-gake"
+              ]
+            },
+            {
+              "text": "O-soto-gake to O-soto-gari",
+              "techniques": [
+                "o-soto-gake",
+                "o-soto-gari"
+              ],
+              "sequences": [
+                "o-soto-gake-into-o-soto-gari"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "3rd set"
+          },
+          "items": [
+            {
+              "text": "Tai-otoshi to Uchi-mata",
+              "techniques": [
+                "tai-otoshi",
+                "uchi-mata"
+              ],
+              "sequences": [
+                "tai-otoshi-into-uchi-mata"
+              ]
+            },
+            {
+              "text": "Tai-otoshi to Seoi-nage",
+              "techniques": [
+                "tai-otoshi",
+                "seoi-nage"
+              ],
+              "sequences": [
+                "tai-otoshi-into-seoi-nage"
+              ]
+            },
+            {
+              "text": "Ko-soto-gari to Tani-otoshi",
+              "techniques": [
+                "ko-soto-gari",
+                "tani-otoshi"
+              ],
+              "sequences": [
+                "ko-soto-gari-into-tani-otoshi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "4th set"
+          },
+          "items": [
+            {
+              "text": "O-soto-gari to Nidan-ko-soto-gari",
+              "techniques": [
+                "o-soto-gari",
+                "nidan-ko-soto-gari"
+              ],
+              "sequences": [
+                "o-soto-gari-into-nidan-ko-soto-gari"
+              ]
+            },
+            {
+              "text": "Ippon-seoi-nage to Uchi-maki-komi",
+              "techniques": [
+                "ippon-seoi-nage",
+                "uchi-makikomi"
+              ],
+              "sequences": [
+                "ippon-seoi-nage-into-uchi-makikomi"
+              ]
+            },
+            {
+              "text": "Harai-goshi to Soto-maki-komi",
+              "techniques": [
+                "harai-goshi",
+                "soto-makikomi"
+              ],
+              "sequences": [
+                "harai-goshi-into-soto-makikomi"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "renraku-waza",
+      "title": {
+        "en": "Section 3: Renraku-waza (combination techniques)"
+      },
+      "notes": {
+        "en": "Combinations where the second attack exploits the defence to the first, usually changing direction."
+      },
+      "groups": [
+        {
+          "label": {
+            "en": "1st set"
+          },
+          "items": [
+            {
+              "text": "Ko-uchi-gari to Tai-otoshi",
+              "techniques": [
+                "ko-uchi-gari",
+                "tai-otoshi"
+              ],
+              "sequences": [
+                "ko-uchi-gari-into-tai-otoshi"
+              ]
+            },
+            {
+              "text": "Hiza-guruma to O-soto-gari",
+              "techniques": [
+                "hiza-guruma",
+                "o-soto-gari"
+              ],
+              "sequences": [
+                "hiza-guruma-into-o-soto-gari"
+              ]
+            },
+            {
+              "text": "Ko-uchi-gari to Ippon-seoi-nage",
+              "techniques": [
+                "ko-uchi-gari",
+                "ippon-seoi-nage"
+              ],
+              "sequences": [
+                "ko-uchi-gari-into-ippon-seoi-nage"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "2nd set"
+          },
+          "items": [
+            {
+              "text": "Uchi-mata to Ko-uchi-gari",
+              "techniques": [
+                "uchi-mata",
+                "ko-uchi-gari"
+              ],
+              "sequences": [
+                "uchi-mata-into-ko-uchi-gari"
+              ]
+            },
+            {
+              "text": "O-uchi-gari to Tsuri-komi-ashi",
+              "techniques": [
+                "o-uchi-gari"
+              ]
+            },
+            {
+              "text": "Sasae-tsuri-komi-ashi to De-ashi-barai",
+              "techniques": [
+                "sasae-tsurikomi-ashi",
+                "de-ashi-harai"
+              ],
+              "sequences": [
+                "sasae-tsurikomi-ashi-into-de-ashi-harai"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "3rd set"
+          },
+          "items": [
+            {
+              "text": "Ashi-guruma to Tani-otoshi",
+              "techniques": [
+                "ashi-guruma",
+                "tani-otoshi"
+              ],
+              "sequences": [
+                "ashi-guruma-into-tani-otoshi"
+              ]
+            },
+            {
+              "text": "Harai-goshi to O-soto-gake",
+              "techniques": [
+                "harai-goshi",
+                "o-soto-gake"
+              ],
+              "sequences": [
+                "harai-goshi-into-o-soto-gake"
+              ]
+            },
+            {
+              "text": "O-soto-gake to Seoi-otoshi",
+              "techniques": [
+                "o-soto-gake",
+                "seoi-otoshi"
+              ],
+              "sequences": [
+                "o-soto-gake-into-seoi-otoshi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "4th set"
+          },
+          "items": [
+            {
+              "text": "Ko-uchi-gari to Yoko-tomoe-nage",
+              "techniques": [
+                "ko-uchi-gari",
+                "yoko-tomoe-nage"
+              ],
+              "sequences": [
+                "ko-uchi-gari-into-yoko-tomoe-nage"
+              ]
+            },
+            {
+              "text": "Ippon-seoi-nage to Ko-uchi-gake",
+              "techniques": [
+                "ippon-seoi-nage",
+                "ko-uchi-gake"
+              ],
+              "sequences": [
+                "ippon-seoi-nage-into-ko-uchi-gake"
+              ]
+            },
+            {
+              "text": "O-soto-gari to Yoko-wakare",
+              "techniques": [
+                "o-soto-gari",
+                "yoko-wakare"
+              ],
+              "sequences": [
+                "o-soto-gari-into-yoko-wakare"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "kaeshi-waza",
+      "title": {
+        "en": "Section 4: Kaeshi-waza (counter techniques)"
+      },
+      "groups": [
+        {
+          "label": {
+            "en": "1st set"
+          },
+          "items": [
+            {
+              "text": "Harai-goshi countered by Ushiro-goshi",
+              "techniques": [
+                "harai-goshi",
+                "ushiro-goshi"
+              ],
+              "sequences": [
+                "harai-goshi-countered-by-ushiro-goshi"
+              ]
+            },
+            {
+              "text": "Uchi-mata countered by Tai-otoshi",
+              "techniques": [
+                "uchi-mata",
+                "tai-otoshi"
+              ],
+              "sequences": [
+                "uchi-mata-countered-by-tai-otoshi"
+              ]
+            },
+            {
+              "text": "Ko-uchi-gari countered by Harai-tsuri-komi-ashi",
+              "techniques": [
+                "ko-uchi-gari",
+                "harai-tsurikomi-ashi"
+              ],
+              "sequences": [
+                "ko-uchi-gari-countered-by-harai-tsurikomi-ashi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "2nd set"
+          },
+          "items": [
+            {
+              "text": "O-uchi-gari countered by Ko-soto-gari",
+              "techniques": [
+                "o-uchi-gari",
+                "ko-soto-gari"
+              ],
+              "sequences": [
+                "o-uchi-gari-countered-by-ko-soto-gari"
+              ]
+            },
+            {
+              "text": "Ko-soto-gari countered by Uchi-mata",
+              "techniques": [
+                "ko-soto-gari",
+                "uchi-mata"
+              ],
+              "sequences": [
+                "ko-soto-gari-countered-by-uchi-mata"
+              ]
+            },
+            {
+              "text": "O-soto-gari countered by O-soto-gaeshi",
+              "techniques": [
+                "o-soto-gari",
+                "o-soto-gaeshi"
+              ],
+              "sequences": [
+                "o-soto-gari-countered-by-o-soto-gaeshi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "3rd set"
+          },
+          "items": [
+            {
+              "text": "Hiza-guruma countered by O-uchi-gari",
+              "techniques": [
+                "hiza-guruma",
+                "o-uchi-gari"
+              ],
+              "sequences": [
+                "hiza-guruma-countered-by-o-uchi-gari"
+              ]
+            },
+            {
+              "text": "De-ashi-barai countered by Tsubame-gaeshi",
+              "techniques": [
+                "de-ashi-harai",
+                "tsubame-gaeshi"
+              ],
+              "sequences": [
+                "de-ashi-harai-countered-by-tsubame-gaeshi"
+              ]
+            },
+            {
+              "text": "De-ashi-barai countered by Ko-uchi-gari",
+              "techniques": [
+                "de-ashi-harai",
+                "ko-uchi-gari"
+              ],
+              "sequences": [
+                "de-ashi-harai-countered-by-ko-uchi-gari"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "4th set"
+          },
+          "items": [
+            {
+              "text": "Harai-goshi countered by Utsuri-goshi",
+              "techniques": [
+                "harai-goshi",
+                "utsuri-goshi"
+              ],
+              "sequences": [
+                "harai-goshi-countered-by-utsuri-goshi"
+              ]
+            },
+            {
+              "text": "Koshi-guruma countered by Ura-nage",
+              "techniques": [
+                "koshi-guruma",
+                "ura-nage"
+              ],
+              "sequences": [
+                "koshi-guruma-countered-by-ura-nage"
+              ]
+            },
+            {
+              "text": "Uchi-mata countered by Uchi-mata-sukashi",
+              "techniques": [
+                "uchi-mata",
+                "uchi-mata-sukashi"
+              ],
+              "sequences": [
+                "uchi-mata-countered-by-uchi-mata-sukashi"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ne-waza-chains",
+      "title": {
+        "en": "Section 5: Renraku, Kaeshi, Nogarekata (groundwork chains, counters and escapes)"
+      },
+      "groups": [
+        {
+          "label": {
+            "en": "1st set"
+          },
+          "items": [
+            {
+              "text": "Kuzure-kesa-gatame to Ude-garami",
+              "techniques": [
+                "kuzure-kesa-gatame",
+                "ude-garami"
+              ],
+              "sequences": [
+                "kuzure-kesa-gatame-to-ude-garami"
+              ]
+            },
+            {
+              "text": "Escape Kesa-gatame to any Osaekomi-waza",
+              "techniques": [
+                "kesa-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "2nd set"
+          },
+          "items": [
+            {
+              "text": "Kesa-gatame to Hiza-gatame",
+              "techniques": [
+                "kesa-gatame",
+                "hiza-gatame"
+              ],
+              "sequences": [
+                "kesa-gatame-to-hiza-gatame"
+              ]
+            },
+            {
+              "text": "Escape Yoko-shiho-gatame to Sangaku-jime",
+              "techniques": [
+                "yoko-shiho-gatame",
+                "sankaku-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "3rd set"
+          },
+          "items": [
+            {
+              "text": "Kuzure-kami-shiho-gatame to Ushiro-kesa-gatame",
+              "techniques": [
+                "kuzure-kami-shiho-gatame",
+                "ushiro-kesa-gatame"
+              ],
+              "sequences": [
+                "kuzure-kami-shiho-gatame-to-ushiro-kesa-gatame"
+              ]
+            },
+            {
+              "text": "Kata-juji-jime countered by Hiza-gatame",
+              "techniques": [
+                "kata-juji-jime",
+                "hiza-gatame"
+              ],
+              "sequences": [
+                "kata-juji-jime-countered-by-hiza-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "4th set"
+          },
+          "items": [
+            {
+              "text": "Tate-shiho-gatame to Juji-gatame",
+              "techniques": [
+                "tate-shiho-gatame",
+                "juji-gatame"
+              ],
+              "sequences": [
+                "tate-shiho-gatame-to-juji-gatame"
+              ]
+            },
+            {
+              "text": "Escape Yoko-shiho-gatame to Kata-te-kata-ashi-jime",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "kata",
+      "title": {
+        "en": "Section 6: Kata"
+      },
+      "notes": {
+        "en": "Each technique demonstrated both right- and left-handed, combined score recorded, plus a presentation mark out of ten. A BJA Kata certificate claims exemption at 65% of the marks."
+      },
+      "groups": [
+        {
+          "label": {
+            "en": "Nage-no-kata, 1st set (te-waza)"
+          },
+          "items": [
+            {
+              "text": "Uki-otoshi",
+              "techniques": [
+                "uki-otoshi"
+              ]
+            },
+            {
+              "text": "Ippon-seoi-nage",
+              "techniques": [
+                "ippon-seoi-nage"
+              ]
+            },
+            {
+              "text": "Kata-guruma",
+              "techniques": [
+                "kata-guruma"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Nage-no-kata, 2nd set (koshi-waza)"
+          },
+          "items": [
+            {
+              "text": "Uki-goshi",
+              "techniques": [
+                "uki-goshi"
+              ]
+            },
+            {
+              "text": "Harai-goshi",
+              "techniques": [
+                "harai-goshi"
+              ]
+            },
+            {
+              "text": "Tsuri-komi-goshi",
+              "techniques": [
+                "tsurikomi-goshi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Nage-no-kata, 3rd set (ashi-waza)"
+          },
+          "items": [
+            {
+              "text": "Okuri-ashi-barai",
+              "techniques": [
+                "okuri-ashi-harai"
+              ]
+            },
+            {
+              "text": "Sasae-tsuri-komi-ashi",
+              "techniques": [
+                "sasae-tsurikomi-ashi"
+              ]
+            },
+            {
+              "text": "Uchi-mata",
+              "techniques": [
+                "uchi-mata"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Nage-no-kata, 4th set (ma-sutemi-waza)"
+          },
+          "items": [
+            {
+              "text": "Tomoe-nage",
+              "techniques": [
+                "tomoe-nage"
+              ]
+            },
+            {
+              "text": "Ura-nage",
+              "techniques": [
+                "ura-nage"
+              ]
+            },
+            {
+              "text": "Sumi-gaeshi",
+              "techniques": [
+                "sumi-gaeshi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Nage-no-kata, 5th set (yoko-sutemi-waza)"
+          },
+          "items": [
+            {
+              "text": "Yoko-gake",
+              "techniques": [
+                "yoko-gake"
+              ]
+            },
+            {
+              "text": "Yoko-guruma",
+              "techniques": [
+                "yoko-guruma"
+              ]
+            },
+            {
+              "text": "Uki-waza",
+              "techniques": [
+                "uki-waza"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Katame-no-kata, 1st set (osaekomi-waza)"
+          },
+          "items": [
+            {
+              "text": "Kuzure-kesa-gatame",
+              "techniques": [
+                "kuzure-kesa-gatame"
+              ]
+            },
+            {
+              "text": "Kata-gatame",
+              "techniques": [
+                "kata-gatame"
+              ]
+            },
+            {
+              "text": "Kami-shiho-gatame",
+              "techniques": [
+                "kami-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Yoko-shiho-gatame",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Kuzure-kami-shiho-gatame",
+              "techniques": [
+                "kuzure-kami-shiho-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Katame-no-kata, 2nd set (shime-waza)"
+          },
+          "items": [
+            {
+              "text": "Kata-juji-jime",
+              "techniques": [
+                "kata-juji-jime"
+              ]
+            },
+            {
+              "text": "Hadaka-jime",
+              "techniques": [
+                "hadaka-jime"
+              ]
+            },
+            {
+              "text": "Okuri-eri-jime",
+              "techniques": [
+                "okuri-eri-jime"
+              ]
+            },
+            {
+              "text": "Kata-ha-jime",
+              "techniques": [
+                "kata-ha-jime"
+              ]
+            },
+            {
+              "text": "Gyaku-juji-jime",
+              "techniques": [
+                "gyaku-juji-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Katame-no-kata, 3rd set (kansetsu-waza)"
+          },
+          "items": [
+            {
+              "text": "Ude-garami",
+              "techniques": [
+                "ude-garami"
+              ]
+            },
+            {
+              "text": "Juji-gatame",
+              "techniques": [
+                "juji-gatame"
+              ]
+            },
+            {
+              "text": "Ude-gatame",
+              "techniques": [
+                "ude-gatame"
+              ]
+            },
+            {
+              "text": "Hiza-gatame",
+              "techniques": [
+                "hiza-gatame"
+              ]
+            },
+            {
+              "text": "Ashi-garami",
+              "techniques": [
+                "ashi-garami"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nameRomaji": "Kata-gatame",
+  "nameJa": "肩固",
+  "nameKana": "かたがため",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "arm triangle choke",
+      "system": "bjj",
+      "note": {
+        "en": "BJJ treats it primarily as a choke; judo scores it as a hold-down as well as a strangle."
+      }
+    }
+  ],
+  "gloss": {
+    "en": "shoulder hold"
+  },
+  "category": "katame-waza",
+  "subCategory": "osaekomi-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 604,
+  "kodokanAbbr": "KAG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "zQR3IOXxO_Q",
+      "title": "Kata-gatame",
+      "duration": "0:48"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "7hP1-W2yovk",
+      "title": "Kata-gatame Escapes",
+      "duration": "1:14",
+      "role": "escapes from it"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123995114",
+      "title": "Kata-gatame"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Kata-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Kata-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Kata-gatame, the shoulder hold."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Uke's arm is trapped against uke's own neck by tori's head and shoulder: a hold-down that can also become a strangle at senior grades."
+  },
+  "keyPoints": {
+    "en": [
+      "Press uke's arm across the neck with your head",
+      "Clasp your hands and keep the elbow to the mat",
+      "Keep your legs braced wide, hips low"
+    ]
+  },
+  "described": {
+    "en": [
+      "Begin beside your partner's right side as for the scarf hold, their back on the mat.",
+      "Push their right arm across their own neck, folding it at the elbow so their forearm lies against their throat side.",
+      "Clamp the arm there with the right side of your head, your temple and cheek pressing their arm against their neck, and slide your right arm around behind their neck.",
+      "Clasp your hands together, palm to palm, on the far side, your right knee or leg braced wide for base.",
+      "Keep your head pressure constant and your hips low: their trapped arm and your head form the lock, your weight does the holding. Take care in practice; this hold can also compress the neck, so release the moment your partner taps."
+    ]
+  },
+  "receiving": {
+    "en": "Your own arm is pressed across your neck and held there by their head, and the pressure builds on one side. Stay calm and do not hold your breath. Work early, before the position settles: turn towards them and fight the trapped elbow free. Because this hold can compress the neck as well as pin, tap early and clearly the moment it is properly locked; there is nothing to be gained by waiting it out."
+  },
+  "viNotes": {
+    "en": "The trap and the lock are both contact. Fold their arm across their own neck and clamp it with the side of your head, so your head, not your eyes, tells you the arm has not slipped out. Because this hold can also compress the neck, stay ready for a tap anywhere and release everything, head pressure included, at the first one."
+  }
+}

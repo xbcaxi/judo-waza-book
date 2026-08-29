@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Kuzure-kesa-gatame escape by sitting up and pushing"
+  },
+  "kind": "escape",
+  "techniques": [
+    "kuzure-kesa-gatame"
+  ],
+  "about": {
+    "en": "The broken scarf hold passes an arm under your armpit rather than around your neck, which leaves your head free. That freedom is the escape: you sit up into the space and push away."
+  },
+  "keyPoints": {
+    "en": [
+      "Your head is free: use it, and sit up early",
+      "Push at their shoulder or hip, not at their chest",
+      "Bring your knees in as you sit, to get your base back"
+    ]
+  },
+  "described": {
+    "en": [
+      "You are held in Kuzure-kesa-gatame, their arm under your near armpit and their body across your chest.",
+      "Turn onto your side towards them and get your free arm's elbow underneath you, propping on it.",
+      "Sit up into the gap, using the fact that your head is not trapped, and bring your knees in towards your chest.",
+      "Place your free hand on their near shoulder or hip and straighten your arm to push them away from you.",
+      "As the space opens, swing your legs underneath you and get onto your knees or hip, facing them.",
+      "Come out to a kneeling position with your guard back, or turn in on top if they roll away."
+    ]
+  },
+  "receiving": {
+    "en": "If you feel them get an elbow underneath themselves, the hold is already half broken. Drive your chest weight forward onto them and pull their far arm across so they cannot sit up in the first place."
+  },
+  "viNotes": {
+    "en": "Find the mat with your elbow first: the whole escape starts from that prop, and it can be set before your partner notices. From there, the push is towards wherever their shoulder is, which you will already be touching."
+  },
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "7JXNDTyeBBU",
+      "title": "Escape from Kuzure-Kesa-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535079089",
+      "title": "Escape from Kuzure-Kesa-Gatame"
+    }
+  ]
+}

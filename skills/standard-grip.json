@@ -1,0 +1,42 @@
+{
+  "name": {
+    "en": "Standard grip"
+  },
+  "nameRomaji": "Kumi-kata",
+  "nameJa": "組み方",
+  "kind": "kumi-kata",
+  "about": {
+    "en": "The basic right-handed grip that almost every technique in this reference assumes: left hand on their right sleeve, right hand on their left lapel. Taking it, keeping it and knowing what it lets you feel is the foundation of everything standing."
+  },
+  "keyPoints": {
+    "en": [
+      "Sleeve hand low on the outside of their elbow, lapel hand at collarbone height",
+      "Elbows stay down and close to your body, never lifted or locked",
+      "Grip firmly with the last three fingers, not the whole fist clenched"
+    ]
+  },
+  "described": {
+    "en": [
+      "Face your partner in a natural stance, feet about shoulder width apart, knees soft.",
+      "Take their right sleeve with your left hand, gripping the outside of the cloth just below their elbow.",
+      "Take their left lapel with your right hand, at about collarbone height, thumb outside the cloth.",
+      "Drop both elbows so they hang close to your ribs rather than sticking out.",
+      "Keep your arms slightly bent and relaxed: a straight arm gives away your intention and tires quickly.",
+      "Feel their movement through the sleeve hand and their posture through the lapel hand. The grip is for listening as much as for pulling."
+    ]
+  },
+  "receiving": {
+    "en": "Taking a grip on you is not neutral: a strong lapel grip can control your posture before anything else happens, and a deep sleeve grip takes away the arm you need for a breakfall. Keep your own elbows in, break a grip early rather than late, and never let someone hold your sleeve with your arm straight and behind you."
+  },
+  "viNotes": {
+    "en": "Every VI judo contest starts from this grip already taken, so it is the one part of standing judo where a visually impaired judoka begins on completely level terms. Because it is the starting point rather than something to win, the reading of a partner's balance and intention through the hands is the skill that matters most."
+  },
+  "videos": [
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "m2lSKGc60mg",
+      "title": "東海大学 TOKAI UNIVERSITY - KUMI KATA"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "nameRomaji": "Tani-otoshi",
+  "nameJa": "谷落",
+  "nameKana": "たにおとし",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "rear takedown",
+      "system": "english"
+    }
+  ],
+  "gloss": {
+    "en": "valley drop"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": 4,
+  "kodokanNumber": 502,
+  "kodokanAbbr": "TNO",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "3b9Me3Fohpk",
+      "title": "Tani-otoshi",
+      "duration": "1:18"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "jnigGr3pksA",
+      "title": "Tani-Otoshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551440950",
+      "title": "Tani-Otoshi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124002200",
+      "title": "Tani-otoshi"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "40:28 Tani-otoshi (valley drop)",
+      "start": 2428
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "3uU6A8kLu5w",
+      "title": "Tani-otoshi"
+    }
+  ],
+  "ijfAnimation": "Tani-otoshi",
+  "links": [
+    {
+      "title": "Tani-otoshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Tani-otoshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Tani-otoshi, the valley drop."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori slides a leg behind uke's legs and drops to the side, taking uke straight backwards over the barrier."
+  },
+  "keyPoints": {
+    "en": [
+      "Slide the leg deep behind both of uke's heels",
+      "Drop onto your side, driving uke back over your leg",
+      "Keep your head clear of uke's fall line"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, move to your partner's right side as their weight settles back, or as they defend a forward attack.",
+      "Slide your left leg deep along the mat behind both of their heels, your leg lying like a bar across the backs of their ankles.",
+      "Drop onto your left side, close against them, chest still facing them.",
+      "As you fall, drive them backwards over the barring leg with both hands, sleeve pulling down, lapel hand pressing back.",
+      "They fall straight back over your leg and land on their back beside you. Keep your head tucked away from their fall line, and keep the sleeve in hand."
+    ]
+  },
+  "receiving": {
+    "en": "A leg slides along the mat behind both your heels and their body drops beside you: pressed back over the bar of their leg, there is nowhere to step. Fall backwards with your chin tucked and slap with your free arm; because their body is beside yours, expect a close landing and keep your elbows in."
+  },
+  "viNotes": {
+    "en": "The barring leg is slid along the mat, which is the safest way to place something you cannot see: it finds the backs of their heels by contact and can never be too high. Drop onto your side close beside them with your head tucked out of their fall line. As uke, a leg arriving behind your ankles is the warning, and the fall goes straight back."
+  }
+}

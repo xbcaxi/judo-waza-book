@@ -1,0 +1,83 @@
+{
+  "nameRomaji": "Sode-guruma-jime",
+  "nameJa": "袖車絞",
+  "nameKana": "そでぐるまじめ",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "Ezekiel choke",
+      "system": "bjj",
+      "note": {
+        "en": "Named in BJJ for Ezequiel Paraguassu, the judoka who used it there; the mechanics are identical."
+      }
+    }
+  ],
+  "gloss": {
+    "en": "sleeve wheel strangle"
+  },
+  "category": "katame-waza",
+  "subCategory": "shime-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 709,
+  "kodokanAbbr": "SGJ",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "E3nvQzClcAU",
+      "title": "Sode-guruma-jime",
+      "duration": "1:14"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "8PBf_3mkcuo",
+      "title": "Sode-guruma-jime",
+      "duration": "0:18"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Sode-guruma-jime on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Sode-guruma-jime",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Sode-guruma-jime, the sleeve wheel strangle."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The sleeve wheel strangle: one hand grips inside its own opposite sleeve and the forearms close around the neck like a wheel tightening. Famous for working even from inside an opponent's guard. Strangles are restricted by age in most federations; learn and practise this only under instruction and supervision."
+  },
+  "keyPoints": {
+    "en": [
+      "One arm behind the neck; that hand's fingers hook inside your OWN far sleeve",
+      "The free hand slides across the throat, blade of the forearm working",
+      "Close by drawing the elbows together, gradually"
+    ]
+  },
+  "described": {
+    "en": [
+      "Facing your partner on the ground, slide your left arm behind their neck so the crook of your elbow cradles it.",
+      "With your left hand, grip inside your own right sleeve at the forearm, hooking the fingers into the cloth.",
+      "Slide your right hand, palm down or as a fist, across the front of their throat.",
+      "Your two forearms now circle the neck, connected through the sleeve grip.",
+      "Close gradually by drawing your elbows towards each other, the circle tightening. Release both arms completely at the tap, and check your partner."
+    ]
+  },
+  "receiving": {
+    "en": "An elbow settles behind your neck, a hand disappears into their own sleeve, and a forearm slides across your throat: the circle closes with surprising force for so little visible movement. Chin down early, and do not wait once it locks. Tap immediately and clearly the moment the strangle is properly on, on their arm or body where they will feel it; never hold out to prove toughness. Tell your instructor if you ever feel light-headed afterwards."
+  },
+  "viNotes": {
+    "en": "The circle is closed through your own sleeve, which makes this one of the easiest strangles to confirm by feel: fingers in your own cloth means the wheel is complete. Cradle the neck in the crook of your elbow first, then find the sleeve, then bring the other forearm across the throat. Close by drawing the elbows towards each other, slowly."
+  }
+}

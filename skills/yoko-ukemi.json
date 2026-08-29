@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Yoko Ukemi"
+  },
+  "nameRomaji": "Yoko Ukemi",
+  "nameJa": "横受身",
+  "kind": "ukemi",
+  "about": {
+    "en": "The side breakfall: landing on one side rather than flat on your back. Most throws land you here, and the arm on the landing side does the work of spreading the impact."
+  },
+  "keyPoints": {
+    "en": [
+      "Land on the side of your body, not on your shoulder blade",
+      "Slap with the whole arm on the landing side, palm down",
+      "Top leg stays bent and lifted so your knees never collide"
+    ]
+  },
+  "described": {
+    "en": [
+      "Stand with your feet shoulder width apart and hold both arms out in front of you.",
+      "Swing your right leg across the front of your body to the left, and let your weight follow it down.",
+      "Tuck your chin to your chest and keep it tucked.",
+      "Sit down onto your right hip and roll onto the whole right side of your body, from hip to shoulder.",
+      "As your side reaches the mat, slap hard with your straight right arm, palm down, about forty-five degrees from your body.",
+      "Finish on your right side with your left leg bent and lifted clear, right leg on the mat, chin still tucked. Repeat on the other side."
+    ]
+  },
+  "viNotes": {
+    "en": "Learn it lying on your side first, so the slap and the position are known before any falling happens. The reliable cue is the outside of your hip touching down: the arm slaps at the same instant, not after."
+  },
+  "videos": [
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124015597",
+      "title": "Ukemi: Side slap"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "125155732",
+      "title": "Ukemi - Yoko: Side slap"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "JCwK1Ia4jsc",
+      "title": "Yoko-ukemi",
+      "role": "competitive variations"
+    }
+  ]
+}

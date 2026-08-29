@@ -1,0 +1,108 @@
+{
+  "nameRomaji": "De-ashi-harai",
+  "nameJa": "出足払",
+  "nameKana": "であしはらい",
+  "aliases": [
+    "De-ashi-barai"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "advancing foot sweep"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": 1,
+  "kodokanNumber": 301,
+  "kodokanAbbr": "DAB",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "4BUUvqxi_Kk",
+      "title": "De-ashi-harai",
+      "duration": "1:18"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "yQ4wV-s55JU",
+      "title": "De-Ashi-Barai"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535078704",
+      "title": "De-Ashi-Barai"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123991288",
+      "title": "De Ashi Barai"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "14:11 Deashi-harai (forward foot sweep)",
+      "start": 851
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "QV-dTpMRSdE",
+      "title": "De-ashi-barai",
+      "duration": "0:21"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "Grx3wsbHPtw",
+      "title": "Deashi-barai"
+    }
+  ],
+  "ijfAnimation": "De-ashi-harai",
+  "links": [
+    {
+      "title": "De-ashi-harai on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/De-ashi-harai",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of De-ashi-harai, the advancing foot sweep."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "A pure timing throw: uke's advancing foot is swept sideways at the instant it touches the mat, before it can take weight."
+  },
+  "keyPoints": {
+    "en": [
+      "Sweep as the foot lands, not after it has taken weight",
+      "Use the sole of your foot flat against uke's ankle",
+      "Pull with both hands in the direction uke is already moving"
+    ]
+  },
+  "described": {
+    "en": [
+      "Take a standard right-handed grip: your left hand on your partner's right sleeve at the elbow, your right hand on their left lapel.",
+      "Move with your partner and feel for the moment their right foot swings forward to step: the throw lives in the instant just before that foot takes their weight.",
+      "As their right foot is about to land, sweep it with the sole of your left foot, catching the outside of their ankle and carrying the foot across in front of their other leg, in the same direction they are travelling.",
+      "At the same time pull both hands in the direction of their travel, sleeve hand drawing down and across, so their upper body keeps moving while the foot is taken away.",
+      "Their legs swing from under them and they land on their side or back beside you. Keep hold of the sleeve so the landing is supported."
+    ]
+  },
+  "receiving": {
+    "en": "There is almost no warning: as your foot swings forward to step, it is swept across before it can take your weight, and both legs go together. The fall is sideways and fast. Your right sleeve stays held, so slap with your free left arm as your side meets the mat, and let the held sleeve carry some of your weight."
+  },
+  "viNotes": {
+    "en": "A sighted judoka times this by watching the step; you time it through the sleeve. With grips already taken, the rhythm of their feet travels up the arm, and the moment to sweep is the small lightening in the sleeve as the foot swings forward. Drill it moving up and down the mat with a partner until the tempo, rather than the sight of the foot, is the cue you act on."
+  }
+}

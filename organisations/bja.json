@@ -1,0 +1,19 @@
+{
+  "name": "British Judo Association",
+  "kind": "national-body",
+  "country": "GB",
+  "homepage": "https://www.britishjudo.org.uk/",
+  "about": {
+    "en": "The national governing body for judo in Great Britain, with home-nation affiliates in Scotland, England, Wales and Northern Ireland. The Mon, Kyu and Dan grading pathways are the BJA's; its schemes and competitive dan-grade examinations are transcribed in this reference."
+  },
+  "schemes": ["bja-mon", "bja-competitive-dan"],
+  "exams": [
+    "bja-competitive-1st-dan",
+    "bja-competitive-2nd-dan",
+    "bja-competitive-3rd-dan",
+    "bja-competitive-4th-dan",
+    "bja-competitive-5th-dan",
+    "bja-competitive-dan-grade-skills",
+    "bja-kata-certification"
+  ]
+}

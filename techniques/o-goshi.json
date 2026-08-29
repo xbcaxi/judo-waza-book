@@ -1,0 +1,133 @@
+{
+  "nameRomaji": "O-goshi",
+  "nameJa": "大腰",
+  "nameKana": "おおごし",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "hip toss",
+      "system": "english"
+    }
+  ],
+  "gloss": {
+    "en": "major hip throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "koshi-waza",
+  "gokyoSet": 1,
+  "kodokanNumber": 202,
+  "kodokanAbbr": "OGO",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "yhu1mfy2vJ4",
+      "title": "O-goshi",
+      "duration": "1:26"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "Biuh_XNh0T4",
+      "title": "O-Goshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548838024",
+      "title": "O-Goshi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123999502",
+      "title": "O-goshi"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "VLYKx-Fwhxg",
+      "title": "O-goshi - Basic Principles",
+      "role": "basic principles"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "oXTwNVxaka8",
+      "title": "O-goshi - Competitive Variations",
+      "role": "competitive variations"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "K--j8GhBeZM",
+      "title": "O-goshi - Set Ups",
+      "role": "set ups"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "uzLRISLkMNM",
+      "title": "東海大学 TOKAI UNIVERSITY - O GOSHI"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "0:29 O-goshi (large hip throw) (hip throw)",
+      "start": 29
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "ymzbjDvpoOI",
+      "title": "O-goshi"
+    }
+  ],
+  "ijfAnimation": "O-goshi",
+  "links": [
+    {
+      "title": "O-goshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/O-goshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of O-goshi, the major hip throw."
+    },
+    "provenance": "third-party",
+    "credit": "Bill Nauta, Encino Judo Club (watermark on source image)",
+    "source": "Compiled club reference document supplied by the project owner; watermark identifies the rights holder"
+  },
+  "about": {
+    "en": "The fundamental full hip throw: tori's arm goes around uke's waist, the hips go through and lift, and uke is rolled over the hip line."
+  },
+  "keyPoints": {
+    "en": [
+      "Get your hips through and lower than uke's",
+      "Pull uke tight onto your back as you enter",
+      "Straighten the legs to lift, then turn to complete"
+    ]
+  },
+  "described": {
+    "en": [
+      "Stand facing your partner with a standard right-handed grip: your left hand holding their right sleeve at the elbow, your right hand on their left lapel.",
+      "Release the lapel and slide your right arm around their waist, palm flat on the small of their back, as you step your right foot just inside their right foot.",
+      "Pivot on that foot and swing your left foot back and around so your back comes fully against their front, feet together between theirs, knees well bent. Your hips must finish lower than theirs: feel their belt line above yours.",
+      "Pull the sleeve forward and around your body while the arm at their back draws them tight, so their chest is glued to your back with no gap.",
+      "Straighten your legs to lift them from the mat, bow forward, and turn your head and shoulders to your left.",
+      "Their weight rolls over your right hip and they land on their back in front of your feet. Keep hold of the sleeve to steer the fall."
+    ]
+  },
+  "receiving": {
+    "en": "You feel the arm slide around your waist and their hips drop in front of yours; the lift comes from below and tips you forward over their hip. Your right sleeve stays held, so as you roll over, swing your left arm ready and land on your back, slightly on your left side, slapping the mat with your left arm as your back touches. Keep your chin tucked throughout."
+  },
+  "viNotes": {
+    "en": "From the gripped-up start used in VI judo contests there is no distance to close: the throw begins from contact. Feel their weight through both grips before you commit; the moment their pressure comes forward onto you is the entry cue. The change from lapel grip to the arm around the waist happens along their body, so your hand never loses contact on the way."
+  }
+}

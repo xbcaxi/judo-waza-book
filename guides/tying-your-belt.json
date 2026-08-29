@@ -1,0 +1,53 @@
+{
+  "category": "essentials",
+  "title": {
+    "en": "Tying your belt"
+  },
+  "summary": {
+    "en": "The standard way to tie a judo belt so it stays flat, stays tied, and shows the two ends even: entirely learnable by touch."
+  },
+  "sections": [
+    {
+      "prose": {
+        "en": "Every part of this is checkable by touch: the middle of the belt, the flatness of each wrap, the shape of the knot. Practise it away from the mat until your hands know it without thought."
+      }
+    },
+    {
+      "heading": {
+        "en": "Step by step"
+      },
+      "steps": {
+        "en": [
+          "Find the middle of the belt: hold it in both hands and slide outwards until the ends match, then place the middle against your belly, just below your navel.",
+          "Wrap both ends around your waist, crossing them over at the small of your back, and bring them round to the front. Keep each layer flat; a twist at the back is felt as a ridge.",
+          "Check the ends hang even. If not, pull them level before you tie.",
+          "Cross the end in your right hand over the end in your left, then push that end up underneath BOTH layers around your waist, from below, and pull it snug upwards.",
+          "You now have one end pointing up and one pointing down. Bring the upper end down over the lower, wrap it behind and through the loop this makes, and pull both ends sideways, not outwards, until the knot sits flat and square.",
+          "Run a finger over the finished knot: it should feel like a flat packet, not a ball, with both ends of equal length hanging down. If it feels like a ball, untie and redo the last cross the other way."
+        ]
+      }
+    },
+    {
+      "heading": {
+        "en": "Checks before you step on"
+      },
+      "prose": {
+        "en": "Jacket closed left side over right (for everyone), belt over both jacket layers, knot centred at the front, ends even and roughly a hand-span to a forearm in length. A belt tied this way survives randori; one tied as a granny knot does not."
+      }
+    }
+  ],
+  "videos": [
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124003153",
+      "title": "Tie Obi: Traditional"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124002780",
+      "title": "Tie Obi: Modern"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "nameRomaji": "Harai-goshi",
+  "nameJa": "払腰",
+  "nameKana": "はらいごし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "sweeping hip throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "koshi-waza",
+  "gokyoSet": 2,
+  "kodokanNumber": 206,
+  "kodokanAbbr": "HRG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "qTo8HlAAkOo",
+      "title": "Harai-goshi",
+      "duration": "1:12"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "GFp-yabNPQk",
+      "title": "Harai-Goshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548844003",
+      "title": "Harai-Goshi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124150148",
+      "title": "Harai goshi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124083991",
+      "title": "Harai goshi"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "_gcIWtS-9Ms",
+      "title": "Harai-goshi - Basic Principles",
+      "role": "basic principles"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "hUO6LPELX_8",
+      "title": "Harai-goshi - Competitive Variations",
+      "role": "competitive variations"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "TQQwmVh0sPI",
+      "title": "古賀 稔彦 TOSHIHIKO KOGA - HARAI GOSHI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "88y9jXbLBZg",
+      "title": "吉田 秀彦 HIDEHIKO YOSHIDA - HARAI GOSHI"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "5:12 Harai-goshi (sweeping hip throw)",
+      "start": 312
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "4-oU_hucPS4",
+      "title": "Harai-goshi"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Harai-goshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Harai-goshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Harai-goshi, the sweeping hip throw."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori enters as for a hip throw and sweeps uke's thigh with the leg while rotating, so uke is thrown over hip and sweeping leg together."
+  },
+  "keyPoints": {
+    "en": [
+      "Sweep along uke's thigh with the back of your leg",
+      "Take uke's balance forward onto the toes first",
+      "Keep chest contact through the whole rotation"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, draw your partner forward and up so their weight comes onto their toes.",
+      "Step your right foot inside their right foot, pivot, and bring your left foot around, turning your back into them, your right hip against their body but not fully across.",
+      "Pull the sleeve and lapel so their chest presses to your back and their weight leans on you.",
+      "Sweep your right leg back and up along the outside of their right thigh, the back of your thigh brushing theirs from low to high, while your chest drives down and forward.",
+      "Leg and trunk move as one tilting motion; their feet leave the mat as they pass over your hip and sweeping leg.",
+      "They land on their back ahead of you. Keep the sleeve gripped and lift it as they strike the mat."
+    ]
+  },
+  "receiving": {
+    "en": "Drawn up onto your toes with their back close, you feel a thigh sweep up the outside of your leg while your chest is carried forward: leg and body are taken in one motion. It is a large, sweeping fall. Stay with the rotation, chin tucked, and land on your back with your free left arm slapping wide."
+  },
+  "viNotes": {
+    "en": "From the gripped-up start the cue is their chest arriving on your back as you turn in, felt across your shoulder blades. Keep the back of your sweeping thigh touching theirs from the first inch of the sweep: a leg travelling through open space has nothing to sweep, and the contact is also how you know how high their leg has come. Chest down and leg up happen together, as one tilt."
+  }
+}

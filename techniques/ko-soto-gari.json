@@ -1,0 +1,99 @@
+{
+  "nameRomaji": "Ko-soto-gari",
+  "nameJa": "小外刈",
+  "nameKana": "こそとがり",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "minor outer reap"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": 2,
+  "kodokanNumber": 306,
+  "kodokanAbbr": "KSG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "jeQ541ScLB4",
+      "title": "Ko-soto-gari",
+      "duration": "0:57"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "wstNSNWXDwk",
+      "title": "Ko-Soto-Gari"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548841105",
+      "title": "Ko-Soto-Gari"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123997419",
+      "title": "Ko soto gari"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "18:03 Kosoto-gari (small outer reap)",
+      "start": 1083
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "gqrfGAYrexs",
+      "title": "ko-soto-gari"
+    }
+  ],
+  "ijfAnimation": "Ko-soto-gari",
+  "links": [
+    {
+      "title": "Ko-soto-gari on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ko-soto-gari",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Ko-soto-gari, the minor outer reap."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "A small outside reap against uke's heel, timed as the foot takes weight, throwing uke straight back."
+  },
+  "keyPoints": {
+    "en": [
+      "Attack the heel from outside with the sole of your foot",
+      "Reap in the direction of uke's toes-to-heel line",
+      "Push uke's weight back over the reaped heel with the hands"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, watch with your hands for your partner's right foot stepping towards you, or draw them into that step.",
+      "As the right foot lands and before it settles, place the sole of your left foot behind their right heel.",
+      "Reap the heel forward, in the direction their toes point, with a shallow scooping action of your sole along the mat.",
+      "At the same moment push down and back with both hands, so their weight travels back over the heel that is being taken.",
+      "They sit back and land on their back close in front of you. Keep the sleeve held so the fall is guided, not free."
+    ]
+  },
+  "receiving": {
+    "en": "Just as your stepping foot takes weight, its heel is scooped forward from behind and your hips keep going back: a sudden sit-down feeling. Fold into a rear breakfall, chin tucked, and slap with your free arm as your back reaches the mat. It is a short fall but an abrupt one."
+  },
+  "viNotes": {
+    "en": "The timing lives in the sleeve. You are waiting for the moment their right foot lands and has not yet settled, which reaches you as a brief heaviness through the grips, and then the sole scoops along the mat to find the heel. Scooping along the mat rather than lifting the foot means the heel is found by contact and you never sweep at empty space."
+  }
+}

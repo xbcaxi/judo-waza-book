@@ -1,0 +1,74 @@
+{
+  "nameRomaji": "Kata-juji-jime",
+  "nameJa": "片十字絞",
+  "nameKana": "かたじゅうじじめ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "half cross strangle"
+  },
+  "category": "katame-waza",
+  "subCategory": "shime-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 703,
+  "kodokanAbbr": "KJJ",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "3VZVUAmiMD8",
+      "title": "Kata-juji-jime",
+      "duration": "2:34"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123995537",
+      "title": "Kata-juji-jime"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Kata-juji-jime on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Kata-juji-jime",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Kata-juji-jime, the half cross strangle."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The cross strangle with one hand of each kind: one thumb inside, one fingers inside. The most used of the three in practice, because the mixed grip is the easiest to place under resistance. Strangles are restricted by age in most federations; learn and practise this only under instruction and supervision."
+  },
+  "keyPoints": {
+    "en": [
+      "One hand thumb inside, the other fingers inside",
+      "The deeper the first grip, the less the second must do",
+      "Elbows down and in; the squeeze is a curve, not a snatch"
+    ]
+  },
+  "described": {
+    "en": [
+      "Facing your partner on the ground, take your first grip deep in their left collar with your right hand, thumb inside, fingers out.",
+      "Cross your left arm and grip their right collar with the fingers inside, thumb out: one hand of each kind, which is what names the technique.",
+      "Settle your forearms across their chest, elbows low.",
+      "Close gradually by turning the wrists and drawing both elbows down and towards you, the forearm blades meeting the sides of the neck.",
+      "Release fully and immediately at the tap, and stay with your partner a moment."
+    ]
+  },
+  "receiving": {
+    "en": "One thumb and one set of fingers slide into your collars and cross; the mixed grip lets it lock on quickly. Fight the grips before they settle and keep your chin down. Tap immediately and clearly the moment the strangle is properly on, on their arm or body where they will feel it; never hold out to prove toughness. Tell your instructor if you ever feel light-headed afterwards."
+  },
+  "viNotes": {
+    "en": "Take the first grip deep and settle it before hunting for the second: a hand that arrives late is easier to place than one that arrives shallow. The mixed grip is the easiest of the three to set against resistance, which counts for a lot when the collar has to be found by touch. Close with the elbows rather than the fingers, and open both hands completely at the tap."
+  }
+}

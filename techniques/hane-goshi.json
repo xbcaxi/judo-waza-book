@@ -1,0 +1,113 @@
+{
+  "nameRomaji": "Hane-goshi",
+  "nameJa": "跳腰",
+  "nameKana": "はねごし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "spring hip throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "koshi-waza",
+  "gokyoSet": 3,
+  "kodokanNumber": 208,
+  "kodokanAbbr": "HNG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "M9_7De6A1kk",
+      "title": "Hane-goshi",
+      "duration": "1:17"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "U36Le1S_dlI",
+      "title": "Hane-Goshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548843884",
+      "title": "Hane-Goshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548806978",
+      "title": "hane-goshi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123993177",
+      "title": "Hane-goshi"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "6:37 Hane-goshi (spring hip throw)",
+      "start": 397
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "6U0B0sQ7K8U",
+      "title": "Hane-goshi",
+      "duration": "0:11"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "5eL4UyL4VPw",
+      "title": "Hane-goshi"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Hane-goshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Hane-goshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Hane-goshi, the spring hip throw."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori enters with a bent leg pressed against uke's thigh and shin and springs both leg and hip upward together to flip uke over."
+  },
+  "keyPoints": {
+    "en": [
+      "Bend the springing leg and keep it in contact with uke's leg",
+      "Spring hip and leg upward as one movement",
+      "Draw uke tight onto your hip before the spring"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, draw your partner up and forward so their chest comes to you and their weight floats onto their toes.",
+      "Step your right foot inside their right foot, pivot, and turn your back into them with your left foot supporting.",
+      "Bend your right leg and set it against the front of their right leg, your calf and the back of your thigh touching their shin and thigh, your foot beside their ankle: the whole bent leg lies against their leg like a fitted spring.",
+      "Draw them tight onto your hip with sleeve and lapel.",
+      "Spring: leg and hip lift together in one upward snap while your trunk tips forward and left.",
+      "They are flipped over your hip and springing leg and land on their back in front of you; the sleeve stays in your hand."
+    ]
+  },
+  "receiving": {
+    "en": "A bent leg fits itself against the front of your leg from ankle to thigh, their hip close, and then everything springs upward at once: you are flipped rather than rolled. The fall has snap to it. Stay compact, chin tucked, and let the held sleeve place you on your back, left arm slapping as you land."
+  },
+  "viNotes": {
+    "en": "From the gripped-up start there is no distance to close, so the throw is decided by whether their weight is already forward on your grips when you turn in. Set the bent leg by contact: let your calf and the back of your thigh settle along theirs, feel the fit down the whole leg, and only then spring. If the only contact is at your foot you are too shallow to lift anything."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "o-soto-otoshi",
+    "kesa-gatame"
+  ],
+  "about": {
+    "en": "The first transition on the BJA Mon syllabus, and the model for all of them: the throw is not finished until you have the hold. Osoto-otoshi drops them straight back beside you, ready for the scarf hold."
+  },
+  "described": {
+    "en": [
+      "Take your right grips and drop them straight back over your extended right leg with Osoto-otoshi.",
+      "Keep their right sleeve throughout the fall so their head stays supported.",
+      "Step around to their right side and drop your hips to the mat beside their ribs.",
+      "Pass your right arm around the back of their neck and pull their right arm tight under your left armpit.",
+      "Spread your legs wide, one forward and one back, and settle your chest across theirs.",
+      "Hold with your body weight, keep your head up and release the moment they tap."
+    ]
+  },
+  "receiving": {
+    "en": "You drop straight backwards over their extended leg with your right sleeve still held, which is what keeps your head off the mat: chin on your chest, slap with your free left arm as your back lands. Then the hold arrives immediately at your right side. Turn towards them and get your trapped arm moving before their chest settles, because once their weight is through your ribs and their legs are spread wide, patience serves you better than panic."
+  },
+  "viNotes": {
+    "en": "This is the model transition on the Mon syllabus and it is a gift for a visually impaired judoka: keep the sleeve and the hold needs no searching, because the held arm leads your hips to their side. Drop your hips to the mat beside their ribs rather than kneeling and feeling around. Take the neck and the trapped arm by sliding along their body, so both hands arrive where you expect them."
+  },
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "0ipqewK0otQ",
+      "title": "o-soto-Otoshi into Kesa-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535064007",
+      "title": "o-soto-Otoshi into Kesa-Gatame"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "OzOD8FnZE64",
+      "title": "(NOT!) O-soto-otoshi into Kesa-gatame",
+      "duration": "0:42"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "zKwsQd3UGLw",
+      "title": "O-soto-otoshi into Kesa-gatame",
+      "duration": "1:03"
+    }
+  ]
+}

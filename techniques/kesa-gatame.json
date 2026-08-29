@@ -1,0 +1,96 @@
+{
+  "nameRomaji": "Kesa-gatame",
+  "nameJa": "袈裟固",
+  "nameKana": "けさがため",
+  "aliases": [
+    "Hon-kesa-gatame"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "scarf hold"
+  },
+  "category": "katame-waza",
+  "subCategory": "osaekomi-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 601,
+  "kodokanAbbr": "KEG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "NDaQuJOFBYk",
+      "title": "Kesa-gatame",
+      "duration": "0:57"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "5_TS0YHdxcQ",
+      "title": "Kesa-gatame Escapes",
+      "duration": "2:19",
+      "role": "escapes from it"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "VUU_i5X2HlM",
+      "title": "Kesa-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535064232",
+      "title": "Kesa-Gatame"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123997264",
+      "title": "Kesa gatame"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Kesa-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Kesa-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Kesa-gatame, the scarf hold."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The first hold-down most judoka learn: tori sits beside uke, arm around the neck, chest across uke's chest, in the line of a monk's scarf."
+  },
+  "keyPoints": {
+    "en": [
+      "Trap uke's arm tight under your armpit",
+      "Spread the legs wide, one forward, one back, for a stable base",
+      "Keep your chest heavy on uke's chest, head low"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner lies on their back; sit close against their right side, facing towards their head, your hip against their ribs.",
+      "Slide your right arm around the back of their neck and grip cloth at their left shoulder, hugging their head snugly against your side.",
+      "With your left hand, trap their right arm: pull it high under your left armpit and pin it against your body, holding the cloth at their elbow or upper sleeve.",
+      "Spread your legs wide along the mat: right leg stretched forward towards their head, left leg bent back behind you, sole planted. Neither knee is beneath you; you sit through, side-on.",
+      "Lower your chest onto theirs and keep your weight there, head low. When they bridge or turn, ride the movement with your hips and settle your chest again: the hold is heaviness and position, not squeezing."
+    ]
+  },
+  "receiving": {
+    "en": "Their weight settles across your chest and your right arm is drawn up and pinned; your head is held close. It feels heavy rather than painful: breathe steadily and do not panic at the pressure. To work, bridge towards them and turn your chest into them to make space, or trap a leg. In practice, if the hold is fully on and you need to stop, tap clearly on them or the mat."
+  },
+  "viNotes": {
+    "en": "Groundwork begins from contact for everyone, which is why ne-waza is often where VI judoka are strongest. Keep one point of contact through every transition into the hold: from a throw, follow the held sleeve down to the mat and let it lead you to their right side. In the hold, read their escapes through your chest and hips rather than by watching their legs."
+  }
+}

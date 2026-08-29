@@ -1,0 +1,9 @@
+{
+  "name": "Kodokan",
+  "organisation": "Kodokan Judo Institute",
+  "homepage": "https://www.kodokanjudoinstitute.org/",
+  "order": 1,
+  "about": {
+    "en": "Judo's founding institute in Tokyo, and the authority on the classical form of every technique in this reference. Its channel demonstrates techniques and kata in the Kodokan's own standard, which is what an examiner is ultimately measuring against."
+  }
+}

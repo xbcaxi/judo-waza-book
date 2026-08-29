@@ -1,0 +1,101 @@
+{
+  "nameRomaji": "Yoko-shiho-gatame",
+  "nameJa": "横四方固",
+  "nameKana": "よこしほうがため",
+  "aliases": [
+    "Hon-yoko-shiho-gatame"
+  ],
+  "otherNames": [
+    {
+      "name": "side control",
+      "system": "bjj"
+    }
+  ],
+  "gloss": {
+    "en": "side four-quarter hold"
+  },
+  "category": "katame-waza",
+  "subCategory": "osaekomi-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 607,
+  "kodokanAbbr": "YSG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "TT7XJVSEQxA",
+      "title": "Yoko-shiho-gatame",
+      "duration": "1:53"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "yK_GSamSPko",
+      "title": "Yoko-shiho-gatame Escapes",
+      "duration": "1:22",
+      "role": "escapes from it"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "2YHgsSCB3iw",
+      "title": "Yoko-Shiho-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535079563",
+      "title": "Yoko-Shiho-Gatame"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124033916",
+      "title": "Yoko-shiho-gatame"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Yoko-shiho-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Yoko-shiho-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Yoko-shiho-gatame, the side four-quarter hold."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori controls uke from the side at right angles, chest on chest, with grips at the collar and between the legs."
+  },
+  "keyPoints": {
+    "en": [
+      "Grip under the neck and under the far leg",
+      "Keep hips low or knees in tight: no space under you",
+      "Follow uke's bridge with your hips, chest stays heavy"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner lies on their back; take position at their right side, your body at right angles to theirs, chest facing down onto their chest.",
+      "Slide your right arm under the back of their neck and grip the cloth at their far shoulder or collar.",
+      "Reach your left arm between their legs and grip the back of their belt or the cloth at their far thigh.",
+      "Bring your chest down onto theirs and keep your hips low to the mat, or knees tucked in tight against their side: leave no space beneath you.",
+      "When they bridge, let your hips follow the lift and settle again; when they turn, slide around them like a weight on a table, chest never leaving chest."
+    ]
+  },
+  "receiving": {
+    "en": "Chest lands on chest from your side, at right angles, with grips at your collar and between your legs: the pressure is broad and central, and bridging lifts them but does not shift them unless you follow with your hips. Turn towards them as you bridge, hunting an elbow or a knee inside. Settle your breathing between attempts rather than spending everything at once; tap clearly if you need to stop."
+  },
+  "viNotes": {
+    "en": "Both grips are found by threading, one arm under the neck and one between the legs to the belt, so your hands travel along their body to them rather than reaching. The chest is what holds and what reads: a bridge arrives as a lift, a turn as a slide away from you. Move around them like a weight on a table, chest never leaving chest."
+  }
+}

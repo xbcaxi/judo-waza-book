@@ -1,0 +1,152 @@
+{
+  "nameRomaji": "Uchi-mata",
+  "nameJa": "内股",
+  "nameKana": "うちまた",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "inner thigh throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": 2,
+  "kodokanNumber": 309,
+  "kodokanAbbr": "UMA",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "iUpSu5J-bgw",
+      "title": "Uchi-mata",
+      "duration": "1:51"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "4la1baE0uBY",
+      "title": "Uchi-Mata"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548822911",
+      "title": "Uchi-Mata"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124003643",
+      "title": "Uchi-mata"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "N9lpgFLKqvE",
+      "title": "Uchi-mata - Basic Principles",
+      "role": "basic principles"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "WeLQ2jwiasE",
+      "title": "Uchi-mata - Competitive Variations",
+      "role": "competitive variations"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "cF1FLROq46E",
+      "title": "Uchi-mata - Set Ups",
+      "role": "set ups"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "unSXjOwCCq4",
+      "title": "古賀 稔彦 TOSHIHIKO KOGA - UCHI MATA"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "kSeqnTIR1e8",
+      "title": "山下 泰裕 YASUHIRO YAMASHITA - UCHI MATA"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "6iRYtSd9D6k",
+      "title": "穴井 隆将 TAKAMASA ANAI - UCHI MATA"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "1ywASgP4lWI",
+      "title": "齋藤 制剛 SEIGO SATO - UCHI MATA"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "23:50 Uchi-mata (inner thigh reaping throw)",
+      "start": 1430
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "sCffWaWagWA",
+      "title": "Uchi-mata",
+      "duration": "0:13"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "SxdLgOF56AA",
+      "title": "Uchi-mata"
+    }
+  ],
+  "ijfAnimation": "Uchi-mata",
+  "links": [
+    {
+      "title": "Uchi-mata on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Uchi-mata",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Uchi-mata, the inner thigh throw."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori sweeps the inner thigh from between uke's legs while rotating, lifting uke over the sweeping hip and leg: a favourite of tall fighters."
+  },
+  "keyPoints": {
+    "en": [
+      "Sweep up the inner thigh, head and chest driving down and round",
+      "Keep uke's weight drawn onto the sleeve side",
+      "Point the sweeping toes and keep the leg long"
+    ]
+  },
+  "described": {
+    "en": [
+      "Start from a right-handed grip: left hand on your partner's right sleeve, right hand high on their left lapel or behind the collar.",
+      "Break their balance forward and upward, drawing sleeve and lapel so their weight comes onto their toes.",
+      "Step your right foot between their feet, then pivot and swing your left foot around behind you so your back turns into their chest; your supporting left leg finishes between and slightly ahead of their feet, knee soft, hips just left of their centre line.",
+      "Keep the pull continuous: sleeve past your left hip, lapel hand drawing them onto your back.",
+      "Sweep your right leg backwards and upwards between their legs, the back of your thigh lifting against the inside of their left thigh, while your head and chest drive down and around to your left, as if bowing in a circle. Leg and trunk move as one see-saw: leg up, head down.",
+      "They are carried over your hip and sweeping leg and land on their back ahead of you. Stay balanced on the supporting leg and keep the sleeve as they land."
+    ]
+  },
+  "receiving": {
+    "en": "You feel yourself drawn up onto your toes, then a leg rises between yours and the floor leaves you: this throw has real height. Your right sleeve is held, so you will turn in the air and land on your back towards your left side. Tuck your chin, let the held arm support you, and slap with your free left arm as your back meets the mat. Expect the landing to arrive later than you think."
+  },
+  "viNotes": {
+    "en": "From the gripped-up start the pull to the toes is your entry signal, not anything seen: when the lapel-side elbow feels their weight rise, the pivot window is open. Keep both grips connected through the turn so their position stays readable through your hands; the sweeping leg finds the inside of the thigh by brushing contact up their leg, never by aiming through space."
+  }
+}

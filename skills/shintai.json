@@ -1,0 +1,42 @@
+{
+  "name": {
+    "en": "Travelling"
+  },
+  "nameRomaji": "Shintai",
+  "nameJa": "進退",
+  "kind": "movement",
+  "about": {
+    "en": "How a judoka covers ground: forward, backward and sideways, while holding a posture and a grip. There are two ways of stepping. Ayumi-ashi is ordinary walking, one foot passing the other. Tsugi-ashi is successive stepping, where the same foot always leads and the other follows without passing it, which is how kata is walked and how most of contest is moved. Suri-ashi, sliding the feet without lifting them, runs through both."
+  },
+  "keyPoints": {
+    "en": [
+      "In tsugi-ashi one foot never passes the other, so your stance never crosses and never opens",
+      "The feet slide rather than lift: a foot in the air is a foot that can be reaped",
+      "Ayumi-ashi covers ground faster and is worth more risk; tsugi-ashi is safer and is what kata uses"
+    ]
+  },
+  "described": {
+    "en": [
+      "Stand in natural posture. Walk forward four paces in ayumi-ashi, ordinary steps, each foot passing the other as it would in the street. Notice that halfway through each step your feet are together and your base is briefly narrow.",
+      "Now tsugi-ashi forward, tsugi-ashi de deru. Slide the front foot forward, then slide the back foot up behind it by the same distance. The back foot never passes the front. Repeat four times and notice your stance is identical at the end of every step.",
+      "Tsugi-ashi backward, tsugi-ashi de sagaru. Slide the rear foot back first, then bring the front foot back to match. Leading with the rear foot is what keeps you from crossing your legs going backwards.",
+      "Tsugi-ashi sideways, tsugi-ashi de yoko ni ido. Slide the leading foot out, then draw the other after it. Work six paces one way and six back.",
+      "Do all of it in suri-ashi, sliding the soles along the mat rather than picking the feet up. A dragged foot cannot be swept.",
+      "Finally, take a grip with a partner and travel together: forward, back and sideways, both of you keeping posture and distance. One leads and one follows, then swap. This is the movement every foot technique is timed against."
+    ]
+  },
+  "receiving": {
+    "en": "Following is the harder half. Match your partner's distance rather than their speed, and keep the grip at a constant length so neither of you is pulled off balance by the travelling itself. If you find yourself lunging to keep up, they are moving further than you are, and that gap is exactly where an attack would arrive."
+  },
+  "viNotes": {
+    "en": "This is a skill VI judoka often do better than sighted ones, because it is about the feet and the grip rather than about looking. Suri-ashi in particular gives constant information: a sliding foot reads the mat, finds the edge, and tells you where you are without anyone announcing it. Practise the whole thing in contact, and use the mat edge deliberately as a reference so travelling and knowing where you are become the same habit."
+  },
+  "videos": [],
+  "image": {
+    "alt": {
+      "en": "Three ways of travelling, as numbered footprints. Ayumi-ashi, where each foot passes the other; tsugi-ashi forward, where the rear foot follows without passing the front; and tsugi-ashi sideways."
+    },
+    "provenance": "own",
+    "credit": "Waza Book"
+  }
+}

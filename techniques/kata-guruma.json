@@ -1,0 +1,123 @@
+{
+  "nameRomaji": "Kata-guruma",
+  "nameJa": "肩車",
+  "nameKana": "かたぐるま",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "fireman's carry",
+      "system": "wrestling"
+    }
+  ],
+  "gloss": {
+    "en": "shoulder wheel"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": 3,
+  "kodokanNumber": 105,
+  "kodokanAbbr": "KGU",
+  "kodokan": null,
+  "banned": "in-competition",
+  "bannedNote": {
+    "en": "Prohibited in competition in its classical form, where tori's hand passes between uke's legs: the IJF bars any direct attack on the legs with the hands or arms. A version that takes uke across the shoulders without the legs being touched is legal and is thrown in contest today, so the restriction is on the form rather than on the technique. The BJA sets kata-guruma as a 4th Dan fundamental skill."
+  },
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "cnHRhSy8yi4",
+      "title": "Kata-guruma",
+      "duration": "1:10"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "pDlHEWwDeA0",
+      "title": "Kata-Guruma"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551888629",
+      "title": "Kata-Guruma"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123995325",
+      "title": "Kata-guruma"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "iDqW9rlhAHE",
+      "title": "Kata-guruma",
+      "duration": "0:19"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "sxLhQmHbekU",
+      "title": "Ryo-hiza-kata-guruma",
+      "duration": "0:19",
+      "role": "two-knee (ryo-hiza) form"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "ZXhlx_KdegM",
+      "title": "Yoko-kata-guruma-otoshi",
+      "duration": "0:16",
+      "role": "side dropping (yoko-otoshi) form"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "uZFIMlbg7xE",
+      "title": "Kata-guruma"
+    }
+  ],
+  "ijfAnimation": "Kata-Guruma",
+  "links": [
+    {
+      "title": "Kata-guruma on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Kata-guruma",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Kata-guruma, the shoulder wheel."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Uke is drawn across tori's shoulders and wheeled over them, in the fireman's-carry position."
+  },
+  "keyPoints": {
+    "en": [
+      "Drop low with a wide, stable stance as you enter",
+      "Draw uke across the shoulders with a strong sleeve pull",
+      "Lift with the legs and wheel uke over, never with the back alone"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, pull your partner's right sleeve out and forward so their arm extends and their weight starts to come towards you.",
+      "Drop into a deep crouch and step in, your feet wide and stable, your head ducking to the right side of their body.",
+      "Reach your right arm between their legs and wrap it around their right thigh, while the sleeve pull draws their upper body down across the back of your shoulders.",
+      "Stand up with your legs, their body balanced across your shoulders like a beam, sleeve hand and thigh arm holding them steady.",
+      "Dip your left shoulder and pull the sleeve down so they slide off your shoulders towards your left front.",
+      "They land on their back in front of you and to your left; keep the sleeve until they are down."
+    ]
+  },
+  "receiving": {
+    "en": "You are pulled low across their shoulders as they squat under you, an arm wrapping your thigh; for a moment you are carried, level, off the ground. The dip of their shoulder tells you the throw is coming. You slide off into a fall from height, so stay relaxed, chin tucked, and slap with your free arm as your back lands."
+  },
+  "viNotes": {
+    "en": "The classical form is barred in contest because the hand passes between the legs, and the shoulder version that is legal has to be taken with contact you can trust. Duck by sliding your head down their side, and reach the thigh by running your arm down their body to it rather than into open space. Stand only once their weight sits evenly across both shoulders; if it hangs to one side, put them down."
+  }
+}

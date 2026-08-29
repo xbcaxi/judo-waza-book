@@ -1,0 +1,218 @@
+name: Update competition data
+
+# Fetches results from the IJF's public API and rebuilds the two files in
+# competition-stats/ that the website reads. Runs here rather than on a laptop
+# because a first full fetch from 2016 takes hours nobody should spend watching
+# a terminal.
+#
+# SCHEDULING THIS IS PLANNED AND NOT YET DONE. Monthly is the one interval that
+# cannot work: GitHub evicts a cache after seven days unused, so a monthly run
+# would always start from an empty cache and re-fetch 33,000 unchanged
+# contests. See docs/competition-data-schedule.md for what it takes.
+#
+# Manual trigger only, deliberately. The API's field names have now been
+# verified against real responses (see tools/ijf-results/README.md), but a
+# wide crawl WILL still surface IJF technique names the map does not carry -
+# that is the map working, not failing. Once a supervised full run comes back
+# clean, a monthly `schedule:` block is the obvious next step.
+#
+# The raw response cache is carried between runs by actions/cache, so a
+# crawl that hits the 6-hour job limit resumes where it stopped: re-run the
+# workflow until the crawl step reports no failures. Aggregation then runs
+# offline from that cache. When the strict aggregation succeeds and the
+# result validates, the refreshed data file is pushed to the
+# `ijf-data-refresh` branch for a human to open a pull request from - data
+# lands on main by review, like every other contribution.
+on:
+  workflow_dispatch:
+    inputs:
+      from_year:
+        description: Earliest competition year to crawl
+        default: "2020"
+      max:
+        description: Stop after this many competitions (blank = no limit; try 3 for a first sanity run)
+        default: ""
+      delay:
+        description: Milliseconds between API requests (be polite)
+        default: "350"
+
+permissions:
+  contents: write
+
+# One crawl at a time: two workers would double the request rate on the
+# IJF's API and race each other's caches.
+concurrency:
+  group: competition-data
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Restore the crawl cache
+        uses: actions/cache/restore@v4
+        with:
+          path: tools/ijf-results/cache
+          key: ijf-results-cache-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            ijf-results-cache-
+
+      # Failed requests are normal on a long run and exit the crawl with a
+      # nonzero code; everything fetched is already in the cache, so carry on
+      # and aggregate what there is. The failures retry on the next run.
+      # The step timeout, not the job's, is what stops a long first crawl:
+      # the step is killed, the job carries on to save the cache and
+      # aggregate what was fetched, and the next run resumes.
+      - name: Crawl
+        id: crawl
+        continue-on-error: true
+        timeout-minutes: 300
+        shell: bash
+        run: |
+          args=(--from-year "${{ inputs.from_year }}" --delay "${{ inputs.delay }}")
+          if [ -n "${{ inputs.max }}" ]; then args+=(--max "${{ inputs.max }}"); fi
+          node tools/ijf-results/crawl.mjs "${args[@]}" 2>&1 | tee crawl.log
+
+      # Saved even when later steps fail: the cache IS the crawl's progress.
+      # Keys are immutable, so each attempt saves under its own key and the
+      # next one restores the newest via the restore-keys prefix. The attempt
+      # number is in the key, not just the run id: re-running a workflow keeps
+      # the same run id, so keying on the id alone means every attempt after
+      # the first is refused ("Unable to reserve cache with key …") and hours
+      # of crawling are thrown away, having asked the IJF's API for all of it
+      # a second time. Re-running is the documented way to resume here, so the
+      # key has to be unique per attempt.
+      - name: Save the crawl cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: tools/ijf-results/cache
+          key: ijf-results-cache-${{ github.run_id }}-${{ github.run_attempt }}
+
+      - name: Aggregate
+        id: aggregate
+        continue-on-error: true
+        shell: bash
+        run: node tools/ijf-results/aggregate.mjs 2>&1 | tee aggregate.log
+
+      # Strict aggregation failing means unmapped IJF names (listed in the
+      # log, by count). The permissive output exists so extending
+      # competition-stats/ijf-technique-map.json is done looking at real data; it is an
+      # artifact, never a commit - validation rejects its null techniques.
+      - name: Aggregate permissively for inspection
+        if: steps.aggregate.outcome == 'failure'
+        shell: bash
+        run: node tools/ijf-results/aggregate.mjs --permissive --out permissive-frequency.json 2>&1 | tee -a aggregate.log
+
+      - name: Upload run report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: competition-data-report
+          path: |
+            crawl.log
+            aggregate.log
+            permissive-frequency.json
+            competition-stats/ijf-technique-frequency.json
+          if-no-files-found: ignore
+
+      - name: Validate the aggregated data
+        if: steps.aggregate.outcome == 'success'
+        run: npm run validate
+
+      # Does the aggregation still describe as much judo as the committed copy?
+      #
+      # A SMALLER FILE THAT STILL VALIDATES is the one failure worth stopping
+      # for, and the schema cannot catch it: a half-restored cache produces a
+      # perfectly well-formed dataset covering a fraction of the sport, and
+      # publishing it would quietly replace good data with less of it. It has
+      # already happened once locally, when a test fixture overwrote the real
+      # shape file with 7 rows in place of 70,372.
+      #
+      # Growth is unbounded and fine. A drop of more than a tenth in any table
+      # means something went wrong upstream, so the run stops and says which
+      # table and by how much, rather than opening a pull request nobody would
+      # read closely enough.
+      - name: Check the aggregation did not shrink
+        if: steps.aggregate.outcome == 'success'
+        shell: bash
+        run: |
+          node - <<'CHECK'
+          import { execSync } from 'node:child_process';
+          import { readFile } from 'node:fs/promises';
+
+          const files = [
+            'competition-stats/ijf-technique-frequency.json',
+            'competition-stats/ijf-contest-shape.json',
+          ];
+          const TOLERANCE = 0.9;
+          const problems = [];
+
+          for (const file of files) {
+            const now = JSON.parse(await readFile(file, 'utf8'));
+            let before;
+            try {
+              before = JSON.parse(execSync(`git show HEAD:${file}`, { encoding: 'utf8', maxBuffer: 1 << 30 }));
+            } catch {
+              console.log(`${file}: nothing committed to compare against, so nothing to check.`);
+              continue;
+            }
+            for (const [table, rows] of Object.entries(before)) {
+              if (!Array.isArray(rows) || rows.length === 0) continue;
+              const after = Array.isArray(now[table]) ? now[table].length : 0;
+              if (after < rows.length * TOLERANCE) {
+                problems.push(`${file} ${table}: ${rows.length} rows -> ${after}`);
+              }
+            }
+          }
+
+          if (problems.length > 0) {
+            console.error('The aggregation is materially smaller than what is committed:');
+            for (const line of problems) console.error(`  ${line}`);
+            console.error('\nThat is what a part-restored cache looks like. Nothing has been published.');
+            process.exit(1);
+          }
+          console.log('No table lost more than a tenth of its rows.');
+          CHECK
+
+      - name: Publish to the ijf-data-refresh branch
+        if: steps.aggregate.outcome == 'success'
+        shell: bash
+        run: |
+          # BOTH FILES, and this was a real bug: only the frequency file was
+          # published, while ijf-contest-shape.json carries the clips, the
+          # penalties, the outcomes and four more tables the site renders. A
+          # refresh pushed new frequencies and left the shape file stale, so
+          # the two halves of one aggregation disagreed with each other.
+          DATA="competition-stats/ijf-technique-frequency.json competition-stats/ijf-contest-shape.json"
+          if git diff --quiet -- $DATA; then
+            echo "The aggregation reproduced what is already committed; nothing to publish."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B ijf-data-refresh
+          git add $DATA
+          git commit -m "Refresh IJF competition data" \
+            -m "Crawled and aggregated by the Update competition data workflow, run ${{ github.run_id }}." \
+            -m "Both files come from one aggregation and must land together."
+          git push -f origin ijf-data-refresh
+          echo "Pushed. Open a pull request from ijf-data-refresh to review the data onto main."
+
+      - name: Report the aggregation failure
+        if: steps.aggregate.outcome == 'failure'
+        run: |
+          echo "::warning::Strict aggregation failed - almost certainly unmapped IJF technique names."
+          echo "::warning::See aggregate.log in the competition-data-report artifact, extend competition-stats/ijf-technique-map.json, and re-run (the crawl cache is kept, so the re-run is aggregation-only cost)."
+          exit 1

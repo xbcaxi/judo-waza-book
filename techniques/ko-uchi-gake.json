@@ -1,0 +1,71 @@
+{
+  "nameRomaji": "Ko-uchi-gake",
+  "nameJa": "小内掛",
+  "nameKana": "こうちがけ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "minor inner hook"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": null,
+  "kodokanAbbr": null,
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "u6LPYEE9CDI",
+      "title": "Ko-Uchi-Gake-Maki-Komi",
+      "role": "wrapping (maki-komi) form"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551888774",
+      "title": "Ko-Uchi-Gake-Maki-Komi",
+      "role": "wrapping (maki-komi) form"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "4rf-U-nvwBA",
+      "title": "Ko-uchi-gake-mata-makikomi",
+      "duration": "0:15",
+      "role": "wrapping (maki-komi) form"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [],
+  "image": null,
+  "about": {
+    "en": "The hooking form of the minor inner reap: the foot hooks behind uke's heel and stays there while tori drives, often dropping low, rather than sweeping the heel away. Distinct from ko-uchi-gari; gake and gari name different actions."
+  },
+  "keyPoints": {
+    "en": [
+      "Hook the heel and keep it hooked",
+      "Drive through their centre, low and direct",
+      "Common in competition as a dropping attack; drill the drive standing first"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, step in so your right foot reaches their right heel from the inside.",
+      "Hook your foot behind the heel, sole and instep wrapping it, and keep the hook.",
+      "Drive forward through their centre with your body, hands pressing down and back.",
+      "They cannot step the hooked foot back, and they fall to their back over it.",
+      "Keep the sleeve as they land and recover your posture over them."
+    ]
+  },
+  "receiving": {
+    "en": "A foot wraps your heel and stays while their body drives in: the trapped-foot feeling tells you a gake from a gari. Sit into the backward fall, chin tucked, and slap with your free arm."
+  },
+  "viNotes": {
+    "en": "The hook has to find the heel by contact: step in until your foot meets the inside of theirs and then wrap it, rather than reaching for a position. Once it is hooked you have a fixed point to read them from, so drive through their centre with your body and keep the hook right through the landing."
+  }
+}

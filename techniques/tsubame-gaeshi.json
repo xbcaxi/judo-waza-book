@@ -1,0 +1,62 @@
+{
+  "nameRomaji": "Tsubame-gaeshi",
+  "nameJa": "燕返",
+  "nameKana": "つばめがえし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "swallow counter"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 316,
+  "kodokanAbbr": "TSU",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "GwweWqqFB5g",
+      "title": "Tsubame-gaeshi",
+      "duration": "1:03"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Tsubame-gaeshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Tsubame-gaeshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The swallow's counter: uke attacks with a foot sweep, and tori's attacked foot dips under the sweep and sweeps back in the same beat, like a swallow turning in flight. The Kodokan treats it as a form of de-ashi-harai."
+  },
+  "keyPoints": {
+    "en": [
+      "Dodge and counter are ONE motion of the same foot",
+      "The foot curls under their sweep, then sweeps their sweeping foot",
+      "Hands steer in the new direction the instant the counter lands"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner attacks your right foot with a sideways foot sweep.",
+      "Curl that foot up and back so their sweep passes beneath it: a small, soft dodge, knee bending.",
+      "In the same motion, before their sweeping foot lands, sweep it with your sole in the direction it was already travelling.",
+      "Steer with both hands the same way, carrying their body after their swept foot.",
+      "They land on their side or back beside you, taken by their own sweep's momentum; hold the sleeve firmly through the fast landing."
+    ]
+  },
+  "receiving": {
+    "en": "Your foot sweep meets air, and in the same beat your sweeping foot is itself swept: the counter uses your own momentum, and the fall is as sudden as the throw you attempted. Slap hard with your free arm as your side lands, and trust the held sleeve; this is the fastest landing in the counters."
+  },
+  "viNotes": {
+    "en": "You feel their sweep coming before it takes your foot, and that is the whole opportunity: curl the foot up and back so their sole passes underneath, then sweep back along the same line while their foot is still travelling. It happens in one beat, so act on the first touch rather than waiting to confirm it. Hold the sleeve firmly, because both of you are moving fast."
+  }
+}

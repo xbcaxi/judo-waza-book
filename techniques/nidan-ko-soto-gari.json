@@ -1,0 +1,63 @@
+{
+  "nameRomaji": "Nidan-ko-soto-gari",
+  "nameJa": "二段小外刈",
+  "nameKana": "にだんこそとがり",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "two-stage minor outer reap"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": null,
+  "kodokanAbbr": null,
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "X7PFizgGXVo",
+      "title": "Nidan-ko-soto-gari",
+      "duration": "0:11"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "ThnRURNLWV0",
+      "title": "Nidan-ko-soto-gari",
+      "duration": "0:14"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [],
+  "image": null,
+  "about": {
+    "en": "The minor outer reap done in two stages: the first attack takes one heel, and as uke saves it the same foot travels to reap the second. A British-syllabus name for a classical continuation drill."
+  },
+  "keyPoints": {
+    "en": [
+      "The first reap is honest; the second reaps the recovering leg",
+      "One sweeping foot, two beats, no pause between",
+      "The hands keep uke's weight travelling backwards throughout"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, attack their right heel from outside with the sole of your left foot, as an honest minor outer reap.",
+      "They save it by shifting weight to the other leg: keep your sweeping foot moving.",
+      "Carry the same foot across to their left heel and reap it in the second beat, your hands driving their weight back all the while.",
+      "The second reap finds the leg that just took all their weight, and they fall backwards.",
+      "Hold the sleeve up firmly as they land; the two-beat fall arrives suddenly."
+    ]
+  },
+  "receiving": {
+    "en": "The first sweep takes one heel and, as you save it, the same foot finds the other: the second beat lands exactly where your weight just went. Sit into the rear breakfall, chin tucked, and slap with your free arm."
+  },
+  "viNotes": {
+    "en": "The second beat depends on feeling the first one fail, which arrives through the grips as their weight moves onto the other leg. Keep the sweeping foot low and travelling across the mat so it finds the second heel by contact rather than by aim. Warn uke when you drill it: the fall comes suddenly and straight backwards after a beat in which nothing seemed to happen."
+  }
+}

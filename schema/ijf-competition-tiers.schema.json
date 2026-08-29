@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "rankRules": {
+      "type": "object",
+      "minProperties": 1,
+      "propertyNames": { "minLength": 1 },
+      "additionalProperties": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "description": "The primary source: the IJF's own `rank_name` for the level of the event, matched EXACTLY, mapped to a tier. Every competition on the live list carries one, from a closed set of 24 values. A rank_name absent from here falls through to the name rules."
+    },
+    "rules": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "properties": {
+          "match": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Fallback for a rank_name this file does not carry: a case-insensitive substring of the competition NAME. The FIRST matching rule wins, so order matters."
+          },
+          "tier": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]*$"
+          }
+        },
+        "required": ["match", "tier"],
+        "additionalProperties": false
+      }
+    },
+    "overrides": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^[0-9]+$"
+      },
+      "additionalProperties": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "description": "Explicit tier by id_competition, for the events the name rules misname. Overrides win over rules."
+    },
+    "default": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    }
+  },
+  "required": ["rankRules", "rules", "overrides", "default"],
+  "additionalProperties": false,
+  "title": "ijf-competition-tiers",
+  "description": "How a competition resolves to a level of competition. The IJF list carries the level itself in `rank_name`, so that is matched first; the name rules remain as a fallback for a rank the table has not been taught, and per-competition overrides win over both. The aggregation reports every competition that fell to the default so the table can be extended."
+}

@@ -1,0 +1,125 @@
+{
+  "nameRomaji": "Seoi-otoshi",
+  "nameJa": "背負落",
+  "nameKana": "せおいおとし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "shoulder drop"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 103,
+  "kodokanAbbr": "SOO",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "vu1TMVNnq34",
+      "title": "Seoi-otoshi",
+      "duration": "1:21"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548837674",
+      "title": "seoi-otoshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551879001",
+      "title": "ryo-hiza-seoi-otoshi",
+      "role": "two-knee (ryo-hiza) form"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "nwxea1AoHK8",
+      "title": "古賀 稔彦 TOSHIHIKO KOGA - SEOI OTOSHI"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "O6hVN9qDHn0",
+      "title": "Kata-hiza-seoi-otoshi",
+      "duration": "0:33",
+      "role": "one-knee (kata-hiza) form"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "gppwVtO5r5w",
+      "title": "Kata-sode-seoi-otoshi",
+      "duration": "0:18",
+      "role": "one-sleeve (kata-sode) grip"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "5zdMTWvF37w",
+      "title": "Ryo-hiza-seoi-otoshi",
+      "duration": "0:12",
+      "role": "two-knee (ryo-hiza) form"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "6sk8Lv-k1p8",
+      "title": "Soto-mata-seoi-otoshi",
+      "duration": "0:17",
+      "role": "outside-thigh (soto-mata) form"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "eK7efy7dib4",
+      "title": "Seoi Otoshi"
+    }
+  ],
+  "ijfAnimation": "Seoi-otoshi",
+  "links": [
+    {
+      "title": "Seoi-otoshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Seoi-otoshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Seoi-otoshi, the shoulder drop."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "A shoulder throw finished by dropping the body: tori enters as for seoi-nage but sinks low, often to one or both knees, so uke is drawn over the shoulder line by the drop rather than lifted. Common in competition; drill the deep entry carefully."
+  },
+  "keyPoints": {
+    "en": [
+      "The drop replaces the lift: sink under their centre, do not collapse forward",
+      "Their chest must be tight to your back before you drop",
+      "Keep your own head up and back straight as you sink"
+    ]
+  },
+  "described": {
+    "en": [
+      "Take a right-handed grip and pull them forward onto their toes as for the shoulder throw.",
+      "Turn in fast, back to their chest, and instead of standing to lift, sink straight down, dropping onto one or both knees beneath their centre.",
+      "Keep the sleeve and lapel pulling forward and down over your right shoulder through the drop, so their weight follows you.",
+      "Their body is drawn over your shoulder line by the drop; bow forward as they pass.",
+      "They land on their back in front of you while you remain low; keep the sleeve until they are down, then rise."
+    ]
+  },
+  "receiving": {
+    "en": "The entry feels like seoi-nage, then the floor drops out: they sink beneath you and your weight is already committed. The rotation is quick and low. Tuck your chin early, follow the turn, and slap with your free left arm; there is less time in the air than a standing throw, so the breakfall must be a reflex."
+  },
+  "viNotes": {
+    "en": "You are dropping to your knees, so know where you are on the mat before you commit: the drop is fast and there is no checking the edge on the way down. The entry and its checkpoint are the shoulder throw's, chest to your back across its width. Keep the sleeve until they are down, and let it tell you when to rise."
+  }
+}

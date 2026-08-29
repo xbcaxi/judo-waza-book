@@ -1,0 +1,106 @@
+{
+  "nameRomaji": "Nami-juji-jime",
+  "nameJa": "並十字絞",
+  "nameKana": "なみじゅうじじめ",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "cross collar choke",
+      "system": "bjj",
+      "note": {
+        "en": "BJJ's cross or X choke covers the whole juji-jime family; the grip variations distinguish the nami, gyaku and kata forms."
+      }
+    }
+  ],
+  "gloss": {
+    "en": "normal cross strangle"
+  },
+  "category": "katame-waza",
+  "subCategory": "shime-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 701,
+  "kodokanAbbr": "NJJ",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "k2cHry9HByQ",
+      "title": "Nami-juji-jime",
+      "duration": "0:56"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "QhA1UL4k1rc",
+      "title": "Nami-Juji-Jime"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "o08LCXBbxsI",
+      "title": "Nami-Juji-Jime - Uke on top"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551843096",
+      "title": "Nami-Juji-Jime"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551842666",
+      "title": "Nami-Juji-Jime - Uke on top"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123999221",
+      "title": "Nami-juji-jime"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Nami-juji-jime on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Nami-juji-jime",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Nami-juji-jime, the normal cross strangle."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The cross strangle with both hands gripping alike: arms crossed, each hand deep in the opposite collar with the fingers inside, the wrists turning to close. One of the three cross strangles. Strangles are restricted by age in most federations; learn and practise this only under instruction and supervision."
+  },
+  "keyPoints": {
+    "en": [
+      "Both hands: fingers inside the opposite collars, thumbs out",
+      "Grip deep, at or behind the neck's sides, before you turn",
+      "Close by drawing your elbows down and towards your body"
+    ]
+  },
+  "described": {
+    "en": [
+      "Facing your partner, usually astride or inside their guard on the ground, slide your right hand deep into their left collar, fingers inside the cloth, thumb outside.",
+      "Cross your left arm over or under the right and grip their right collar the same way, fingers inside, as deep towards the back of the neck as you can.",
+      "Your forearms now cross at their chest like the top of a letter X.",
+      "Close gradually: rotate your wrists so the blades of your forearms turn into the sides of the neck, and draw both elbows down and in towards your own body.",
+      "Release fully and open both hands the moment they tap, and stay with them for a moment afterwards."
+    ]
+  },
+  "receiving": {
+    "en": "Crossed forearms settle at your chest and the collar tightens at both sides of your neck as the elbows draw down; the pressure builds smoothly. Defend early by gripping their arms and tucking your chin. Tap immediately and clearly the moment the strangle is properly on, on their arm or body where they will feel it; never hold out to prove toughness. Tell your instructor if you ever feel light-headed afterwards."
+  },
+  "viNotes": {
+    "en": "Both hands grip alike, which makes this the easiest of the three cross strangles to check by feel: if one palm is facing the wrong way you are applying a different technique. Take each grip deep by tracking the collar with your fingers from the shoulder inwards, then close with the wrists and the elbows. Open both hands fully at the tap and stay with your partner a moment."
+  }
+}

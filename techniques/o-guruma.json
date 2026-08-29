@@ -1,0 +1,94 @@
+{
+  "nameRomaji": "O-guruma",
+  "nameJa": "大車",
+  "nameKana": "おおぐるま",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "major wheel"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": 4,
+  "kodokanNumber": 313,
+  "kodokanAbbr": "OGU",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "SnZciTAY9vc",
+      "title": "O-guruma",
+      "duration": "1:00"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123999646",
+      "title": "O-guruma"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "26:47 O-guruma (large wheel)",
+      "start": 1607
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "_EPlEN2GUfc",
+      "title": "O Guruma",
+      "duration": "0:12"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "VU1F6tQO2oo",
+      "title": "O-guruma"
+    }
+  ],
+  "ijfAnimation": "O-guruma",
+  "links": [
+    {
+      "title": "O-guruma on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/O-guruma",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of O-guruma, the major wheel."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori's leg bars across the front of uke's hips and uke is wheeled over it with a large rotary action."
+  },
+  "keyPoints": {
+    "en": [
+      "Bar the leg across the top of uke's thighs, higher than ashi-guruma",
+      "Draw uke forward onto the bar before rotating",
+      "Wheel with hands and trunk while balanced on one leg"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, draw your partner strongly forward and up so their weight floats onto their toes and their body leans onto you.",
+      "Pivot on your left foot, turning your back partway in, and raise your right leg as a bar across the front of both their thighs, higher than the knee line, without taking their weight on it.",
+      "Balance on the supporting leg, the barring leg lying across them like a rail.",
+      "Wheel: turn both hands and your trunk to the left in one large continuous circle, carrying their body over the rail.",
+      "They rotate around your leg and land on their back to your front left; keep the sleeve until they are down, then lower your barring leg."
+    ]
+  },
+  "receiving": {
+    "en": "A leg lies high across the front of both your thighs and the pull wheels you over it: the bar is higher than you expect and your whole body pivots around it. The fall is big and rolling. Tuck your chin, stay with the rotation, and land on your back beyond their leg with your free arm slapping."
+  },
+  "viNotes": {
+    "en": "The bar is laid high, across the front of both thighs, so it has to be placed by contact: bring the leg up their body until you feel both of their legs against it rather than choosing a height. From the gripped-up start their lean is already in your hands, and once the rail is set the throw is only a large turn of hands and trunk."
+  }
+}

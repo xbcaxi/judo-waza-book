@@ -1,0 +1,106 @@
+{
+  "about": "Kata videos linked from the RFEJYDA dan programme that this reference cannot yet hold. The programme is a hyperlinked document: 122 distinct videos sit behind its technique names, and 110 of them are already indexed here against the technique they demonstrate, which is what storing a video as a platform and an id rather than as a URL is for - the same video arrives as youtu.be/X?si=... and as watch?v=X and is recognised as one. Of the twelve that were new, three are the Kodokan's own English-language kata recordings (Nage-no-Kata, Kime-no-Kata and Ju-no-Kata) and are already recorded in kodokan-unlinked.json, so they are not repeated here. These are the other nine. Every one of them is a kata, and kata is the collection this reference does not have yet, so they attach to nothing. Nothing here is published on the site.",
+  "source": "Contenidos de los programas de 1º a 6º Dan de Judo (RFEJYDA, October 2025), link annotations",
+  "count": 9,
+  "links": [
+    {
+      "channel": "David",
+      "title": "Nage No Kata;010 Te Waza",
+      "platform": "youtube",
+      "id": "Ez3-ntpdW_4",
+      "url": "https://www.youtube.com/watch?v=Ez3-ntpdW_4",
+      "kata": "nage-no-kata",
+      "grade": "1st-dan",
+      "reason": "no-kata-collection",
+      "note": "Linked from the 1st Dan and 2nd Dan pages against the Te waza group of Nage no kata."
+    },
+    {
+      "channel": "David",
+      "title": "Nage No Kata;020 Koshi Waza",
+      "platform": "youtube",
+      "id": "_5QrzAf03NI",
+      "url": "https://www.youtube.com/watch?v=_5QrzAf03NI",
+      "kata": "nage-no-kata",
+      "grade": "1st-dan",
+      "reason": "no-kata-collection",
+      "note": "Linked from the 1st Dan and 2nd Dan pages against the Koshi waza group of Nage no kata."
+    },
+    {
+      "channel": "David",
+      "title": "Nage No Kata;030 Ashi Waza",
+      "platform": "youtube",
+      "id": "gt0yYnSndUc",
+      "url": "https://www.youtube.com/watch?v=gt0yYnSndUc",
+      "kata": "nage-no-kata",
+      "grade": "1st-dan",
+      "reason": "no-kata-collection",
+      "note": "Linked from the 1st Dan and 2nd Dan pages against the Ashi waza group of Nage no kata."
+    },
+    {
+      "channel": "David",
+      "title": "Nage No Kata;040 Ma Sutemi Waza",
+      "platform": "youtube",
+      "id": "HyeqD2a8-kY",
+      "url": "https://www.youtube.com/watch?v=HyeqD2a8-kY",
+      "kata": "nage-no-kata",
+      "grade": "2nd-dan",
+      "reason": "no-kata-collection",
+      "note": "2nd Dan is the grade at which Nage no kata is examined in all five groups."
+    },
+    {
+      "channel": "David",
+      "title": "Nage No Kata;050 Yoko Sutemi Waza",
+      "platform": "youtube",
+      "id": "lwUAgWL3a5Y",
+      "url": "https://www.youtube.com/watch?v=lwUAgWL3a5Y",
+      "kata": "nage-no-kata",
+      "grade": "2nd-dan",
+      "reason": "no-kata-collection",
+      "note": "2nd Dan is the grade at which Nage no kata is examined in all five groups."
+    },
+    {
+      "channel": "David",
+      "title": "Katame no Kata 010 Osae Waza All",
+      "platform": "youtube",
+      "id": "f55jg5zPtaI",
+      "url": "https://www.youtube.com/watch?v=f55jg5zPtaI",
+      "kata": "katame-no-kata",
+      "grade": "3rd-dan",
+      "reason": "no-kata-collection",
+      "note": "Katame no kata is the 3rd Dan kata; this is its osaekomi waza group."
+    },
+    {
+      "channel": "David",
+      "title": "Katame no Kata 020 Shime Waza All",
+      "platform": "youtube",
+      "id": "glvqIkPIlos",
+      "url": "https://www.youtube.com/watch?v=glvqIkPIlos",
+      "kata": "katame-no-kata",
+      "grade": "3rd-dan",
+      "reason": "no-kata-collection",
+      "note": "Katame no kata is the 3rd Dan kata; this is its shime waza group."
+    },
+    {
+      "channel": "David",
+      "title": "Katame no Kata 030 Kansetsu Waza All",
+      "platform": "youtube",
+      "id": "J9u1OZNnNw4",
+      "url": "https://www.youtube.com/watch?v=J9u1OZNnNw4",
+      "kata": "katame-no-kata",
+      "grade": "3rd-dan",
+      "reason": "no-kata-collection",
+      "note": "Katame no kata is the 3rd Dan kata; this is its kansetsu waza group."
+    },
+    {
+      "channel": "Patrick Légeron",
+      "title": "KODOKAN GOSHIN JUTSU",
+      "platform": "youtube",
+      "id": "o8MlGidQY-4",
+      "url": "https://www.youtube.com/watch?v=o8MlGidQY-4",
+      "kata": "kodokan-goshin-jutsu",
+      "grade": "6th-dan",
+      "reason": "no-kata-collection",
+      "note": "The 6th Dan kata. Named on a page whose grade this scheme does not yet carry."
+    }
+  ]
+}

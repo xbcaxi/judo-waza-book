@@ -1,0 +1,364 @@
+{
+  "title": {
+    "en": "4th Dan Competitive Examination"
+  },
+  "organisation": "British Judo Association",
+  "country": "GB",
+  "summary": {
+    "en": "The BJA's competitive dan grade assessment for 4th Dan, in five sections: the twenty Kodokan fundamental skills set for the grade, five more from each preceding grade, then performance skills, where the candidate chooses the techniques and shows them working as judo: throws linked into combinations and counters, groundwork combined, escaped or entered, and standing judo carried into groundwork. Every demonstration is scored from 0 to 10, and the pass mark is 519 of 670, 77.5 per cent."
+  },
+  "source": {
+    "title": "4th Dan Grade Competitive Mark Sheet",
+    "date": "October 2025",
+    "note": {
+      "en": "Transcribed from the official BJA mark sheet. The section maxima, the rule on prohibited techniques and the marking scale come from the Competitive Dan Grade Scheme Assessment Guide, which the mark sheet summarises. The forms are the authority; where this page and a current BJA form disagree, the form wins. The Senior Examiner must be at least one grade above the candidate."
+    }
+  },
+  "marking": {
+    "en": "Every demonstration is scored from 0 to 10 in whole marks against the BJA's published criteria, where 7 is a competent technique meeting all basic expectations, 6 lacks effective kuzushi, tsukuri or kake, and 0 is an omitted or unrelated technique. Sections 1 and 2 are marked to the Kodokan form with traditional grips; Sections 3 to 5 allow the candidate's own variations and grips, discussed with the examiner first. Uke is expected to work with tori throughout, giving the reaction the technique needs and, in katame-waza, genuinely trying to escape. The pass mark for 4th Dan is 519 of 670, 77.5 per cent, and the mark sheet sets a pass mark for each section as well."
+  },
+  "levels": [
+    {
+      "label": {
+        "en": "4th Dan"
+      },
+      "passMark": 519,
+      "maxMarks": 670,
+      "requirements": [
+        {
+          "section": "fundamental-skills",
+          "requirement": {
+            "en": "All twenty techniques set for the grade. Pass mark 155."
+          },
+          "marks": 200
+        },
+        {
+          "section": "prior-learning",
+          "requirement": {
+            "en": "Five techniques of the candidate's choice from each of 1st Dan, 2nd Dan and 3rd Dan. Pass mark 116."
+          },
+          "marks": 150
+        },
+        {
+          "section": "nage-waza-performance",
+          "requirement": {
+            "en": "Six nage-waza, candidate's choice, each with a renzoku-waza, a renraku-waza and a kaeshi-waza. Pass mark 140."
+          },
+          "marks": 180
+        },
+        {
+          "section": "katame-waza-performance",
+          "requirement": {
+            "en": "Six katame-waza, candidate's choice, each with a combination, an escape or a complex entry. Pass mark 46."
+          },
+          "marks": 60
+        },
+        {
+          "section": "transitions",
+          "requirement": {
+            "en": "Four throws into osaekomi-waza and four into kansetsu-waza or shime-waza. Pass mark 62."
+          },
+          "marks": 80
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "slug": "fundamental-skills",
+      "title": {
+        "en": "Section 1: Fundamental Skills"
+      },
+      "notes": {
+        "en": "The twenty techniques set for 4th Dan, one fifth of the hundred Kodokan techniques the scheme divides between the five dan grades. They are not the candidate's to choose: every one is demonstrated, to the Kodokan form and with traditional grips, showing kumi-kata, kuzushi, tsukuri and kake, and each is scored from 0 to 10 for 200 marks in all. Kani-basami and Do-jime are prohibited in competition and carry asterisks on the form: they are not applied, only explained far enough for the examiner to judge that the candidate understands the application."
+      },
+      "groups": [
+        {
+          "label": {
+            "en": "Te-waza"
+          },
+          "items": [
+            {
+              "text": "Kata-guruma",
+              "techniques": [
+                "kata-guruma"
+              ]
+            },
+            {
+              "text": "Yama-arashi",
+              "techniques": [
+                "yama-arashi"
+              ]
+            },
+            {
+              "text": "Kuchiki-taoshi",
+              "techniques": [
+                "kuchiki-taoshi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Koshi-waza"
+          },
+          "items": [
+            {
+              "text": "Sode-tsurikomi-goshi",
+              "techniques": [
+                "sode-tsurikomi-goshi"
+              ]
+            },
+            {
+              "text": "Utsuri-goshi",
+              "techniques": [
+                "utsuri-goshi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Ashi-waza"
+          },
+          "items": [
+            {
+              "text": "Ko-uchi-gari",
+              "techniques": [
+                "ko-uchi-gari"
+              ]
+            },
+            {
+              "text": "Harai-tsurikomi-ashi",
+              "techniques": [
+                "harai-tsurikomi-ashi"
+              ]
+            },
+            {
+              "text": "O-guruma",
+              "techniques": [
+                "o-guruma"
+              ]
+            },
+            {
+              "text": "Hane-goshi-gaeshi",
+              "techniques": [
+                "hane-goshi-gaeshi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Ma-sutemi-waza"
+          },
+          "items": [
+            {
+              "text": "Tawara-gaeshi",
+              "techniques": [
+                "tawara-gaeshi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Yoko-sutemi-waza"
+          },
+          "items": [
+            {
+              "text": "Uchi-makikomi",
+              "techniques": [
+                "uchi-makikomi"
+              ]
+            },
+            {
+              "text": "Daki-wakare",
+              "techniques": [
+                "daki-wakare"
+              ]
+            },
+            {
+              "text": "Kani-basami",
+              "techniques": [
+                "kani-basami"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Osaekomi-waza"
+          },
+          "items": [
+            {
+              "text": "Kata-gatame",
+              "techniques": [
+                "kata-gatame"
+              ]
+            },
+            {
+              "text": "Uki-gatame",
+              "techniques": [
+                "uki-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Shime-waza"
+          },
+          "items": [
+            {
+              "text": "Hadaka-jime",
+              "techniques": [
+                "hadaka-jime"
+              ]
+            },
+            {
+              "text": "Sode-guruma-jime",
+              "techniques": [
+                "sode-guruma-jime"
+              ]
+            },
+            {
+              "text": "Do-jime",
+              "techniques": [
+                "do-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Kansetsu-waza"
+          },
+          "items": [
+            {
+              "text": "Ude-hishigi-ude-gatame",
+              "techniques": [
+                "ude-gatame"
+              ]
+            },
+            {
+              "text": "Ude-hishigi-te-gatame",
+              "techniques": [
+                "te-gatame"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "prior-learning",
+      "title": {
+        "en": "Section 2: Fundamental Skills, Prior Learning"
+      },
+      "notes": {
+        "en": "Five techniques of the candidate's choice from each preceding grade's Section 1 set, undefined in all, named in advance on the candidate's supplementary exam sheet. Each is scored from 0 to 10 for 150 marks."
+      },
+      "groups": [
+        {
+          "items": [
+            {
+              "text": "1st Dan"
+            },
+            {
+              "text": "2nd Dan"
+            },
+            {
+              "text": "3rd Dan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "nage-waza-performance",
+      "title": {
+        "en": "Section 3: Performance Skills, Nage-waza"
+      },
+      "notes": {
+        "en": "Six nage-waza of the candidate's choice from the hundred, at least one of them from Section 1 for this grade. Each chosen throw is the attack that starts the sequence, and each is linked into a renzoku-waza, a renraku-waza and a kaeshi-waza, so the section carries 18 demonstrations scored from 0 to 10 for 180 marks. In a combination the first attack has to draw a real response from uke. Variations and unorthodox grips are allowed here, provided the candidate can name the technique and explain the choice."
+      },
+      "groups": [
+        {
+          "items": [
+            {
+              "text": "Renzoku-waza",
+              "terms": [
+                "renzoku-waza"
+              ]
+            },
+            {
+              "text": "Renraku-waza",
+              "terms": [
+                "renraku-waza"
+              ]
+            },
+            {
+              "text": "Kaeshi-waza",
+              "terms": [
+                "kaeshi-waza"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "katame-waza-performance",
+      "title": {
+        "en": "Section 4: Performance Skills, Katame-waza"
+      },
+      "notes": {
+        "en": "Six katame-waza of the candidate's choice from the hundred, at least one of them from Section 1 for this grade, drawn from osaekomi-waza, shime-waza and kansetsu-waza in any mixture. Each is shown once, in one of three ways: combined into another katame-waza, escaped or countered, or reached by an entry more involved than settling straight into it. Combinations, escapes and counters start from the chosen technique; a complex entry finishes in it. Six demonstrations scored from 0 to 10 for 60 marks."
+      },
+      "groups": [
+        {
+          "items": [
+            {
+              "text": "Combination"
+            },
+            {
+              "text": "Escape"
+            },
+            {
+              "text": "Complex Entry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "transitions",
+      "title": {
+        "en": "Section 5: Performance Skills, Transitions"
+      },
+      "notes": {
+        "en": "Standing judo into groundwork: four nage-waza carried into an osaekomi-waza and four carried into a kansetsu-waza or a shime-waza, every technique the candidate's choice from the hundred and the throw leading each time. The two halves need not use the same throws. Eight transitions scored from 0 to 10 for 80 marks."
+      },
+      "groups": [
+        {
+          "items": [
+            {
+              "text": "Osaekomi-waza",
+              "terms": [
+                "osaekomi-waza"
+              ]
+            },
+            {
+              "text": "Kansetsu-waza or Shime-waza",
+              "terms": [
+                "kansetsu-waza",
+                "shime-waza"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

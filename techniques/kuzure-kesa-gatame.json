@@ -1,0 +1,94 @@
+{
+  "nameRomaji": "Kuzure-kesa-gatame",
+  "nameJa": "崩袈裟固",
+  "nameKana": "くずれけさがため",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "modified scarf hold"
+  },
+  "category": "katame-waza",
+  "subCategory": "osaekomi-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 602,
+  "kodokanAbbr": "KKE",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Q2fb9jaoUFQ",
+      "title": "Kuzure-kesa-gatame",
+      "duration": "0:58"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "-zFQ6h4yKT4",
+      "title": "Kuzure-kesa-gatame Escapes",
+      "duration": "1:10",
+      "role": "escapes from it"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "6Mel03Ek7n4",
+      "title": "Kuzure-Kesa-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535079050",
+      "title": "Kuzure-Kesa-Gatame"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123998685",
+      "title": "Kuzure Kesa gatame"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Kuzure-kesa-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Kuzure-kesa-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Kuzure-kesa-gatame, the modified scarf hold."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Kesa-gatame with the arm under uke's shoulder instead of around the neck: harder to escape from and the version most used in contest."
+  },
+  "keyPoints": {
+    "en": [
+      "Drive your arm under uke's far shoulder, not around the neck",
+      "Stay chest-to-chest with your weight through uke",
+      "Adjust your base constantly as uke bridges and turns"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner lies on their back; take the scarf-hold position at their right side, hip to their ribs, facing their head.",
+      "Instead of wrapping their neck, drive your right arm underneath their left armpit and grip cloth at the shoulder, or reach the mat beyond, so your arm threads under their far shoulder.",
+      "With your left hand, trap their right arm under your left armpit and pin it to your side.",
+      "Spread your legs wide, one forward and one back, and keep your chest heavy on theirs.",
+      "This version frees their head but controls the shoulder line; as they turn towards you or away, shift your hips around the compass while the chest pressure never lifts."
+    ]
+  },
+  "receiving": {
+    "en": "The weight is the same as the scarf hold but your head is free and their arm is threaded under your far shoulder, which makes the shoulder line feel nailed down. Escapes go through your hips: bridge, turn towards them, work an elbow inside. Keep breathing low and steady; the hold defeats panic before it defeats strength. Tap clearly if you are stuck and need to stop."
+  },
+  "viNotes": {
+    "en": "Threading your arm under the far shoulder gives you a contact that reports which way they are turning, which is why this version holds better than the neck wrap. Their arm pinned at your side is the second reading: when it starts to slide, the bridge is coming. Travel your hips around the compass to meet it and never let the chest lift."
+  }
+}

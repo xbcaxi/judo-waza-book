@@ -1,0 +1,42 @@
+{
+  "name": {
+    "en": "Posture"
+  },
+  "nameRomaji": "Shisei",
+  "nameJa": "姿勢",
+  "kind": "movement",
+  "about": {
+    "en": "The two postures judo is done from, and the one every technique is described against. Shizen-hon-tai is the natural posture: upright, relaxed, weight even, the posture you attack from and the posture kata is performed in. Jigo-hon-tai is the defensive posture: knees bent, feet wider, weight low. Each has a right and a left form, named for the foot that leads. A grading examiner watching you throw is also watching what you are standing in when you start."
+  },
+  "keyPoints": {
+    "en": [
+      "Natural posture is the default; anything else is a decision you should be able to explain",
+      "A defensive posture is stable and slow, which is why holding it draws a penalty in contest",
+      "Right or left is named for the leading foot, not the leading hand"
+    ]
+  },
+  "described": {
+    "en": [
+      "Stand in shizen-hon-tai, the natural posture: feet about shoulder width, weight even between them and over the middle of each foot, knees soft rather than locked, back straight, shoulders down, arms hanging easily.",
+      "Slide the right foot forward about half a pace to make migi-shizen-tai, the right natural posture. Your weight stays even; only the feet have changed.",
+      "Bring it back and slide the left foot forward instead for hidari-shizen-tai. Notice that the hips turn slightly with the foot, and that this is the posture almost every throw is described from.",
+      "From natural posture, bend the knees, widen the feet a little and lower the hips to reach jigo-hon-tai, the basic defensive posture. Keep the back straight rather than folding forward at the waist.",
+      "Lead with the right foot for migi-jigo-tai and the left for hidari-jigo-tai.",
+      "Move between the two postures a few times without a partner. Feel that the defensive posture is harder to move out of than into, which is exactly why it is a penalty in contest to sit in it and do nothing."
+    ]
+  },
+  "receiving": {
+    "en": "With a partner, take a grip and let them change posture while you keep yours. A partner who drops into a defensive posture becomes heavy and hard to turn, and also stops being able to attack you. Feel both halves of that trade, because it is the whole reason the rules penalise it."
+  },
+  "viNotes": {
+    "en": "Posture is one of the few things in judo that is easier to learn without sight, because it is felt rather than watched. Work it from contact: hold a partner's sleeve and lapel and let them move you between the two postures so you feel the difference in their weight and height. A coach can also set your feet by touch. Nothing here needs to be seen to be checked."
+  },
+  "videos": [],
+  "image": {
+    "alt": {
+      "en": "The two judo postures compared: shizen-hon-tai with the feet about shoulder width, and jigo-hon-tai with the feet wider apart and turned out."
+    },
+    "provenance": "own",
+    "credit": "Waza Book"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "nameRomaji": "Waki-gatame",
+  "nameJa": "脇固",
+  "nameKana": "わきがため",
+  "aliases": [
+    "Ude-hishigi-waki-gatame"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "armpit armlock"
+  },
+  "category": "katame-waza",
+  "subCategory": "kansetsu-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 805,
+  "kodokanAbbr": "WAK",
+  "kodokan": {
+    "nameRomaji": "Ude-hishigi-waki-gatame",
+    "nameJa": "腕挫腋固"
+  },
+  "banned": "in-competition",
+  "bannedNote": {
+    "en": "Prohibited in competition when applied from a standing position: the arm is trapped under tori's armpit and the elbow has nowhere to go, so uke cannot submit in time, and the IJF penalises it with hansoku-make. On the ground it is a legal armlock, and it is taught, demonstrated and examined: the BJA sets it as a 1st Dan fundamental skill."
+  },
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "8F5p1zuJRG0",
+      "title": "Ude-hishigi-waki-gatame",
+      "duration": "0:53"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "dgE2uSvpppk",
+      "title": "Waki-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548823217",
+      "title": "Waki-Gatame"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124129021",
+      "title": "Waki-gatame"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "pKZ-iafyGbw",
+      "title": "Ude-hisigi-waki-gatame",
+      "duration": "0:13"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Waki-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Waki-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Waki-gatame, the armpit armlock."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The armpit armlock: uke's straight arm is clamped under tori's armpit and levered against the elbow with the whole body. Powerful and fast, which is why applying it as a standing technique is prohibited in competition; on the ground it is applied with particular care. Competition joint locks are restricted to the elbow and to senior age groups; learn and practise this only under instruction."
+  },
+  "keyPoints": {
+    "en": [
+      "Their wrist gripped with both hands, arm clamped under your armpit",
+      "Their thumb points up; your body, not your arms, applies it",
+      "Ground technique only in competition; standing application is banned"
+    ]
+  },
+  "described": {
+    "en": [
+      "On the ground beside your partner, take their extended right arm at the wrist with both hands, their thumb turned upward.",
+      "Clamp their arm under your right armpit so your side and upper arm press along the back of their elbow.",
+      "Keep their wrist tight to your chest, their arm straight, your body side-on to theirs.",
+      "Apply by turning your trunk slowly away from their head, the whole body levering the elbow against your armpit.",
+      "This lock arrives fast, so apply it more slowly than any other: small movement, constant attention, instant release at the tap."
+    ]
+  },
+  "receiving": {
+    "en": "Your wrist is taken in both hands and your arm vanishes under their armpit, their whole body now framing your elbow; the leverage is severe and arrives with very little movement. Tap early and clearly at the FIRST feeling of pressure on the joint; an elbow or shoulder gives little warning between discomfort and damage. Never snatch out of a lock with a twist. With this lock in particular, tap at the first hint; it has the least warning of any of them."
+  },
+  "viNotes": {
+    "en": "Prohibited standing because the arm has nowhere to go and uke cannot submit in time, and that concern is sharper again when neither of you can see the arm. On the ground, take the wrist in both hands, clamp the arm along your side, and turn your trunk by the smallest amount that produces anything at all. Apply this more slowly than any other lock in judo."
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "nameRomaji": "Seoi-nage",
+  "nameJa": "背負投",
+  "nameKana": "せおいなげ",
+  "aliases": [
+    "Morote-seoi-nage"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "shoulder throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": 1,
+  "kodokanNumber": 101,
+  "kodokanAbbr": "SON",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "zIq0xI0ogxk",
+      "title": "Seoi-nage",
+      "duration": "1:20"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "MjdZ-C3qeGg",
+      "title": "Morote-Seoi-Nage"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "at2ysXaP1P4",
+      "title": "Morote-Eri-Seoi-Nage",
+      "role": "lapel (morote-eri) grip"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548841979",
+      "title": "Morote-Seoi-Nage"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548841816",
+      "title": "Morote-Eri-Seoi-Nage",
+      "role": "lapel (morote-eri) grip"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123998870",
+      "title": "Morote Seoi-nage"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "eWEW9SfI5xg",
+      "title": "Seoi-nage - Basic Principles",
+      "role": "basic principles"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "qo-3PNAIaPQ",
+      "title": "Seoi-nage - Competitive Variations",
+      "role": "competitive variations"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "uPXB-60B7f0",
+      "title": "Seoi-nage - Set Up Combinations",
+      "role": "extra"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "LFSZc65pvJY",
+      "title": "Seoi-nage - Set Ups",
+      "role": "set ups"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "wa_FpksxsEQ",
+      "title": "GO TSUNODA - MOROTE SEOI NAGE"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "x0bWmMNv92s",
+      "title": "YOSHIYUKI HIRANO - MOROTE SEOI NAGE (SLOW MOTION)"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "RyLSBaHMNqo",
+      "title": "YOSHIYUKI HIRANO - SEOI NAGE, TANDOKU RENSHU"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "8OlVomIEq7k",
+      "title": "古賀 稔彦 TOSHIHIKO KOGA - MOROTE SEOI NAGE"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "oJ57ZtF58As",
+      "title": "東海大学 TOKAI UNIVERSITY - MOROTE SEOI NAGE"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "FvDn3g9-OMk",
+      "title": "濱田 初幸 HATSUYUKI HAMADA - MOROTE SEOI NAGE"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "XDmgEGHG_80",
+      "title": "藤猪 省太 SHOZO FUJII - MOROTE SEOI NAGE"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "Jg3Vj5jUb3w",
+      "title": "野村 忠宏 TADAHIRO NOMURA - MOROTE SEOI NAGE"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "tQD1MjjloHk",
+      "title": "野村 忠宏 TADAHIRO NOMURA - MOROTE SEOI NAGE"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "4XOWD1LgNHY",
+      "title": "HIROSHI KATANISHI - SEOI NAGE EN DEPLACEMENT LATERAL",
+      "role": "in lateral movement"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "zhNBWbS1LnI",
+      "title": "古賀 稔彦 TOSHIHIKO KOGA - SEOI NAGE INTRO & DETAILS"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "ZDxbUuLB8Uc",
+      "title": "Morote-eri-seoi-nage",
+      "duration": "0:15",
+      "role": "lapel (morote-eri) grip"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "JbI4qNf8qGQ",
+      "title": "Seoi-nage"
+    }
+  ],
+  "ijfAnimation": "Seoi-nage",
+  "links": [
+    {
+      "title": "Seoi-nage on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Seoi-nage",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Seoi-nage, the shoulder throw."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori turns in, loads uke onto the back at the shoulder, and throws forward over the shoulder line: one of the most used contest throws in judo."
+  },
+  "keyPoints": {
+    "en": [
+      "Turn in with bent knees so your hips sit below uke's",
+      "Keep both elbows in front of your body as you load",
+      "Finish by straightening the legs and bowing forward"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, pull with both hands so your partner's weight comes forward onto their toes.",
+      "Step your right foot across to their right foot, pivot, and swing your left foot back beside it, turning your back into their chest with both knees well bent, your hips below theirs.",
+      "As you turn, fold your right arm and bring your bent elbow underneath their right armpit, your upper arm snug against their body; the left hand keeps pulling the sleeve forward over your shoulder.",
+      "Clamp them to your back: their chest against your shoulders, no space between you.",
+      "Straighten your legs, bow sharply forward and pull both hands down past your left side.",
+      "They ride over your right shoulder and land on their back in front of you. Keep the sleeve gripped high so their arm is supported through the landing."
+    ]
+  },
+  "receiving": {
+    "en": "You are pulled sharply forward onto your toes and their back turns into your chest, their body folding under you; then your feet leave the ground and the world rotates over their shoulder. It is a big forward fall. Stay loose, keep your chin tucked, and let the held right sleeve steer you so you land on your back, left arm slapping wide."
+  },
+  "viNotes": {
+    "en": "The checkpoint that replaces seeing your entry is contact across your whole back: their chest on your shoulders with no space anywhere. Bring the elbow under their armpit by sliding your arm up their body rather than digging for the position, and keep the sleeve pulling so they stay readable through the turn. If you can feel them at one shoulder only, turn further before you lift."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": {
+    "en": "Escape from Yoko-shiho-gatame into Sankaku-gatame"
+  },
+  "kind": "escape",
+  "techniques": [
+    "yoko-shiho-gatame",
+    "sankaku-gatame"
+  ],
+  "about": {
+    "en": "An escape that ends ahead rather than merely free: as the side hold is settled, the bottom judoka swings their legs up, closes a triangle around the holder’s head and near arm, and finishes holding rather than being held. Senior material, because the finishing position is an armlock."
+  },
+  "keyPoints": {
+    "en": [
+      "Make space first: frame on the hip and turn to your side",
+      "Swing the far leg high over their head, not their back",
+      "Close the triangle and control before you think about finishing"
+    ]
+  },
+  "described": {
+    "en": [
+      "You are under Yoko-shiho-gatame, your partner’s chest across yours from your right side.",
+      "Turn onto your right side and push your left forearm against their hip to make a hand’s width of space.",
+      "Free your left leg and swing it high over their head, so the back of your knee reaches the back of their neck.",
+      "Hook your left foot behind your right knee, closing your legs into a triangle around their head and right arm.",
+      "Squeeze and straighten your body: they cannot hold you while their own head and arm are trapped, and the position becomes Sankaku-gatame with the roles reversed.",
+      "Apply nothing quickly: the trapped arm is an armlock, and it ends the moment they tap."
+    ]
+  },
+  "receiving": {
+    "en": "You feel the hold loosen at the hip, then a leg passes your head and closes behind your neck with your arm inside it. Posture up the instant the leg swings; once the triangle closes, concentrate on freeing the trapped arm and tap early if it starts to straighten."
+  },
+  "videos": [
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "TEcLv5oqOQQ",
+      "title": "Escape yoko-shiho-gatame to sangaku-gatame",
+      "duration": "0:34"
+    }
+  ]
+}

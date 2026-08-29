@@ -1,0 +1,90 @@
+{
+  "nameRomaji": "Sankaku-jime",
+  "nameJa": "三角絞",
+  "nameKana": "さんかくじめ",
+  "aliases": [
+    "Sangaku-jime"
+  ],
+  "otherNames": [
+    {
+      "name": "triangle choke",
+      "system": "bjj",
+      "note": {
+        "en": "One of BJJ's signature submissions, applied from guard and many other positions; the figure is the same."
+      }
+    }
+  ],
+  "gloss": {
+    "en": "triangle strangle"
+  },
+  "category": "katame-waza",
+  "subCategory": "shime-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 711,
+  "kodokanAbbr": "SAJ",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "lq1CUBRAm7s",
+      "title": "Sankaku-jime",
+      "duration": "0:59"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "TxNRxbH0T_w",
+      "title": "San-Gaku-Jime"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551888923",
+      "title": "San-Gaku-Jime"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124001408",
+      "title": "Sankaku Jime"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Sankaku-jime on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Sankaku-jime",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The triangle strangle: uke's neck and one arm are enclosed in a triangle of tori's legs, one leg's knee-pit locking over the other's instep, the trapped shoulder completing the strangle. Strangles are restricted by age in most federations; learn and practise this only under instruction and supervision."
+  },
+  "keyPoints": {
+    "en": [
+      "The triangle encloses the neck AND one arm, never the neck alone",
+      "Lock the knee-pit over the other instep and square the hips",
+      "Close gradually with the legs and a draw of the head or arm"
+    ]
+  },
+  "described": {
+    "en": [
+      "You are on your back with your partner between your legs, one of their arms in and one arm out: trap their right arm inside as their head comes down.",
+      "Swing your left leg over their right shoulder so the back of your knee crosses the back of their neck.",
+      "Fold that leg and hook its shin behind the knee-pit of your right leg, the right leg folding down: the triangle is formed around their neck and trapped arm.",
+      "Square your hips towards them and draw their trapped arm across their own neck, or their head gently down.",
+      "Close gradually by squeezing the legs and drawing with the hands. Open the triangle completely the moment they tap, and let them up."
+    ]
+  },
+  "receiving": {
+    "en": "A leg crosses behind your neck, locks into the other, and your own trapped shoulder becomes part of the strangle: the pressure comes from the legs and builds smoothly. Posture up and free the trapped arm early if you can. Tap immediately and clearly the moment it is properly on; never hold out to prove toughness. Tell your instructor if you ever feel light-headed afterwards."
+  },
+  "viNotes": {
+    "en": "Built from full contact on your back, so the triangle can be formed entirely by feel: the back of your knee across their neck, then your shin hooked behind your own knee-pit, a lock your legs can confirm without any help. Square your hips towards them and close slowly. Open the triangle completely at the tap so they can get their head clear."
+  }
+}

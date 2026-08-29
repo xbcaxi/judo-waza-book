@@ -1,0 +1,67 @@
+{
+  "nameRomaji": "Te-gatame",
+  "nameJa": "手固",
+  "nameKana": "てがため",
+  "aliases": [
+    "Ude-hishigi-te-gatame"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "hand armlock"
+  },
+  "category": "katame-waza",
+  "subCategory": "kansetsu-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 808,
+  "kodokanAbbr": "TGT",
+  "kodokan": {
+    "nameRomaji": "Ude-hishigi-te-gatame",
+    "nameJa": "腕挫手固"
+  },
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "6DnvhY0tQVM",
+      "title": "Ude-hishigi-te-gatame",
+      "duration": "1:00"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Te-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Te-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The armlock applied with the hand: uke's arm is fixed to the mat or to tori's body and pressure is put on the elbow with the palm and body weight rather than with the legs or hips. The simplest of the Ude-hishigi family to reach from a hold-down, and the one most often taken when an opponent reaches. Competition joint locks are restricted to the elbow and to senior age groups; learn and practise this only under instruction."
+  },
+  "keyPoints": {
+    "en": [
+      "Fix the wrist first; an unfixed arm cannot be locked",
+      "Press ON the elbow, in line with the joint",
+      "Lean your weight in slowly, never snatch"
+    ]
+  },
+  "described": {
+    "en": [
+      "From beside your partner on the ground, take hold of their near wrist and pin it, palm upward, to the mat or against your own body.",
+      "Place your other hand flat on their elbow, fingers wrapping the joint from above.",
+      "Keep their wrist fixed and bring your shoulder over your pressing hand so your weight is above it.",
+      "Lean in slowly, pressing the elbow against the hinge of the joint.",
+      "The pressure builds gradually and stops the instant they tap; release, do not hold on to make a point."
+    ]
+  },
+  "receiving": {
+    "en": "Your wrist is pinned before the pressure comes, which is the moment to act: turn your thumb and bend the elbow while you still can. Once the arm is straight and their weight is over the joint there is no escape and very little warning, so tap early and clearly, with a hand or a foot, or say \"matte\" out loud."
+  },
+  "viNotes": {
+    "en": "Find the elbow by running your free hand down the arm from the wrist you have already pinned, so both hands work along the same limb and never lose it. Bring your shoulder over the pressing hand and lean in slowly: the pressure is easy to meter because it is your own weight. Release at the first tap, which may land on the mat rather than on you."
+  }
+}

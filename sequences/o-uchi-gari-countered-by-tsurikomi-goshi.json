@@ -1,0 +1,47 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "o-uchi-gari",
+    "tsurikomi-goshi"
+  ],
+  "about": {
+    "en": "Absorbing the inner reap leaves your partner standing on one leg and leaning forward into you. Tsuri-komi-goshi lifts and draws from exactly that position, and every syllabus in this reference names the pair."
+  },
+  "described": {
+    "en": [
+      "Feel their leg arrive against the inside of your left leg as they attempt O-uchi-gari.",
+      "Bend the attacked leg and drop your weight onto it rather than pulling it away.",
+      "Lift your right hand high on their lapel so their upper body is drawn up and forward.",
+      "Spin in on the ball of your left foot, hips lower than theirs, keeping the lifting hand high.",
+      "Straighten your legs and turn your shoulders to the left, drawing them up and over your hip.",
+      "They travel over your hip onto their back; keep the sleeve to support the fall."
+    ]
+  },
+  "receiving": {
+    "en": "You are the attacker, and absorbing the reap is not the same as stopping it: they bend the attacked leg, sit their weight onto it and let your leg push against something solid, which leaves you on one leg leaning forward into them. Their lifting hand draws you up and their hip comes underneath. Once you are drawn onto the hip you are going over it. Chin on your chest, slap with your free left arm as your back lands, and let the sleeve stay held."
+  },
+  "viNotes": {
+    "en": "Every syllabus in this reference names this pair, and it suits contact work: the reap tells you where their leg is, and their weight leaning into you tells you the counter is on. Drop onto the attacked leg rather than pulling it away, then raise your lapel hand high before you turn. The lift is what brings their chest up; the hip only has to arrive underneath it."
+  },
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "uzdNkcVDVUk",
+      "title": "O-Uchi-Gari countered by Tsuri-Komi-Goshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548837208",
+      "title": "O-Uchi-Gari countered by Tsuri-Komi-Goshi"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "EeEiF6rnoQs",
+      "title": "O-uchi-gari countered by Tsuri-komi-goshi",
+      "duration": "0:16"
+    }
+  ]
+}

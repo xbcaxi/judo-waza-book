@@ -1,0 +1,94 @@
+{
+  "nameRomaji": "Yoko-otoshi",
+  "nameJa": "横落",
+  "nameKana": "よこおとし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "side drop"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": 3,
+  "kodokanNumber": 501,
+  "kodokanAbbr": "YOT",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "MnNG67pF_a0",
+      "title": "Yoko-otoshi",
+      "duration": "0:54"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124033472",
+      "title": "Yoko-otoshi"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "46:57 Yoko-otoshi (side drop)",
+      "start": 2817
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "DMA8E6LqRiA",
+      "title": "Yoko-otoshi",
+      "duration": "0:12"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "pdAe2ay2SUc",
+      "title": "Yoko-otoshi"
+    }
+  ],
+  "ijfAnimation": "Yoko-otoshi",
+  "links": [
+    {
+      "title": "Yoko-otoshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Yoko-otoshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Yoko-otoshi, the side drop."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "A side sacrifice: tori drops directly to the side, blocking uke's foot, and throws uke over the outstretched body."
+  },
+  "keyPoints": {
+    "en": [
+      "Slide your leg outside uke's foot as you drop to your side",
+      "Pull uke's sleeve down and across as you fall",
+      "Commit to the drop: a half-hearted sacrifice throws nobody"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, stand roughly square with your partner, feeling their weight settle onto their right foot.",
+      "Slide your left leg along the mat past the outside of their right foot, so your extended leg lies beside and beyond it.",
+      "Let yourself fall onto your left side, close to their feet; there is no half measure, your body commits fully to the mat.",
+      "As you drop, pull down and across with the sleeve hand towards the space beyond your own head, the lapel hand following.",
+      "Your fall and pull take them sideways over your extended leg; they land on their back beyond you while you remain on your side holding the sleeve."
+    ]
+  },
+  "receiving": {
+    "en": "Your partner drops suddenly to their side beside your feet and your sleeve is pulled after them: their falling weight, not a lift, is what takes you. You are drawn sideways over their extended leg. Turn with it, slap with your free arm, and land on your back beyond them rather than fighting to stay upright and landing badly."
+  },
+  "viNotes": {
+    "en": "The extended leg is slid along the mat past the outside of their foot, so it is placed by contact and cannot be misjudged for height. There is no half measure in the drop: commit fully onto your side and pull across towards the space beyond your own head. Know where the mat edge is before you go down."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "nameRomaji": "Tsurikomi-goshi",
+  "nameJa": "釣込腰",
+  "nameKana": "つりこみごし",
+  "aliases": [
+    "Tsuri-komi-goshi"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "lifting pulling hip throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "koshi-waza",
+  "gokyoSet": 2,
+  "kodokanNumber": 204,
+  "kodokanAbbr": "TKG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "McfzA0yRVt4",
+      "title": "tsuri-komi-goshi",
+      "duration": "1:29"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "oFg7zO8X_NY",
+      "title": "Tsuri-Komi-Goshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548823394",
+      "title": "Tsuri-Komi-Goshi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124003522",
+      "title": "Tsurikomi-goshi"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "3:34 Tsurikomi-goshi (lift-pull hip throw)",
+      "start": 214
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "9IXPjCPetvU",
+      "title": "Kata-sode-ashi-tsuri-komi-goshi",
+      "duration": "0:18",
+      "role": "one-sleeve (kata-sode) form"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "zvR3-4Evoks",
+      "title": "tsuri-komi-goshi"
+    }
+  ],
+  "ijfAnimation": "Tsurikomi-goshi",
+  "links": [
+    {
+      "title": "tsuri-komi-goshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Tsurikomi-goshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Tsurikomi-goshi, the lifting pulling hip throw."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "A hip throw driven by the lift-pull of both hands, with the lapel hand kept high; uke is drawn up and over the hips."
+  },
+  "keyPoints": {
+    "en": [
+      "Keep the lapel hand high and lift as you turn in",
+      "Bend the knees deeply so uke rides your hips, not your back",
+      "Draw uke forward onto the toes before you enter"
+    ]
+  },
+  "described": {
+    "en": [
+      "Take a right-handed grip with your lapel hand high on their collar. Draw your partner up and forward so their weight floats onto their toes: the lapel hand lifts as if raising them onto a shelf.",
+      "Step your right foot inside their right foot, pivot, and swing your left foot around, turning your back into them with your knees deeply bent, hips well below theirs.",
+      "Keep the lapel hand high throughout, elbow pointing up, so they stay drawn up and cannot settle their weight back down.",
+      "Pull the sleeve around your body so their chest fixes to your back, resting them across your hips.",
+      "Straighten your legs and bow forward, both hands carrying them over.",
+      "They roll over your hips and land on their back in front of you, your sleeve grip steadying the fall."
+    ]
+  },
+  "receiving": {
+    "en": "The collar grip lifts you up and forward until your weight floats on your toes, then their hips arrive low under you and you are carried over. It feels like being poured over a barrel. Tuck your chin, keep the held arm soft, and slap with your free left arm as your back lands in front of them."
+  },
+  "viNotes": {
+    "en": "The high lapel hand does the work and reports back the whole time: while you can feel their weight hanging on it, they cannot settle back down. Keep that elbow up right through the turn. Their chest arriving on your back is your checkpoint for the entry, and the sleeve is what steadies their landing."
+  }
+}

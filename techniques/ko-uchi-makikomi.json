@@ -1,0 +1,68 @@
+{
+  "nameRomaji": "Ko-uchi-makikomi",
+  "nameJa": "小内巻込",
+  "nameKana": "こうちまきこみ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "minor inner wrap-around"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 514,
+  "kodokanAbbr": "KUM",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "_1eygIXLD_w",
+      "title": "Ko-uchi-makikomi",
+      "duration": "1:01"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "O8npwdC9cb4",
+      "title": "古賀 稔彦 TOSHIHIKO KOGA - KO UCHI MAKIKOMI"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Ko-uchi-makikomi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ko-uchi-makikomi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "Ko-uchi-gari finished by wrapping and falling: tori reaps the heel inward and, instead of standing over the attack, turns and drops onto uke, rolling them over the reaped leg. A Kodokan side sacrifice, and a common finish when the reap alone will not put a heavy partner down."
+  },
+  "keyPoints": {
+    "en": [
+      "The reap comes first: take the heel inward",
+      "Turn in and wrap the arm as you drop",
+      "Land beside them, not on top of them"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, reap your partner's right heel inward with the sole of your right foot, as for Ko-uchi-gari.",
+      "As the foot goes, trap their right arm against your chest or over your shoulder with your right arm.",
+      "Turn your body into them and drop your weight forward and down over the leg you have just taken.",
+      "Roll onto your right side as you fall, wrapping them over so their back reaches the mat first.",
+      "They land on their back with the arm still held; continue the roll into a hold."
+    ]
+  },
+  "receiving": {
+    "en": "The heel goes and, before you can recover it, your arm is trapped and your partner's weight is coming down with you. It is a fast, low fall onto your back or side. Tuck your chin, slap with the free arm, and do not put a straight arm out to stop yourself; your partner's weight is arriving too."
+  },
+  "viNotes": {
+    "en": "You take this when the reap alone will not put a heavier partner down, and that is something you feel rather than see: the heel goes, and they stay standing. Trap the arm before you drop so you keep contact all the way to the mat, and land on your side. Say what you are drilling first, because uke is going down underneath you."
+  }
+}

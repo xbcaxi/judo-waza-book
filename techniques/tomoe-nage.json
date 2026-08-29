@@ -1,0 +1,152 @@
+{
+  "nameRomaji": "Tomoe-nage",
+  "nameJa": "巴投",
+  "nameKana": "ともえなげ",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "overhead sweep",
+      "system": "bjj",
+      "note": {
+        "en": "From guard, BJJ calls the same mechanics the overhead or balloon sweep."
+      }
+    }
+  ],
+  "gloss": {
+    "en": "circle throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "ma-sutemi-waza",
+  "gokyoSet": 3,
+  "kodokanNumber": 401,
+  "kodokanAbbr": "TNG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "880WbHvHv6A",
+      "title": "Tomoe-nage",
+      "duration": "0:55"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "XFXXK1nzqeA",
+      "title": "Tomoe-Nage"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551843401",
+      "title": "Tomoe-Nage"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124003271",
+      "title": "Tomoe-nage"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "G_iZp-_6R_Q",
+      "title": "古賀 稔彦 TOSHIHIKO KOGA - TOMOE NAGE"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "V2TgNORfLYk",
+      "title": "柏崎 克彦 KATSUHIKO KASHIWAZAKI - TOMOE NAGE, YOKO TOMOE NAGE"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "iRyl6_y-4QM",
+      "title": "柏崎 克彦 KATSUHIKO KASHIWAZAKI - TOMOE NAGE_JUJI GATAME"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "pwc8xccqgTU",
+      "title": "濱田 初幸 HATSUYUKI HAMADA - TOMOE NAGE"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "NPEYFCVhgHU",
+      "title": "内柴 正人 MASATO UCHISHIBA - TOME NAGE"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "31:43 Tomoe-nage (circular throw)",
+      "start": 1903
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "rbI_o7FZorM",
+      "title": "Ryo-ashi-tomoe-nage",
+      "duration": "0:14",
+      "role": "two-foot (ryo-ashi) form"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "cD9ld9TdvUE",
+      "title": "Danny da Costa's 'The Stomach Throw'",
+      "duration": "0:40"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "3liLxMvzaL8",
+      "title": "Tomoe-nage"
+    }
+  ],
+  "ijfAnimation": "Tomoe-nage",
+  "links": [
+    {
+      "title": "Tomoe-nage on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Tomoe-nage",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Tomoe-nage, the circle throw."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The classic sacrifice throw: tori drops beneath uke, places a foot on the abdomen, and throws uke overhead in a full circle."
+  },
+  "keyPoints": {
+    "en": [
+      "Sit close under uke, foot planted below the belt",
+      "Pull uke over you: the arms steer the circle",
+      "Roll back on your spine, not flat onto your back"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, push your partner so they push back into you: the throw uses their forward pressure.",
+      "Step your left foot deep between their feet and sit down close to your own left heel, folding underneath them as they press forward.",
+      "As you sit, place the sole of your right foot against their body at the belt line, low on the abdomen, knee bent between you.",
+      "Roll onto your back, pulling both hands over your head in a smooth arc; your bent leg extends as they pass over you.",
+      "They sail over your head in a full circle and land on their back beyond you. Keep pulling through the whole arc so the rotation is complete, then release cleanly."
+    ]
+  },
+  "receiving": {
+    "en": "Your partner drops away beneath you and a foot arrives at your belt line: their sitting weight pulls you forward and the foot sends you overhead. You fly further than you expect. Stay round, keep your chin tucked, and go with the full circle; you land on your back well beyond them, and a good roll out of it is safer than fighting the arc."
+  },
+  "viNotes": {
+    "en": "The throw runs on their forward pressure, which reaches you through the grips before anything else moves, so the gripped-up start suits it well. Place your foot on the belt line by sliding it up their body rather than kicking to a height. Know where the mat edge is before you sit down, and keep pulling through the whole arc so they land rolling."
+  }
+}

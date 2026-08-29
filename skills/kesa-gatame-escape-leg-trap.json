@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Kesa-gatame escape by trapping the leg"
+  },
+  "kind": "escape",
+  "techniques": [
+    "kesa-gatame"
+  ],
+  "about": {
+    "en": "The first escape on the junior syllabus. Kesa-gatame needs its wide legs for base; trapping the near leg with your own removes half of that base, and the hold rolls with a push."
+  },
+  "keyPoints": {
+    "en": [
+      "Trap the leg first: without it, the bridge does nothing",
+      "Turn towards your partner, never away from them",
+      "Free the trapped arm as the roll finishes, not before"
+    ]
+  },
+  "described": {
+    "en": [
+      "You are held in Kesa-gatame on your back, your right arm trapped under their left armpit and their body across your chest.",
+      "Turn onto your right side towards them and bring your left knee up high across your own body.",
+      "Hook your left leg over the top of their nearest leg and clamp it, so they cannot spread it back out for base.",
+      "Bridge up onto your shoulders and drive your hips towards them, keeping the leg trapped.",
+      "As their weight tips over the trapped leg, keep turning into them and follow them over.",
+      "Come out on top or on your knees facing them, and pull your right arm free as you arrive."
+    ]
+  },
+  "receiving": {
+    "en": "From the holding side, the first warning is your near leg being clamped: the base you spread it for has gone. Post your free hand wide on the mat at once and drop your hips low, or step the leg free before it can be hooked."
+  },
+  "viNotes": {
+    "en": "Everything in this escape is felt rather than seen: the position of their leg against yours, the moment their weight tips. Find the trapped leg with your own foot before you bridge, and do not start the bridge until the hook is definitely on."
+  },
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "KGpmk1-A-Fo",
+      "title": "Kesa-Gatame Escape leg trap"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535064268",
+      "title": "Kesa-Gatame Escape leg trap"
+    }
+  ]
+}

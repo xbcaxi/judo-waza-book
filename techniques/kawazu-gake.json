@@ -1,0 +1,59 @@
+{
+  "nameRomaji": "Kawazu-gake",
+  "nameJa": "河津掛",
+  "nameKana": "かわづがけ",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "grapevine takedown",
+      "system": "english"
+    }
+  ],
+  "gloss": {
+    "en": "one-leg entanglement"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 516,
+  "kodokanAbbr": "KWA",
+  "kodokan": null,
+  "banned": "yes",
+  "bannedNote": {
+    "en": "Prohibited in competition: falling backwards with a leg entwined around the opponent's leg risks severe knee and ankle injury. Named for the sumo wrestler Kawazu, and older than judo itself; it is retained in the vocabulary so it can be recognised and refereed."
+  },
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "w6G57bWACi0",
+      "title": "Kawazu-gake",
+      "duration": "0:34"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Kawazu-gake on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Kawazu-gake",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "A prohibited throw in which tori winds a leg around uke's leg from the inside and falls backwards, taking uke down with the leg still entwined. Documented for recognition only: the entangled fall loads uke's knee unpredictably, which is why the technique is banned."
+  },
+  "keyPoints": {
+    "en": [
+      "Recognise it: a leg wound around yours as the attacker falls backwards",
+      "Banned in competition; attempting it is direct hansoku-make",
+      "Never complete an entangled backward fall in practice; release and step out"
+    ]
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": {
+    "en": "Recognition only. What identifies it from underneath is the leg wound around yours as you both go backwards, so your foot cannot come free to land, and that is exactly what injures knees. If you feel your leg entangled as a partner falls back, go down with them rather than fighting to stay up, and tell your coach afterwards."
+  }
+}

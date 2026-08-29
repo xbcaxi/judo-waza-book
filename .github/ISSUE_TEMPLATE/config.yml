@@ -1,0 +1,17 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Rights, provenance and removal policy
+    url: https://github.com/xbcaxi/judo-waza-book/blob/main/NOTICE.md
+    about: How images are sourced, what is and is not licensed, and how removal works.
+  - name: Suggest a video, without touching JSON
+    url: https://github.com/xbcaxi/judo-waza-book/issues/new?template=video-suggestion.yml
+    about: Paste the link and say which technique it shows. A maintainer does the rest.
+  - name: Contribute a correction or a technique
+    url: https://github.com/xbcaxi/judo-waza-book/blob/main/CONTRIBUTING.md
+    about: Templates and house style for content pull requests.
+  - name: Ask for material to be removed, without a GitHub account
+    url: mailto:rights@wazabook.com
+    about: Name the file and say what you would like done. No account, no formal notice, no justification needed.
+  - name: Suggest a video or a correction by email
+    url: mailto:suggestions@wazabook.com
+    about: Send the link and say which technique it shows. A maintainer does the rest.

@@ -1,0 +1,108 @@
+{
+  "nameRomaji": "Ura-nage",
+  "nameJa": "裏投",
+  "nameKana": "うらなげ",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "suplex",
+      "system": "wrestling",
+      "note": {
+        "en": "Wrestling's belly-to-back suplex family shares the mechanics."
+      }
+    }
+  ],
+  "gloss": {
+    "en": "rear throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "ma-sutemi-waza",
+  "gokyoSet": 5,
+  "kodokanNumber": 405,
+  "kodokanAbbr": "UNA",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Fgi9b8DJ5sQ",
+      "title": "Ura-nage",
+      "duration": "0:29"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "X4sYXMAmdhU",
+      "title": "Ura-Nage"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551869397",
+      "title": "Ura-Nage"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124017357",
+      "title": "Ura-nage"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "39:12 Ura-nage (rear throw)",
+      "start": 2352
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "JdqilSRp_KY",
+      "title": "Ura-nage (Uranage)",
+      "duration": "0:16"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "Y1tbTFdBu1A",
+      "title": "Ura-nage"
+    }
+  ],
+  "ijfAnimation": "Ura-nage",
+  "links": [
+    {
+      "title": "Ura-nage on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ura-nage",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "Tori grasps uke's trunk from behind or beside, bridges backwards, and throws uke over the shoulder to the rear."
+  },
+  "keyPoints": {
+    "en": [
+      "Clamp uke's trunk tight to your chest before you lift",
+      "Drive the hips forward and up as you bridge back",
+      "Throw uke over your shoulder as you fall, head turned aside"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner attacks with a forward technique. Step in behind their motion and clamp your arms around their trunk, your chest to their side or back, your knees bent low.",
+      "Drive your hips forward and under them, your body coiling like a spring beneath their attack.",
+      "Leap back and bridge: your body arches backwards, lifting them off the mat as your chest drives up.",
+      "Turn your head to one side and throw them over your shoulder as you fall, your arms steering their flight.",
+      "They land on their back beyond your shoulder while you land on your upper back beside them; release the trunk as they land so the two falls stay separate."
+    ]
+  },
+  "receiving": {
+    "en": "You attack, and their body coils under you; then everything goes up and over backwards as they bridge and throw you over their shoulder. This is one of judo's biggest falls: you travel high, upside down, and land behind them. Tuck your chin to your chest and stay tucked, arms ready, and take the landing across your upper back, never your neck or head. Receive this one only from partners who know it, and build the height up gradually."
+  },
+  "viNotes": {
+    "en": "You take this against an attack, so the contact is handed to you: clamp the trunk as their turn comes in. The risk is your own landing, so turn your head to one side and take the mat on your upper back, never the neck. Release the trunk as they land so the two falls stay separate, and learn the bridge with a coach."
+  }
+}

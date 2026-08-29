@@ -1,0 +1,67 @@
+{
+  "nameRomaji": "Ashi-gatame",
+  "nameJa": "足固",
+  "nameKana": "あしがため",
+  "aliases": [
+    "Ude-hishigi-ashi-gatame"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "leg armlock"
+  },
+  "category": "katame-waza",
+  "subCategory": "kansetsu-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 807,
+  "kodokanAbbr": "AGA",
+  "kodokan": {
+    "nameRomaji": "Ude-hishigi-ashi-gatame",
+    "nameJa": "腕挫脚固"
+  },
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "ClY7g_pX-4s",
+      "title": "Ude-hishigi-ashi-gatame",
+      "duration": "1:05"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Ashi-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ashi-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The armlock applied with a leg: tori fixes uke's wrist and lays a leg across the elbow, so the lock is applied by lowering the leg rather than by pulling. Strong, because a leg is stronger than an arm, and for that reason worth applying with unusual care. Competition joint locks are restricted to the elbow and to senior age groups; learn and practise this only under instruction."
+  },
+  "keyPoints": {
+    "en": [
+      "Wrist fixed first, palm turned upward",
+      "The leg goes ACROSS the elbow, not the shoulder",
+      "Lower the leg slowly; it has far more power than a hand"
+    ]
+  },
+  "described": {
+    "en": [
+      "From beside your partner on the ground, take their near wrist in both hands and turn the palm upward.",
+      "Keep that arm straight and draw it clear of their body so the elbow is exposed.",
+      "Lay your near leg across the elbow, the back of your knee or your shin resting on the joint.",
+      "Hold the wrist up and lower the leg slowly, so the joint is pressed against its hinge.",
+      "Release the moment they tap: a leg applies far more than a hand and gives less warning."
+    ]
+  },
+  "receiving": {
+    "en": "Your arm is straightened and then something much heavier than a hand settles on the elbow. There is almost no margin here. Tap at the first pressure, loudly, with your free hand or your feet, and do not wait to see whether you can turn out of it."
+  },
+  "viNotes": {
+    "en": "Both sides of this are felt rather than seen. As tori, find the elbow by running your hands along the arm from the wrist instead of placing the leg by eye, and let the leg rest on the joint before any pressure goes into it. As uke, your cue to tap is the arm being drawn straight and clear of your body: the leg itself arrives with almost no warning, so do not wait for it."
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "nameRomaji": "Tsuri-goshi",
+  "nameJa": "釣腰",
+  "nameKana": "つりごし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "lifting hip throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "koshi-waza",
+  "gokyoSet": 3,
+  "kodokanNumber": 207,
+  "kodokanAbbr": "TGO",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "51Htlp7xEvE",
+      "title": "Tsuri-goshi",
+      "start": 10,
+      "duration": "1:42"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124003383",
+      "title": "Tsuri-goshi"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "10:11 Tsuri-goshi (lifting hip throw)",
+      "start": 611
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "Rm4nHqCnrzg",
+      "title": "Tsuri-goshi",
+      "duration": "0:16"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "RUw-tRerzJU",
+      "title": "Ko-tsuri-goshi",
+      "duration": "0:16",
+      "role": "minor (ko) form"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "6f8iTEhokAY",
+      "title": "O-tsuri-goshi",
+      "duration": "0:15",
+      "role": "major (o) form"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "MOXFnpYLAu4",
+      "title": "Tsuri-goshi"
+    }
+  ],
+  "ijfAnimation": "Tsuri-goshi",
+  "links": [
+    {
+      "title": "Tsuri-goshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Tsuri-goshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Tsuri-goshi, the lifting hip throw."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "A hip throw in which tori grips uke's belt and lifts with it while the hips come through."
+  },
+  "keyPoints": {
+    "en": [
+      "Grip the back of the belt, over or under uke's arm",
+      "Lift with the belt hand as the hips enter",
+      "Rotate uke over the hip line, keeping the pull continuous"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, reach your right arm over their left arm, or under it for the larger form, and take hold of the back of their belt.",
+      "Lift with the belt grip so their hips come towards you, and step your right foot inside their right foot.",
+      "Pivot and bring your left foot around, turning your back into them, knees bent, hips below theirs, the belt hand still hoisting.",
+      "Pull the sleeve around your body and load them onto your hips.",
+      "Straighten your legs, bow forward, and rotate them over your right hip with the belt grip steering.",
+      "They land on their back in front of you; keep the sleeve as the belt hand releases."
+    ]
+  },
+  "receiving": {
+    "en": "A hand takes the back of your belt and you feel yourself hoisted as their hips come in: the belt lift makes this entry hard to stop and easy to feel. You are carried over the hip in a forward rotation. Ride it, chin tucked, and land on your back with your left arm slapping."
+  },
+  "viNotes": {
+    "en": "The belt is easy to find and gives you a strong second contact, which makes this a friendly hip throw to take without sight: pass your arm over or under theirs and run the hand round to the back of the belt. The hoist then tells you whether their hips have come to you before you turn in. Keep the sleeve as the belt hand releases."
+  }
+}

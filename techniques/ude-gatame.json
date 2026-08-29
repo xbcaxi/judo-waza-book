@@ -1,0 +1,91 @@
+{
+  "nameRomaji": "Ude-gatame",
+  "nameJa": "腕固",
+  "nameKana": "うでがため",
+  "aliases": [
+    "Ude-hishigi-ude-gatame"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "straight armlock"
+  },
+  "category": "katame-waza",
+  "subCategory": "kansetsu-waza",
+  "wazaType": null,
+  "gokyoSet": null,
+  "kodokanNumber": 803,
+  "kodokanAbbr": "UGA",
+  "kodokan": {
+    "nameRomaji": "Ude-hishigi-ude-gatame",
+    "nameJa": "腕挫腕固"
+  },
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "SBf0aTma1VI",
+      "title": "Ude-hishigi-ude-gatame",
+      "duration": "0:50"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "eOkKhoQ_IsM",
+      "title": "Ude-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548823081",
+      "title": "Ude-Gatame"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124015344",
+      "title": "Ude-gatame"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Ude-gatame on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ude-gatame",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Ude-gatame, the straight armlock."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The straight armlock applied with the hands: uke's extended arm is trapped with the wrist at tori's shoulder or neck and both hands press the elbow against its hinge. Often caught when uke reaches. Competition joint locks are restricted to the elbow and to senior age groups; learn and practise this only under instruction."
+  },
+  "keyPoints": {
+    "en": [
+      "Their wrist trapped at your neck or shoulder, thumb up",
+      "Both hands stacked ON the elbow, pressing towards you",
+      "Apply by drawing in and leaning, not by jerking down"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner reaches an arm towards your collar while you are beside or above them on the ground.",
+      "Trap their reaching wrist between your neck and shoulder by tilting your head against it, their thumb pointing upward.",
+      "Stack both of your hands on their elbow, one over the other, fingers wrapping the joint.",
+      "Keep their wrist clamped and draw your hands towards your chest while leaning gently in.",
+      "The pressure straightens the elbow against its hinge; it builds gradually and releases the instant they tap."
+    ]
+  },
+  "receiving": {
+    "en": "Your reaching arm is caught at their neck and both of their hands settle on your elbow; the straightening pressure comes on quickly for so simple a position. Bend the arm and turn your thumb the moment you feel it being caught, and tap early and clearly at the first feeling of pressure on the joint; an elbow or shoulder gives little warning between discomfort and damage. never snatch out of a lock with a twist."
+  },
+  "viNotes": {
+    "en": "This one is caught rather than hunted, and what you catch is a reaching arm arriving at your collar, which you feel immediately. Trap the wrist between your head and shoulder, then stack both hands on the elbow by running them down the arm to it. Lean in gently: a straight arm has very little travel before it has to be let go."
+  }
+}

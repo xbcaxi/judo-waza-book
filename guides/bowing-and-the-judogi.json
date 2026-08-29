@@ -1,0 +1,113 @@
+{
+  "category": "essentials",
+  "title": {
+    "en": "Bowing, the judogi and dojo etiquette"
+  },
+  "summary": {
+    "en": "How to bow standing and kneeling, how the judogi is worn correctly, and the courtesies of coming onto and leaving the mat. Every grading in this reference examines them from the first grade onwards."
+  },
+  "sections": [
+    {
+      "heading": {
+        "en": "Why it is graded"
+      },
+      "prose": {
+        "en": "Judo begins and ends with courtesy, and every syllabus here examines it from the very first grade: the bows, the judogi worn properly, and the way you come onto and leave the mat. None of it is decoration. A judogi that is not fastened comes apart in a contest, and the bow is how two people agree that what follows is practice rather than a fight."
+      }
+    },
+    {
+      "heading": {
+        "en": "Tachi-rei, the standing bow"
+      },
+      "steps": {
+        "en": [
+          "Stand with your heels together and your feet turned slightly out, arms hanging naturally at your sides.",
+          "Keep your back straight and bend forward from the hips, about thirty degrees, letting your hands slide down the front of your thighs.",
+          "Pause for about a second at the bottom of the bow.",
+          "Come back up smoothly to standing, hands returning to your sides.",
+          "Keep your eyes towards your partner rather than the floor: the bow is a greeting, not a submission."
+        ]
+      }
+    },
+    {
+      "heading": {
+        "en": "Za-rei, the kneeling bow"
+      },
+      "steps": {
+        "en": [
+          "From standing, kneel down onto your left knee first, then your right, keeping your back straight.",
+          "Sit back onto your heels with your toes flat behind you and your hands resting on your thighs.",
+          "Place your left hand on the mat in front of your left knee, then your right hand beside it, so your fingertips form a triangle.",
+          "Bend forward from the hips until your forehead is above the gap between your hands, without touching the mat.",
+          "Pause, then come up in reverse order: right hand back to your thigh, then your left.",
+          "Stand up leading with your right foot, then your left, so the movement mirrors how you knelt."
+        ]
+      }
+    },
+    {
+      "heading": {
+        "en": "Wearing the judogi"
+      },
+      "steps": {
+        "en": [
+          "Put the jacket on with the LEFT side crossed over the right. Right over left is how a body is dressed for a funeral in Japan, so it is always noticed.",
+          "Check the jacket lapels meet at the middle of your chest and the jacket reaches your thighs.",
+          "Pull the trousers up to your waist and fasten the drawstring so they stay there through a fall.",
+          "Tie the belt as in the belt-tying guide, with two even ends of about the length of your hand and forearm.",
+          "Check your fingernails and toenails are short and that nothing hard is being worn: no rings, no piercings, no hair clips. Tape does not make a ring legal.",
+          "Tie long hair back with something soft, so it cannot catch on your partner or in your own eyes."
+        ]
+      }
+    },
+    {
+      "heading": {
+        "en": "Coming onto and leaving the mat"
+      },
+      "steps": {
+        "en": [
+          "Wear zori, or something on your feet, right up to the edge of the mat, and leave them at the edge pointing away from it.",
+          "Bow standing towards the mat before you step onto it, and again when you step off.",
+          "Bow to your partner before you begin practising with them, and again when you finish.",
+          "Never walk across a mat where others are practising: go around the edge.",
+          "If your judogi comes loose during practice, step back, say Matte if you are in a contest, and retie it facing away from your partner and away from the centre of the mat."
+        ]
+      }
+    },
+    {
+      "heading": {
+        "en": "Doing it without sight"
+      },
+      "prose": {
+        "en": "None of this needs to be seen. The standing bow is found by feeling your hands slide down your own thighs; the kneeling bow by the triangle your hands make on the mat. The jacket cross can be checked by touch alone, and it is worth making a habit of it: run a thumb up the join and confirm the left lapel is the one on top. Ask a partner or coach to check your belt and jacket the first few times until the feel of a correct fastening is familiar, and remember that the mat edge itself, where the surface changes underfoot, is the boundary the bow marks."
+      }
+    }
+  ],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "BBZG9N4cW0U",
+      "title": "Reiho and the basic postures",
+      "duration": "1:45"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "XQHhDxi4-eg",
+      "title": "How to wear the Judogi and how to put the shoes neatly",
+      "duration": "1:38"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "122508549",
+      "title": "Formal Standing & Seiza Bow"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123992135",
+      "title": "Folding the \"Gi\""
+    }
+  ]
+}

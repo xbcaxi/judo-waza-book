@@ -1,0 +1,40 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "ippon-seoi-nage",
+    "kami-shiho-gatame"
+  ],
+  "about": {
+    "en": "A shoulder throw finishes with you standing above their head, which is exactly where the upper four quarters hold begins. The link is one step and a drop of the hips."
+  },
+  "described": {
+    "en": [
+      "Turn in for Ippon-seoi-nage with your right grips and throw them over your shoulder.",
+      "Keep their right sleeve as they land so the fall stays controlled.",
+      "Step around towards their head rather than letting go and standing back.",
+      "Drop your chest onto their chest from above their head and slide both hands under their shoulders to grip their belt.",
+      "Spread your legs wide behind you for balance and press your chest down through theirs.",
+      "Keep your head turned to one side and your weight forward. Release the moment they tap."
+    ]
+  },
+  "receiving": {
+    "en": "You come over their shoulder and land on your back with your right sleeve still held, so slap with your free left arm and keep your chin tucked. The hold arrives at once, from above your head, which is the direction hardest to defend. Turn onto your side and get an elbow down before their chest settles: once their weight is through your chest and their hands are on your belt, escaping is a matter of patience rather than strength."
+  },
+  "viNotes": {
+    "en": "The throw finishes with you standing at their head, so the transition is a step rather than a search, provided you keep the sleeve. Follow the held arm down to the mat, let your chest find their chest, and only then let the sleeve go to take the belt. On the ground the information never stops, which is why ne-waza is often where visually impaired judoka are strongest."
+  },
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "d9Ve7S67Lcw",
+      "title": "Ippon-Seoi-Nage into Kami-Shiho-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535079858",
+      "title": "Ippon-Seoi-Nage into Kami-Shiho-Gatame"
+    }
+  ]
+}

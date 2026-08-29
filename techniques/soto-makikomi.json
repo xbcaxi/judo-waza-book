@@ -1,0 +1,108 @@
+{
+  "nameRomaji": "Soto-makikomi",
+  "nameJa": "外巻込",
+  "nameKana": "そとまきこみ",
+  "aliases": [
+    "Soto-maki-komi"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "outer wrapping throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": 4,
+  "kodokanNumber": 504,
+  "kodokanAbbr": "SMK",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "bWG9O1BVKtQ",
+      "title": "Soto-maki-komi",
+      "duration": "0:58"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "nTQGr2nGK5w",
+      "title": "Soto-maki-komi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551852257",
+      "title": "Soto-maki-komi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124001709",
+      "title": "Soto-makikomi"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "43:40 Soto-makikomi (outer wraparound throw)",
+      "start": 2620
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "IUa1ff7ERyg",
+      "title": "Soto-makikomi",
+      "duration": "0:15"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "xQ1iZz2ybOQ",
+      "title": "Soto-maki-komi"
+    }
+  ],
+  "ijfAnimation": "Soto-makikomi",
+  "links": [
+    {
+      "title": "Soto-maki-komi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Soto-makikomi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Soto-makikomi, the outer wrapping throw."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori wraps uke's arm from the outside, turns in, and winds uke over the body to the mat in a committed rotation."
+  },
+  "keyPoints": {
+    "en": [
+      "Trap uke's arm under your armpit as you turn",
+      "Wind your whole body: the rotation is the throw",
+      "Roll through onto your side so uke lands beside you"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, pull their right sleeve firmly across your body with your left hand.",
+      "Release your right-hand grip and swing your right arm up and over their right arm from the outside, trapping it beneath your armpit against your side.",
+      "Pivot and turn your back into them as for a hip throw, their trapped arm keeping their chest tight to your back.",
+      "Wind your whole body to the left and let yourself fall forward and around: your rotation is the throw, and your body travels to the mat with theirs.",
+      "You land on your left side; they roll over your body and land on their back beside you. Release the trapped arm as soon as they land."
+    ]
+  },
+  "receiving": {
+    "en": "Your right arm is trapped under theirs from the outside and their whole body turns and falls: you are wrapped around them and taken to the mat together. Your trapped side cannot slap, so curl into their rotation, keep your chin tucked, and let your side and back arrive together as you land beside them. Take this one gradually in practice until the shape is familiar."
+  },
+  "viNotes": {
+    "en": "Releasing the lapel for the wrap is the risky moment, so make it a slide up the outside of their arm and clamp it under your armpit where you can feel it held. From then on that arm is your only connection, so keep it until they land. Learn the rotation with a coach beside you, because you are taking the mat as well."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "nameRomaji": "Uki-otoshi",
+  "nameJa": "浮落",
+  "nameKana": "うきおとし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "floating drop"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": 4,
+  "kodokanNumber": 108,
+  "kodokanAbbr": "UOT",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "6H5tmncOY4Q",
+      "title": "Uki-otoshi",
+      "duration": "0:56"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "vHqTzu1LCjo",
+      "title": "Uki-Otoshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551869299",
+      "title": "Uki-Otoshi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124017142",
+      "title": "Uki-otoshi"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "Biaz2_B5p4Q",
+      "title": "PATRICK ROUX - LE PRINCIPE UKI OTOSHI",
+      "role": "the principle, in French"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "t_8MDT9BDzs",
+      "title": "Uki-otoshi",
+      "duration": "0:15"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "sHgMhS_yZJQ",
+      "title": "Uki-otoshi",
+      "duration": "0:14"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "dZybDIJ3zec",
+      "title": "Uki-otoshi"
+    }
+  ],
+  "ijfAnimation": "Uki-otoshi",
+  "links": [
+    {
+      "title": "Uki-otoshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Uki-otoshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Uki-otoshi, the floating drop."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "A pure hand throw: tori drops one knee and rotates uke's floating balance forward so uke falls with barely any contact."
+  },
+  "keyPoints": {
+    "en": [
+      "Catch uke's balance floating forward at full commitment",
+      "Rotate with both hands in a steering-wheel action",
+      "Drop the rear knee as you turn: timing beats strength"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, retreat a step, drawing your partner forward so they follow and their weight rides the front foot.",
+      "On their next step, slide back again and sink your body, this time drawing their balance past the edge of that front foot: they are floating, committed beyond their base.",
+      "Rotate both hands as one wheel: sleeve hand pulling down towards your hip, lapel hand carrying across and around.",
+      "Nothing touches their legs; the turn of your hands and the drop of your body alone steer their floating weight into a forward roll.",
+      "They rotate over their own toes and land on their back in front of you. Keep the sleeve so the roll finishes supported."
+    ]
+  },
+  "receiving": {
+    "en": "There is no contact below your waist at all: you are drawn forward until your balance passes your toes, and then the hands simply steer you into a roll. It feels like tripping over nothing. Tuck, follow the rotation, and take a smooth forward breakfall onto your back, free arm slapping; done well it is one of the softest falls in judo."
+  },
+  "viNotes": {
+    "en": "Nothing touches their legs, which makes this the purest hands-only throw here and a natural fit for VI judo: it is only their weight travelling past their own foot, and that is something your grips tell you exactly. Draw them into two steps and take the second one further than they expect. Keep the sleeve so the roll finishes supported."
+  }
+}

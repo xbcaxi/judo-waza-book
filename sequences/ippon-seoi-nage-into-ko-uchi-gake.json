@@ -1,0 +1,41 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ippon-seoi-nage",
+    "ko-uchi-gake"
+  ],
+  "about": {
+    "en": "The shoulder throw threatens forward, so your partner sits back to defend. That leaves their near leg light and their weight behind it, which is all Ko-uchi-gake needs."
+  },
+  "described": {
+    "en": [
+      "Take your right grips and turn in sharply for Ippon-seoi-nage, your right arm under their right armpit.",
+      "Feel them drop their hips and pull backwards to stop the throw.",
+      "Rather than fighting it, step your right foot back out and face them again, keeping the sleeve.",
+      "Push forward with your left hand so their weight settles onto their right heel.",
+      "Hook the sole of your right foot behind their right heel from the inside and lift it towards you.",
+      "Drive their chest back over the hooked leg with your left hand; they sit down backwards. Keep the sleeve."
+    ]
+  },
+  "receiving": {
+    "en": "The shoulder throw threatens hard to the front, so you sit back and drop your hips, which is sound judo. It also puts your weight behind your right heel and leaves that foot light, and their sole hooks it from the inside and lifts it towards them. You sit down backwards with one leg carried away. It is a low fall: chin tucked, no straight arm posted behind you, and slap with your free arm as your back meets the mat."
+  },
+  "viNotes": {
+    "en": "Their defence is felt as weight pulling away from you in both hands, and that pull is the signal to stop turning and step back out. Come out without breaking contact, so the hook goes onto a heel whose position you already know. The hook is small and precise, so drill it slowly until your foot finds the heel every time by feel alone."
+  },
+  "videos": [
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548842983",
+      "title": "Ippon-Seoi-nage to Ko-Uchi-gake"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "rByc_fG0D1M",
+      "title": "Ippon-seoi-nage into Ko-uchi-gake",
+      "duration": "0:13"
+    }
+  ]
+}

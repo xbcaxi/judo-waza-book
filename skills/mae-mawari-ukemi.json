@@ -1,0 +1,46 @@
+{
+  "name": {
+    "en": "Mae Mawari Ukemi"
+  },
+  "nameRomaji": "Mae Mawari Ukemi",
+  "nameJa": "前回り受身",
+  "kind": "ukemi",
+  "about": {
+    "en": "The forward rolling breakfall: turning a forward fall into a roll along the diagonal of your back, coming out on your side. It is the breakfall for every throw that sends you over the front, and the one that takes the longest to trust."
+  },
+  "keyPoints": {
+    "en": [
+      "Roll along the diagonal from one hand to the opposite hip",
+      "No part of your head or spine touches: the roll is on muscle",
+      "Finish in the side breakfall position and slap"
+    ]
+  },
+  "described": {
+    "en": [
+      "Stand with your right foot forward and place your right hand on the mat in front of it, fingers pointing back towards your own left foot.",
+      "Turn your right elbow outwards so your arm makes a rounded arch, and tuck your chin to your left shoulder.",
+      "Look towards your own left hip and push gently off your back foot so your weight rolls onto the arch of your right arm.",
+      "Roll diagonally across your back, from your right shoulder to your left hip, keeping your body rounded throughout.",
+      "As your left hip lands, slap the mat hard with your straight left arm, palm down.",
+      "Finish on your left side in the side breakfall position, right leg bent and lifted. Learn it from kneeling first, then crouching, then standing."
+    ]
+  },
+  "viNotes": {
+    "en": "Build it up from kneeling with a hand already on the mat, so the roll starts from a known contact rather than from a fall. The diagonal is the whole skill: shoulder to opposite hip, and your chin stays tucked towards the shoulder you are rolling away from."
+  },
+  "videos": [
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124016829",
+      "title": "Ukemi: Zempo Kaiten"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "kbiLot6laks",
+      "title": "Mae-mawari-ukemi",
+      "role": "basic principles"
+    }
+  ]
+}

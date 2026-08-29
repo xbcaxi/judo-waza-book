@@ -1,0 +1,97 @@
+{
+  "nameRomaji": "O-soto-otoshi",
+  "nameJa": "大外落",
+  "nameKana": "おおそとおとし",
+  "aliases": [
+    "Osoto-otoshi"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "major outer drop"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 315,
+  "kodokanAbbr": "OSO",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "2DsVvDw7b8g",
+      "title": "O-soto-otoshi",
+      "duration": "1:04"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "Tm_47SMsRI4",
+      "title": "o-soto-Otoshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535064308",
+      "title": "o-soto-Otoshi"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "xqiktaCePNM",
+      "title": "(NOT!) O-soto-otoshi",
+      "duration": "0:11"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "SVzvbQNcDfM",
+      "title": "O-soto-otoshi",
+      "duration": "0:43"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "Q0EqbZydO7s",
+      "title": "o-soto Otoshi"
+    }
+  ],
+  "ijfAnimation": "O-soto-otoshi",
+  "links": [
+    {
+      "title": "O-soto-otoshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/O-soto-otoshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The beginner's outer throw: where O-soto-gari sweeps the leg away, O-soto-otoshi simply places tori's leg behind uke's and drops them straight back over it. Because there is no reaping swing it is the standard first throw of junior syllabuses, teaching the outer-line entry and backward breakfall at low speed."
+  },
+  "keyPoints": {
+    "en": [
+      "Break uke's balance straight back over their heel",
+      "Step deep past uke and place your leg behind theirs, no swing",
+      "Drive back and down with both hands; uke drops over the barrier"
+    ]
+  },
+  "described": {
+    "en": [
+      "Take the standard grip: your left hand on your partner's right sleeve, your right hand on their left lapel.",
+      "Pull down with the sleeve and push with the lapel so their weight settles back onto their right heel.",
+      "Step your left foot forward beside their right foot, close, toes pointing past them.",
+      "Bring your right leg past their right side and place the back of your calf firmly behind their right leg, your foot flat on the mat behind them.",
+      "Keep your chest close and drive back and down with both hands, over the leg they can no longer step back with.",
+      "Your partner falls straight back over your leg; stay upright, keep hold of the sleeve to support them, and let them land on their back."
+    ]
+  },
+  "receiving": {
+    "en": "You feel your weight pushed back onto your right heel, then a leg arrives firmly behind yours: a barrier, not a sweep. The push continues and your right leg cannot step back, so you fall straight backwards, slower and more predictable than from O-soto-gari. Your right arm is held at the sleeve; slap the mat with the free left arm, chin tucked, and let your rounded back meet the mat. This is usually the first standing throw a beginner receives, and the fall is exactly the rear breakfall drilled beforehand."
+  },
+  "viNotes": {
+    "en": "From the gripped-up start, the whole technique reads through the hands: the backward pressure, the step beside your foot, and the leg placed behind yours arrive in order with no flight time. As tori, the cue that the entry is deep enough is your hip touching your partner's; as uke, the calf contact behind your knee is the signal to prepare the rear breakfall."
+  }
+}

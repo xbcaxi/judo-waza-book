@@ -1,0 +1,157 @@
+{
+  "nameRomaji": "Ko-uchi-gari",
+  "nameJa": "小内刈",
+  "nameKana": "こうちがり",
+  "aliases": [
+    "Kouchi-gari"
+  ],
+  "otherNames": [],
+  "gloss": {
+    "en": "minor inner reap"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "ashi-waza",
+  "gokyoSet": 2,
+  "kodokanNumber": 307,
+  "kodokanAbbr": "KUG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "3Jb3tZvr9Ng",
+      "title": "Ko-uchi-gari",
+      "duration": "1:32"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "yGqB_K6o72c",
+      "title": "Ko-Uchi-Gari"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "548841373",
+      "title": "Ko-Uchi-Gari"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123997703",
+      "title": "Ko-uchi-gari"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "RsBvWfGjBhA",
+      "title": "HIROSHI KATANISHI - KO UCHI GARI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "2vobTNuvpEY",
+      "title": "HIROSHI KATANISHI - KO UCHI GARI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "JAdZkhn3fxQ",
+      "title": "HIROSHI KATANISHI - KO UCHI GARI, O UCHI GARI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "6ITwapP2hqw",
+      "title": "JANE BRIDGE - KO UCHI GARI, SEOI NAGE"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "25JmlUMsFuQ",
+      "title": "濱田 初幸 HATSUYUKI HAMADA - KO UCHI GARI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "tsa51VuyNpM",
+      "title": "藤猪 省太 SHOZO FUJII - KO UCHI GARI"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "OEaibt29e2g",
+      "title": "鈴木桂治 KEIJI SUZUKI - KO UCHI GARI"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "21:27 Kouchi-gari (small inner reap)",
+      "start": 1287
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "f0rn4yLU9dc",
+      "title": "Ko-uchi-gari",
+      "duration": "0:12"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "9OyOozLjzeA",
+      "title": "Ko-uchi-gari",
+      "duration": "0:40"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "Jh1QGrsOig8",
+      "title": "ko-uchi-gari"
+    }
+  ],
+  "ijfAnimation": "Ko-uchi-gari",
+  "links": [
+    {
+      "title": "Ko-uchi-gari on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ko-uchi-gari",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Ko-uchi-gari, the minor inner reap."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Tori reaps uke's heel from the inside with the sole of the foot, sending uke to the rear as the step lands."
+  },
+  "keyPoints": {
+    "en": [
+      "Catch the heel as it lands, sweeping in the line of the foot",
+      "Sweep with the sole, toes turned in",
+      "Drive down and back with the hands as the foot goes"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, shift so your partner steps towards you with their right foot, or step in so their weight moves onto it.",
+      "As the right foot takes weight, sweep its heel from the inside with the sole of your right foot, toes turned in, sweeping in the direction their toes point.",
+      "Drive both hands down and back towards their right rear corner at the same time, your body following the push.",
+      "Keep your own base under you: the sweep is a slide along the mat, not a lift of your leg.",
+      "They fall to their back towards the swept side. Keep the sleeve in hand and lift it slightly as they land."
+    ]
+  },
+  "receiving": {
+    "en": "Your heel is slid away from the inside just as it lands, and your weight drops back towards that corner. Sit into the fall, round your back, tuck your chin, and slap with your free arm. Resist the urge to snatch your foot back late; once the sweep has your heel, going with it is the safe option."
+  },
+  "viNotes": {
+    "en": "The sweep travels along the mat, which is what lets you find the heel without seeing it: keep the sole low and let it meet the foot rather than aiming at it. The moment to go is when their weight arrives on that foot, felt as pressure coming forward through both grips. Keep your own base underneath you, because a missed sweep from a lifted leg costs you your balance as well."
+  }
+}

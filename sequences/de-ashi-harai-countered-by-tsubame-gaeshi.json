@@ -1,0 +1,35 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "de-ashi-harai",
+    "tsubame-gaeshi"
+  ],
+  "about": {
+    "en": "The swallow counter, and the reason De-ashi-barai is taught with a warning. You withdraw the foot they are sweeping and sweep theirs on the same line while it is still travelling."
+  },
+  "described": {
+    "en": [
+      "Feel their sole arrive against the outside of your advancing foot.",
+      "Withdraw your foot smoothly over their sweep rather than pulling it back and down.",
+      "Keep both grips and stay upright; their sweeping leg is now committed and carrying no weight.",
+      "Sweep their sweeping foot on the same line with the sole of your own, in the direction it is already going.",
+      "Pull down and across with the sleeve as the foot leaves the mat.",
+      "They fall onto their side; keep the sleeve so their head stays supported."
+    ]
+  },
+  "receiving": {
+    "en": "You are attacking, and the foot you swept at withdraws over the top of your sweep instead of resisting it, so for a moment your leg is travelling fast and carrying nothing. Their sole then arrives on the same line and takes it further than you meant it to go. It is a quick, low fall onto your side. Keep your grips, chin tucked, and slap with your free arm as your side lands. Sweep only when their weight has already left the foot and this counter will find you far less often."
+  },
+  "viNotes": {
+    "en": "Tsubame-gaeshi is timing and touch and nothing else, which makes it a genuinely good counter to own without sight: their sole arriving on your foot is the entire cue. Withdraw over the sweep rather than back and down, and let your foot follow theirs along the line it has already chosen. Keep both grips throughout so you know where their body is when they land."
+  },
+  "videos": [
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "54:04 De-ashi-barai countered by Tsubame-gaeshi",
+      "start": 3244
+    }
+  ]
+}

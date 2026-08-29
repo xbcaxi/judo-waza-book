@@ -1,0 +1,99 @@
+{
+  "nameRomaji": "Uki-goshi",
+  "nameJa": "浮腰",
+  "nameKana": "うきごし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "floating hip"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "koshi-waza",
+  "gokyoSet": 1,
+  "kodokanNumber": 201,
+  "kodokanAbbr": "UGO",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "bPKwtB4lyOQ",
+      "title": "Uki-goshi",
+      "duration": "0:52"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "5mG3KGRuFPM",
+      "title": "Uki-Goshi"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535079194",
+      "title": "Uki-Goshi"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "124017007",
+      "title": "Uki-goshi"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "1:39 Uki-goshi (floating hip throw)",
+      "start": 99
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "4Gle5i9Yx3E",
+      "title": "Uki-goshi"
+    }
+  ],
+  "ijfAnimation": "Uki-goshi",
+  "links": [
+    {
+      "title": "Uki-goshi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Uki-goshi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Uki-goshi, the floating hip."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "Kano's favourite throw: a half-entry hip technique in which uke is caught on the side of the hip and floated over with a twist of the trunk."
+  },
+  "keyPoints": {
+    "en": [
+      "Enter with the hip only halfway across, not fully through",
+      "Hold uke tight to your side with the arm around the waist",
+      "Throw with the twist of the body, not a lift of the hips"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, release the lapel and slide your right arm around your partner's waist so your hand lies flat on the small of their back.",
+      "Step your right foot inside their right foot and turn, bringing your right hip only into the fold of their body: this is a half entry, hips side-on rather than fully across, and you stay tall rather than squatting.",
+      "Draw them tight against your right side with the arm at their back and pull the sleeve so their chest is fixed to you with no gap.",
+      "Twist your trunk sharply to your left, hip pressing back into them. There is no big lift in this throw: the twist alone floats them over the crest of your hip.",
+      "They roll around your hip and land on their back in front of you. Keep the sleeve to steady the fall."
+    ]
+  },
+  "receiving": {
+    "en": "An arm comes around your waist and their hip presses into you; instead of a big lift you feel a sharp twist, and your feet skim the mat as you are turned over the hip. The fall is a forward roll around their body. Land on your back, left arm slapping, chin tucked; it arrives lower and quicker than a full hip throw."
+  },
+  "viNotes": {
+    "en": "There is no lift here, only a twist, so the throw lives or dies on there being no gap between you: draw them onto your side with the hand at their back until you feel contact along your whole flank. From the gripped-up start the swap from lapel to waist travels along their body, so your hand never leaves them. If you can feel air between you, twisting will achieve nothing."
+  }
+}

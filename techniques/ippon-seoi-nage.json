@@ -1,0 +1,104 @@
+{
+  "nameRomaji": "Ippon-seoi-nage",
+  "nameJa": "一本背負投",
+  "nameKana": "いっぽんせおいなげ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "one-armed shoulder throw"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 102,
+  "kodokanAbbr": "ISN",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "FQnOlCxo4oI",
+      "title": "Ippon-seoi-nage",
+      "duration": "0:54"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "doDOjhxtwNk",
+      "title": "Ippon-Seoi-Nage"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535079827",
+      "title": "Ippon-Seoi-Nage"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123994195",
+      "title": "Ippon Seoi nage"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "T8HJ38sDWXk",
+      "title": "KIYOSHI MURAKAMI - IPPON SEOI NAGE"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "bRdRA0EQF9g",
+      "title": "中西 英敏 HIDETOSHI NAKANISHI - IPPON SEOI NAGE"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "qme3cDTKDK8",
+      "title": "古賀 稔彦 TOSHIHIKO KOGA - IPPON SEOI NAGE"
+    }
+  ],
+  "ijfAnimation": "Ippon-seoi-nage",
+  "links": [
+    {
+      "title": "Ippon-seoi-nage on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Ippon-seoi-nage",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Ippon-seoi-nage, the one-armed shoulder throw."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "The one-armed shoulder throw: instead of keeping the lapel grip, tori wraps uke's right arm over the shoulder and throws with that single trapped arm. Recognised by the Kodokan alongside the classical seoi-nage."
+  },
+  "keyPoints": {
+    "en": [
+      "Trap their whole arm over your shoulder, their armpit on your shoulder",
+      "Knees bent, hips below theirs, back glued to their chest",
+      "Throw by straightening the legs and bowing, never by pulling the arm alone"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, pull their right sleeve strongly forward and release your own lapel grip.",
+      "Pivot in as for a shoulder throw, but swing your free right arm under their right armpit, wrapping their upper arm so it lies over your right shoulder, your elbow bent and pointing down.",
+      "Finish the turn with both knees well bent, your hips below theirs, their chest tight against your back, both of your hands now controlling that one arm.",
+      "Straighten your legs and bow sharply forward, steering the wrapped arm past your right side.",
+      "They ride over your shoulder and land on their back in front of you; keep hold of the arm so the landing is supported."
+    ]
+  },
+  "receiving": {
+    "en": "Your arm is drawn over their shoulder and clamped, and their back arrives under your chest; the throw is quick once the legs drive. You will rotate over their right shoulder holding nothing, so tuck your chin, let the trapped arm support you, and slap with your free left arm as your back lands."
+  },
+  "viNotes": {
+    "en": "Releasing the lapel costs you a source of information, so replace it at once: swing your arm under their armpit by sliding it up their sleeve arm, not by reaching into space. The checkpoint before you throw is their chest against your back across its whole width; if you can only feel them at your shoulder, your hips are not yet under theirs."
+  }
+}

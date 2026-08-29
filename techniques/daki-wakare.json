@@ -1,0 +1,68 @@
+{
+  "nameRomaji": "Daki-wakare",
+  "nameJa": "抱分",
+  "nameKana": "だきわかれ",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "hugging separation"
+  },
+  "category": "nage-waza",
+  "subCategory": "sutemi-waza",
+  "wazaType": "yoko-sutemi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 510,
+  "kodokanAbbr": "DWK",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Hr0cOMGBDYo",
+      "title": "Daki-wakare",
+      "duration": "1:13"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "WcwwKzwJWmM",
+      "title": "Daki Wakare"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Daki-wakare on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Daki-wakare",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "A side sacrifice taken from behind or beside: tori wraps uke's body, lifts them clear and throws them to one side while falling to the other, separating from them as they land. A Kodokan technique often reached from a defensive, bent-over position or from the turtle in ne-waza."
+  },
+  "keyPoints": {
+    "en": [
+      "Wrap the body high and lock your hands",
+      "Lift with the legs before you commit to falling",
+      "Throw them one way and go the other: that is the separation"
+    ]
+  },
+  "described": {
+    "en": [
+      "Come to your partner's side or back while they are bent forward or on hands and knees.",
+      "Wrap both arms around their body, one over the near arm and one under the far side, and clasp your hands.",
+      "Bend your knees, lift them clear of the mat and turn them so their back comes towards the ground.",
+      "Fall to your own left side and send them over to your right, letting go of the lock as they land.",
+      "You end beside them rather than under them; turn straight in to take a hold."
+    ]
+  },
+  "receiving": {
+    "en": "You are wrapped and lifted with no leg on the ground to stop it, then turned in the air and released. It is a side landing, and it comes quickly. Tuck your chin, keep your arms free rather than gripping, and slap wide with the arm on the landing side. Build this one up slowly with a partner who lowers you."
+  },
+  "viNotes": {
+    "en": "You arrive at this from contact you already have, which suits VI judo well. Find the wrap by sliding both arms along their sides until your hands meet rather than placing them, and let the lift tell you whether you have them squarely: if their weight hangs to one side, reset the clasp before you turn. On the way down keep hold until they land, then follow your own arms in to the hold."
+  }
+}

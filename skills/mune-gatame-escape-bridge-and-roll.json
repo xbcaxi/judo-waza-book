@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Mune-gatame escape by bridge and roll"
+  },
+  "kind": "escape",
+  "techniques": [
+    "mune-gatame"
+  ],
+  "about": {
+    "en": "Mune-gatame holds you chest to chest across the body. Because their weight is high and central, a hard bridge and a turn in the same direction can send them over, as long as you first take away the arm they would post with."
+  },
+  "keyPoints": {
+    "en": [
+      "Trap the posting arm before you bridge",
+      "Bridge onto your shoulders, hips as high as they will go",
+      "Turn in the direction you bridged, immediately"
+    ]
+  },
+  "described": {
+    "en": [
+      "You are held in Mune-gatame, their chest across yours and their weight settled through it.",
+      "Take hold of their near arm with both of your hands and hug it tight to your chest so they cannot post it out.",
+      "Plant both feet flat on the mat, close to your own hips, knees up.",
+      "Bridge explosively, driving your hips as high as they will go and taking their weight onto your shoulders.",
+      "At the top of the bridge, turn hard towards the side where their arm is trapped.",
+      "Roll them over and come up on top or onto your knees. Release their arm once you are settled."
+    ]
+  },
+  "receiving": {
+    "en": "The moment your arm is hugged to their chest, you have lost your post on that side. Widen your legs at once, drop your hips and turn your chest more heavily onto theirs so the bridge has more to lift."
+  },
+  "viNotes": {
+    "en": "Two things to feel for before committing: their arm pinned against your own chest, and both of your feet flat and close to your hips. Bridge only when both are true, then turn towards the trapped arm."
+  },
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "d5B1-gXNQ64",
+      "title": "Escape from Mune-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535078806",
+      "title": "Escape from Mune-Gatame"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "nameRomaji": "Koshi-guruma",
+  "nameJa": "腰車",
+  "nameKana": "こしぐるま",
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "headlock throw",
+      "system": "wrestling"
+    }
+  ],
+  "gloss": {
+    "en": "hip wheel"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "koshi-waza",
+  "gokyoSet": 2,
+  "kodokanNumber": 203,
+  "kodokanAbbr": "KOG",
+  "kodokan": null,
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "SU7Id6uVJ44",
+      "title": "Koshi-guruma",
+      "duration": "1:10"
+    },
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "Oa3w0MOT8QQ",
+      "title": "Koshi-Guruma"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "551869187",
+      "title": "Koshi-Guruma"
+    },
+    {
+      "provider": "us-judo",
+      "platform": "vimeo",
+      "id": "123997847",
+      "title": "Koshi-guruma"
+    },
+    {
+      "provider": "judo-video-library",
+      "platform": "youtube",
+      "id": "BAwE6a_4Ym0",
+      "title": "古賀 稔彦 TOSHIHIKO KOGA - KOSHI GURUMA"
+    },
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "title": "12:13 Koshi-guruma (hip wheel)",
+      "start": 733
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "jQQkrwJxkOQ",
+      "title": "Koshi-guruma"
+    }
+  ],
+  "ijfAnimation": "Koshi-guruma",
+  "links": [
+    {
+      "title": "Koshi-guruma on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Koshi-guruma",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": {
+    "alt": {
+      "en": "Illustrated sequence of Koshi-guruma, the hip wheel."
+    },
+    "provenance": "unknown",
+    "source": "Compiled club reference document supplied by the project owner; original source not recorded"
+  },
+  "about": {
+    "en": "A hip throw with the arm around uke's neck: uke is wheeled over a deeply-entered hip."
+  },
+  "keyPoints": {
+    "en": [
+      "The arm goes around the neck and pulls uke tight on",
+      "Enter deep: hips right across uke's front",
+      "Wheel uke around the hip rather than lifting straight up"
+    ]
+  },
+  "described": {
+    "en": [
+      "From a right-handed grip, release the lapel and wrap your right arm around the back of your partner's neck, hand reaching towards their far shoulder.",
+      "Step your right foot inside their right foot, pivot, and swing your left foot around so your back turns into them, knees bent.",
+      "Bring your hips right across their front, further through than a basic hip throw, so their body lies across your lower back.",
+      "Pull the sleeve and hug the neck so their upper body is locked to you.",
+      "Straighten your legs and rotate: their body wheels around your hips like a wheel on an axle.",
+      "They land on their back in front of you. Ease the neck arm free as they fall and keep the sleeve for their landing."
+    ]
+  },
+  "receiving": {
+    "en": "An arm wraps around your neck and draws your head and chest onto their back as their hips come across you; you are wheeled over rather than lifted. The rotation is close and controlled. Keep your neck relaxed rather than braced, ride the turn, and land on your back with your left arm slapping."
+  },
+  "viNotes": {
+    "en": "Releasing the lapel to wrap the neck is a real loss of information, so make the swap along their body, running your arm up their chest and around the neck rather than over the top. Once it is there the neck wrap tells you more than the lapel ever did, and their whole upper body is readable through it. Ease the arm free as they land."
+  }
+}

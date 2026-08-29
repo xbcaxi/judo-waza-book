@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "propertyNames": {
+    "minLength": 1
+  },
+  "additionalProperties": {
+    "type": "string",
+    "pattern": "^[a-z0-9][a-z0-9-]*$"
+  },
+  "title": "ijf-technique-map",
+  "description": "IJF tag name, verbatim as the API prints it, to Waza Book technique slug. Several IJF names may map to one slug (the IJF lumps and splits differently from the Kodokan hundred); a name absent from this map fails the aggregation loudly so the map gets extended, never silently dropped. Maintained by hand; the importer reports unmapped names at the end of each run."
+}

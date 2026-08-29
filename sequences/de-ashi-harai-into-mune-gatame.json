@@ -1,0 +1,40 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "de-ashi-harai",
+    "mune-gatame"
+  ],
+  "about": {
+    "en": "The first throw-into-hold most juniors learn. A foot sweep lands your partner on their side beside you, which is a step from the chest hold if you keep the sleeve and follow them down."
+  },
+  "described": {
+    "en": [
+      "Take your right grips and sweep their advancing left foot with the sole of your right foot.",
+      "Keep hold of their right sleeve as they fall so their head does not hit the mat.",
+      "Follow them down at once, dropping to your knees beside their right side.",
+      "Slide your right arm under their far armpit and bring your chest across their chest.",
+      "Spread your legs wide, one forward and one back, and put your weight through your chest onto them.",
+      "Hold with your chest, not your arms, and keep your head up. Release the moment they tap."
+    ]
+  },
+  "receiving": {
+    "en": "The sweep takes your advancing foot and you land on your side rather than flat; your right sleeve stays held, so slap with your free arm and keep your chin tucked. Do not lie still afterwards, because their weight arrives across your chest within a second. Turn onto your side towards them and work an elbow in early: once their chest is settled on yours the hold is heaviness rather than strength, and it is much harder to move."
+  },
+  "viNotes": {
+    "en": "This is the transition worth drilling most, because the ground gives a visually impaired judoka every piece of information a sighted one has. The link is the sleeve: keep it from the sweep to the mat and you never have to search for their body. Follow the held arm down, let your chest find their chest, and settle only once your hip is against their ribs."
+  },
+  "videos": [
+    {
+      "provider": "british-judo",
+      "platform": "youtube",
+      "id": "tZMF8FXRMl4",
+      "title": "De-Ashi-Barai into Mune-Gatame"
+    },
+    {
+      "provider": "destination-judo",
+      "platform": "vimeo",
+      "id": "535078742",
+      "title": "De-Ashi-Barai into Mune-Gatame"
+    }
+  ]
+}

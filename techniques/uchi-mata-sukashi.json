@@ -1,0 +1,71 @@
+{
+  "nameRomaji": "Uchi-mata-sukashi",
+  "nameJa": "内股透",
+  "nameKana": "うちまたすかし",
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "inner thigh throw slip"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": null,
+  "kodokanNumber": 115,
+  "kodokanAbbr": "UMS",
+  "kodokan": {
+    "nameRomaji": "Uchi-mata-sukashi",
+    "nameJa": "内股すかし"
+  },
+  "banned": "no",
+  "bannedNote": null,
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "V-RS3uhtVWM",
+      "title": "Uchi-mata-sukashi",
+      "duration": "0:51"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "MiAeRfRw29c",
+      "title": "Uchi Mata Sukashi"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [
+    {
+      "title": "Uchi-mata-sukashi on the IJF technique reference",
+      "url": "https://judo.ijf.org/techniques/Uchi-mata-sukashi",
+      "source": "International Judo Federation"
+    }
+  ],
+  "image": null,
+  "about": {
+    "en": "The counter that empties uchi-mata: as the sweeping leg rises, tori slips the attacked leg aside so the sweep meets nothing, and steers the attacker's committed rotation to the mat with the hands alone. A recognised Kodokan hand technique and one of judo's most elegant counters."
+  },
+  "keyPoints": {
+    "en": [
+      "Slip the target leg aside a fraction before the sweep bites",
+      "Their own rotation does the throwing; your hands only steer",
+      "No lift, no sweep of your own: timing is the entire technique"
+    ]
+  },
+  "described": {
+    "en": [
+      "Your partner attacks with the inner thigh throw, turning in and sweeping a leg up between yours.",
+      "In the moment before their thigh contacts yours, shift the target leg aside, a small step or turn of the hips, so the sweep rises through empty air.",
+      "Their rotation is already committed: keep your grips and steer it onward with both hands, around and down.",
+      "Turn your body with the steer so their missed throw becomes your throw.",
+      "They land on their back in front of you, thrown by their own attack; keep the sleeve for the landing."
+    ]
+  },
+  "receiving": {
+    "en": "You attack uchi-mata and the leg you meant to lift is simply not there: your own turn carries on into the mat. It is a big committed fall from your own momentum, so tuck your chin, keep turning, and take a full forward breakfall; being countered cleanly is part of learning the attack."
+  },
+  "viNotes": {
+    "en": "The counter needs their attack to be committed, which you know from the pressure of their turn arriving in your hands. Move the target leg a small step aside so the sweep rises through nothing, then keep both grips and steer the rotation they have already started. It is thrown entirely by the hands, which is why it reads so well without sight."
+  }
+}
