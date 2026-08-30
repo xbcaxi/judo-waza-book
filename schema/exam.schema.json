@@ -245,6 +245,14 @@
             "type": "string",
             "minLength": 1
           }
+        },
+        "kata": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
         }
       },
       "required": [

@@ -1,0 +1,51 @@
+{
+  "name": "Kodokan Goshin-jutsu",
+  "nameJa": "講道館護身術",
+  "gloss": null,
+  "about": null,
+  "sets": [],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Y3eydFDVhw0",
+      "title": "令和8年講道館鏡開式 講道館護身術 / Kodokan Kagami Biraki ceremony 2026 Kodokan Goshin-jutsu",
+      "duration": "7:44",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "qevL9YVZsbo",
+      "title": "令和7年講道館鏡開式 講道館護身術 / Kodokan Kagami Biraki ceremony 2025 Kodokan Goshin-jutsu",
+      "duration": "7:49",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "ZbjWCm53Osg",
+      "title": "Kodokan Goshin-jutsu (English ver.)",
+      "duration": "36:41",
+      "lang": "en"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "o8MlGidQY-4",
+      "title": "KODOKAN GOSHIN JUTSU",
+      "note": {
+        "en": "The 6th Dan kata. Named on a page whose grade this scheme does not yet carry."
+      }
+    }
+  ],
+  "links": [],
+  "image": null,
+  "source": {
+    "title": "Kodokan Judo Institute recordings; Real Federación Española de Judo dan programme",
+    "date": "2026-08-30",
+    "note": {
+      "en": "The Japanese name is as the Kodokan writes it in the titles of its own recordings of this form."
+    }
+  }
+}

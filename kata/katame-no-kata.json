@@ -1,0 +1,79 @@
+{
+  "name": "Katame-no-kata",
+  "nameJa": "固の形",
+  "gloss": null,
+  "about": null,
+  "sets": [
+    {
+      "name": "Osaekomi-waza"
+    },
+    {
+      "name": "Shime-waza"
+    },
+    {
+      "name": "Kansetsu-waza"
+    }
+  ],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "oKaCgO0FdPk",
+      "title": "令和8年講道館鏡開式 固の形 / Kodokan Kagami Biraki ceremony 2026 Katame-no-Kata",
+      "duration": "10:19",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "SvckHbFDnzk",
+      "title": "令和7年講道館鏡開式 固の形 / Kodokan Kagami Biraki ceremony 2025 Katame-no-Kata",
+      "duration": "9:35",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "e1eAt15CEMY",
+      "title": "Katame-no -Kata (English ver.)",
+      "duration": "45:04",
+      "lang": "en"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "f55jg5zPtaI",
+      "title": "Katame no Kata 010 Osae Waza All",
+      "note": {
+        "en": "Katame no kata is the 3rd Dan kata; this is its osaekomi waza group."
+      }
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "glvqIkPIlos",
+      "title": "Katame no Kata 020 Shime Waza All",
+      "note": {
+        "en": "Katame no kata is the 3rd Dan kata; this is its shime waza group."
+      }
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "J9u1OZNnNw4",
+      "title": "Katame no Kata 030 Kansetsu Waza All",
+      "note": {
+        "en": "Katame no kata is the 3rd Dan kata; this is its kansetsu waza group."
+      }
+    }
+  ],
+  "links": [],
+  "image": null,
+  "source": {
+    "title": "Kodokan Judo Institute recordings; Real Federación Española de Judo dan programme",
+    "date": "2026-08-30",
+    "note": {
+      "en": "The Japanese name is as the Kodokan writes it in the titles of its own recordings of this form. The three sets as the Spanish federation’s dan programme lists them."
+    }
+  }
+}

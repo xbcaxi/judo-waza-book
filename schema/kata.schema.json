@@ -1,0 +1,260 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "nameJa": {
+      "default": null,
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "gloss": {
+      "default": null,
+      "anyOf": [
+        {
+          "$ref": "#/definitions/localisedText"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "about": {
+      "default": null,
+      "anyOf": [
+        {
+          "$ref": "#/definitions/localisedText"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "sets": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "note": {
+            "allOf": [
+              {
+                "$ref": "#/definitions/localisedText"
+              }
+            ]
+          }
+        },
+        "required": [
+          "name"
+        ]
+      }
+    },
+    "source": {
+      "allOf": [
+        {
+          "$ref": "#/definitions/sourceRef"
+        }
+      ]
+    },
+    "videos": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/video"
+      }
+    },
+    "links": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/linkRef"
+      }
+    },
+    "image": {
+      "default": null,
+      "anyOf": [
+        {
+          "$ref": "#/definitions/imageRef"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    }
+  },
+  "required": [
+    "name"
+  ],
+  "definitions": {
+    "localisedText": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Text by BCP 47 language code; \"en\" required, other languages optional."
+    },
+    "sourceRef": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "date": {
+          "type": "string",
+          "minLength": 1
+        },
+        "note": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/localisedText"
+            }
+          ]
+        }
+      },
+      "required": [
+        "title"
+      ]
+    },
+    "video": {
+      "type": "object",
+      "properties": {
+        "provider": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        },
+        "platform": {
+          "type": "string",
+          "enum": [
+            "youtube",
+            "vimeo"
+          ]
+        },
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "start": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "note": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/localisedText"
+            }
+          ]
+        },
+        "duration": {
+          "type": "string",
+          "minLength": 1
+        },
+        "role": {
+          "type": "string",
+          "minLength": 1
+        },
+        "recommended": {
+          "default": false,
+          "type": "boolean"
+        },
+        "lang": {
+          "type": "string"
+        },
+        "captions": {
+          "type": "boolean"
+        },
+        "spokenInstruction": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "provider",
+        "platform",
+        "id",
+        "title"
+      ]
+    },
+    "linkRef": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "source": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "title",
+        "url",
+        "source"
+      ]
+    },
+    "imageRef": {
+      "type": "object",
+      "properties": {
+        "alt": {
+          "$ref": "#/definitions/localisedText"
+        },
+        "provenance": {
+          "type": "string",
+          "enum": [
+            "own",
+            "licensed",
+            "third-party",
+            "unknown"
+          ]
+        },
+        "credit": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "alt",
+        "provenance"
+      ]
+    }
+  },
+  "title": "kata",
+  "description": "One kata: a prearranged form performed with a partner to a set pattern. The kata id is the filename. The ordered techniques of each form are deliberately absent until a source in this repository lists them."
+}

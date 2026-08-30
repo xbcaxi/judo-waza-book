@@ -1,0 +1,42 @@
+{
+  "name": "Koshiki-no-kata",
+  "nameJa": "古式の形",
+  "gloss": null,
+  "about": null,
+  "sets": [],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "JBEPvItdK0Y",
+      "title": "令和8年講道館鏡開式 古式の形 / Kodokan Kagami Biraki ceremony 2026 Koshiki-no-Kata",
+      "duration": "8:41",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "7aL640NhyA0",
+      "title": "令和7年講道館鏡開式 古式の形 / Kodokan Kagami Biraki ceremony 2025 Koshiki-no-Kata",
+      "duration": "8:03",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "n2_zAscgWpo",
+      "title": "Koshiki-no-Kata (English ver.)",
+      "duration": "50:33",
+      "lang": "en"
+    }
+  ],
+  "links": [],
+  "image": null,
+  "source": {
+    "title": "Kodokan Judo Institute recordings; Real Federación Española de Judo dan programme",
+    "date": "2026-08-30",
+    "note": {
+      "en": "The Japanese name is as the Kodokan writes it in the titles of its own recordings of this form."
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Kime-no-kata",
+  "nameJa": "極の形",
+  "gloss": null,
+  "about": null,
+  "sets": [],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "o_Xd_kteMzc",
+      "title": "令和8年講道館鏡開式 極の形 / Kodokan Kagami Biraki ceremony 2026 Kime-no-Kata",
+      "duration": "12:00",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "vRALigvtyVM",
+      "title": "令和7年講道館鏡開式 極の形 / Kodokan Kagami Biraki ceremony 2025 Kime-no-Kata",
+      "duration": "8:55",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "1-YAOozPQNU",
+      "title": "Kime-no-Kata (English ver.)",
+      "duration": "42:46",
+      "lang": "en"
+    }
+  ],
+  "links": [],
+  "image": null,
+  "source": {
+    "title": "Kodokan Judo Institute recordings; Real Federación Española de Judo dan programme",
+    "date": "2026-08-30",
+    "note": {
+      "en": "The Japanese name is as the Kodokan writes it in the titles of its own recordings of this form."
+    }
+  }
+}

@@ -82,6 +82,7 @@ const validateScheme = ajv.compile(await loadJson(path.join(root, 'schema/scheme
 const validateSequence = ajv.compile(await loadJson(path.join(root, 'schema/sequence.schema.json')));
 const validateGuide = ajv.compile(await loadJson(path.join(root, 'schema/guide.schema.json')));
 const validateSkill = ajv.compile(await loadJson(path.join(root, 'schema/skill.schema.json')));
+const validateKata = ajv.compile(await loadJson(path.join(root, 'schema/kata.schema.json')));
 const validateExam = ajv.compile(await loadJson(path.join(root, 'schema/exam.schema.json')));
 const validateProvider = ajv.compile(await loadJson(path.join(root, 'schema/provider.schema.json')));
 const validateChannel = ajv.compile(await loadJson(path.join(root, 'schema/channel.schema.json')));
@@ -94,6 +95,7 @@ const schemes = await loadDir('grading-schemes');
 const sequences = await loadDir('sequences');
 const guides = await loadDir('guides');
 const skills = await loadDir('skills');
+const kata = await loadDir('kata');
 const exams = await loadDir('exams');
 const providers = await loadDir('video-providers');
 const channels = await loadDir('video-channels');
@@ -323,6 +325,7 @@ const withVideos = [
   ...sequences.map((q) => [`sequences/${q.name}`, q.data.videos ?? []]),
   ...guides.map((g) => [`guides/${g.name}`, g.data.videos ?? []]),
   ...perspectives.map((p) => [`perspectives/${p.name}`, p.data.videos ?? []]),
+  ...kata.map((k) => [`kata/${k.name}`, k.data.videos ?? []]),
 ];
 const usedProviders = new Set();
 for (const [where, videos] of withVideos) {
@@ -371,6 +374,7 @@ const guideIds = new Set(guides.map((g) => g.slug));
  * (techniques whose names contain them, the guide that covers them), and
  * syllabus items resolve OUT to them, so both directions are checked. */
 const termIds = new Set(glossary.map((t) => t.slug));
+const kataIds = new Set(kata.map((k) => k.slug));
 const termWords = new Map();
 for (const t of glossary) {
   if (!validateTerm(t.data)) report(`glossary/${t.name}`, validateTerm);
@@ -469,6 +473,19 @@ for (const p of providers) {
 /* Skills: the examined things that are not techniques - breakfalls,
  * gripping, escapes, turnovers. Every one must narrate itself, because a
  * skill with no steps is exactly the gap this collection exists to close. */
+/* A kata is named by its romaji, and the filename is that name lowercased,
+ * the same rule techniques follow. It is checked because the name is what a
+ * syllabus prints and what an exam item resolves to: a file called
+ * kodokan-goshin-jutsu.json holding a kata named something else would break
+ * that link silently. */
+for (const k of kata) {
+  if (!validateKata(k.data)) report(`kata/${k.name}`, validateKata);
+  const expected = k.data.name?.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+  if (expected && expected !== k.slug) {
+    problems.push(`kata/${k.name}: filename should be "${expected}.json" to match name "${k.data.name}"`);
+  }
+}
+
 for (const k of skills) {
   if (!validateSkill(k.data)) report(`skills/${k.name}`, validateSkill);
   if (!/^[a-z0-9][a-z0-9-]*$/.test(k.slug)) {
@@ -586,6 +603,11 @@ function checkItem(where, item) {
   for (const id of item.terms ?? []) {
     if (!termIds.has(id)) {
       problems.push(`${where}: item "${item.text}" references unknown glossary term "${id}"`);
+    }
+  }
+  for (const id of item.kata ?? []) {
+    if (!kataIds.has(id)) {
+      problems.push(`${where}: item "${item.text}" references unknown kata "${id}"`);
     }
   }
 }
@@ -1192,4 +1214,4 @@ if (kodokanRef) {
   console.log(`Kodokan definitions: ${kodokanRef.techniques.length} techniques and ${kodokanRef.groups.length} groups `
     + `from the ${kodokanRef.source.issued} document; ${named} technique(s) where the Kodokan's name is not the one this book leads with.`);
 }
-console.log(`Validated ${techniques.length} techniques, ${skills.length} skills, ${sequences.length} sequences, ${guides.length} guides, ${exams.length} exams, ${schemes.length} schemes, ${channels.length} channels and ${glossary.length} glossary terms; all checks passed.`);
+console.log(`Validated ${techniques.length} techniques, ${skills.length} skills, ${kata.length} kata, ${sequences.length} sequences, ${guides.length} guides, ${exams.length} exams, ${schemes.length} schemes, ${channels.length} channels and ${glossary.length} glossary terms; all checks passed.`);

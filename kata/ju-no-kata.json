@@ -1,0 +1,48 @@
+{
+  "name": "Ju-no-kata",
+  "nameJa": "柔の形",
+  "gloss": null,
+  "about": null,
+  "sets": [],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "QRVAR2aLE-o",
+      "title": "令和8年講道館鏡開式 柔の形 / Kodokan Kagami Biraki ceremony 2026 Ju-no-Kata",
+      "duration": "8:08",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Nw-eADih5mo",
+      "title": "令和7年講道館鏡開式 柔の形 / Kodokan Kagami Biraki ceremony 2025 Ju-no-Kata",
+      "duration": "8:17",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Aa0bQ8NLiOw",
+      "title": "Ju-no-Kata (English ver.)",
+      "duration": "38:20",
+      "lang": "en"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "yi2nW9aDLZ0",
+      "title": "Ju-no-kata"
+    }
+  ],
+  "links": [],
+  "image": null,
+  "source": {
+    "title": "Kodokan Judo Institute recordings; Real Federación Española de Judo dan programme",
+    "date": "2026-08-30",
+    "note": {
+      "en": "The Japanese name is as the Kodokan writes it in the titles of its own recordings of this form."
+    }
+  }
+}

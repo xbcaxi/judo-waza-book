@@ -1,0 +1,48 @@
+{
+  "name": "Itsutsu-no-kata",
+  "nameJa": "五の形",
+  "gloss": null,
+  "about": null,
+  "sets": [],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "loxViHaUECw",
+      "title": "令和8年講道館鏡開式 五の形 / Kodokan Kagami Biraki ceremony 2026 Itsutsu-no-Kata",
+      "duration": "2:40",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "gsT7VFcQh3E",
+      "title": "令和7年講道館鏡開式 五の形 / Kodokan Kagami Biraki ceremony 2025 Itsutsu-no-Kata",
+      "duration": "2:31",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "uOs7LNSjYfk",
+      "title": "Itsutsu-no-Kata (English ver.)",
+      "duration": "20:29",
+      "lang": "en"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "e29sbPDuNKs",
+      "title": "Itsutsu-no-kata"
+    }
+  ],
+  "links": [],
+  "image": null,
+  "source": {
+    "title": "Kodokan Judo Institute recordings; Real Federación Española de Judo dan programme",
+    "date": "2026-08-30",
+    "note": {
+      "en": "The Japanese name is as the Kodokan writes it in the titles of its own recordings of this form."
+    }
+  }
+}
