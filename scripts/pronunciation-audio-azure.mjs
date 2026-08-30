@@ -101,6 +101,38 @@ function bodyFor(row) {
 
 const lexiconTag = LEXICON ? `<lexicon uri="${escape(LEXICON)}"/>` : '';
 
+/* THROTTLING IS THE NORMAL CASE, not an error. Fired back to back, a run of a
+ * couple of hundred short requests earns a 429 within the first twenty on a
+ * standard tier. So requests are paced, and a 429 or a 5xx is retried with a
+ * widening wait rather than counted as a failure and lost. */
+const PACE_MS = Number(process.env.AZURE_SPEECH_PACE_MS ?? 250);
+const RETRIES = Number(process.env.AZURE_SPEECH_RETRIES ?? 5);
+const wait = (ms) => new Promise((resolve) => { setTimeout(resolve, ms); });
+
+async function synthesise(ssml) {
+  let delay = 1000;
+  for (let attempt = 0; attempt <= RETRIES; attempt++) {
+    const res = await fetch(`${HOST}/cognitiveservices/v1`, {
+      method: 'POST',
+      headers: {
+        'Ocp-Apim-Subscription-Key': KEY,
+        'Content-Type': 'application/ssml+xml',
+        'X-Microsoft-OutputFormat': FORMAT,
+        'User-Agent': AGENT,
+      },
+      body: ssml,
+    });
+    if (res.ok) return res;
+    if (res.status !== 429 && res.status < 500) return res;
+    if (attempt === RETRIES) return res;
+    /* Retry-After when the service names one, otherwise back off. */
+    const named = Number(res.headers.get('retry-after')) * 1000;
+    await wait(Number.isFinite(named) && named > 0 ? named : delay);
+    delay = Math.min(delay * 2, 16000);
+  }
+  return null;
+}
+
 let done = 0, failed = 0;
 const log = [];
 for (const row of parseCsv(fs.readFileSync(sheet, 'utf8'))) {
@@ -112,16 +144,8 @@ for (const row of parseCsv(fs.readFileSync(sheet, 'utf8'))) {
     + ' xmlns:mstts="http://www.w3.org/2001/mstts" xml:lang="ja-JP">'
     + `${lexiconTag}<voice name="${VOICE}"><prosody rate="-5%">${inner}</prosody></voice></speak>`;
 
-  const res = await fetch(`${HOST}/cognitiveservices/v1`, {
-    method: 'POST',
-    headers: {
-      'Ocp-Apim-Subscription-Key': KEY,
-      'Content-Type': 'application/ssml+xml',
-      'X-Microsoft-OutputFormat': FORMAT,
-      'User-Agent': AGENT,
-    },
-    body: ssml,
-  });
+  const res = await synthesise(ssml);
+  await wait(PACE_MS);
   if (!res.ok) {
     failed++;
     console.error(`FAILED ${row.file}: ${res.status} ${(await res.text()).slice(0, 120)}`);
