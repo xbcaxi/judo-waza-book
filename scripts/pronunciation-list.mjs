@@ -104,6 +104,14 @@ for (const { id, data } of read('glossary')) {
 for (const [id, romaji, kanji, english] of CLASSIFICATION) push('classification', id, romaji, kanji, '', english);
 for (const [id, romaji, kanji, english] of GOKYO_SETS) push('classification', id, romaji, kanji, '', english);
 for (const [id, romaji, kanji, english] of VOCABULARY) push('classification', id, romaji, kanji, '', english);
+/* Kata BEFORE skills and after the vocabulary: a form's name is its own word,
+   not one a technique owns, and three of the eleven are known here only by
+   romaji so they carry no kanji to say. A collection added after this script
+   was written is invisible to it, which is how eight forms with Japanese names
+   would have shipped with no audio at all. */
+for (const { id, data } of read('kata')) {
+  push('kata', id, data.name, data.nameJa ?? '', '', '');
+}
 for (const { id, data } of read('skills')) {
   const english = en(data.name);
   push('skills', id, data.nameRomaji, data.nameJa, data.nameKana,
