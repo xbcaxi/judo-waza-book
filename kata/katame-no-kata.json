@@ -130,10 +130,26 @@
     {
       "provider": "kodokan",
       "platform": "youtube",
+      "id": "CZeolYWfkAA",
+      "title": "令和6年講道館鏡開式 固の形 取 中山智史 五段 受 林聖治 五段",
+      "duration": "9:48",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
       "id": "e1eAt15CEMY",
       "title": "Katame-no -Kata (English ver.)",
       "duration": "45:04",
       "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "zyTLmipWkb8",
+      "title": "固の形 日本語版",
+      "duration": "45:01",
+      "lang": "ja"
     },
     {
       "provider": "assorted",

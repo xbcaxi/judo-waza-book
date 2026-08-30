@@ -140,10 +140,26 @@
     {
       "provider": "kodokan",
       "platform": "youtube",
+      "id": "FC-90p3WF9E",
+      "title": "令和6年講道館鏡開式 投の形 取 南保徳双 七段 受 岩永憲門 五段",
+      "duration": "6:41",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
       "id": "bkhBZzE2HpM",
       "title": "Nage-no-Kata (English ver.)",
       "duration": "29:26",
       "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Suk2__BG69Q",
+      "title": "投の形（日本語版）",
+      "duration": "29:26",
+      "lang": "ja"
     },
     {
       "provider": "assorted",

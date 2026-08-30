@@ -134,10 +134,26 @@
     {
       "provider": "kodokan",
       "platform": "youtube",
+      "id": "Ti-ctPoEb3I",
+      "title": "令和6年講道館鏡開式 講道館護身術 取 青井大剛 六段 受 有川勇貴 六段",
+      "duration": "8:14",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
       "id": "ZbjWCm53Osg",
       "title": "Kodokan Goshin-jutsu (English ver.)",
       "duration": "36:41",
       "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "qcxKDm8Af7M",
+      "title": "講道館護身術 日本語版",
+      "duration": "36:30",
+      "lang": "ja"
     },
     {
       "provider": "assorted",

@@ -4,10 +4,10 @@
 kept because each one is waiting on a decision or a piece of coverage, not
 because nobody looked at them.
 
-THE KATA COLLECTION EXISTS NOW, and with it the fourteen recordings that were
-waiting for it have gone into `kata/`, along with thirty more from the
-Kodokan's own channel that this file was listing as unlinked. That is what the
-rest of this file describes as the thing that had not started yet; it has.
+THE KATA COLLECTION EXISTS NOW, and the fourteen recordings that were waiting
+for it have gone into `kata/`, along with thirty more from the Kodokan's own
+channel that this file was listing as unlinked. Forty-four of the hundred and
+thirty Kodokan videos here are now on a kata record.
 
 `video-candidates.json` holds the full list with a URL for each. Nothing here
 is published on the site.
@@ -25,9 +25,9 @@ demonstrations and teaching material waiting on coverage that has not started
 yet. Titles and durations only, no descriptions.
 
 `rfejyda-kata-videos.json` HELD nine kata videos linked from the Spanish
-federation's dan programme, and is gone: every one of them is now on a kata
-record. What it said is left below because the reasoning still holds for
-anything similar that arrives.
+federation's dan programme, and is gone: every one is on a kata record. What
+it said is kept below because the reasoning still holds for anything similar
+that arrives.
 
 That file described nine kata videos linked from the Spanish
 federation's dan programme. That document is hyperlinked throughout: 122

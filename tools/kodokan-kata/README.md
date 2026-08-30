@@ -1,4 +1,22 @@
-# Kodokan kata textbooks
+# Kodokan kata
+
+Three scripts, run in this order:
+
+    python3 tools/kodokan-kata/import-videos.py     # the records and their recordings
+    python3 tools/kodokan-kata/import-structure.py  # sets and order, from the textbooks
+    python3 tools/kodokan-kata/prune-backlog.py     # take the housed videos out of backlog/
+
+`import-videos.py` is re-runnable and `prune-backlog.py` is separate for that
+reason: a script that pruned its own input could only ever be run once, which
+is how fourteen recordings stayed missing through a fix that appeared to work.
+Re-running the first two rewrites the eleven records from the backlog files, so
+restore those from git first if they have already been pruned.
+
+MATCHING IS ROMAJI AND KANJI. The Kodokan titles its own recordings in either
+script: "Nage-no-Kata (English ver.)" beside "投の形（日本語版）", and a Kagami
+Biraki ceremony recording that names only the performers and the year. Matching
+romaji alone silently dropped every Japanese-language teaching recording and the
+whole 2024 ceremony, and left no trace: the records simply looked complete.
 
 `import-structure.py` filled the `sets` on seven kata records from the
 Kodokan's own *Kodokan KATA Textbook* series: Nage, Katame, Kime, Ju,

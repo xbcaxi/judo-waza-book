@@ -115,10 +115,26 @@
     {
       "provider": "kodokan",
       "platform": "youtube",
+      "id": "Hsvx-zNDEUo",
+      "title": "令和6年講道館鏡開式 極の形 取 道場良久 八段 受 向井幹博 七段",
+      "duration": "12:37",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
       "id": "1-YAOozPQNU",
       "title": "Kime-no-Kata (English ver.)",
       "duration": "42:46",
       "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "ZdIW_dHJ2wA",
+      "title": "極の形 日本語版",
+      "duration": "40:27",
+      "lang": "ja"
     }
   ],
   "links": [

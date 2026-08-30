@@ -121,10 +121,26 @@
     {
       "provider": "kodokan",
       "platform": "youtube",
+      "id": "mIaAGmxeK5I",
+      "title": "令和6年講道館鏡開式 古式の形 取 鮫島元成 八段 受 森脇保彦 八段",
+      "duration": "9:15",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
       "id": "n2_zAscgWpo",
       "title": "Koshiki-no-Kata (English ver.)",
       "duration": "50:33",
       "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "FQKaNu-woiY",
+      "title": "古式の形 日本語版",
+      "duration": "50:51",
+      "lang": "ja"
     }
   ],
   "links": [
