@@ -18,6 +18,18 @@
         }
       ]
     },
+    "nameKana": {
+      "default": null,
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
     "gloss": {
       "default": null,
       "anyOf": [
