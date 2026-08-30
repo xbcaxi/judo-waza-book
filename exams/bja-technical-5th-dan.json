@@ -1,0 +1,367 @@
+{
+  "title": {
+    "en": "5th Dan Technical Examination"
+  },
+  "organisation": "British Judo Association",
+  "country": "GB",
+  "summary": {
+    "en": "The BJA technical route to 5th Dan: twenty set techniques in their traditional form, prior learning chosen by the examiner, and performance skills in combination, counter and transition. Every section is passed at 80 per cent."
+  },
+  "source": {
+    "title": "5th Dan Grade TECHNICAL Mark Sheet",
+    "date": "October 2025",
+    "note": {
+      "en": "Transcribed from the official BJA mark sheet. The marking scale comes from the Guide for Dan Grade Evaluation of Competitive Skills and Technical Exam, issued 1 July 2025, and the framing from the Technical Dan Grade Scheme Assessment Guide. The forms are the authority; where this page and a current BJA form disagree, the form wins."
+    }
+  },
+  "marking": {
+    "en": "Every demonstration is scored from 0 to 10 in whole marks against the BJA's published criteria, where 10 is a close-to-perfect execution, 7 is a competently executed technique meeting all basic expectations, 6 lacks effective kuzushi, tsukuri, kake or core elements, and 0 is an omitted or unrelated technique. Sections 1 and 2 are demonstrated in the Kodokan canonical form with traditional grips; variations and unorthodox grips are permitted in Sections 3 to 5, discussed with the examiner first. The pass mark is 80 per cent of every section and of the whole, which is the difference from the competitive route rather than the content."
+  },
+  "levels": [
+    {
+      "label": {
+        "en": "5th Dan"
+      },
+      "passMark": 624,
+      "maxMarks": 780,
+      "requirements": [
+        {
+          "section": "fundamental-skills",
+          "requirement": {
+            "en": "All twenty techniques set for the grade. Pass mark 160."
+          },
+          "marks": 200
+        },
+        {
+          "section": "prior-learning",
+          "requirement": {
+            "en": "Five techniques from each grade below, chosen by the examiner: 20 in all. Pass mark 160."
+          },
+          "marks": 200
+        },
+        {
+          "section": "nage-waza-performance",
+          "requirement": {
+            "en": "Seven nage-waza, candidate's choice, each shown as a renzoku-waza, a renraku-waza and a kaeshi-waza. Pass mark 168."
+          },
+          "marks": 210
+        },
+        {
+          "section": "katame-waza-performance",
+          "requirement": {
+            "en": "Seven katame-waza, candidate's choice, each shown as a combination, an escape or a complex entry. Pass mark 56."
+          },
+          "marks": 70
+        },
+        {
+          "section": "transitions",
+          "requirement": {
+            "en": "Five nage-waza into osaekomi-waza and five into kansetsu-waza or shime-waza. Pass mark 80."
+          },
+          "marks": 100
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "slug": "fundamental-skills",
+      "title": {
+        "en": "Section 1: Fundamental Skills"
+      },
+      "notes": {
+        "en": "Twenty techniques set for the grade, demonstrated in the Kodokan canonical form with traditional grips. A technique the syllabus marks as dangerous must not be applied: it is explained only so far as the examiner can judge that the candidate understands it."
+      },
+      "groups": [
+        {
+          "label": {
+            "en": "Te-waza"
+          },
+          "items": [
+            {
+              "text": "Sukui-nage",
+              "techniques": [
+                "sukui-nage"
+              ]
+            },
+            {
+              "text": "Sumi-otoshi",
+              "techniques": [
+                "sumi-otoshi"
+              ]
+            },
+            {
+              "text": "Morote-gari",
+              "techniques": [
+                "morote-gari"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Koshi-waza"
+          },
+          "items": [
+            {
+              "text": "Uki-goshi",
+              "techniques": [
+                "uki-goshi"
+              ]
+            },
+            {
+              "text": "Tsuri-goshi",
+              "techniques": [
+                "tsuri-goshi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Ashi-waza"
+          },
+          "items": [
+            {
+              "text": "Okuri-ashi-harai",
+              "techniques": [
+                "okuri-ashi-harai"
+              ]
+            },
+            {
+              "text": "O-soto-guruma",
+              "techniques": [
+                "o-soto-guruma"
+              ]
+            },
+            {
+              "text": "Tsubame-gaeshi",
+              "techniques": [
+                "tsubame-gaeshi"
+              ]
+            },
+            {
+              "text": "Harai-goshi-gaeshi",
+              "techniques": [
+                "harai-goshi-gaeshi"
+              ]
+            },
+            {
+              "text": "Uchi-mata-gaeshi",
+              "techniques": [
+                "uchi-mata-gaeshi"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Ma-sutemi-waza"
+          },
+          "items": [
+            {
+              "text": "Ura-nage",
+              "techniques": [
+                "ura-nage"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Yoko-sutemi-waza"
+          },
+          "items": [
+            {
+              "text": "Uki-waza",
+              "techniques": [
+                "uki-waza"
+              ]
+            },
+            {
+              "text": "O-soto-makikomi",
+              "techniques": [
+                "o-soto-makikomi"
+              ]
+            },
+            {
+              "text": "Kawazu-gake",
+              "techniques": [
+                "kawazu-gake"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Osaekomi-waza"
+          },
+          "items": [
+            {
+              "text": "Kami-shiho-gatame",
+              "techniques": [
+                "kami-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Ura-gatame",
+              "techniques": [
+                "ura-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Shime-waza"
+          },
+          "items": [
+            {
+              "text": "Okuri-eri-jime",
+              "techniques": [
+                "okuri-eri-jime"
+              ]
+            },
+            {
+              "text": "Tsukkomi-jime",
+              "techniques": [
+                "tsukkomi-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Kansetsu-waza"
+          },
+          "items": [
+            {
+              "text": "Ude-hishigi-hiza-gatame",
+              "techniques": [
+                "hiza-gatame"
+              ]
+            },
+            {
+              "text": "Ude-hishigi-sankaku-gatame",
+              "techniques": [
+                "sankaku-gatame"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "prior-learning",
+      "title": {
+        "en": "Section 2: Fundamental Skills, Prior Learning (examiner's choice)"
+      },
+      "notes": {
+        "en": "Five techniques from each of the 1st Dan to 4th Dan fundamental skills, 20 in all, chosen by the examiner rather than the candidate. This is what makes the technical route broader as it goes up: nothing already passed stops being examinable."
+      },
+      "groups": [
+        {
+          "items": [
+            {
+              "text": "Five techniques from the 1st Dan fundamental skills"
+            },
+            {
+              "text": "Five techniques from the 2nd Dan fundamental skills"
+            },
+            {
+              "text": "Five techniques from the 3rd Dan fundamental skills"
+            },
+            {
+              "text": "Five techniques from the 4th Dan fundamental skills"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "nage-waza-performance",
+      "title": {
+        "en": "Section 3: Performance Skills, Nage-waza"
+      },
+      "notes": {
+        "en": "Select seven different nage-waza from the whole dan grade syllabus, including at least one from Section 1. Use each with any other nage-waza from the syllabus to show a renzoku-waza, a renraku-waza and a kaeshi-waza."
+      },
+      "groups": [
+        {
+          "items": [
+            {
+              "text": "Renzoku-waza",
+              "terms": [
+                "renzoku-waza"
+              ]
+            },
+            {
+              "text": "Renraku-waza",
+              "terms": [
+                "renraku-waza"
+              ]
+            },
+            {
+              "text": "Kaeshi-waza",
+              "terms": [
+                "kaeshi-waza"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "katame-waza-performance",
+      "title": {
+        "en": "Section 4: Performance Skills, Katame-waza"
+      },
+      "notes": {
+        "en": "Select seven different katame-waza from the whole dan grade syllabus, including at least one from Section 1. Use each to show a combination, an escape, or the technique with a complex entry."
+      },
+      "groups": [
+        {
+          "items": [
+            {
+              "text": "Combination"
+            },
+            {
+              "text": "Escape"
+            },
+            {
+              "text": "Complex Entry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "transitions",
+      "title": {
+        "en": "Section 5: Performance Skills, Transitions"
+      },
+      "notes": {
+        "en": "From the whole dan grade syllabus, demonstrate five nage-waza into osaekomi-waza and five nage-waza into kansetsu-waza or shime-waza."
+      },
+      "groups": [
+        {
+          "items": [
+            {
+              "text": "Osaekomi-waza",
+              "terms": [
+                "osaekomi-waza"
+              ]
+            },
+            {
+              "text": "Kansetsu-waza or Shime-waza",
+              "terms": [
+                "kansetsu-waza",
+                "shime-waza"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
