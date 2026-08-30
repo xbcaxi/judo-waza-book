@@ -5,13 +5,109 @@
   "about": null,
   "sets": [
     {
-      "name": "Osaekomi-waza"
+      "name": "Osaekomi-waza",
+      "items": [
+        {
+          "text": "Kesa-gatame",
+          "techniques": [
+            "kesa-gatame"
+          ]
+        },
+        {
+          "text": "Kata-gatame",
+          "techniques": [
+            "kata-gatame"
+          ]
+        },
+        {
+          "text": "Kami-shiho-gatame",
+          "techniques": [
+            "kami-shiho-gatame"
+          ]
+        },
+        {
+          "text": "Yoko-shiho-gatame",
+          "techniques": [
+            "yoko-shiho-gatame"
+          ]
+        },
+        {
+          "text": "Kuzure-kami-shiho-gatame",
+          "techniques": [
+            "kuzure-kami-shiho-gatame"
+          ]
+        }
+      ]
     },
     {
-      "name": "Shime-waza"
+      "name": "Shime-waza",
+      "items": [
+        {
+          "text": "Kata-juji-jime",
+          "techniques": [
+            "kata-juji-jime"
+          ]
+        },
+        {
+          "text": "Hadaka-jime",
+          "techniques": [
+            "hadaka-jime"
+          ]
+        },
+        {
+          "text": "Okuri-eri-jime",
+          "techniques": [
+            "okuri-eri-jime"
+          ]
+        },
+        {
+          "text": "Kataha-jime",
+          "techniques": [
+            "kata-ha-jime"
+          ]
+        },
+        {
+          "text": "Gyaku-juji-jime",
+          "techniques": [
+            "gyaku-juji-jime"
+          ]
+        }
+      ]
     },
     {
-      "name": "Kansetsu-waza"
+      "name": "Kansetsu-waza",
+      "items": [
+        {
+          "text": "Ude-garami",
+          "techniques": [
+            "ude-garami"
+          ]
+        },
+        {
+          "text": "Ude-hishigi-juji-gatame",
+          "techniques": [
+            "juji-gatame"
+          ]
+        },
+        {
+          "text": "Ude-hishigi-ude-gatame",
+          "techniques": [
+            "ude-gatame"
+          ]
+        },
+        {
+          "text": "Ude-hishigi-hiza-gatame",
+          "techniques": [
+            "hiza-gatame"
+          ]
+        },
+        {
+          "text": "Ashi-garami",
+          "techniques": [
+            "ashi-garami"
+          ]
+        }
+      ]
     }
   ],
   "videos": [
@@ -67,13 +163,21 @@
       }
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "title": "Katame-no-kata: the Kodokan’s kata textbook",
+      "url": "https://kdkjd.org/wp-content/uploads/2024/10/katame_no_kata.pdf",
+      "source": "Kodokan Judo Institute"
+    }
+  ],
   "image": null,
   "source": {
-    "title": "Kodokan Judo Institute recordings; Real Federación Española de Judo dan programme",
+    "title": "Kodokan KATA Textbook, official English translation",
     "date": "2026-08-30",
     "note": {
-      "en": "The Japanese name is as the Kodokan writes it in the titles of its own recordings of this form. The three sets as the Spanish federation’s dan programme lists them."
+      "en": "Sets and the order of the items within them, as the Kodokan’s own textbook lists them. Copyright in that textbook is the Kodokan Judo Institute’s and its instructions and photographs are not reproduced here."
     }
-  }
+  },
+  "adopted": "Adopted on April 10th, 1960",
+  "amended": "Amended on February 1st, 2006"
 }

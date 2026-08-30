@@ -5,19 +5,119 @@
   "about": null,
   "sets": [
     {
-      "name": "Te-waza"
+      "name": "Te-waza",
+      "items": [
+        {
+          "text": "Uki-otoshi",
+          "techniques": [
+            "uki-otoshi"
+          ]
+        },
+        {
+          "text": "Seoi-nage",
+          "techniques": [
+            "seoi-nage"
+          ]
+        },
+        {
+          "text": "Kata-guruma",
+          "techniques": [
+            "kata-guruma"
+          ]
+        }
+      ]
     },
     {
-      "name": "Koshi-waza"
+      "name": "Koshi-waza",
+      "items": [
+        {
+          "text": "Uki-goshi",
+          "techniques": [
+            "uki-goshi"
+          ]
+        },
+        {
+          "text": "Harai-goshi",
+          "techniques": [
+            "harai-goshi"
+          ]
+        },
+        {
+          "text": "Tsurikomi-goshi",
+          "techniques": [
+            "tsurikomi-goshi"
+          ]
+        }
+      ]
     },
     {
-      "name": "Ashi-waza"
+      "name": "Ashi-waza",
+      "items": [
+        {
+          "text": "Okuri-ashi-harai",
+          "techniques": [
+            "okuri-ashi-harai"
+          ]
+        },
+        {
+          "text": "Sasae-tsurikomi-ashi",
+          "techniques": [
+            "sasae-tsurikomi-ashi"
+          ]
+        },
+        {
+          "text": "Uchi-mata",
+          "techniques": [
+            "uchi-mata"
+          ]
+        }
+      ]
     },
     {
-      "name": "Ma-sutemi-waza"
+      "name": "Ma-sutemi-waza",
+      "items": [
+        {
+          "text": "Tomoe-nage",
+          "techniques": [
+            "tomoe-nage"
+          ]
+        },
+        {
+          "text": "Ura-nage",
+          "techniques": [
+            "ura-nage"
+          ]
+        },
+        {
+          "text": "Sumi-gaeshi",
+          "techniques": [
+            "sumi-gaeshi"
+          ]
+        }
+      ]
     },
     {
-      "name": "Yoko-sutemi-waza"
+      "name": "Yoko-sutemi-waza",
+      "items": [
+        {
+          "text": "Yoko-gake",
+          "techniques": [
+            "yoko-gake"
+          ]
+        },
+        {
+          "text": "Yoko-guruma",
+          "techniques": [
+            "yoko-guruma"
+          ]
+        },
+        {
+          "text": "Uki-waza",
+          "techniques": [
+            "uki-waza"
+          ]
+        }
+      ]
     }
   ],
   "videos": [
@@ -91,13 +191,21 @@
       }
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "title": "Nage-no-kata: the Kodokan’s kata textbook",
+      "url": "https://kdkjd.org/wp-content/uploads/2024/07/Kata-textbook-Nage-no-Kata-2nd-20150415.pdf",
+      "source": "Kodokan Judo Institute"
+    }
+  ],
   "image": null,
   "source": {
-    "title": "Kodokan Judo Institute recordings; Real Federación Española de Judo dan programme",
+    "title": "Kodokan KATA Textbook, official English translation",
     "date": "2026-08-30",
     "note": {
-      "en": "The Japanese name is as the Kodokan writes it in the titles of its own recordings of this form. The five sets as the Spanish federation’s dan programme lists them; its lower dan grades ask for the first three only."
+      "en": "Sets and the order of the items within them, as the Kodokan’s own textbook lists them. Copyright in that textbook is the Kodokan Judo Institute’s and its instructions and photographs are not reproduced here."
     }
-  }
+  },
+  "adopted": "Adopted on April 10th, 1960",
+  "amended": "Amended on November 1st, 2005"
 }

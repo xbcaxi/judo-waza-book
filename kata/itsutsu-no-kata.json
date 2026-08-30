@@ -3,7 +3,33 @@
   "nameJa": "五の形",
   "gloss": null,
   "about": null,
-  "sets": [],
+  "sets": [
+    {
+      "name": "The five movements",
+      "items": [
+        {
+          "text": "Ippon-me",
+          "techniques": []
+        },
+        {
+          "text": "Nihon-me",
+          "techniques": []
+        },
+        {
+          "text": "Sanbon-me",
+          "techniques": []
+        },
+        {
+          "text": "Yonhon-me",
+          "techniques": []
+        },
+        {
+          "text": "Gohon-me",
+          "techniques": []
+        }
+      ]
+    }
+  ],
   "videos": [
     {
       "provider": "kodokan",
@@ -36,13 +62,21 @@
       "title": "Itsutsu-no-kata"
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "title": "Itsutsu-no-kata: the Kodokan’s kata textbook",
+      "url": "https://kdkjd.org/wp-content/uploads/2025/01/Itsutsu-no-Kata.pdf",
+      "source": "Kodokan Judo Institute"
+    }
+  ],
   "image": null,
   "source": {
-    "title": "Kodokan Judo Institute recordings; Real Federación Española de Judo dan programme",
+    "title": "Kodokan KATA Textbook, official English translation",
     "date": "2026-08-30",
     "note": {
-      "en": "The Japanese name is as the Kodokan writes it in the titles of its own recordings of this form."
+      "en": "Sets and the order of the items within them, as the Kodokan’s own textbook lists them. Copyright in that textbook is the Kodokan Judo Institute’s and its instructions and photographs are not reproduced here."
     }
-  }
+  },
+  "adopted": "Revised on June 15th, 1992",
+  "amended": "Amended on October 1st, 2008"
 }

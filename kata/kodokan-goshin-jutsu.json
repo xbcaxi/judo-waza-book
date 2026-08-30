@@ -3,7 +3,117 @@
   "nameJa": "講道館護身術",
   "gloss": null,
   "about": null,
-  "sets": [],
+  "sets": [
+    {
+      "name": "Unarmed section: when held",
+      "items": [
+        {
+          "text": "Ryote-dori",
+          "techniques": []
+        },
+        {
+          "text": "Hidari-eri-dori",
+          "techniques": []
+        },
+        {
+          "text": "Migi-eri-dori",
+          "techniques": []
+        },
+        {
+          "text": "Kataude-dori",
+          "techniques": []
+        },
+        {
+          "text": "Ushiro-eri-dori",
+          "techniques": []
+        },
+        {
+          "text": "Ushiro-jime",
+          "techniques": []
+        },
+        {
+          "text": "Kakae-dori",
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "name": "Unarmed section: when attacked from a distance",
+      "items": [
+        {
+          "text": "Naname-uchi",
+          "techniques": []
+        },
+        {
+          "text": "Ago-tsuki",
+          "techniques": []
+        },
+        {
+          "text": "Ganmen-tsuki",
+          "techniques": []
+        },
+        {
+          "text": "Mae-geri",
+          "techniques": []
+        },
+        {
+          "text": "Yoko-geri",
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "name": "Weapons section: against a dagger",
+      "items": [
+        {
+          "text": "Tsukkake",
+          "techniques": []
+        },
+        {
+          "text": "Choku-tsuki",
+          "techniques": []
+        },
+        {
+          "text": "Naname-tsuki",
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "name": "Weapons section: against a staff",
+      "items": [
+        {
+          "text": "Furi-age",
+          "techniques": []
+        },
+        {
+          "text": "Furi-oroshi",
+          "techniques": []
+        },
+        {
+          "text": "Morote-tsuki",
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "name": "Weapons section: against a pistol",
+      "items": [
+        {
+          "text": "Shomen-zuke",
+          "techniques": []
+        },
+        {
+          "text": "Koshi-gamae",
+          "techniques": []
+        },
+        {
+          "text": "Haimen-zuke",
+          "techniques": []
+        }
+      ]
+    }
+  ],
   "videos": [
     {
       "provider": "kodokan",
@@ -39,13 +149,21 @@
       }
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "title": "Kodokan Goshin-jutsu: the Kodokan’s kata textbook",
+      "url": "https://kdkjd.org/wp-content/uploads/2024/07/goshin_jutsu.pdf",
+      "source": "Kodokan Judo Institute"
+    }
+  ],
   "image": null,
   "source": {
-    "title": "Kodokan Judo Institute recordings; Real Federación Española de Judo dan programme",
+    "title": "Kodokan KATA Textbook, official English translation",
     "date": "2026-08-30",
     "note": {
-      "en": "The Japanese name is as the Kodokan writes it in the titles of its own recordings of this form."
+      "en": "Sets and the order of the items within them, as the Kodokan’s own textbook lists them. Copyright in that textbook is the Kodokan Judo Institute’s and its instructions and photographs are not reproduced here."
     }
-  }
+  },
+  "adopted": null,
+  "amended": null
 }

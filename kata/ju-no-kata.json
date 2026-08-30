@@ -3,7 +3,83 @@
   "nameJa": "柔の形",
   "gloss": null,
   "about": null,
-  "sets": [],
+  "sets": [
+    {
+      "name": "Dai-ikkyo (Set 1)",
+      "items": [
+        {
+          "text": "Tsuki-dashi",
+          "techniques": []
+        },
+        {
+          "text": "Kata-oshi",
+          "techniques": []
+        },
+        {
+          "text": "Ryote-dori",
+          "techniques": []
+        },
+        {
+          "text": "Kata-mawashi",
+          "techniques": []
+        },
+        {
+          "text": "Ago-oshi",
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "name": "Dai-nikyo (Set 2)",
+      "items": [
+        {
+          "text": "Kiri-oroshi",
+          "techniques": []
+        },
+        {
+          "text": "Ryokata-oshi",
+          "techniques": []
+        },
+        {
+          "text": "Naname-uchi",
+          "techniques": []
+        },
+        {
+          "text": "Katate-dori",
+          "techniques": []
+        },
+        {
+          "text": "Katate-age",
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "name": "Dai-sankyo (Set 3)",
+      "items": [
+        {
+          "text": "Obi-tori",
+          "techniques": []
+        },
+        {
+          "text": "Mune-oshi",
+          "techniques": []
+        },
+        {
+          "text": "Tsuki-age",
+          "techniques": []
+        },
+        {
+          "text": "Uchi-oroshi",
+          "techniques": []
+        },
+        {
+          "text": "Ryogan-tsuki",
+          "techniques": []
+        }
+      ]
+    }
+  ],
   "videos": [
     {
       "provider": "kodokan",
@@ -36,13 +112,21 @@
       "title": "Ju-no-kata"
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "title": "Ju-no-kata: the Kodokan’s kata textbook",
+      "url": "https://kdkjd.org/wp-content/uploads/2024/07/ju_no_kata.pdf",
+      "source": "Kodokan Judo Institute"
+    }
+  ],
   "image": null,
   "source": {
-    "title": "Kodokan Judo Institute recordings; Real Federación Española de Judo dan programme",
+    "title": "Kodokan KATA Textbook, official English translation",
     "date": "2026-08-30",
     "note": {
-      "en": "The Japanese name is as the Kodokan writes it in the titles of its own recordings of this form."
+      "en": "Sets and the order of the items within them, as the Kodokan’s own textbook lists them. Copyright in that textbook is the Kodokan Judo Institute’s and its instructions and photographs are not reproduced here."
     }
-  }
+  },
+  "adopted": "Revised on July 7th, 1977",
+  "amended": "Amended on June 1st, 2007"
 }
