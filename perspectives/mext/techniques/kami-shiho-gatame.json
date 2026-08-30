@@ -1,0 +1,124 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Explanation of the technique",
+        "ja": "技の説明"
+      },
+      "prose": {
+        "en": "Tori takes a position at uke's head, lies face down and places his body over uke's upper body. He passes both arms in from outside the points of uke's shoulders, grips both sides of the belt to control uke's arms, spreads both legs wide, and holds uke down by pressing uke's head and chest with his own chest."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p004",
+          "printedPage": "144",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Basic way of holding",
+        "ja": "基本の抑え方"
+      },
+      "prose": {
+        "en": "Image of the entry and of the hold Tori enters and settles into kami-shiho-gatame. Tori grips both sides of uke's belt with both hands, brings chest to chest, and holds uke down while controlling the upper body."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p004",
+          "printedPage": "144",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How uke responds",
+        "ja": "受の応じ方"
+      },
+      "prose": {
+        "en": "Uke pushes tori away and twists over onto his front. Uke places both hands on tori's shoulders or on his side, pushes him away and twists his body to turn face down."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p004",
+          "printedPage": "144",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Basic way of entering",
+        "ja": "基本的な入り方"
+      },
+      "prose": {
+        "en": "Tori comes in from the direction of uke's feet and turns him into the hold. Tori holds uke down while drawing in both sides of the belt from the direction of uke's feet."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p004",
+          "printedPage": "144",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Faults that are easy to fall into",
+        "ja": "陥りやすい欠点"
+      },
+      "prose": {
+        "en": "Tori should hold uke down while controlling uke's arms from above."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p004",
+          "printedPage": "144",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points of safety instruction",
+        "ja": "安全指導のポイント"
+      },
+      "prose": {
+        "en": "Uke should not try to escape in a posture that strains the neck or the back."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p004",
+          "printedPage": "144",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_10/p004",
+      "printedPage": "144",
+      "nameInSource": "Kami-shiho-gatame",
+      "textJa": "－144－\n第４章　技能指導の要点\n⑴　技の説明\n　「取」は「受」の頭の方に位置し、\n「受」の上体の上にふせて体を乗せる。\n両腕を「受」の肩先外側より入れて両横\n帯を握り腕を制し、両脚を大きく開き胸\nで「受」の頭、胸を圧して抑える。\n⑵　基本の抑え方\n⑶　受の応じ方\n⑷　基本的な入り方\n⑸　指導上の留意点\n　①　陥りやすい欠点　　　　　　　　　　　　　　　　　　②　安全指導のポイント\n「取」は、「受」の横帯を両手で握り、胸を合わせて、上体を制しながら抑える\n「取」は、「受」の足方向から両帯を引きつけながら抑える\n「受」は、両手を「取」の肩や体側に当て、突き放しながら体をひねってうつぶせになる\n入り方と抑え方のイメージ\n「取」は、\n「受」\nの腕を上から\n制して抑える\nようにする\n「受」は、\n首や背中に\n無理な体勢\nで逃げよう\nとしない\n上四方固め",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    }
+  ]
+}

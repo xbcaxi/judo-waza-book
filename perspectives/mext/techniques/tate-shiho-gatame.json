@@ -1,0 +1,124 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Explanation of the technique",
+        "ja": "技の説明"
+      },
+      "prose": {
+        "en": "Tori lies over uke and holds him down by pressing on uke's upper body. He controls uke's legs from the outside by bringing the heels of his own feet against them."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p005",
+          "printedPage": "145",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Basic way of holding",
+        "ja": "基本の抑え方"
+      },
+      "prose": {
+        "en": "Image of the entry and of the hold Tori mounts uke's upper body and settles into tate-shiho-gatame. Tori rides on uke's upper body and holds him down while controlling both of uke's legs."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p005",
+          "printedPage": "145",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How uke responds",
+        "ja": "受の応じ方"
+      },
+      "prose": {
+        "en": "Uke frees the controlled leg and hooks it around tori's leg. Uke frees the leg that is being controlled and entangles tori's leg."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p005",
+          "printedPage": "145",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Basic way of entering",
+        "ja": "基本的な入り方"
+      },
+      "prose": {
+        "en": "Tori rotates uke to the right and settles onto his upper body. Tori holds uke down while rotating him to the right and controlling his upper body."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p005",
+          "printedPage": "145",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Faults that are easy to fall into",
+        "ja": "陥りやすい欠点"
+      },
+      "prose": {
+        "en": "Tori should come up on his toes and bring the heels of both of his own feet in against uke."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p005",
+          "printedPage": "145",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points of safety instruction",
+        "ja": "安全指導のポイント"
+      },
+      "prose": {
+        "en": "Tori should not control uke's legs more than is necessary."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p005",
+          "printedPage": "145",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_10/p005",
+      "printedPage": "145",
+      "nameInSource": "Tate-shiho-gatame",
+      "textJa": "－145－\n第2 節　対人的技能\n第\n２\n節\n⑴　技の説明\n　「取」は「受」の上に重なり、「受」の\n上半身を圧して抑える。「受」の両脚を\n外側から自分の両足の踵をつけるように\nして制する。\n⑵　基本の抑え方\n⑶　受の応じ方\n⑷　基本的な入り方\n⑸　指導上の留意点\n　①　陥りやすい欠点　　　　　　　　　　　　　　　②　安全指導のポイント\n「取」は、「受」の上体に乗り、「受」の両脚を制しながら抑える\n「取」は、「受」を右方向へ回転させながら、上体を制して抑える\n「受」は、制されている脚を外して、「取」の脚をからめる\n入り方と抑え方のイメージ\n「取」は、つま先\nを立て自分の両\n足の踵をつける\nようにする\n「取」は、\n「受」の\n脚を必要以上に\n制さない\n縦四方固め",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    }
+  ]
+}

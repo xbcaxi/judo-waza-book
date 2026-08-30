@@ -1,0 +1,124 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Explanation of the technique",
+        "ja": "技の説明"
+      },
+      "prose": {
+        "en": "Tori breaks uke's balance forward, lifts uke up so that the right elbow enters under uke's left armpit, overlaps with uke, and: using the extension of both knees, the hikite (pulling hand) and the lifted right arm: loads uke onto the hips and throws uke forward."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p008",
+          "printedPage": "128",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How to apply the technique",
+        "ja": "技のかけ方"
+      },
+      "prose": {
+        "en": "Image of the technique and the ukemi (breakfall) From kumi-kata, tori turns in with mae-mawari-sabaki, loads uke onto the hips and throws forward; uke lands taking ukemi. Tori uses mae-mawari-sabaki (forward turning body movement) to break uke's balance forward, and throws uke forward. How to take the ukemi: In time with tori's tsurikomi-goshi, uke does not pull the hips back and takes mae-mawari-ukemi (forward rolling breakfall). Cooperation of uke: So that tori does not bend forward, uke arches the upper body moderately even when lifted."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p008",
+          "printedPage": "128",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Elementary way of applying it",
+        "ja": "初歩のかけ方"
+      },
+      "prose": {
+        "en": "Tori throws uke forward without lifting uke off the mat. Tori uses mae-mawari-sabaki (forward turning body movement) and throws uke forward without lifting uke up. How to take the ukemi: Uke rotates sideways about the right foot and takes yoko-ukemi (side breakfall)."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p008",
+          "printedPage": "128",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Opportunities for applying the technique",
+        "ja": "技をかける機会"
+      },
+      "prose": {
+        "en": "Tori pushes uke; at the moment uke stops, tori turns in with mae-mawari-sabaki and applies the technique. Push uke, and at the moment uke comes to a stop, apply the technique with mae-mawari-sabaki (forward turning body movement)."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p008",
+          "printedPage": "128",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Faults that are easy to fall into",
+        "ja": "陥りやすい欠点"
+      },
+      "prose": {
+        "en": "Do not apply the technique with tori's elbow sticking out to the side. Uke's balance is not broken sufficiently, and tori's own balance collapses backwards."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p008",
+          "printedPage": "128",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points for safety instruction",
+        "ja": "安全指導のポイント"
+      },
+      "prose": {
+        "en": "Do not apply the technique bent forward, in a posture that drives the head into the mat."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p008",
+          "printedPage": "128",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_08/p008",
+      "printedPage": "128",
+      "nameInSource": "Tsurikomi-goshi",
+      "textJa": "－128－\n第４章　技能指導の要点\n⑴　技の説明\n　「取」は、「受」を前に崩し、「受」の左腋下に右肘が入る様に釣\nり上げ、「受」と重なり、両膝の伸展、引き手、釣り上げた右腕を\n使って、「受」を腰に乗せて前方に投げる。\n⑵　技のかけ方　\n　①　初歩のかけ方\n⑶　技をかける機会\n⑷　指導上の留意点\n　①　陥りやすい欠点　　　　　　　　　　　　　　　　　　　②　安全指導のポイント\n　　\n「取」は、前回りさばきで、「受」を持ち上げずに、前方へ投げる\n受け身のとり方\n「受」は、右足を軸に横回転\nしながら、横受け身をとる\n「受」を押し、止まったときに前回りさばきでかける\n受け身のとり方\n「受」は、「取」の釣り込み\n腰に合わせて、腰を引かず\nに前回り受け身をとる\n受の協力\n「取」が前かがみにならな\nい様に、持ち上げられても\n上体を適度に反る\n技と受け身のイメージ\n「取」は、前回りさばきで、「受」を前に崩し、前方に投げる\n釣り込み腰\n「取」の肘\nが外に出た\n姿勢でかけ\nない\n「受」を、十\n分に崩せず、\n「取」が後ろ\nに崩れる\n前屈して、頭\nから畳に突っ\n込む姿勢で技\nをかけない",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Explanation of the technique",
+        "ja": "技の説明"
+      },
+      "prose": {
+        "en": "Tori breaks uke's balance to the right front corner, places the left leg in front of uke's right foot and, sacrificing his own body to the side, spreads out and uses both hands to draw uke's body still further to the right front corner and throw him."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p001",
+          "printedPage": "141",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How to apply the technique",
+        "ja": "技のかけ方"
+      },
+      "prose": {
+        "en": "Image of the technique and the ukemi (breakfall) Tori breaks uke to the right front, steps the left leg out, and throws while sacrificing his body to the side. Uke's cooperation: Uke takes a mae-mawari-ukemi (forward rolling breakfall), pivoting on the right foot. Tori breaks uke to the right front, steps the left leg out, and throws while sacrificing his body to the side. ① Elementary way of applying the technique The elementary form of uki-waza; the red circle marks uke's right foot, the pivot point. Uke, pivoting on the right foot, takes a mae-mawari-ukemi of his own accord."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p001",
+          "printedPage": "141",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Opportunities for applying the technique",
+        "ja": "技をかける機会"
+      },
+      "prose": {
+        "en": "Tori breaks uke to the left front corner with the tsuri-te and applies the technique as uke pushes back. Apply the technique at the moment when uke, having once been broken to the left front corner by the tsuri-te (lifting hand), pushes back."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p001",
+          "printedPage": "141",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Faults that are easy to fall into",
+        "ja": "陥りやすい欠点"
+      },
+      "prose": {
+        "en": "Tori should draw the hikite (pulling hand) out fully, break uke's balance to the front, and throw in that way."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p001",
+          "printedPage": "141",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points of safety instruction",
+        "ja": "安全指導のポイント"
+      },
+      "prose": {
+        "en": "Uke takes a mae-mawari-ukemi of his own accord so that he does not land on his right shoulder."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p001",
+          "printedPage": "141",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_10/p001",
+      "printedPage": "141",
+      "nameInSource": "Uki-waza",
+      "textJa": "－141－\n第2 節　対人的技能\n第\n２\n節\n⑴　技の説明\n　「取」は、「受」を右前すみに崩し、左脚を「受」の右足前\nに、体を側方に捨てながら開きだし両手を使って、「受」の\n体をさらに右前隅に引いて投げる。\n⑵　技のかけ方\n　①　初歩のかけ方\n⑶　技をかける機会\n⑷　指導上の留意点\n　①　陥りやすい欠点　　　　　　　　　　　　　　②　安全指導のポイント\n技と受け身のイメージ\n受の協力\n「受」は、右足を支点に、\n前回り受け身をとる\n「取」は、「受」を右前に崩して、左脚を踏み出し、体を側方に捨てながら投げる\n「受」を釣り手で一度左前すみに崩し押し返したところに、技をかける\n「受」は、右足を支点に、自分から前回り受け身をとる\n「取」は、引き\n手を十分に引き\n出し、前方向に\n崩して、投げる\nようにする\n「受」は、右肩\nから落ちないよ\nうに自ら前まわ\nり受け身をとる\n浮き技",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    }
+  ]
+}

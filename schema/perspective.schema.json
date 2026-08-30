@@ -2,6 +2,42 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
   "properties": {
+    "source": {
+      "type": "object",
+      "properties": {
+        "sourceId": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        },
+        "jurisdiction": {
+          "type": "string",
+          "pattern": "^[A-Z]{2}$"
+        },
+        "pathway": {
+          "type": "string",
+          "minLength": 1
+        },
+        "population": {
+          "type": "string",
+          "minLength": 1
+        },
+        "evidenceLabel": {
+          "type": "string",
+          "minLength": 1
+        },
+        "translationStatus": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "sourceId",
+        "jurisdiction",
+        "pathway",
+        "population",
+        "evidenceLabel"
+      ]
+    },
     "sections": {
       "minItems": 1,
       "type": "array",
@@ -10,21 +46,90 @@
         "properties": {
           "kind": {
             "type": "string",
-            "enum": ["examining", "coaching", "safety", "terminology", "context"],
-            "description": "What this section IS, so the site can place and label it: examining (what this organisation's examiners look for), coaching (how it teaches the technique), safety (its local restrictions or matting rules), terminology (what it calls things), context (anything else worth saying)."
+            "enum": [
+              "examining",
+              "coaching",
+              "safety",
+              "terminology",
+              "context"
+            ]
           },
           "heading": {
-            "$ref": "#/definitions/localisedText"
+            "allOf": [
+              {
+                "$ref": "#/definitions/localisedText"
+              }
+            ]
           },
           "prose": {
-            "$ref": "#/definitions/localisedText"
+            "allOf": [
+              {
+                "$ref": "#/definitions/localisedText"
+              }
+            ]
           },
           "steps": {
-            "$ref": "#/definitions/localisedSteps"
+            "allOf": [
+              {
+                "$ref": "#/definitions/localisedSteps"
+              }
+            ]
+          },
+          "pages": {
+            "minItems": 1,
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/sourcePageRef"
+            }
           }
         },
-        "required": ["kind"],
-        "additionalProperties": false
+        "required": [
+          "kind"
+        ]
+      }
+    },
+    "sourcePages": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "recordId": {
+            "type": "string",
+            "minLength": 1
+          },
+          "printedPage": {
+            "type": "string",
+            "minLength": 1
+          },
+          "jaSource": {
+            "type": "string",
+            "enum": [
+              "pdf_text",
+              "ocr",
+              "none"
+            ]
+          },
+          "nameInSource": {
+            "type": "string",
+            "minLength": 1
+          },
+          "textJa": {
+            "type": "string"
+          },
+          "figureTextConfidence": {
+            "type": "string",
+            "enum": [
+              "normal",
+              "medium",
+              "low"
+            ]
+          }
+        },
+        "required": [
+          "recordId",
+          "printedPage"
+        ]
       }
     },
     "videos": {
@@ -35,30 +140,16 @@
       }
     },
     "links": {
+      "default": [],
       "type": "array",
       "items": {
-        "type": "object",
-        "properties": {
-          "title": {
-            "type": "string",
-            "minLength": 1
-          },
-          "url": {
-            "type": "string",
-            "format": "uri"
-          },
-          "source": {
-            "type": "string",
-            "minLength": 1
-          }
-        },
-        "required": ["title", "url"],
-        "additionalProperties": false
+        "$ref": "#/definitions/linkRef"
       }
     }
   },
-  "required": ["sections"],
-  "additionalProperties": false,
+  "required": [
+    "sections"
+  ],
   "definitions": {
     "localisedText": {
       "type": "object",
@@ -68,7 +159,9 @@
           "minLength": 1
         }
       },
-      "required": ["en"],
+      "required": [
+        "en"
+      ],
       "additionalProperties": {
         "type": "string",
         "minLength": 1
@@ -87,7 +180,9 @@
           }
         }
       },
-      "required": ["en"],
+      "required": [
+        "en"
+      ],
       "additionalProperties": {
         "minItems": 2,
         "type": "array",
@@ -98,6 +193,31 @@
       },
       "description": "Ordered movement steps per language (at least two); \"en\" required."
     },
+    "sourcePageRef": {
+      "type": "object",
+      "properties": {
+        "recordId": {
+          "type": "string",
+          "minLength": 1
+        },
+        "printedPage": {
+          "type": "string",
+          "minLength": 1
+        },
+        "jaSource": {
+          "type": "string",
+          "enum": [
+            "pdf_text",
+            "ocr",
+            "none"
+          ]
+        }
+      },
+      "required": [
+        "recordId",
+        "printedPage"
+      ]
+    },
     "video": {
       "type": "object",
       "properties": {
@@ -107,7 +227,10 @@
         },
         "platform": {
           "type": "string",
-          "enum": ["youtube", "vimeo"]
+          "enum": [
+            "youtube",
+            "vimeo"
+          ]
         },
         "id": {
           "type": "string",
@@ -123,7 +246,11 @@
           "minLength": 1
         },
         "note": {
-          "$ref": "#/definitions/localisedText"
+          "allOf": [
+            {
+              "$ref": "#/definitions/localisedText"
+            }
+          ]
         },
         "duration": {
           "type": "string",
@@ -147,9 +274,36 @@
           "type": "boolean"
         }
       },
-      "required": ["provider", "platform", "id", "title"]
+      "required": [
+        "provider",
+        "platform",
+        "id",
+        "title"
+      ]
+    },
+    "linkRef": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "source": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "title",
+        "url",
+        "source"
+      ]
     }
   },
   "title": "perspective",
-  "description": "One organisation's voice on one thing, layered OVER the record for readers who opt into that organisation's view - never shown by default, never a fork. The file is filed by what it speaks about: perspectives/<organisation>/techniques/<slug>.json or perspectives/<organisation>/exams/<slug>.json, every part of the path existing in its own collection. A perspective ADDS context (what examiners look for, how the club teaches it, how to prepare for an examination, local safety rules, terminology); a disagreement with the canonical content is a pull request against that file for everyone, not a shadow version here. Techniques are canonical and org-neutral, so any organisation may speak on one - but the banned rule inherits, so a technique documented for recognition only takes no step-by-step here either. An exam is one organisation's document, so only that organisation and the bodies beneath it (its affiliates and their clubs) may speak on it - the natural home for preparation guidance the printed form deliberately has no field for."
+  "description": "One organisation's voice on one technique or one examination, layered over the record for readers who opt into that organisation's view. Filed by what it speaks about: perspectives/<organisation>/techniques/<slug>.json. A perspective ADDS context and never forks the record. Where it was transcribed from a published document it carries `source`, because the same sentence means different things depending on the population the document was written for."
 }

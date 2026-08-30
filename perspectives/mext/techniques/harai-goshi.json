@@ -1,0 +1,124 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Explanation of the technique",
+        "ja": "技の説明"
+      },
+      "prose": {
+        "en": "Tori breaks uke's balance to the right front corner, draws uke in firmly, and: pivoting on the left foot: sweeps up the outside of uke's right leg from the front with the right leg, throwing uke forward."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p010",
+          "printedPage": "130",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How to apply the technique",
+        "ja": "技のかけ方"
+      },
+      "prose": {
+        "en": "Image of the technique and the ukemi (breakfall) From kumi-kata, tori turns in with mae-mawari-sabaki, sweeps uke's right leg and throws uke forward; uke lands taking ukemi. Tori uses mae-mawari-sabaki (forward turning body movement) to break uke's balance forward, sweeps uke's right leg with the right leg, and throws uke forward. Cooperation of uke: So that tori does not bend forward, uke is thrown while arching the upper body moderately. How to take the ukemi: In time with tori's harai-goshi, uke takes mae-mawari-ukemi (forward rolling breakfall)."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p010",
+          "printedPage": "130",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Elementary way of applying it",
+        "ja": "初歩のかけ方"
+      },
+      "prose": {
+        "en": "Tori sweeps lightly with the right leg and throws uke forward. Tori uses mae-mawari-sabaki (forward turning body movement), sweeps uke lightly with the right leg, and throws uke forward. How to take the ukemi: Uke rotates sideways about the right foot and takes yoko-ukemi (side breakfall)."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p010",
+          "printedPage": "130",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Opportunities for applying the technique",
+        "ja": "技をかける機会"
+      },
+      "prose": {
+        "en": "Tori pushes uke; as uke pushes back, tori turns in with ushiro-mawari-sabaki and applies the technique. Push uke, and at the moment uke pushes back, apply the technique with ushiro-mawari-sabaki (backward turning body movement)."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p010",
+          "printedPage": "130",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Faults that are easy to fall into",
+        "ja": "陥りやすい欠点"
+      },
+      "prose": {
+        "en": "Tori's tsurite (lifting hand) is stretched out, so the kuzushi (breaking of balance) is not working."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p010",
+          "printedPage": "130",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points for safety instruction",
+        "ja": "安全指導のポイント"
+      },
+      "prose": {
+        "en": "Do not apply the technique bent forward, in a posture that drives the head into the mat."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p010",
+          "printedPage": "130",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_08/p010",
+      "printedPage": "130",
+      "nameInSource": "Harai-goshi",
+      "textJa": "－130－\n第４章　技能指導の要点\n【まわし技系　Ⅱ】\n⑴　技の説明\n　「取」は、「受」を右前すみに崩し、「受」をしっかりと引きつけ、\n左足を軸に右脚で前方から「受」の右脚外側を払い上げ、前方に投\nげる。\n⑵　技のかけ方\n　①　初歩のかけ方\n⑶　技をかける機会\n⑷　指導上の留意点\n　①　陥りやすい欠点　　　　　　　　　　　　②　安全指導のポイント\n受け身のとり方\n「受」は、右足を軸\nに横回転しながら、\n横受け身をとる\n「取」は、前回りさばきで、「受」を右脚で軽く払い、前方へ投げる\n「受」を押して、押し返してきたところに後ろ回りさばきでかける\n「取」のつり手\nが伸び、崩しが\n効いていない\n前屈して、頭か\nら畳に突っ込む\n姿勢で技をかけ\nない\n技と受け身のイメージ\n「取」は、前回りさばきで、「受」を前に崩し、右脚で「受」の右脚を払って、前方に投げる\n受の協力\n「取」が前かがみにならな\nい様に、上体を適度に反ら\nせながら投げられる\n受け身のと\nり方\n「受」は、\n「取」の払\nい腰に合わ\nせて、前回\nり受け身を\nとる\n払い腰",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    }
+  ]
+}

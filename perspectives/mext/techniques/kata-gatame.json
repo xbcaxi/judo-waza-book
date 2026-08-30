@@ -1,0 +1,124 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Explanation of the technique",
+        "ja": "技の説明"
+      },
+      "prose": {
+        "en": "Tori sets his right knee down at uke's right side, cradles uke's neck with his right arm from uke's left side, and clasps both hands together in front of uke's face. Uke's right arm is trapped between the two heads, and tori holds him down by pressing that arm with the right side of his own head."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p006",
+          "printedPage": "146",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Basic way of holding",
+        "ja": "基本の抑え方"
+      },
+      "prose": {
+        "en": "Image of the entry and of the hold Tori enters and settles into kata-gatame. Tori holds uke down while controlling uke's right arm and head."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p006",
+          "printedPage": "146",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How uke responds",
+        "ja": "受の応じ方"
+      },
+      "prose": {
+        "en": "Uke rolls backwards and comes onto his front. Uke rolls backwards and turns face down."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p006",
+          "printedPage": "146",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Basic way of entering",
+        "ja": "基本的な入り方"
+      },
+      "prose": {
+        "en": "Tori uses both legs to roll uke sideways into the hold. Tori uses both legs to turn uke over sideways and hold him down."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p006",
+          "printedPage": "146",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Faults that are easy to fall into",
+        "ja": "陥りやすい欠点"
+      },
+      "prose": {
+        "en": "Tori should bend his knee and come up on his toes as he holds uke down."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p006",
+          "printedPage": "146",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points of safety instruction",
+        "ja": "安全指導のポイント"
+      },
+      "prose": {
+        "en": "If uke becomes distressed, he should not force it but should give the signal for *maitta* (\"I give in\")."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p006",
+          "printedPage": "146",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_10/p006",
+      "printedPage": "146",
+      "nameInSource": "Kata-gatame",
+      "textJa": "－146－\n第４章　技能指導の要点\n【肩固め系】\n⑴　技の説明\n　「取」は「受」の右体側に右膝をつき、\n右腕で「受」の左側から首を抱え顔の前で\n両手を組む。互いの頭の間に「受」の右腕\nを挟み、その腕を右側頭部で圧して抑える。\n⑵　基本の抑え方\n⑶　受の応じ方\n⑷　基本的な入り方\n⑸　指導上の留意点\n　①　陥りやすい欠点　　　　　　　　　　　　　　②　安全指導のポイント\n「取」は、「受」の右腕と頭を制しながら抑える\n「取」は、両脚を使って、「受」を横に返しながら抑える\n「受」は、後転してうつぶせになる\n入り方と抑え方のイメージ\n「取」は、膝を\n曲げつま先を立\nてて抑えるよう\nにする\n「受」は、苦\nしくなったら\n無理をせず\n「参った」の\n合図をさせる\n肩固め",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    }
+  ]
+}

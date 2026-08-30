@@ -1,0 +1,124 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Explanation of the technique",
+        "ja": "技の説明"
+      },
+      "prose": {
+        "en": "Tori breaks uke's balance toward the left rear corner, bends the right knee, places the back of the right knee against the back of uke's left knee from the inside, and reaps in an arc, as though drawing a semicircle, to throw uke."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p008",
+          "printedPage": "138",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How to apply the technique",
+        "ja": "技のかけ方"
+      },
+      "prose": {
+        "en": "Image of the technique and the ukemi (breakfall). In the last frame tori's grip on uke's sleeve is circled in red. Uke's cooperation: As the left leg is reaped, uke takes ushiro-ukemi (rear breakfall) supported on the right foot. Tori's cooperation: Tori pulls up on uke's right sleeve so that uke can take a solid ukemi. Tori, using a forward tai-sabaki (body movement), breaks uke's balance to the rear and throws by reaping the back of uke's left knee with the right leg."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p008",
+          "printedPage": "138",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Introductory way of applying the technique",
+        "ja": "初歩のかけ方"
+      },
+      "prose": {
+        "en": "Tori reaps uke, who is down on one knee, from the inside and throws."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p008",
+          "printedPage": "138",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Opportunities to apply the technique",
+        "ja": "技をかける機会"
+      },
+      "prose": {
+        "en": "When uke steps back, apply o-uchi-gari with a forward tai-sabaki."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p008",
+          "printedPage": "138",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Faults that are easy to fall into",
+        "ja": "陥りやすい欠点"
+      },
+      "prose": {
+        "en": "Tori should not let the reaping position become too high."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p008",
+          "printedPage": "138",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points for safe instruction",
+        "ja": "安全指導のポイント"
+      },
+      "prose": {
+        "en": "Do not fall together with uke. Tori stands firmly and pulls with the pulling hand (hikite). Uke does not cling to tori."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p008",
+          "printedPage": "138",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_09/p008",
+      "printedPage": "138",
+      "nameInSource": "O-uchi-gari",
+      "textJa": "－138－\n第４章　技能指導の要点\n⑴　技の説明\n　「取」は、「受」を左後ろすみに崩し、右脚の膝を曲げて、「受」\nの左膝の裏部分に内側から右膝裏部分を当て、半円を描く様に刈っ\nて投げる。\n⑵　技のかけ方\n　①　初歩のかけ方\n⑶　技をかける機会\n⑷　指導上の留意点\n　①　陥りやすい欠点　　　　　　　　　　②　安全指導のポイント\n「取」は前さばきで「受」を後ろに崩し、右脚で「受」の左膝裏を刈って投げる\n同体で倒れない。\n「取」はしっかりと\n立ち引き手を引く。\n「受」は「取」にし\nがみつかない\n「受」が後ろにさがる時に、前さばきで大内刈りをかける\n片膝つきの「受」を、「取」が内側から刈って投げる\n技と受け身のイメージ\n受の協力\n「受」は、左脚を刈られながら、\n右足を支えに後ろ受け身をとる\n取の協力\n「取」は、\n「受」の右\n袖を引き上\nげてしっか\nりと受け身\nを取らせる\n「取」は、刈\nる位置が高く\nならないよう\nにする\n大内刈り",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    }
+  ]
+}

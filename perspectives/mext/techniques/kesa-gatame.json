@@ -1,0 +1,124 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Explanation of the technique",
+        "ja": "技の説明"
+      },
+      "prose": {
+        "en": "Tori places his hip against uke's right side, traps uke's right arm under his own left armpit and grips the right sleeve. With his right hand he cradles uke's neck and grips around the right rear collar. Tori spreads both legs widely to the front and rear to keep himself stable, and holds uke down by pressing uke's chest with the right side of his own chest."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p002",
+          "printedPage": "142",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Basic way of holding",
+        "ja": "基本の抑え方"
+      },
+      "prose": {
+        "en": "Image of the entry and of the hold Tori enters and settles into kesa-gatame. Tori holds uke down while controlling uke's neck and arm."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p002",
+          "printedPage": "142",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How uke responds",
+        "ja": "受の応じ方"
+      },
+      "prose": {
+        "en": "Uke bridges and turns tori over. Uke takes hold of tori's belt and turns him over with a bridge."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p002",
+          "printedPage": "142",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Basic way of entering",
+        "ja": "基本的な入り方"
+      },
+      "prose": {
+        "en": "Tori enters into the hold from a standing position over uke. Tori enters while controlling both of uke's legs."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p002",
+          "printedPage": "142",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Faults that are easy to fall into",
+        "ja": "陥りやすい欠点"
+      },
+      "prose": {
+        "en": "Tori should make sure that the spread of his legs is not the wrong way round."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p002",
+          "printedPage": "142",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points of safety instruction",
+        "ja": "安全指導のポイント"
+      },
+      "prose": {
+        "en": "Tori must not hold uke down by controlling the neck alone."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p002",
+          "printedPage": "142",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_10/p002",
+      "printedPage": "142",
+      "nameInSource": "Kesa-gatame",
+      "textJa": "－142－\n第４章　技能指導の要点\n３　抑え技\n【けさ固め系】\n⑴　技の説明\n　「取」は「受」の右体側に腰をつけ、左腋下に「受」の右\n腕を挟み右袖を握る。右手で「受」の首を抱え右後ろ襟あた\nりを握る。「取」は両脚を大きく前後に開いて安定を保ち、\n右側の胸で「受」の胸を圧して抑える。\n⑵　基本の抑え方\n⑶　受の応じ方\n⑷　基本的な入り方\n⑸　指導上の留意点\n　①　陥りやすい欠点　　　　　　　　　　　　　　　②　安全指導のポイント\n入り方と抑え方のイメージ\n「取」は、「受」の首と腕を制しながら抑える\n「受」は、「取」の帯を持ってブリッジで返す\n「取」は、「受」の両足を制しながら入る\n「取」は、脚\nの開きが逆に\nならないよう\nにする\n「取」は、首\nだけを制して\n抑えない\nけさ固め",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    }
+  ]
+}

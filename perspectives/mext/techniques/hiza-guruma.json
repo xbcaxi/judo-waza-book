@@ -1,0 +1,132 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Explanation of the technique",
+        "ja": "技の説明"
+      },
+      "prose": {
+        "en": "\"Tori\" breaks \"uke's\" balance to the right front corner, places the sole of the left foot against \"uke's\" right knee and, using it as an axis, turns uke like a wheel and throws uke forward."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_07/p020",
+          "printedPage": "120",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "The elementary way of applying it",
+        "ja": "初歩のかけ方"
+      },
+      "prose": {
+        "en": "The red circle marks the propping foot at uke's knee. How to take the ukemi: \"Uke\" takes the yoko-ukemi (side breakfall) in time with \"tori's\" tai-sabaki (body movement). \"Tori\" uses mae-sabaki (forward body movement) to break the balance of \"uke\", who is on both knees, forward, places the sole of the left foot against \"uke's\" knee and throws forward."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_07/p020",
+          "printedPage": "120",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "The basic way of applying it",
+        "ja": "基本のかけ方"
+      },
+      "prose": {
+        "en": "The red circle marks the propping foot. Uke's cooperation: \"Uke\" does not pull the hips back, but rotates using the right foot as a support and takes the yoko-ukemi."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_07/p020",
+          "printedPage": "120",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Opportunities for applying the technique",
+        "ja": "技をかける機会"
+      },
+      "prose": {
+        "en": "Tori and uke in kumi-kata; tori steps back and turns while uke advances; tori places the sole of the left foot against uke's knee and turns uke's balance; uke is thrown forward. Throw as uke comes forward, using ushiro-sabaki (backward body movement). From kumi-kata, uke tries to turn in; tori uses that movement, breaks uke's balance with mae-sabaki (forward body movement) and throws. Use the movement of uke trying to turn in: break the balance with mae-sabaki (forward body movement) and throw. From kumi-kata, uke steps back; tori follows with mae-sabaki, applies the technique and throws uke down. When uke steps back, apply the technique with mae-sabaki (forward body movement) and throw."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p001",
+          "printedPage": "121",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Faults that are easy to fall into",
+        "ja": "陥りやすい欠点"
+      },
+      "prose": {
+        "en": "Tori applies the technique with the hips and knees bent. Tori should not apply the technique with the hips and knees in a bent position. Tori presses hard with the left foot against uke's knee. Tori should not put too much force into the left foot placed against uke's knee."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p001",
+          "printedPage": "121",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points for safety instruction",
+        "ja": "安全指導のポイント"
+      },
+      "prose": {
+        "en": "Tori applying the technique in the opposite direction. Tori must not apply the technique in the reverse direction (left-side technique). Tori and uke fallen together on the mat. Teach so that tori and uke do not fall together as one body (dōtai)."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p001",
+          "printedPage": "121",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_07/p020",
+      "printedPage": "120",
+      "nameInSource": "Hiza-guruma",
+      "textJa": "－120－\n第４章　技能指導の要点\n２　投げ技\n【支え技系】\n⑴　技の説明\n　 　「取」は、「受」を右前すみに崩し、「受」の右膝に、左足裏を\n当て、それを軸に車のように回転させて「受」の前方に投げる。\n⑵　技のかけ方\n　①　初歩のかけ方\n　②　基本のかけ方\n技と受け身のイメージ\n「取」は前さばきで、両膝つきの「受」を前に崩し、左足裏を「受」の膝に当て前方に投げる\n受け身のとり\n方\n「受」は、\n「取」\nの体さばきに\n合わせて横受\nけ身をとる\n上から見た技と受け身のイメージ\n受の協力\n「受」は、腰を引かず、右足を支えに回転しながら、横受け身をとる\n膝車",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    },
+    {
+      "recordId": "mext-2013/1333611_08/p001",
+      "printedPage": "121",
+      "nameInSource": "Hiza-guruma",
+      "textJa": "－121－\n第2 節　対人的技能\n第\n２\n節\n⑶　技をかける機会\n①\n②\n③\n⑷　指導上の留意点\n　①　陥りやすい欠点\n　②　安全指導のポイント\n「受」が前に出てくるところを後ろさばきで投げる\n「受」が、回り込もうとする動きを利用し、前さばきで崩して投げる\n「受」が後ろへ下がる時、前さばきで技をかけて投げる\n「取」は、腰\nや膝を曲げた\n状態で、技を\nかけないよう\nにする\n「取」は、\n「受」\nの膝に当てた\n左足に力を入\nれ過ぎないよ\nうにする\n「取」は、逆\n方向（左技）\nに技をかけな\nい\n「取」と「受」\nが、同体で倒\nれないよう指\n導する",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    }
+  ]
+}

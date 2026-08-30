@@ -1,0 +1,124 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Explanation of the technique",
+        "ja": "技の説明"
+      },
+      "prose": {
+        "en": "Tori breaks uke's balance forward, steps the left foot in deeply between uke's feet, and, falling straight backwards, places the sole of the right foot against uke's lower abdomen and pulls with both hands, throwing uke over tori's own body."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p010",
+          "printedPage": "140",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How to apply the technique",
+        "ja": "技のかけ方"
+      },
+      "prose": {
+        "en": "Image of the technique and the ukemi (breakfall). Uke's cooperation: Uke takes mae-mawari-ukemi (forward rolling breakfall), using tori's right foot as a support. Tori breaks uke's balance to the front, places the right foot against uke's lower abdomen, and throws while sacrificing the body straight backwards."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p010",
+          "printedPage": "140",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Introductory way of applying the technique",
+        "ja": "初歩のかけ方"
+      },
+      "prose": {
+        "en": "Uke takes mae-mawari-ukemi of his own accord, using tori's right foot as the pivot point."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p010",
+          "printedPage": "140",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Practice ideas",
+        "ja": "練習の工夫"
+      },
+      "prose": {
+        "en": "Tori places the sole of the right foot against uke's lower abdomen, lifts uke up and holds the balance."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p010",
+          "printedPage": "140",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Opportunities to apply the technique",
+        "ja": "技をかける機会"
+      },
+      "prose": {
+        "en": "Apply tomoe-nage when uke comes forward."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p010",
+          "printedPage": "140",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Faults that are easy to fall into",
+        "ja": "陥りやすい欠点"
+      },
+      "prose": {
+        "en": "Tori should keep the left foot from leaving the tatami."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p010",
+          "printedPage": "140",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_09/p010",
+      "printedPage": "140",
+      "nameInSource": "Tomoe-nage",
+      "textJa": "－140－\n第４章　技能指導の要点\n【捨て身技系】\n⑴　技の説明\n　「取」は、「受」を前に崩し、左足を「受」の両足の間に深\nく踏み出し、体を真後ろに倒しながら、「受」の下腹部に右\n足裏を当て、両手を引いて「取」の体越しに投げる。\n⑵　技のかけ方\n　①　初歩のかけ方　　　　　　　　　　　　　　　　　②　練習の工夫\n⑶　技をかける機会\n⑷　指導上の留意点\n　陥りやすい欠点\n「取」は、左足が\n畳から離れないよ\nうにする\n「受」が、前に出てきた時に、巴投げをかける\n技と受け身のイメージ\n「取」は、「受」を前に崩し、右足を「受」の下腹部に当て、真後ろに体を捨てながら投げる\n受の協力\n「受」は、「取」の右足を支\nえに、前回り受け身をとる\n「受」は、「取」右足を支点に、自分から前回り受け身をとる\n「取」は、右\n足裏を受の下\n腹部に当て持\nち上げてバラ\nンスをとる\n巴投げ",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    }
+  ]
+}
