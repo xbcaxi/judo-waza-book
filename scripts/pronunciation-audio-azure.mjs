@@ -172,6 +172,31 @@ for (const row of parseCsv(fs.readFileSync(sheet, 'utf8'))) {
 }
 
 fs.writeFileSync(path.join(outDir, 'SOURCE.tsv'), log.join('\n') + '\n');
+
+/* WHICH PAGE CAN PLAY WHICH FILE. A word said in two places is recorded once
+ * and the sheet's also_used_for maps the rest, so a page cannot work its own
+ * audio path out from its own id: the glossary entry for uchi-mata has no file,
+ * it points at the technique's. Without this index the site would either guess
+ * or 404 on a fifth of them. */
+{
+  const index = {};
+  for (const row of parseCsv(fs.readFileSync(sheet, 'utf8'))) {
+    const opus = row.file.replace(/\.wav$/, EXT);
+    if (!fs.existsSync(path.join(outDir, opus))) continue;
+    index[row.file.replace(/\.wav$/, '')] = opus;
+    for (const other of (row.also_used_for || '').split(/\s+/).filter(Boolean)) {
+      index[other.replace(/\.wav$/, '')] = opus;
+    }
+  }
+  fs.writeFileSync(path.join(outDir, 'INDEX.json'), JSON.stringify({
+    generated: new Date().toISOString().slice(0, 10),
+    engine: 'Azure AI Speech', voice: VOICE,
+    note: 'Synthesised, not recorded. One file per distinct spoken name; a word said in '
+      + 'two places points at the one recording. See README.md beside this file.',
+    files: Object.fromEntries(Object.entries(index).sort()),
+  }, null, 1) + '\n');
+  console.log(`${Object.keys(index).length} page keys indexed to ${new Set(Object.values(index)).size} files.`);
+}
 console.log(`\n${done} written to ${outDir}, ${failed} failed. Voice ${VOICE}, ${FORMAT}.`);
 if (LEXICON) console.log(`Custom lexicon: ${LEXICON}`);
 console.log(`What was fed to the engine for each file is in ${path.join(outDir, 'SOURCE.tsv')}.`);
