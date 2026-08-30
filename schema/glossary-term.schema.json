@@ -10,6 +10,18 @@
       "type": "string",
       "minLength": 1
     },
+    "kana": {
+      "default": null,
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
     "aliases": {
       "default": [],
       "type": "array",
