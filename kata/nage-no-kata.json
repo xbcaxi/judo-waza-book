@@ -1,0 +1,227 @@
+{
+  "name": "Nage-no-kata",
+  "nameJa": "投の形",
+  "gloss": null,
+  "about": null,
+  "sets": [
+    {
+      "name": "Te-waza",
+      "items": [
+        {
+          "text": "Uki-otoshi",
+          "techniques": [
+            "uki-otoshi"
+          ]
+        },
+        {
+          "text": "Seoi-nage",
+          "techniques": [
+            "seoi-nage"
+          ]
+        },
+        {
+          "text": "Kata-guruma",
+          "techniques": [
+            "kata-guruma"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koshi-waza",
+      "items": [
+        {
+          "text": "Uki-goshi",
+          "techniques": [
+            "uki-goshi"
+          ]
+        },
+        {
+          "text": "Harai-goshi",
+          "techniques": [
+            "harai-goshi"
+          ]
+        },
+        {
+          "text": "Tsurikomi-goshi",
+          "techniques": [
+            "tsurikomi-goshi"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ashi-waza",
+      "items": [
+        {
+          "text": "Okuri-ashi-harai",
+          "techniques": [
+            "okuri-ashi-harai"
+          ]
+        },
+        {
+          "text": "Sasae-tsurikomi-ashi",
+          "techniques": [
+            "sasae-tsurikomi-ashi"
+          ]
+        },
+        {
+          "text": "Uchi-mata",
+          "techniques": [
+            "uchi-mata"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ma-sutemi-waza",
+      "items": [
+        {
+          "text": "Tomoe-nage",
+          "techniques": [
+            "tomoe-nage"
+          ]
+        },
+        {
+          "text": "Ura-nage",
+          "techniques": [
+            "ura-nage"
+          ]
+        },
+        {
+          "text": "Sumi-gaeshi",
+          "techniques": [
+            "sumi-gaeshi"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yoko-sutemi-waza",
+      "items": [
+        {
+          "text": "Yoko-gake",
+          "techniques": [
+            "yoko-gake"
+          ]
+        },
+        {
+          "text": "Yoko-guruma",
+          "techniques": [
+            "yoko-guruma"
+          ]
+        },
+        {
+          "text": "Uki-waza",
+          "techniques": [
+            "uki-waza"
+          ]
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "slJn4tN9sTw",
+      "title": "令和8年講道館鏡開式 投の形 / Kodokan Kagami Biraki ceremony 2026 Nage-no-Kata",
+      "duration": "6:32",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "L9eXTdrJAdk",
+      "title": "令和7年講道館鏡開式 投の形 / Kodokan Kagami Biraki ceremony 2025 Nage-no-Kata",
+      "duration": "6:57",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "FC-90p3WF9E",
+      "title": "令和6年講道館鏡開式 投の形 取 南保徳双 七段 受 岩永憲門 五段",
+      "duration": "6:41",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "bkhBZzE2HpM",
+      "title": "Nage-no-Kata (English ver.)",
+      "duration": "29:26",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Suk2__BG69Q",
+      "title": "投の形（日本語版）",
+      "duration": "29:26",
+      "lang": "ja"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "Ez3-ntpdW_4",
+      "title": "Nage No Kata;010 Te Waza",
+      "note": {
+        "en": "Linked from the 1st Dan and 2nd Dan pages against the Te waza group of Nage no kata."
+      }
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "_5QrzAf03NI",
+      "title": "Nage No Kata;020 Koshi Waza",
+      "note": {
+        "en": "Linked from the 1st Dan and 2nd Dan pages against the Koshi waza group of Nage no kata."
+      }
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "gt0yYnSndUc",
+      "title": "Nage No Kata;030 Ashi Waza",
+      "note": {
+        "en": "Linked from the 1st Dan and 2nd Dan pages against the Ashi waza group of Nage no kata."
+      }
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "HyeqD2a8-kY",
+      "title": "Nage No Kata;040 Ma Sutemi Waza",
+      "note": {
+        "en": "2nd Dan is the grade at which Nage no kata is examined in all five groups."
+      }
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "lwUAgWL3a5Y",
+      "title": "Nage No Kata;050 Yoko Sutemi Waza",
+      "note": {
+        "en": "2nd Dan is the grade at which Nage no kata is examined in all five groups."
+      }
+    }
+  ],
+  "links": [
+    {
+      "title": "Nage-no-kata: the Kodokan’s kata textbook",
+      "url": "https://kdkjd.org/wp-content/uploads/2024/07/Kata-textbook-Nage-no-Kata-2nd-20150415.pdf",
+      "source": "Kodokan Judo Institute"
+    }
+  ],
+  "image": null,
+  "source": {
+    "title": "Kodokan KATA Textbook, official English translation",
+    "date": "2026-08-30",
+    "note": {
+      "en": "Sets and the order of the items within them, as the Kodokan’s own textbook lists them. Copyright in that textbook is the Kodokan Judo Institute’s and its instructions and photographs are not reproduced here."
+    }
+  },
+  "adopted": "Adopted on April 10th, 1960",
+  "amended": "Amended on November 1st, 2005"
+}

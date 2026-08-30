@@ -1,0 +1,185 @@
+{
+  "name": "Kodokan Goshin-jutsu",
+  "nameJa": "講道館護身術",
+  "gloss": null,
+  "about": null,
+  "sets": [
+    {
+      "name": "Unarmed section: when held",
+      "items": [
+        {
+          "text": "Ryote-dori",
+          "techniques": []
+        },
+        {
+          "text": "Hidari-eri-dori",
+          "techniques": []
+        },
+        {
+          "text": "Migi-eri-dori",
+          "techniques": []
+        },
+        {
+          "text": "Kataude-dori",
+          "techniques": []
+        },
+        {
+          "text": "Ushiro-eri-dori",
+          "techniques": []
+        },
+        {
+          "text": "Ushiro-jime",
+          "techniques": []
+        },
+        {
+          "text": "Kakae-dori",
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "name": "Unarmed section: when attacked from a distance",
+      "items": [
+        {
+          "text": "Naname-uchi",
+          "techniques": []
+        },
+        {
+          "text": "Ago-tsuki",
+          "techniques": []
+        },
+        {
+          "text": "Ganmen-tsuki",
+          "techniques": []
+        },
+        {
+          "text": "Mae-geri",
+          "techniques": []
+        },
+        {
+          "text": "Yoko-geri",
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "name": "Weapons section: against a dagger",
+      "items": [
+        {
+          "text": "Tsukkake",
+          "techniques": []
+        },
+        {
+          "text": "Choku-tsuki",
+          "techniques": []
+        },
+        {
+          "text": "Naname-tsuki",
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "name": "Weapons section: against a staff",
+      "items": [
+        {
+          "text": "Furi-age",
+          "techniques": []
+        },
+        {
+          "text": "Furi-oroshi",
+          "techniques": []
+        },
+        {
+          "text": "Morote-tsuki",
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "name": "Weapons section: against a pistol",
+      "items": [
+        {
+          "text": "Shomen-zuke",
+          "techniques": []
+        },
+        {
+          "text": "Koshi-gamae",
+          "techniques": []
+        },
+        {
+          "text": "Haimen-zuke",
+          "techniques": []
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Y3eydFDVhw0",
+      "title": "令和8年講道館鏡開式 講道館護身術 / Kodokan Kagami Biraki ceremony 2026 Kodokan Goshin-jutsu",
+      "duration": "7:44",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "qevL9YVZsbo",
+      "title": "令和7年講道館鏡開式 講道館護身術 / Kodokan Kagami Biraki ceremony 2025 Kodokan Goshin-jutsu",
+      "duration": "7:49",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Ti-ctPoEb3I",
+      "title": "令和6年講道館鏡開式 講道館護身術 取 青井大剛 六段 受 有川勇貴 六段",
+      "duration": "8:14",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "ZbjWCm53Osg",
+      "title": "Kodokan Goshin-jutsu (English ver.)",
+      "duration": "36:41",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "qcxKDm8Af7M",
+      "title": "講道館護身術 日本語版",
+      "duration": "36:30",
+      "lang": "ja"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "o8MlGidQY-4",
+      "title": "KODOKAN GOSHIN JUTSU",
+      "note": {
+        "en": "The 6th Dan kata. Named on a page whose grade this scheme does not yet carry."
+      }
+    }
+  ],
+  "links": [
+    {
+      "title": "Kodokan Goshin-jutsu: the Kodokan’s kata textbook",
+      "url": "https://kdkjd.org/wp-content/uploads/2024/07/goshin_jutsu.pdf",
+      "source": "Kodokan Judo Institute"
+    }
+  ],
+  "image": null,
+  "source": {
+    "title": "Kodokan KATA Textbook, official English translation",
+    "date": "2026-08-30",
+    "note": {
+      "en": "Sets and the order of the items within them, as the Kodokan’s own textbook lists them. Copyright in that textbook is the Kodokan Judo Institute’s and its instructions and photographs are not reproduced here."
+    }
+  },
+  "adopted": null,
+  "amended": null
+}

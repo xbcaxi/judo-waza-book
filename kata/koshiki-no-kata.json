@@ -1,0 +1,163 @@
+{
+  "name": "Koshiki-no-kata",
+  "nameJa": "古式の形",
+  "gloss": null,
+  "about": null,
+  "sets": [
+    {
+      "name": "Omote",
+      "items": [
+        {
+          "text": "Tai",
+          "techniques": []
+        },
+        {
+          "text": "Yume-no-uchi",
+          "techniques": []
+        },
+        {
+          "text": "Ryoku-hi",
+          "techniques": []
+        },
+        {
+          "text": "Mizu-guruma",
+          "techniques": []
+        },
+        {
+          "text": "Mizu-nagare",
+          "techniques": []
+        },
+        {
+          "text": "Hiki-otoshi",
+          "techniques": []
+        },
+        {
+          "text": "Ko-daore",
+          "techniques": []
+        },
+        {
+          "text": "Uchi-kudaki",
+          "techniques": []
+        },
+        {
+          "text": "Tani-otoshi",
+          "techniques": [
+            "tani-otoshi"
+          ]
+        },
+        {
+          "text": "Kuruma-daore",
+          "techniques": []
+        },
+        {
+          "text": "Shikoro-dori",
+          "techniques": []
+        },
+        {
+          "text": "Shikoro-gaeshi",
+          "techniques": []
+        },
+        {
+          "text": "Yu-dachi",
+          "techniques": []
+        },
+        {
+          "text": "Taki-otoshi",
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "name": "Ura",
+      "items": [
+        {
+          "text": "Mi-kudaki",
+          "techniques": []
+        },
+        {
+          "text": "Kuruma-gaeshi",
+          "techniques": []
+        },
+        {
+          "text": "Mizu-iri",
+          "techniques": []
+        },
+        {
+          "text": "Ryu-setsu",
+          "techniques": []
+        },
+        {
+          "text": "Saka-otoshi",
+          "techniques": []
+        },
+        {
+          "text": "Yuki-ore",
+          "techniques": []
+        },
+        {
+          "text": "Iwa-nami",
+          "techniques": []
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "JBEPvItdK0Y",
+      "title": "令和8年講道館鏡開式 古式の形 / Kodokan Kagami Biraki ceremony 2026 Koshiki-no-Kata",
+      "duration": "8:41",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "7aL640NhyA0",
+      "title": "令和7年講道館鏡開式 古式の形 / Kodokan Kagami Biraki ceremony 2025 Koshiki-no-Kata",
+      "duration": "8:03",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "mIaAGmxeK5I",
+      "title": "令和6年講道館鏡開式 古式の形 取 鮫島元成 八段 受 森脇保彦 八段",
+      "duration": "9:15",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "n2_zAscgWpo",
+      "title": "Koshiki-no-Kata (English ver.)",
+      "duration": "50:33",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "FQKaNu-woiY",
+      "title": "古式の形 日本語版",
+      "duration": "50:51",
+      "lang": "ja"
+    }
+  ],
+  "links": [
+    {
+      "title": "Koshiki-no-kata: the Kodokan’s kata textbook",
+      "url": "https://kdkjd.org/wp-content/uploads/2025/01/Koshiki-no-Kata.pdf",
+      "source": "Kodokan Judo Institute"
+    }
+  ],
+  "image": null,
+  "source": {
+    "title": "Kodokan KATA Textbook, official English translation",
+    "date": "2026-08-30",
+    "note": {
+      "en": "Sets and the order of the items within them, as the Kodokan’s own textbook lists them. Copyright in that textbook is the Kodokan Judo Institute’s and its instructions and photographs are not reproduced here."
+    }
+  },
+  "adopted": "Revised on April 11th, 1990",
+  "amended": "Amended on October 1st, 2008"
+}

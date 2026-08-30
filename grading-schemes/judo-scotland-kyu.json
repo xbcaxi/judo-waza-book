@@ -1455,7 +1455,11 @@
           "items": [
             {
               "text": "Demonstrate any one set of the Nage-no-kata or any one set of the Katame-no-kata",
-              "techniques": []
+              "techniques": [],
+              "kata": [
+                "katame-no-kata",
+                "nage-no-kata"
+              ]
             }
           ]
         },

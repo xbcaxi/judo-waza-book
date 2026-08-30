@@ -21,7 +21,9 @@
     "test": "node --test tools/ijf-results/test/*.test.mjs",
     "ijf:update": "node scripts/ijf-update.mjs",
     "ijf:fetch": "node tools/ijf-results/crawl.mjs",
-    "ijf:aggregate": "node tools/ijf-results/aggregate.mjs"
+    "ijf:aggregate": "node tools/ijf-results/aggregate.mjs",
+    "pronunciation:audio:azure": "node scripts/pronunciation-audio-azure.mjs",
+    "pronunciation:lexicon": "node scripts/pronunciation-lexicon.mjs"
   },
   "devDependencies": {
     "ajv": "8.20.0"

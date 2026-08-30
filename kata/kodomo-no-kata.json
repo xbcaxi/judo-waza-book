@@ -1,0 +1,81 @@
+{
+  "name": "Kodomo-no-kata",
+  "nameJa": null,
+  "gloss": null,
+  "about": null,
+  "sets": [],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "-wZKFsubC04",
+      "title": "Kodomo-no-Kata 1(ichi)",
+      "duration": "4:07",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "1Op61cPa-80",
+      "title": "Kodomo-no-Kata 2(ni)",
+      "duration": "4:58",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "FT3kgec9JEM",
+      "title": "Kodomo-no-Kata 3(san)",
+      "duration": "4:41",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "FQ6eJxB421o",
+      "title": "Kodomo-no-Kata 4(yon)",
+      "duration": "4:05",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "2-5at8cWc0E",
+      "title": "Kodomo no Kata 5(go)",
+      "duration": "4:32",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "VpLdKj5KvuM",
+      "title": "Kodomo-no-Kata 6(roku)",
+      "duration": "4:17",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "LhVvmFDLMo0",
+      "title": "Kodomo-no-Kata 7(nana)",
+      "duration": "4:13",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "DuIyaYqNszU",
+      "title": "Kodomo-no-Kata PR",
+      "duration": "1:22",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "DTisjidK0nw",
+      "title": "Online Kodomo-no-Kata Seminar 2021"
+    }
+  ],
+  "links": [],
+  "image": null
+}

@@ -1,0 +1,793 @@
+{
+  "source": {
+    "title": "English Wiktionary, Japanese entries",
+    "url": "https://en.wiktionary.org/",
+    "readOn": "2026-08-30",
+    "note": "Readings for the terms whose romaji in this repository does not pin down the pronunciation, almost always because it does not mark a long vowel: the romaji \"Dojo\" is どじょ or どうじょう and cannot say which. Kana is what the audio scripts use. IPA and pitch accent are for the human voice brief: neither synthesiser can be told an accent, and accent is exactly what separates ko-uchi from kōchi, so it is the one thing a recorded voice can give that a generated one cannot. `derived` marks a reading worked out from the romaji plus a confirmed component rather than looked up whole; `looked-up` marks one taken from the entry named. A reading marked romaji-is-authority is a morpheme whose standalone dictionary reading differs from the one judo uses in a compound."
+  },
+  "readings": [
+    {
+      "romaji": "Dojo",
+      "kanji": "道場",
+      "kana": "どうじょう",
+      "hepburn": "dōjō",
+      "ipa": "[do̞ːʑo̞ː]",
+      "accent": "atamadaka [1] and heiban [0], both listed",
+      "how": "looked-up",
+      "entry": "道場"
+    },
+    {
+      "romaji": "Sempai",
+      "kanji": "先輩",
+      "kana": "せんぱい",
+      "hepburn": "senpai",
+      "ipa": "[sẽ̞mpa̠i]",
+      "accent": "heiban [0]",
+      "how": "looked-up",
+      "entry": "先輩",
+      "note": "This book writes Sempai, the older Hepburn spelling of ん before a labial. The kana is せんぱい either way."
+    },
+    {
+      "romaji": "Shimpan",
+      "kanji": "審判",
+      "kana": "しんぱん",
+      "hepburn": "shinpan",
+      "ipa": "[ɕĩmpã̠ɴ]",
+      "accent": "atamadaka [1] and heiban [0], both listed",
+      "how": "looked-up",
+      "entry": "審判",
+      "note": "Written Shimpan here for the same reason as Sempai."
+    },
+    {
+      "romaji": "Gokyo no waza",
+      "kanji": "五教の技",
+      "kana": "ごきょうのわざ",
+      "hepburn": "gokyō no waza",
+      "ipa": null,
+      "accent": null,
+      "how": "looked-up",
+      "entry": "kotobank.jp 五教の技, ja.wiktionary 五教",
+      "note": "Settles the whole Dai-*-kyo family below: the 教 in these is きょう, with the long vowel the romaji does not mark."
+    },
+    {
+      "romaji": "Dai-ikkyo",
+      "kanji": "第一教",
+      "kana": "だいいっきょう",
+      "hepburn": "dai-ikkyō",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "五教 confirmed as きょう"
+    },
+    {
+      "romaji": "Dai-nikyo",
+      "kanji": "第二教",
+      "kana": "だいにきょう",
+      "hepburn": "dai-nikyō",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "五教 confirmed as きょう"
+    },
+    {
+      "romaji": "Dai-sankyo",
+      "kanji": "第三教",
+      "kana": "だいさんきょう",
+      "hepburn": "dai-sankyō",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "五教 confirmed as きょう"
+    },
+    {
+      "romaji": "Dai-yonkyo",
+      "kanji": "第四教",
+      "kana": "だいよんきょう",
+      "hepburn": "dai-yonkyō",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "五教 confirmed as きょう",
+      "note": "四 is read よん here, following the romaji this book already carries. Japanese sources also give しきょう for 四教; the two are the same set counted differently and this follows our own romaji."
+    },
+    {
+      "romaji": "Dai-gokyo",
+      "kanji": "第五教",
+      "kana": "だいごきょう",
+      "hepburn": "dai-gokyō",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "五教 confirmed as きょう"
+    },
+    {
+      "romaji": "Shinmeisho no waza",
+      "kanji": "新名称の技",
+      "kana": "しんめいしょうのわざ",
+      "hepburn": "shinmeishō no waza",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "名称 is めいしょう",
+      "note": "NEEDS CONFIRMING. The long vowel is in 称, which the romaji does not mark."
+    },
+    {
+      "romaji": "Seiryoku-Zenyo-Kokumin-Taiiku",
+      "kanji": "精力善用国民体育",
+      "kana": "せいりょくぜんようこくみんたいいく",
+      "hepburn": "seiryoku-zen'yō-kokumin-taiiku",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "kanji from the Kodokan's own recording title",
+      "note": "NEEDS CONFIRMING. Zenyo is ぜんよう, not ぜにょ: the romaji has no apostrophe to mark ん before や."
+    },
+    {
+      "romaji": "Shodan",
+      "kanji": "初段",
+      "kana": "しょだん",
+      "hepburn": "shodan",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "no Wiktionary entry; the romaji is unambiguous",
+      "note": "Flagged by the long-vowel rule only because of the sho digraph. There is no long vowel here."
+    },
+    {
+      "romaji": "Golden score",
+      "kanji": null,
+      "kana": "ゴールデンスコア",
+      "hepburn": "gōruden sukoa",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "an English loan, so katakana",
+      "note": "Not a Japanese word. Whether the audio should say it in Japanese at all is an editorial call, not a reading."
+    },
+    {
+      "romaji": "Ryo-",
+      "kanji": "両",
+      "kana": "りょう",
+      "hepburn": "ryō",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "the prefix in Ryote, Ryogan",
+      "note": "A prefix rather than a term. It may not be worth an audio file at all."
+    },
+    {
+      "romaji": "Migi and hidari",
+      "kanji": null,
+      "kana": null,
+      "hepburn": null,
+      "ipa": null,
+      "accent": null,
+      "how": "not-a-term",
+      "entry": null,
+      "note": "Two words in one glossary entry, みぎ and ひだり. It needs splitting in the glossary or excluding from the sheet, not a reading."
+    },
+    {
+      "romaji": "Ashi-waza",
+      "kanji": "足技",
+      "kana": "あしわざ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Dan",
+      "kanji": "段",
+      "kana": "だん",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists たん"
+    },
+    {
+      "romaji": "Hajime",
+      "kanji": "始め",
+      "kana": "はじめ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Hansoku-make",
+      "kanji": "反則負け",
+      "kana": "はんそくまけ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Hantei",
+      "kanji": "判定",
+      "kana": "はんてい",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Hikiwake",
+      "kanji": "引き分け",
+      "kana": "ひきわけ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Ippon",
+      "kanji": "一本",
+      "kana": "いっぽん",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Judogi",
+      "kanji": "柔道着",
+      "kana": "じゅうどうぎ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Judoka",
+      "kanji": "柔道家",
+      "kana": "じゅうどうか",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Kai",
+      "kanji": "階",
+      "kana": "かい",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists しな, きざはし, きだはし, はし"
+    },
+    {
+      "romaji": "Kake",
+      "kanji": "掛け",
+      "kana": "かけ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists がけ"
+    },
+    {
+      "romaji": "Kansetsu-waza",
+      "kanji": "関節技",
+      "kana": "かんせつわざ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Kata",
+      "kanji": "形",
+      "kana": "かた",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists かたち, けい, なり, がた"
+    },
+    {
+      "romaji": "Katame-waza",
+      "kanji": "固技",
+      "kana": "かためわざ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Kohai",
+      "kanji": "後輩",
+      "kana": "こうはい",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Koshi-waza",
+      "kanji": "腰技",
+      "kana": "こしわざ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Kumi-kata",
+      "kanji": "組み方",
+      "kana": "くみかた",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Kuzushi",
+      "kanji": "崩し",
+      "kana": "くずし",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Kyu",
+      "kanji": "級",
+      "kana": "きゅう",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Maitta",
+      "kanji": "参った",
+      "kana": "まいった",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Mon",
+      "kanji": "紋",
+      "kana": "もん",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Mudansha",
+      "kanji": "無段者",
+      "kana": "むだんしゃ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Nagekomi",
+      "kanji": "投げ込み",
+      "kana": "なげこみ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Ashi",
+      "kanji": "足",
+      "kana": "あし",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists そく"
+    },
+    {
+      "romaji": "Eri",
+      "kanji": "襟",
+      "kana": "えり",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Gake",
+      "kanji": "掛",
+      "kana": "がけ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists かけ, がかり"
+    },
+    {
+      "romaji": "Gari",
+      "kanji": "刈",
+      "kana": "かり",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Goshi",
+      "kanji": "腰",
+      "kana": "ごし",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists こし, よう"
+    },
+    {
+      "romaji": "Guruma",
+      "kanji": "車",
+      "kana": "くるま",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists しゃ"
+    },
+    {
+      "romaji": "Hiza",
+      "kanji": "膝",
+      "kana": "ひざ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Juji",
+      "kanji": "十字",
+      "kana": "じゅうじ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Kata-",
+      "kanji": "片",
+      "kana": "かた",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists びら, へん, ペンス, ひら"
+    },
+    {
+      "romaji": "Ko-",
+      "kanji": "小",
+      "kana": "こ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists しょう, お, ぐゎー, さ, ささ, さざ"
+    },
+    {
+      "romaji": "Kubi",
+      "kanji": "首",
+      "kana": "くび",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists しるし, しゅ, かしら, おびと, おうと, こうべ, このかみ, つかさ"
+    },
+    {
+      "romaji": "Mae",
+      "kanji": "前",
+      "kana": "まえ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists ぜん, さき"
+    },
+    {
+      "romaji": "Morote",
+      "kanji": "双手",
+      "kana": "もろて",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists もろで, そうしゅ"
+    },
+    {
+      "romaji": "Sankaku",
+      "kanji": "三角",
+      "kana": "さんかく",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Shiho",
+      "kanji": "四方",
+      "kana": "しほう",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists よも, よほう"
+    },
+    {
+      "romaji": "Sode",
+      "kanji": "袖",
+      "kana": "そで",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Soto",
+      "kanji": "外",
+      "kana": "そと",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists と, ほか, よそ, がい"
+    },
+    {
+      "romaji": "Te",
+      "kanji": "手",
+      "kana": "て",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Uchi",
+      "kanji": "内",
+      "kana": "うち",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists ない"
+    },
+    {
+      "romaji": "Ude",
+      "kanji": "腕",
+      "kana": "うで",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists かいな"
+    },
+    {
+      "romaji": "Ushiro",
+      "kanji": "後",
+      "kana": "うしろ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists ご, あと, のち, しり, しりえ"
+    },
+    {
+      "romaji": "Yoko",
+      "kanji": "横",
+      "kana": "よこ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Ne-waza",
+      "kanji": "寝技",
+      "kana": "ねわざ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Obi",
+      "kanji": "帯",
+      "kana": "おび",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists たい"
+    },
+    {
+      "romaji": "Onegaishimasu",
+      "kanji": "お願いします",
+      "kana": "おねがいします",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Osaekomi",
+      "kanji": "抑え込み",
+      "kana": "おさえこみ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Randori",
+      "kanji": "乱取り",
+      "kana": "らんどり",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Rei",
+      "kanji": "礼",
+      "kana": "れい",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Renzoku-waza",
+      "kanji": "連続技",
+      "kana": "れんぞくわざ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Ritsurei",
+      "kanji": "立礼",
+      "kana": "りつれい",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists りゅうれい"
+    },
+    {
+      "romaji": "Seiza",
+      "kanji": "正座",
+      "kana": "せいざ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists しょうざ"
+    },
+    {
+      "romaji": "Sensei",
+      "kanji": "先生",
+      "kana": "せんせい",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists シーサン, せんじょう, せんしょう, ぜんじょう"
+    },
+    {
+      "romaji": "Shiai",
+      "kanji": "試合",
+      "kana": "しあい",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Shido",
+      "kanji": "指導",
+      "kana": "しどう",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Shime-waza",
+      "kanji": "絞技",
+      "kana": "しめわざ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Sutemi-waza",
+      "kanji": "捨身技",
+      "kana": "すてみわざ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Tachi-waza",
+      "kanji": "立技",
+      "kana": "たちわざ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Tatami",
+      "kanji": "畳",
+      "kana": "たたみ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists じょう, たとう"
+    },
+    {
+      "romaji": "Te-waza",
+      "kanji": "手技",
+      "kana": "てわざ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists しゅぎ"
+    },
+    {
+      "romaji": "Tori",
+      "kanji": "取り",
+      "kana": "とり",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists どり"
+    },
+    {
+      "romaji": "Tsukuri",
+      "kanji": "作り",
+      "kana": "つくり",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists づくり"
+    },
+    {
+      "romaji": "Uchikomi",
+      "kanji": "打ち込み",
+      "kana": "うちこみ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Uke",
+      "kanji": "受け",
+      "kana": "うけ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Ukemi",
+      "kanji": "受け身",
+      "kana": "うけみ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Waza-ari",
+      "kanji": "技あり",
+      "kana": "わざあり",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Waza",
+      "kanji": "技",
+      "kana": "わざ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists ぎ"
+    },
+    {
+      "romaji": "Yudansha",
+      "kanji": "有段者",
+      "kana": "ゆうだんしゃ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Yuko",
+      "kanji": "有効",
+      "kana": "ゆうこう",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Zarei",
+      "kanji": "座礼",
+      "kana": "ざれい",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Zori",
+      "kanji": "草履",
+      "kana": "ぞうり",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists じょうり"
+    },
+    {
+      "romaji": "Atemi-waza",
+      "kanji": "当身技",
+      "kana": "あてみわざ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Ukemi",
+      "kanji": "受身",
+      "kana": "うけみ",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Shintai",
+      "kanji": "進退",
+      "kana": "しんたい",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)",
+      "note": "dictionary also lists しんだい"
+    },
+    {
+      "romaji": "Shisei",
+      "kanji": "姿勢",
+      "kana": "しせい",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Tai-sabaki",
+      "kanji": "体捌き",
+      "kana": "たいさばき",
+      "how": "looked-up",
+      "entry": "jisho.org (JMdict)"
+    },
+    {
+      "romaji": "Gaeshi",
+      "kanji": "返",
+      "kana": "がえし",
+      "how": "romaji-is-authority",
+      "entry": "this book's own romaji",
+      "note": "The dictionary gives へん for this character standing alone. In a technique name it takes the reading our romaji records, so that is what is used here."
+    },
+    {
+      "romaji": "Garami",
+      "kanji": "緘",
+      "kana": "がらみ",
+      "how": "romaji-is-authority",
+      "entry": "this book's own romaji",
+      "note": "The dictionary gives かん for this character standing alone. In a technique name it takes the reading our romaji records, so that is what is used here."
+    },
+    {
+      "romaji": "Jime",
+      "kanji": "絞",
+      "kana": "じめ",
+      "how": "romaji-is-authority",
+      "entry": "this book's own romaji",
+      "note": "The dictionary gives こう for this character standing alone. In a technique name it takes the reading our romaji records, so that is what is used here."
+    },
+    {
+      "romaji": "Nage",
+      "kanji": "投",
+      "kana": "なげ",
+      "how": "romaji-is-authority",
+      "entry": "this book's own romaji",
+      "note": "The dictionary gives とう for this character standing alone. In a technique name it takes the reading our romaji records, so that is what is used here."
+    },
+    {
+      "romaji": "O-",
+      "kanji": "大",
+      "kana": "おお",
+      "how": "romaji-is-authority",
+      "entry": "this book's own romaji",
+      "note": "The dictionary gives だい, おお, おおき, たい, おおい for this character standing alone. In a technique name it takes the reading our romaji records, so that is what is used here."
+    },
+    {
+      "romaji": "Otoshi",
+      "kanji": "落",
+      "kana": "おとし",
+      "how": "romaji-is-authority",
+      "entry": "this book's own romaji",
+      "note": "The dictionary gives おち for this character standing alone. In a technique name it takes the reading our romaji records, so that is what is used here."
+    }
+  ]
+}

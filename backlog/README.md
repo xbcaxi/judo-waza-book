@@ -1,8 +1,13 @@
 # Inbox: links that did not fit
 
-25 links from the owner's spreadsheet remain unattached, out of 969. They are
+11 links from the owner's spreadsheet remain unattached, out of 969. They are
 kept because each one is waiting on a decision or a piece of coverage, not
 because nobody looked at them.
+
+THE KATA COLLECTION EXISTS NOW, and the fourteen recordings that were waiting
+for it have gone into `kata/`, along with thirty more from the Kodokan's own
+channel that this file was listing as unlinked. Forty-four of the hundred and
+thirty Kodokan videos here are now on a kata record.
 
 `video-candidates.json` holds the full list with a URL for each. Nothing here
 is published on the site.
@@ -19,7 +24,12 @@ them fill gaps the IJF course exposed; the rest are kata, champion
 demonstrations and teaching material waiting on coverage that has not started
 yet. Titles and durations only, no descriptions.
 
-`rfejyda-kata-videos.json` is nine kata videos linked from the Spanish
+`rfejyda-kata-videos.json` HELD nine kata videos linked from the Spanish
+federation's dan programme, and is gone: every one is on a kata record. What
+it said is kept below because the reasoning still holds for anything similar
+that arrives.
+
+That file described nine kata videos linked from the Spanish
 federation's dan programme. That document is hyperlinked throughout: 122
 distinct videos sit behind its technique names, and 110 of them were already
 indexed here against the technique they demonstrate, which is exactly what
@@ -34,13 +44,12 @@ Kodokan has published the kata this reference would want, the Spanish
 federation already points its candidates at them, and the only thing missing
 is somewhere here to put them.
 
-## The 25, and what each waits for
+## The 11, and what each waits for
 
-**14 kata recordings** wait for kata coverage to begin: Akita's
-Itsutsu-no-kata, Ju-no-kata, Kaeshi-kata and Nage-waza-ura-no-kata, the
-Kodokan's seven-part Kodomo-no-kata (plus its trailer and a recorded
-seminar), and the Kodokan's Seiryoku-Zenyo-Kokumin-Taiiku. The day the book
-grows a kata collection, these are its ready-made references.
+**14 kata recordings** waited for kata coverage to begin and no longer do.
+Akita's Itsutsu-no-kata, Ju-no-kata, Kaeshi-kata and Nage-waza-ura-no-kata,
+the Kodokan's seven-part Kodomo-no-kata with its trailer and recorded seminar,
+and the Kodokan's Seiryoku-Zenyo-Kokumin-Taiiku are all on kata records now.
 
 **11 clips wait on a technique the book does not document**, and none of the
 names has an IJF reference page or a Kodokan demonstration to vouch for it -

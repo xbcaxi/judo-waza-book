@@ -1,0 +1,98 @@
+{
+  "name": "Itsutsu-no-kata",
+  "nameJa": "五の形",
+  "gloss": null,
+  "about": null,
+  "sets": [
+    {
+      "name": "The five movements",
+      "items": [
+        {
+          "text": "Ippon-me",
+          "techniques": []
+        },
+        {
+          "text": "Nihon-me",
+          "techniques": []
+        },
+        {
+          "text": "Sanbon-me",
+          "techniques": []
+        },
+        {
+          "text": "Yonhon-me",
+          "techniques": []
+        },
+        {
+          "text": "Gohon-me",
+          "techniques": []
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "loxViHaUECw",
+      "title": "令和8年講道館鏡開式 五の形 / Kodokan Kagami Biraki ceremony 2026 Itsutsu-no-Kata",
+      "duration": "2:40",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "gsT7VFcQh3E",
+      "title": "令和7年講道館鏡開式 五の形 / Kodokan Kagami Biraki ceremony 2025 Itsutsu-no-Kata",
+      "duration": "2:31",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Ila8kg5Xaw8",
+      "title": "令和6年講道館鏡開式 五の形 取 眞喜志慶治 七段 受 大辻広文 七段",
+      "duration": "2:30",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "uOs7LNSjYfk",
+      "title": "Itsutsu-no-Kata (English ver.)",
+      "duration": "20:29",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "1_Xezi8nTpA",
+      "title": "五の形 日本語版",
+      "duration": "20:24",
+      "lang": "ja"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "e29sbPDuNKs",
+      "title": "Itsutsu-no-kata"
+    }
+  ],
+  "links": [
+    {
+      "title": "Itsutsu-no-kata: the Kodokan’s kata textbook",
+      "url": "https://kdkjd.org/wp-content/uploads/2025/01/Itsutsu-no-Kata.pdf",
+      "source": "Kodokan Judo Institute"
+    }
+  ],
+  "image": null,
+  "source": {
+    "title": "Kodokan KATA Textbook, official English translation",
+    "date": "2026-08-30",
+    "note": {
+      "en": "Sets and the order of the items within them, as the Kodokan’s own textbook lists them. Copyright in that textbook is the Kodokan Judo Institute’s and its instructions and photographs are not reproduced here."
+    }
+  },
+  "adopted": "Revised on June 15th, 1992",
+  "amended": "Amended on October 1st, 2008"
+}

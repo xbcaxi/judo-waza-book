@@ -8,6 +8,10 @@ collections; `npm run pronunciation:audio` turns the sheet into audio. The
 sheet is gitignored because it is derived: a name is wrong in the technique
 file or it is not wrong.
 
+There is a second engine: `docs/pronunciation-azure.md` does the same job
+with Azure AI Speech, writing to `media/audio-azure/` so the two can be
+compared without one overwriting the other.
+
 **A human recording is the better answer** and `docs/voiceover-brief.md` is
 the brief for commissioning one. What follows is the synthesised floor: good
 enough to ship, and replaced file by file as real recordings arrive.
@@ -84,10 +88,16 @@ than guessing.
 
 ## 6. Listen to fifteen files before trusting any of them
 
-The script feeds the engine **kanji**, not kana, everywhere it can. That is
-deliberate: Google's Japanese voices run a morphological analyser, so 小内刈 is
-analysed as 小内 + 刈 and comes out *ko-uchi-gari*, where raw こうちがり can
-come out *kōchi-gari*.
+The script feeds the engine **kana wherever the sheet holds it**, and kanji
+only as a fallback for the rows that have none. That is the opposite of the
+original rule and it was changed after listening.
+
+The original reasoning was that a morphological analyser reads 小内刈 better
+than raw こうちがり, and for the boundary names it is still true. It is wrong
+for everything else. Fed 十字固 the analyser does not apply the rendaku and
+says *juji-katame*; fed じゅうじがため it says what the sheet says. That is
+twenty-three names in the -gatame family alone. A stated reading beats a
+guessed one.
 
 For the fifteen rows the sheet flags as boundary risks it does not rely on
 that, and emits SSML with an 80 ms break at the morpheme boundary. Those
