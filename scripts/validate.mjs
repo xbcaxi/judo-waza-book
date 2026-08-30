@@ -106,7 +106,7 @@ const organisations = await loadDir('organisations');
  * path alone says whose voice this is and what it is about, and technique
  * and exam slugs can never collide. Schemes are the expected next kind;
  * nothing accepts them until something renders them. */
-const perspectiveTypes = ['techniques', 'exams', 'skills', 'guides'];
+const perspectiveTypes = ['techniques', 'exams', 'skills', 'guides', 'sequences'];
 const perspectives = [];
 {
   let orgDirs = [];
@@ -862,6 +862,9 @@ for (const p of perspectives) {
   if (p.type === 'guides' && !guides.some((guide) => guide.slug === p.slug)) {
     problems.push(`perspectives/${p.name}: unknown guide "${p.slug}"`);
   }
+  if (p.type === 'sequences' && !sequences.some((sequence) => sequence.slug === p.slug)) {
+    problems.push(`perspectives/${p.name}: unknown sequence "${p.slug}"`);
+  }
   if (p.type === 'exams') {
     const exam = exams.find((e) => e.slug === p.slug);
     if (!exam) {
@@ -1178,7 +1181,8 @@ if (organisations.length > 0) {
   const onExams = perspectives.filter((p) => p.type === 'exams').length;
   const onSkills = perspectives.filter((p) => p.type === 'skills').length;
   const onGuides = perspectives.filter((p) => p.type === 'guides').length;
-  const spoken = [[onTechniques, 'technique'], [onExams, 'exam'], [onSkills, 'skill'], [onGuides, 'guide']]
+  const onSequences = perspectives.filter((p) => p.type === 'sequences').length;
+  const spoken = [[onTechniques, 'technique'], [onExams, 'exam'], [onSkills, 'skill'], [onGuides, 'guide'], [onSequences, 'sequence']]
     .filter(([count]) => count > 0).map(([count, word]) => `${count} ${word}`);
   console.log(`Organisations: ${organisations.length}, with `
     + `${spoken.length > 0 ? spoken.join(', ') : 'no'} perspective(s); `

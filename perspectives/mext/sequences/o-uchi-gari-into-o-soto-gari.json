@@ -1,0 +1,69 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Linking nage-waza, applied in the same direction"
+      },
+      "prose": {
+        "en": "Tori applies o-uchi-gari, and applies o-soto-gari at the point where uke steps back to defend."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p008",
+          "printedPage": "148",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Uke's cooperation"
+      },
+      "prose": {
+        "en": "Uke defends against tori's o-uchi-gari by stepping backwards."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p008",
+          "printedPage": "148",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How to take the breakfall"
+      },
+      "prose": {
+        "en": "Uke takes an ushiro-ukemi (rear breakfall) in time with the o-soto-gari."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p008",
+          "printedPage": "148",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_10/p008",
+      "printedPage": "148",
+      "textJa": "－148－\n第４章　技能指導の要点\n５　技の連絡変化\n⑴　投げ技の連絡\n　自分の投げ技から自分の投げ技に連絡する。連絡技と呼ばれる。\n同じ方向にかける技の連絡\n①　大内刈り→大外刈り\n②　釣り込み腰→払い腰\n③　内股→体落とし\n「取」は大内刈りをかけ、「受」が下がって防御したところに、大外刈りをかける\n「取」は釣り込み腰をかけ、「受」が右足を横に出して防御したところに、払い腰をかける\n「取」は内股をかけ、「受」が防御したところに、体落としをかける\n受け身のとり方\n「受」は、大外刈りに合わ\nせて後ろ受け身をとる\n受の協力\n「受」は、「取」の釣り込み\n腰を右足を出して防御する\n受の協力\n「受」は、「取」の内股を右\n足で支え防御する\n受の協力\n「受」は、「取」の大内刈り\nを下がりながら防御する\n受け身のとり方\n「受」は、払い腰に合わせ\nて前回り受け身をとる\n受け身のとり方\n「受」は、体落としに合わ\nせて横受け身をとる",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    }
+  ]
+}

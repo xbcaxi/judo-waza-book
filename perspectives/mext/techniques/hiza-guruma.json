@@ -109,6 +109,60 @@
           "jaSource": "pdf_text"
         }
       ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Accidents to watch for"
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_12/p011",
+          "printedPage": "173",
+          "jaSource": "pdf_text"
+        }
+      ],
+      "steps": {
+        "en": [
+          "If tori applies hiza-guruma with the right foot while keeping a right-handed grip, there is a risk that uke will instinctively put down the left hand and injure the wrist or elbow.",
+          "If tori's upper body collapses and they force the technique while falling, uke may land on the shoulder and injure the shoulder or elbow."
+        ]
+      }
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Prohibited outright"
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_12/p011",
+          "printedPage": "173",
+          "jaSource": "pdf_text"
+        }
+      ],
+      "prose": {
+        "en": "At the beginner stage, prohibit applying hiza-guruma with the right foot while keeping a right-handed grip, and instruct students always to throw in the direction of the hikite."
+      }
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points for safe instruction"
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_12/p011",
+          "printedPage": "173",
+          "jaSource": "pdf_text"
+        }
+      ],
+      "steps": {
+        "en": [
+          "It is important to instruct that, if the upper body collapses, the technique is not applied and tori takes ushiro-ukemi (rear breakfall) themselves.",
+          "Instruct that tori applies the technique only after properly performing the right-foot forward tai-sabaki (body movement turning the toes of the right foot inward)."
+        ]
+      }
     }
   ],
   "sourcePages": [
@@ -125,6 +179,13 @@
       "printedPage": "121",
       "nameInSource": "Hiza-guruma",
       "textJa": "－121－\n第2 節　対人的技能\n第\n２\n節\n⑶　技をかける機会\n①\n②\n③\n⑷　指導上の留意点\n　①　陥りやすい欠点\n　②　安全指導のポイント\n「受」が前に出てくるところを後ろさばきで投げる\n「受」が、回り込もうとする動きを利用し、前さばきで崩して投げる\n「受」が後ろへ下がる時、前さばきで技をかけて投げる\n「取」は、腰\nや膝を曲げた\n状態で、技を\nかけないよう\nにする\n「取」は、\n「受」\nの膝に当てた\n左足に力を入\nれ過ぎないよ\nうにする\n「取」は、逆\n方向（左技）\nに技をかけな\nい\n「取」と「受」\nが、同体で倒\nれないよう指\n導する",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    },
+    {
+      "recordId": "mext-2013/1333611_12/p011",
+      "printedPage": "173",
+      "textJa": "－173－\n資料１　柔道の授業の安全な実施に向けて\n資\n料\n１\n学習指導要領に例示されている投げ技と安全指導のポイント\n投げ技\nどんな事故に注意すべきか？\n事故を防止するための指導のポイントは？\n体\n落\nと\nし\n○右組の場合、取（技をかける人）が右膝をつく低い状態で技をかけると、受（技\nを受ける人）は真下に落ちやすく肩や肘を痛めることがあります。\n○膝をつく低い状態で技をかけることは禁止しましょう。\n○右組の場合、取は受を右前隅に崩して技をかけるようかかり練習や約束練習を繰り返して習熟を図\nることが重要です。\n○取が自分のバランスを崩して膝をついた場合は、無理に投げようとしないで、持っている受の襟や\n袖を放すように指導しましょう。そうすると受は状況に応じた受け身を安全にとりやすくなります。\n○取が右組のまま左の体落としをかけると、受は左手を思わずついて手首や肘を\n痛める原因となります。\n○初心者の段階では右組のまま左の体落としをかけることを禁止し、必ず引き手の方向に投げるよう\n指導しましょう。\n大\n腰\n○取が腰を曲げて頭部を低くした状態で技をかけると、受ではなく、取が頭部か\nら突っ込み頸部を痛める恐れがあります。\n○頭部を低くした状態で技をかけることを禁止し、自分のバランスを崩して低い姿勢になった場合は、\n持っている受の襟や袖を放し、自ら前受け身をとるように指導しましょう。\n○右組の場合、取は上体を起こし、受を右前隅に崩して技をかけるようかかり練習や約束練習を繰り\n返して習熟を図ることが重要です。\n膝\n車\n○取が右組のまま右足で膝車をかけると、受は左手を思わずついて手首や肘を痛\nめるおそれがあります。\n○初心者の段階では右組のまま右足で膝車をかけることを禁止し、必ず引き手の方向に投げるよう指\n導しましょう。\n○取の上体が崩れ、倒れながらも無理に技をかけると、受は肩から落ち、肩、肘\nを痛めることがあります。\n○上体が崩れた場合は技をかけないで自らが後ろ受け身をとるよう指導することが重要です。\n○取は右足前さばき（右足のつま先を内側に向ける体さばき）をしっかりしたうえで技をかけるよう\n指導しましょう。\n大\n外\n刈\nり\n○受が防御で踏みとどまったにもかかわらず取は上体を浴びせるようにして同体\nで倒れ込むと、受は真後ろに倒され後頭部を打つおそれがあります。\n○受が防御で踏みとどまった場合は、それ以上同体となって倒れ込むことを禁止しましょう。\n○右組の場合、取は受の右後ろ隅に十分崩して技をかけるようかかり練習や約束練習を繰り返して習\n熟を図ることが重要です。\n○取が受の両脚を刈り上げると、受は後頭部から落ちていく恐れがあります。\n○受の両脚を刈り上げることを禁止しましょう。\n○右組の場合、取は受の右後ろ隅に十分崩して技をかけるようかかり練習や約束練習を繰り返して習\n熟を図ることが重要です。\n○大外刈りをかけられた際に、受が上体をひねり、防御の手をつくと手首や肘を\n痛めるおそれがあります。\n○受は無理な防御をしないで潔く受け身をとるよう指導しましょう。\n支\nえ\n釣\nり\n込\nみ\n足\n○取が右組のまま右足で支え釣り込み足をかけると、受が左手を思わずついて手\n首や肘を痛めるおそれがあります。\n○初心者の段階では右組のまま右足で支え釣り込み足をかけることを禁止し、必ず引き手の方向に投\nげるよう指導しましょう。\n○取の上体が崩れ、倒れながらも無理に技をかけると、受は肩から落ち肩、肘を\n痛めるおそれがあります。\n○上体が崩れた場合は技をかけないで自ら後ろ受け身をとるよう指導しましょう。\n○取は右足前さばき（右足のつま先を内側に向ける体さばき）をしっかりしたうえで技をかけるよう\n指導しましょう。\n小\n内\n刈\nり\n○取が勢い余って同体となって倒れ込むと、受は真後ろに倒され後頭部を打つお\nそれがあります。\n○同体となって倒れ込むことは禁止しましょう。\n○取は自分のバランスを崩した場合は、同体となって倒れないように持っている受の襟や袖を放すよ\nうに指導しましょう。そうすると受は状況に応じた受け身を安全にとりやすくなります。\n○右組の場合、取は受の右袖をしっかり引きつけ右後ろ隅に崩して技をかけるよう指導しましょう。\n○小内刈りをかけられた際、受が上体をひねり、防御の手をつくと、受は手首や\n肘を痛めるおそれがあります。\n○受は無理な防御をしないで潔く受け身をとるよう指導しましょう。",
       "jaSource": "pdf_text",
       "figureTextConfidence": "normal"
     }
