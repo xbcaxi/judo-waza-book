@@ -1,0 +1,118 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Explanation of the technique",
+        "ja": "技の説明"
+      },
+      "prose": {
+        "en": "Tori seizes the instant when uke moves to the left and the right foot comes level with the left, and, pivoting on the right foot, sweeps from the side, near uke's right ankle, using the arch of the left foot, to throw."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p009",
+          "printedPage": "139",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How to apply the technique",
+        "ja": "技のかけ方"
+      },
+      "prose": {
+        "en": "Image of the technique and the ukemi (breakfall). Uke's cooperation: When the right foot is swept, uke brings both feet together and takes yoko-ukemi (side breakfall). Tori's cooperation: Tori pulls up on uke's right sleeve so that uke can take a solid ukemi. Moving diagonally forward, tori breaks uke's balance sideways and throws by sweeping uke's ankle with the left foot."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p009",
+          "printedPage": "139",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Introductory way of applying the technique",
+        "ja": "初歩のかけ方"
+      },
+      "prose": {
+        "en": "Moving sideways with following steps (tsugi-ashi), tori practises the timing for applying okuri-ashi-barai."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p009",
+          "printedPage": "139",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Opportunities to apply the technique",
+        "ja": "技をかける機会"
+      },
+      "prose": {
+        "en": "Apply okuri-ashi-barai at the instant when uke moves backwards (sideways) and both feet come together."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p009",
+          "printedPage": "139",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Faults that are easy to fall into",
+        "ja": "陥りやすい欠点"
+      },
+      "prose": {
+        "en": "Tori must not apply the technique with the hips pulled back."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p009",
+          "printedPage": "139",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_09/p009",
+      "printedPage": "139",
+      "nameInSource": "Okuri-ashi-barai",
+      "textJa": "－139－\n第2 節　対人的技能\n第\n２\n節\n【払い技系】\n⑴　技の説明\n　「取」は、「受」が左側方に移動し、左足に右足がそろう瞬間を捉\nえ、右足を軸に、左足の土踏まずの部分で「受」の右くるぶしの近\nくを横から払い投げる。\n⑵　技のかけ方\n　①　初歩のかけ方\n⑶　技をかける機会\n⑷　指導上の留意点\n　陥りやすい欠点\n技と受け身のイメージ\n「取」は斜め前に移動しながら「受」を横に崩し、左足で「受」のくるぶしを払って投げる\n「受」が後ろ（横）に移動し、両足がそろう瞬間に、送り足払いをかける\n受の協力\n「受」は、右足を払われ\nた時に、両足をそろえな\nがら横受け身をとる\n取の協力\n「取」は、「受」の右袖\nを引き上げてしっかり\nと受け身を取らせる\n「取」は継ぎ足で横に移動しながら、送り足払いをかけるタイミングを練習をする\n「取」は、腰\nを引いてかけ\nない\n送り足払い",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_09.pdf",
+      "pdfPage": 9,
+      "image": {
+        "file": "mext-2013/1333611_09-p009.jpg",
+        "alt": {
+          "en": "Page 139 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Explanation of the technique",
+        "ja": "技の説明"
+      },
+      "prose": {
+        "en": "Tori settles against uke's right side, passes his right arm between uke's legs and grips uke's trousers or belt. He passes his left arm under uke's neck and grips deeply on the left side collar. Tori bends his right knee and places it against uke's right hip, while the left leg is stretched out to the left rear with the toes planted. Puffing out his chest, he presses uke's chest and holds him down."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p003",
+          "printedPage": "143",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Basic way of holding",
+        "ja": "基本の抑え方"
+      },
+      "prose": {
+        "en": "Image of the entry and of the hold Tori enters and settles into yoko-shiho-gatame. Tori holds uke down while controlling uke's neck and legs."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p003",
+          "printedPage": "143",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How uke responds",
+        "ja": "受の応じ方"
+      },
+      "prose": {
+        "en": "Uke shifts his body sideways, closes in on tori and hooks a leg around him. Uke uses a sideways evading movement of the body to come close to tori and entangle tori's leg."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p003",
+          "printedPage": "143",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Basic way of entering",
+        "ja": "基本的な入り方"
+      },
+      "prose": {
+        "en": "Tori scoops up uke's armpit from the front and turns him over into the hold. Tori scoops up uke's armpit from the front, moves to the side, turns uke over and holds him down."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p003",
+          "printedPage": "143",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Faults that are easy to fall into",
+        "ja": "陥りやすい欠点"
+      },
+      "prose": {
+        "en": "Tori's right knee should be placed so that it presses against uke's hip."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p003",
+          "printedPage": "143",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points of safety instruction",
+        "ja": "安全指導のポイント"
+      },
+      "prose": {
+        "en": "Uke should not force himself up using his hands or elbows as props."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p003",
+          "printedPage": "143",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_10/p003",
+      "printedPage": "143",
+      "nameInSource": "Yoko-shiho-gatame",
+      "textJa": "－143－\n第2 節　対人的技能\n第\n２\n節\n【四方固め系】\n⑴　技の説明\n　「取」は「受」の右体側につき、右腕を「受」の股の間か\nら入れて、その下ばき又は帯を握る。左腕を「受」の首の下\nから入れて、その左横襟を深く握る。「取」は右膝を曲げて\n「受」の右腰に当て、左脚はつま先を立てて左後方に伸ば\nす。胸を張るようにして「受」の胸部を圧して抑える。\n⑵　基本の抑え方\n⑶　受の応じ方\n⑷　基本的な入り方\n⑸　指導上の留意点\n　①　陥りやすい欠点　　　　　　　　　　　　　　　②　安全指導のポイント\n「取」は、「受」の首と脚を制しながら抑える\n「取」は、「受」の前方から腋をすくい、横にさばきながら返して抑える\n「受」は、体を横にかわす動作を使い「取」に近づき、脚をからめる\n入り方と抑え方のイメージ\n「取」の右膝が、\n「受」の腰部に\n当たるようにす\nる\n「受」は、手\nや肘を支えに\n無理に起き上\nがろうとしな\nい\n横四方固め",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_10.pdf",
+      "pdfPage": 3,
+      "image": {
+        "file": "mext-2013/1333611_10-p003.jpg",
+        "alt": {
+          "en": "Page 143 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    }
+  ]
+}

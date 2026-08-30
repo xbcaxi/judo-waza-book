@@ -1,0 +1,48 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "(3) How to tie the belt"
+      },
+      "prose": {
+        "en": "Hold the belt with both hands, line up the centre of the belt with the centre of the abdomen ①, pass it around behind you and bring it back to the front ②. With the right hand, pass the belt up from below, taking both thicknesses of the belt together, and change it over into the left hand ③④. Make a loop with the end of the belt held in the right hand ⑤⑥, pass the other end through the loop ⑦, and pull both ends of the belt with both hands with moderate strength so that the knot lies horizontally ⑧."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p003",
+          "printedPage": "91",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_06/p003",
+      "printedPage": "91",
+      "textJa": "－91－\n第１節　基本動作\n第\n１\n節\n指導の場面\n⑵　柔道衣の名称\n⑶　帯の結び方\n　帯を両手で持ち、帯の中央をお腹の中心に合わせ①、後ろにまわして前に戻す②。右手の帯を\n下から帯を２本まとめて上に通し、左手に持ち変える③④。\n　右手の帯の端で輪をつくり⑤⑥、反対側の端を輪に通し⑦、結び目が横になるように両手で帯の\n両端を適度な強さで引く⑧。\n指導例\n・ 柔道場や体育館への入場、退場時は、立礼、または、座礼を行い、履き物を揃えることがで\nきるようにします。\n・ 毎時間、授業の最初と最後の正座、座礼を励行し、正しく丁寧な礼法ができるようにします。\n・ 授業開始、終了時は、正座で整然と整列させ、黙想することで気持ちを切り替えることがで\nきるようにします。\n・ 生徒が対人で練習する場合、投げ技は立礼、抑え技は座礼、試合は立礼を基本とし、それぞ\nれの場面で相手を尊重して正しく実践できるようにします。\n・自由練習や試合の攻防及びその前後は、特に、留意して生徒の行動や態度、礼法を確認します。\n上衣\n帯\n下ばき\n横襟\n後ろ襟\n中袖\n後ろ帯\n前襟\n袖口\n裾口\n　① \n② \n③ \n④\n　⑤ \n⑥ \n⑦ \n⑧\n整然と揃えられた履物\n授業開始・終了の礼法\n試合の礼法\n練習時の礼法",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_06.pdf",
+      "pdfPage": 3,
+      "image": {
+        "file": "mext-2013/1333611_06-p003.jpg",
+        "alt": {
+          "en": "Page 91 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    }
+  ]
+}

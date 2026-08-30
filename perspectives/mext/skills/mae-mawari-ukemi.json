@@ -1,0 +1,80 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "① On the spot: from the one-knee-down (half-crouch, standing) posture"
+      },
+      "prose": {
+        "en": "From the posture with the left (right) knee down and the right (left) leg raised, place both hands on the tatami, bend the right (left) elbow slightly forward, put the body weight diagonally forward to the right (left), and, raising the hips, rotate the body diagonally forward to the right (left); at the instant the left side of the back touches the mat, take the breakfall while striking the tatami with the left (right) hand and both legs. The arm and both legs take the same shape as in the yoko-ukemi (side breakfall). Once students are used to it, lift the left (right) knee off the tatami and start from the half-crouch or standing posture."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_07/p008",
+          "printedPage": "108",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "② While moving: moving several steps with ayumi-ashi (walking footwork)"
+      },
+      "prose": {
+        "en": "Using the foot that has been stepped out as the pivot, take the forward rolling breakfall and arrive at the yoko-ukemi posture ①. When standing up at the advanced stage ③, increase the speed with which both legs are swung down, use the centrifugal force that raises the upper body as the side breakfall strikes the tatami, and push the tatami strongly with the whole arm to rise ②. In every case, emphasis is placed on the yoko-ukemi posture ① within the forward roll."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_07/p008",
+          "printedPage": "108",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Point"
+      },
+      "prose": {
+        "en": "When the right hand is put forward, turn using the right foot as the pivot. Make an arc with the right arm and, passing through the right wrist, right elbow, right shoulder and left side of the back, take the breakfall with the left hand. Once students are used to it, let them take the breakfall from progressively higher postures, such as the half-crouch A and the standing posture B. At the elementary stage it is enough if the set of the hands and feet when turning is correct and the side breakfall can be done."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_07/p008",
+          "printedPage": "108",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_07/p008",
+      "printedPage": "108",
+      "textJa": "－108－\n第４章　技能指導の要点\n　①　その場で　片膝つき（中腰、立位）の姿勢から\n　　　　　　　　　　　　　　　左（右）膝をつき、右（左）脚を立てた姿勢から両手を畳に着\nき、右（左）肘を前方に軽く曲げて右（左）斜め前へ体重をかけ、腰をあげるようにしながら右\n（左）前方へ身体を回転させ、左背中側面が着く瞬間に左（右）手と両脚で畳をたたきながら受け\n身をとります。腕と両脚は横受け身と同じ形になります。慣れてきたら、左（右）膝を畳から上げ\nて、中腰や立位の姿勢から始めます。\n　②　移動しながら　歩み足で数歩移動しながら\n　踏み出した足を支点に前回り受け身をとり、横受け身の姿勢①となります。進んだ段階で立ち上\nがる場合③は、両脚を振り下ろす速度をはやめ、横受け身で畳をたたくときに遠心力で上体が起き\nあがるのを利用し、腕全体で畳を強く押して起きあがります②。いずれにしても前回りの中で横受\nけ身の姿勢①を重視します。\n陥りやすい欠点\n前回り受け身\n③\n②\n①\nＡ\n大腰で前回り受け身をとる\nＢ\n受け身のイメージ\n手と足が逆になる\n前転になる\n手を中に入れ過ぎる\nポイント\n右手を前に出した時は、右足を支点にま\nわる。右腕で円弧をつくり、右手首、右\n肘、右肩、左背部を通って左手で受け身\nをとる。慣れてきたら、中腰Ａ、立位Ｂ\nなど次第に高い姿勢から受け身をとれる\nようにする。初歩の段階では、まわる時\nの手と足の構えと、横受け身ができれば\nよしとする。",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_07.pdf",
+      "pdfPage": 8,
+      "image": {
+        "file": "mext-2013/1333611_07-p008.jpg",
+        "alt": {
+          "en": "Page 108 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    }
+  ]
+}

@@ -78,3 +78,24 @@ skills. Deleted at the owner's request: the Brazilian jiu-jitsu half of the
 USA Judo library, the spreadsheet debris, and the club footage, event
 recordings, promos and training-drill compilations that were never going to
 attach to anything ("clearly odds and ends" was the ruling).
+
+## MEXT's linked and varied techniques
+
+`mext-2013-sequences.json` holds fourteen pairs from section 5 of the MEXT
+2013 school judo guidebook, printed pages 148 to 152. Two of the sixteen the
+book shows are already documented here and became perspectives on those
+records; these fourteen are not, and they are here rather than in `sequences/`
+because a sequence record is canonical content and this source reaches us as
+machine translation nobody has reviewed.
+
+What makes them worth keeping is the hardest part of a sequence to write. This
+repository asks that a sequence name the condition the first technique
+manufactures, and the book names it for every pair: uke steps back, uke drops
+the hips, uke puts the right foot out to the side. Each entry carries that
+opening, the breakfall the book pairs with it, the printed page and the record
+id, so writing the record is a matter of confirming the judo rather than
+inventing the reason.
+
+Two of the fourteen are not sequences at all. Escaping uke's hold into a hold
+of your own is a skill in this reference, filed under the hold it gets out of,
+so those two carry no proposed slug and say `belongsIn: skills`.
