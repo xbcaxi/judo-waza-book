@@ -77,6 +77,21 @@ function parseCsv(text) {
 
 const escape = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
+/* WHAT IT FEEDS THE ENGINE, and this was changed after listening.
+ *
+ * KANA FIRST, wherever the sheet holds it. The original rule was the opposite,
+ * on the reasoning that a morphological analyser reads 小内刈 better than raw
+ * こうちがり, and for the boundary names that is still true. But it is wrong
+ * for everything else, and the -gatame family proved it: fed 十字固 the
+ * analyser does not apply the rendaku and says juji-KATAME. Fed じゅうじがため
+ * it says what the sheet says. A stated reading beats a guessed one, so kanji
+ * is now the FALLBACK for the 134 rows that have no kana rather than the
+ * default for all of them.
+ *
+ * The fifteen boundary-risk rows are unchanged: they use kana with a hairline
+ * break at the morpheme boundary, because kana alone cannot tell ko-uchi from
+ * kōchi.
+ */
 /** What to say, and how. Returns an `input` object for the API. */
 function inputFor(row) {
   if (row.notes.includes('SAY AS TWO PARTS')) {
@@ -94,8 +109,8 @@ function inputFor(row) {
     }
     if (row.kanji) return { text: row.kanji, _used: `kanji:${row.kanji}` };
   }
-  if (row.kanji) return { text: row.kanji, _used: `kanji:${row.kanji}` };
   if (row.kana) return { text: row.kana, _used: `kana:${row.kana}` };
+  if (row.kanji) return { text: row.kanji, _used: `kanji:${row.kanji}` };
   return { text: row.romaji, _used: `romaji:${row.romaji}` };
 }
 

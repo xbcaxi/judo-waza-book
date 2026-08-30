@@ -1,0 +1,170 @@
+{
+  "source": {
+    "title": "English Wiktionary, Japanese entries",
+    "url": "https://en.wiktionary.org/",
+    "readOn": "2026-08-30",
+    "note": "Readings for the terms whose romaji in this repository does not pin down the pronunciation, almost always because it does not mark a long vowel: the romaji \"Dojo\" is どじょ or どうじょう and cannot say which. Kana is what the audio scripts use. IPA and pitch accent are for the human voice brief: neither synthesiser can be told an accent, and accent is exactly what separates ko-uchi from kōchi, so it is the one thing a recorded voice can give that a generated one cannot. `derived` marks a reading worked out from the romaji plus a confirmed component rather than looked up whole; `looked-up` marks one taken from the entry named."
+  },
+  "readings": [
+    {
+      "romaji": "Dojo",
+      "kanji": "道場",
+      "kana": "どうじょう",
+      "hepburn": "dōjō",
+      "ipa": "[do̞ːʑo̞ː]",
+      "accent": "atamadaka [1] and heiban [0], both listed",
+      "how": "looked-up",
+      "entry": "道場"
+    },
+    {
+      "romaji": "Sempai",
+      "kanji": "先輩",
+      "kana": "せんぱい",
+      "hepburn": "senpai",
+      "ipa": "[sẽ̞mpa̠i]",
+      "accent": "heiban [0]",
+      "how": "looked-up",
+      "entry": "先輩",
+      "note": "This book writes Sempai, the older Hepburn spelling of ん before a labial. The kana is せんぱい either way."
+    },
+    {
+      "romaji": "Shimpan",
+      "kanji": "審判",
+      "kana": "しんぱん",
+      "hepburn": "shinpan",
+      "ipa": "[ɕĩmpã̠ɴ]",
+      "accent": "atamadaka [1] and heiban [0], both listed",
+      "how": "looked-up",
+      "entry": "審判",
+      "note": "Written Shimpan here for the same reason as Sempai."
+    },
+    {
+      "romaji": "Gokyo no waza",
+      "kanji": "五教の技",
+      "kana": "ごきょうのわざ",
+      "hepburn": "gokyō no waza",
+      "ipa": null,
+      "accent": null,
+      "how": "looked-up",
+      "entry": "kotobank.jp 五教の技, ja.wiktionary 五教",
+      "note": "Settles the whole Dai-*-kyo family below: the 教 in these is きょう, with the long vowel the romaji does not mark."
+    },
+    {
+      "romaji": "Dai-ikkyo",
+      "kanji": "第一教",
+      "kana": "だいいっきょう",
+      "hepburn": "dai-ikkyō",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "五教 confirmed as きょう"
+    },
+    {
+      "romaji": "Dai-nikyo",
+      "kanji": "第二教",
+      "kana": "だいにきょう",
+      "hepburn": "dai-nikyō",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "五教 confirmed as きょう"
+    },
+    {
+      "romaji": "Dai-sankyo",
+      "kanji": "第三教",
+      "kana": "だいさんきょう",
+      "hepburn": "dai-sankyō",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "五教 confirmed as きょう"
+    },
+    {
+      "romaji": "Dai-yonkyo",
+      "kanji": "第四教",
+      "kana": "だいよんきょう",
+      "hepburn": "dai-yonkyō",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "五教 confirmed as きょう",
+      "note": "四 is read よん here, following the romaji this book already carries. Japanese sources also give しきょう for 四教; the two are the same set counted differently and this follows our own romaji."
+    },
+    {
+      "romaji": "Dai-gokyo",
+      "kanji": "第五教",
+      "kana": "だいごきょう",
+      "hepburn": "dai-gokyō",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "五教 confirmed as きょう"
+    },
+    {
+      "romaji": "Shinmeisho no waza",
+      "kanji": "新名称の技",
+      "kana": "しんめいしょうのわざ",
+      "hepburn": "shinmeishō no waza",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "名称 is めいしょう",
+      "note": "NEEDS CONFIRMING. The long vowel is in 称, which the romaji does not mark."
+    },
+    {
+      "romaji": "Seiryoku-Zenyo-Kokumin-Taiiku",
+      "kanji": "精力善用国民体育",
+      "kana": "せいりょくぜんようこくみんたいいく",
+      "hepburn": "seiryoku-zen'yō-kokumin-taiiku",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "kanji from the Kodokan's own recording title",
+      "note": "NEEDS CONFIRMING. Zenyo is ぜんよう, not ぜにょ: the romaji has no apostrophe to mark ん before や."
+    },
+    {
+      "romaji": "Shodan",
+      "kanji": "初段",
+      "kana": "しょだん",
+      "hepburn": "shodan",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "no Wiktionary entry; the romaji is unambiguous",
+      "note": "Flagged by the long-vowel rule only because of the sho digraph. There is no long vowel here."
+    },
+    {
+      "romaji": "Golden score",
+      "kanji": null,
+      "kana": "ゴールデンスコア",
+      "hepburn": "gōruden sukoa",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "an English loan, so katakana",
+      "note": "Not a Japanese word. Whether the audio should say it in Japanese at all is an editorial call, not a reading."
+    },
+    {
+      "romaji": "Ryo-",
+      "kanji": "両",
+      "kana": "りょう",
+      "hepburn": "ryō",
+      "ipa": null,
+      "accent": null,
+      "how": "derived",
+      "entry": "the prefix in Ryote, Ryogan",
+      "note": "A prefix rather than a term. It may not be worth an audio file at all."
+    },
+    {
+      "romaji": "Migi and hidari",
+      "kanji": null,
+      "kana": null,
+      "hepburn": null,
+      "ipa": null,
+      "accent": null,
+      "how": "not-a-term",
+      "entry": null,
+      "note": "Two words in one glossary entry, みぎ and ひだり. It needs splitting in the glossary or excluding from the sheet, not a reading."
+    }
+  ]
+}

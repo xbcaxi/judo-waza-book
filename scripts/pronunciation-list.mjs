@@ -24,6 +24,25 @@ const read = (dir) => fs.readdirSync(path.join(ROOT, dir))
 
 const en = (v) => (typeof v === 'string' ? v : v?.en ?? '');
 
+/* READINGS THE ROMAJI CANNOT GIVE. Most kana in this sheet comes from the
+   collection that owns the word. Where a collection has none, the romaji is
+   usually reading enough: Waza-ari is わざあり and nothing else. It is NOT
+   enough where the romaji leaves a long vowel unmarked, because "Dojo" is
+   どじょ or どうじょう and the romaji cannot say which.
+   reference/japanese-readings.json holds those, each with how it was
+   established, and the IPA and pitch accent where a source gives them.
+
+   The accent is for the HUMAN recording, not the synthesiser: no Japanese
+   phone set either engine accepts can be told an accent, and accent is
+   exactly what separates ko-uchi from kōchi. It is the one thing a recorded
+   voice can give that a generated one cannot, which is why it is carried
+   through to the brief rather than dropped as unusable. */
+const readings = new Map();
+try {
+  const file = JSON.parse(fs.readFileSync(path.join(ROOT, 'reference/japanese-readings.json'), 'utf8'));
+  for (const entry of file.readings ?? []) readings.set(entry.romaji.toLowerCase(), entry);
+} catch { /* no reference file is not an error: the sheet just carries less */ }
+
 /* The classification tree and the fixed vocabulary, copied from
    src/lib/gokyo.ts. Small, stable, and not worth importing across a module
    that pulls in astro:content. */
@@ -79,14 +98,23 @@ const boundaryRisk = (romaji) => {
 const rows = [];
 const push = (collection, id, romaji, kanji, kana, english) => {
   if (!romaji) return;
+  const known = readings.get(romaji.trim().toLowerCase());
+  const notes = [
+    boundaryRisk(romaji) ? 'SAY AS TWO PARTS - see brief' : '',
+    /* Said on the row rather than left in the reference file, because the
+       person reading this sheet is the one who can settle it. */
+    known?.note?.startsWith('NEEDS CONFIRMING') ? 'READING NEEDS CONFIRMING' : '',
+  ].filter(Boolean).join('; ');
   rows.push({
     file: `${collection}/${id}.wav`,
     collection, id,
     romaji: romaji.trim(),
-    kanji: (kanji ?? '').trim(),
-    kana: (kana ?? '').trim(),
+    kanji: (kanji ?? '').trim() || (known?.kanji ?? ''),
+    kana: (kana ?? '').trim() || (known?.kana ?? ''),
     english: (english ?? '').replace(/\s+/g, ' ').trim().slice(0, 90),
-    notes: boundaryRisk(romaji) ? 'SAY AS TWO PARTS - see brief' : '',
+    ipa: known?.ipa ?? '',
+    accent: known?.accent ?? '',
+    notes,
   });
 };
 
@@ -130,7 +158,10 @@ for (const row of rows) {
 }
 
 const csv = (v) => /[",\n]/.test(v) ? `"${v.replace(/"/g, '""')}"` : v;
-const header = ['file', 'romaji', 'kanji', 'kana', 'english', 'notes', 'also_used_for'];
+/* ipa and accent sit beside the kana because a voice artist reads across the
+   row. Both are blank for most names: Wiktionary has a full entry for 道場 and
+   none for 崩上四方固, and a blank is the honest answer rather than a guess. */
+const header = ['file', 'romaji', 'kanji', 'kana', 'ipa', 'accent', 'english', 'notes', 'also_used_for'];
 const out = [header.join(',')];
 for (const r of unique) out.push(header.map((h) => csv(h === 'also_used_for' ? r.also.join(' ') : String(r[h] ?? ''))).join(','));
 
@@ -140,10 +171,15 @@ fs.writeFileSync(dest, out.join('\n') + '\n');
 const byCollection = {};
 for (const r of unique) byCollection[r.collection] = (byCollection[r.collection] ?? 0) + 1;
 const noKana = unique.filter((r) => !r.kana);
-const risky = unique.filter((r) => r.notes);
+/* Two different flags live in `notes` and they mean different things: one is
+   a name an engine will get wrong, the other a reading no source has confirmed.
+   Counting them together would quietly grow the fifteen. */
+const risky = unique.filter((r) => r.notes.includes('SAY AS TWO PARTS'));
+const unconfirmed = unique.filter((r) => r.notes.includes('NEEDS CONFIRMING'));
 console.log(`${unique.length} rows written to ${dest} (${rows.length - unique.length} duplicates merged)`);
 for (const [c, n] of Object.entries(byCollection)) console.log(`  ${c.padEnd(16)} ${n}`);
 console.log(`\nrows with kana already: ${unique.length - noKana.length}`);
 console.log(`rows needing kana back: ${noKana.length}`);
 console.log(`boundary-risk names   : ${risky.length}`);
+console.log(`readings unconfirmed  : ${unconfirmed.length}`);
 console.log(`total characters      : ${unique.reduce((n, r) => n + (r.kana || r.romaji).length, 0)}`);

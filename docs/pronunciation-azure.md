@@ -4,8 +4,8 @@ The sibling of `docs/pronunciation.md`. Same sheet, same output layout, a
 different engine, so the two can be judged by ear instead of by argument.
 
 Read `docs/pronunciation.md` first. Everything it says about the sheet being
-derived, about feeding the engine kanji rather than kana, and about a human
-recording being the better answer applies here unchanged.
+derived, about feeding the engine kana wherever the sheet holds it, and about
+a human recording being the better answer applies here unchanged.
 
 ## What Azure adds, and what it does not
 

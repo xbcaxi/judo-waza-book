@@ -24,3 +24,24 @@ the name or an alias.
 Ten techniques in this book have no entry here. They are names the Kodokan does
 not use, either because it folds the technique into another one or because the
 name belongs to contest usage rather than the classification.
+
+## japanese-readings.json
+
+Readings for the terms whose romaji does not pin down the pronunciation. Almost
+always that is an unmarked long vowel: "Dojo" is どじょ or どうじょう and the
+romaji cannot say which, so a synthesiser guesses and guesses wrong.
+
+Fifteen entries, each recording HOW it was established. `looked-up` means taken
+from the entry named, `derived` means worked out from the romaji plus a
+confirmed component, and two are marked NEEDS CONFIRMING and surface as a flag
+on the sheet until somebody settles them.
+
+It also carries IPA and pitch accent where a source gives them, and those are
+for the HUMAN recording rather than the synthesiser. No Japanese phone set
+either engine accepts can be told an accent, and accent is exactly what
+separates ko-uchi from kōchi: it is the one thing a recorded voice can give
+that a generated one cannot.
+
+Coverage is uneven by nature. Wiktionary has a full entry for 道場 and none for
+崩上四方固, so most rows carry a blank, which is the honest answer.
+
