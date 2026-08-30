@@ -13,3 +13,6 @@ tools/ijf-results/cache/
 # `npm run pronunciation`, so committing it would be committing a second copy
 # of every Japanese name. Regenerate it, do not edit it.
 wazabook-pronunciation.csv
+
+# Derived from the collections by npm run pronunciation:lexicon.
+wazabook-lexicon.xml

@@ -8,6 +8,10 @@ collections; `npm run pronunciation:audio` turns the sheet into audio. The
 sheet is gitignored because it is derived: a name is wrong in the technique
 file or it is not wrong.
 
+There is a second engine: `docs/pronunciation-azure.md` does the same job
+with Azure AI Speech, writing to `media/audio-azure/` so the two can be
+compared without one overwriting the other.
+
 **A human recording is the better answer** and `docs/voiceover-brief.md` is
 the brief for commissioning one. What follows is the synthesised floor: good
 enough to ship, and replaced file by file as real recordings arrive.
