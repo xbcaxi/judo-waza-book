@@ -1,0 +1,130 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How to grip"
+      },
+      "prose": {
+        "en": "The basic way of gripping is for both partners to be in shizentai (natural posture), one hand taking the opponent's sleeve and the other hand taking the opponent's lapel. In migi-gumi (right-hand grip), both are in migi-shizentai (right natural posture); the left hand takes the outside middle of the opponent's right sleeve, and the right hand takes the opponent's left front lapel. In hidari-gumi (left-hand grip), the right hand takes the outside middle of the opponent's left sleeve, and the left hand takes the opponent's right front lapel. In class, skill instruction is carried out with migi-gumi as the basic grip. Point: When gripping the judogi, grip with force in the little finger and the ring finger."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p006",
+          "printedPage": "94",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Step 2"
+      },
+      "prose": {
+        "en": "② Grip up and move"
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p007",
+          "printedPage": "95",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Practice 1"
+      },
+      "prose": {
+        "en": "Grip up in shizen-hontai and move forwards (and backwards). Do it with ayumi-ashi (or tsugi-ashi)."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p007",
+          "printedPage": "95",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Practice 2"
+      },
+      "prose": {
+        "en": "Grip up in shizen-hontai and move to the left (or right). Do it with tsugi-ashi."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p007",
+          "printedPage": "95",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Practice example"
+      },
+      "prose": {
+        "en": "Decide who is tori and who is uke. From shizen-hontai, tori moves one step forwards, backwards, left or right with tsugi-ashi and then returns to shizen-hontai. Uke moves in time with tori's movement and quickly maintains the shizen-hontai posture. Point: When moving, rather than looking at the opponent's feet, look at about the level of the opponent's chest; then you can both keep your posture and see the movement of the whole body. Point: Have students take care to keep \"shizentai\" and \"suri-ashi\", so that the feet are not spread too wide or brought too close together, the feet do not cross, and the feet do not come too far off the tatami."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p007",
+          "printedPage": "95",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_06/p006",
+      "printedPage": "94",
+      "textJa": "－94－\n第４章　技能指導の要点\n○組み方\n　互いに自然体で、一方の手で相手の袖をとり、\n他方の手で相手の襟をとって組み合うのが基本的\nな組み方です。右組みは、互いに右自然体で左手\nで相手の右外中袖をとり、右手で相手の左前襟を\nとります。左組みは、右手で相手の左外中袖を取\nり、左手で相手の右前襟をとります。授業では右\n組みを基本として技能の指導を行います。\n⑵　進退動作\n　柔道は動きながら技をかけたり、相手の技を防いだりするので、自分の姿勢を安定させながら移\n動することが大切です。この進退動作の基本の歩き方として「継ぎ足」「歩み足」があります。そ\nの際「すり足」を用いることで姿勢を安定させます。\n「継ぎ足」　一方の足が他の足を越して歩くのではなく、足を継いで歩く。\n「歩み足」　主に前後への歩き方、左右交互に歩み出す普通の歩き方。\n「すり足」　踵を軽く浮かせ足の裏で畳を擦るようにして移動する。\n基本的な組み方\n右組み\n左組み\nポイント\n柔道衣を握る\nときは小指、\n薬指に力を入\nれて握る。\n移動のイメージ\n歩み足で後ろに移動しなが\nら、技に入る。",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_06.pdf",
+      "pdfPage": 6,
+      "image": {
+        "file": "mext-2013/1333611_06-p006.jpg",
+        "alt": {
+          "en": "Page 94 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    },
+    {
+      "recordId": "mext-2013/1333611_06/p007",
+      "printedPage": "95",
+      "textJa": "－95－\n第１節　基本動作\n第\n１\n節\nステップ2\n②組み合って動く\n　　　　自然本体で組み合い、前（後）に移動する。　歩み足（または継ぎ足）で行う。\n　　　　自然本体で組み合い、左（右）に移動する。継ぎ足で行う。\n練習例　\n　取と受を決め、取は\n自然本体から、継ぎ足\nで前後左右に１歩移動\nして自然本体に戻りま\nす。受は、取の動きに\n合わせて移動し、自然\n本体の姿勢を素早く保\nつようにします。\n練習１\n練習２\nポイント\n足幅を広げ過ぎたり、狭くし過ぎたり、足が交差したり、足が畳から\n離れ過ぎないように、\n「自然体」と「すり足」を保つことに留意させます。\nポイント\n移動するとき\nに相手の足元\nを見るのでは\nなく、相手の\n胸のあたりを\n見るようにす\nると、姿勢も\n保て全体の動\nきも分かるよ\nうになりま\nす。",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_06.pdf",
+      "pdfPage": 7,
+      "image": {
+        "file": "mext-2013/1333611_06-p007.jpg",
+        "alt": {
+          "en": "Page 95 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    }
+  ]
+}

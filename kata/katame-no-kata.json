@@ -1,0 +1,199 @@
+{
+  "name": "Katame-no-kata",
+  "nameJa": "固の形",
+  "gloss": null,
+  "about": null,
+  "sets": [
+    {
+      "name": "Osaekomi-waza",
+      "items": [
+        {
+          "text": "Kesa-gatame",
+          "techniques": [
+            "kesa-gatame"
+          ]
+        },
+        {
+          "text": "Kata-gatame",
+          "techniques": [
+            "kata-gatame"
+          ]
+        },
+        {
+          "text": "Kami-shiho-gatame",
+          "techniques": [
+            "kami-shiho-gatame"
+          ]
+        },
+        {
+          "text": "Yoko-shiho-gatame",
+          "techniques": [
+            "yoko-shiho-gatame"
+          ]
+        },
+        {
+          "text": "Kuzure-kami-shiho-gatame",
+          "techniques": [
+            "kuzure-kami-shiho-gatame"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shime-waza",
+      "items": [
+        {
+          "text": "Kata-juji-jime",
+          "techniques": [
+            "kata-juji-jime"
+          ]
+        },
+        {
+          "text": "Hadaka-jime",
+          "techniques": [
+            "hadaka-jime"
+          ]
+        },
+        {
+          "text": "Okuri-eri-jime",
+          "techniques": [
+            "okuri-eri-jime"
+          ]
+        },
+        {
+          "text": "Kataha-jime",
+          "techniques": [
+            "kata-ha-jime"
+          ]
+        },
+        {
+          "text": "Gyaku-juji-jime",
+          "techniques": [
+            "gyaku-juji-jime"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kansetsu-waza",
+      "items": [
+        {
+          "text": "Ude-garami",
+          "techniques": [
+            "ude-garami"
+          ]
+        },
+        {
+          "text": "Ude-hishigi-juji-gatame",
+          "techniques": [
+            "juji-gatame"
+          ]
+        },
+        {
+          "text": "Ude-hishigi-ude-gatame",
+          "techniques": [
+            "ude-gatame"
+          ]
+        },
+        {
+          "text": "Ude-hishigi-hiza-gatame",
+          "techniques": [
+            "hiza-gatame"
+          ]
+        },
+        {
+          "text": "Ashi-garami",
+          "techniques": [
+            "ashi-garami"
+          ]
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "oKaCgO0FdPk",
+      "title": "令和8年講道館鏡開式 固の形 / Kodokan Kagami Biraki ceremony 2026 Katame-no-Kata",
+      "duration": "10:19",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "SvckHbFDnzk",
+      "title": "令和7年講道館鏡開式 固の形 / Kodokan Kagami Biraki ceremony 2025 Katame-no-Kata",
+      "duration": "9:35",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "CZeolYWfkAA",
+      "title": "令和6年講道館鏡開式 固の形 取 中山智史 五段 受 林聖治 五段",
+      "duration": "9:48",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "e1eAt15CEMY",
+      "title": "Katame-no -Kata (English ver.)",
+      "duration": "45:04",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "zyTLmipWkb8",
+      "title": "固の形 日本語版",
+      "duration": "45:01",
+      "lang": "ja"
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "f55jg5zPtaI",
+      "title": "Katame no Kata 010 Osae Waza All",
+      "note": {
+        "en": "Katame no kata is the 3rd Dan kata; this is its osaekomi waza group."
+      }
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "glvqIkPIlos",
+      "title": "Katame no Kata 020 Shime Waza All",
+      "note": {
+        "en": "Katame no kata is the 3rd Dan kata; this is its shime waza group."
+      }
+    },
+    {
+      "provider": "assorted",
+      "platform": "youtube",
+      "id": "J9u1OZNnNw4",
+      "title": "Katame no Kata 030 Kansetsu Waza All",
+      "note": {
+        "en": "Katame no kata is the 3rd Dan kata; this is its kansetsu waza group."
+      }
+    }
+  ],
+  "links": [
+    {
+      "title": "Katame-no-kata: the Kodokan’s kata textbook",
+      "url": "https://kdkjd.org/wp-content/uploads/2024/10/katame_no_kata.pdf",
+      "source": "Kodokan Judo Institute"
+    }
+  ],
+  "image": null,
+  "source": {
+    "title": "Kodokan KATA Textbook, official English translation",
+    "date": "2026-08-30",
+    "note": {
+      "en": "Sets and the order of the items within them, as the Kodokan’s own textbook lists them. Copyright in that textbook is the Kodokan Judo Institute’s and its instructions and photographs are not reproduced here."
+    }
+  },
+  "adopted": "Adopted on April 10th, 1960",
+  "amended": "Amended on February 1st, 2006"
+}

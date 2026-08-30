@@ -1,0 +1,148 @@
+{
+  "name": "Ju-no-kata",
+  "nameJa": "柔の形",
+  "gloss": null,
+  "about": null,
+  "sets": [
+    {
+      "name": "Dai-ikkyo (Set 1)",
+      "items": [
+        {
+          "text": "Tsuki-dashi",
+          "techniques": []
+        },
+        {
+          "text": "Kata-oshi",
+          "techniques": []
+        },
+        {
+          "text": "Ryote-dori",
+          "techniques": []
+        },
+        {
+          "text": "Kata-mawashi",
+          "techniques": []
+        },
+        {
+          "text": "Ago-oshi",
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "name": "Dai-nikyo (Set 2)",
+      "items": [
+        {
+          "text": "Kiri-oroshi",
+          "techniques": []
+        },
+        {
+          "text": "Ryokata-oshi",
+          "techniques": []
+        },
+        {
+          "text": "Naname-uchi",
+          "techniques": []
+        },
+        {
+          "text": "Katate-dori",
+          "techniques": []
+        },
+        {
+          "text": "Katate-age",
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "name": "Dai-sankyo (Set 3)",
+      "items": [
+        {
+          "text": "Obi-tori",
+          "techniques": []
+        },
+        {
+          "text": "Mune-oshi",
+          "techniques": []
+        },
+        {
+          "text": "Tsuki-age",
+          "techniques": []
+        },
+        {
+          "text": "Uchi-oroshi",
+          "techniques": []
+        },
+        {
+          "text": "Ryogan-tsuki",
+          "techniques": []
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "QRVAR2aLE-o",
+      "title": "令和8年講道館鏡開式 柔の形 / Kodokan Kagami Biraki ceremony 2026 Ju-no-Kata",
+      "duration": "8:08",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Nw-eADih5mo",
+      "title": "令和7年講道館鏡開式 柔の形 / Kodokan Kagami Biraki ceremony 2025 Ju-no-Kata",
+      "duration": "8:17",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "ZS3CypK0PVI",
+      "title": "令和6年講道館鏡開式 柔の形 取 菅琳華 女子弐段 受 川原輝子 女子参段",
+      "duration": "8:25",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Aa0bQ8NLiOw",
+      "title": "Ju-no-Kata (English ver.)",
+      "duration": "38:20",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "H8SzxrpVgLs",
+      "title": "柔の形 日本語版",
+      "duration": "38:23",
+      "lang": "ja"
+    },
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "yi2nW9aDLZ0",
+      "title": "Ju-no-kata"
+    }
+  ],
+  "links": [
+    {
+      "title": "Ju-no-kata: the Kodokan’s kata textbook",
+      "url": "https://kdkjd.org/wp-content/uploads/2024/07/ju_no_kata.pdf",
+      "source": "Kodokan Judo Institute"
+    }
+  ],
+  "image": null,
+  "source": {
+    "title": "Kodokan KATA Textbook, official English translation",
+    "date": "2026-08-30",
+    "note": {
+      "en": "Sets and the order of the items within them, as the Kodokan’s own textbook lists them. Copyright in that textbook is the Kodokan Judo Institute’s and its instructions and photographs are not reproduced here."
+    }
+  },
+  "adopted": "Revised on July 7th, 1977",
+  "amended": "Amended on June 1st, 2007"
+}

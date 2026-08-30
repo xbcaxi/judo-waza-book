@@ -1,0 +1,130 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Section 1 Basic Movements"
+      },
+      "prose": {
+        "en": "For the basic movements, the left-hand page of each two-page spread gives the basic explanation, and the right-hand page shows instructional examples and step-by-step ways of practising. For the throwing techniques and holding techniques, we have summarised the key points that allow beginners to acquire the techniques safely: the basic way of applying them, ways of applying them at the introductory stage, points to note in teaching and learning, and so on."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p002",
+          "printedPage": "90",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How to stand up"
+      },
+      "prose": {
+        "en": "Raise the toes of both feet, lift the hips and stand up starting from the right knee."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p002",
+          "printedPage": "90",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How to sit down"
+      },
+      "prose": {
+        "en": "Draw the left foot back, then go down onto the left knee and then the right knee to take seiza."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p002",
+          "printedPage": "90",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "The thinking behind reihō (etiquette)"
+      },
+      "prose": {
+        "en": "Judo is a combative activity in which you grip an opponent directly and throw or hold them. Improving one's judo skills requires respecting the opponent and showing them courtesy, and at the same time requires a modest and calm mind in oneself. Therefore, in skill instruction too, we place importance on teaching attitudes as well as correct movements: traditional ways of behaving as typified by reihō, an attitude of respect for the opponent, a fair attitude, an attitude that pays attention to health and safety, and so on. In particular, reihō is taught starting from keeping to the correct form, so that students gradually come to understand its significance and to value it."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p002",
+          "printedPage": "90",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Instructional examples"
+      },
+      "prose": {
+        "en": "- When entering and leaving the judo hall or gymnasium, students should be able to perform a ritsu-rei (standing bow) or a za-rei (kneeling bow), and to line up their footwear neatly. - Have students carry out seiza and za-rei at the beginning and end of every lesson, so that they can perform reihō (etiquette) correctly and politely. - At the start and end of the lesson, have students line up in orderly rows in seiza and use a period of silent meditation so that they can switch their frame of mind. - When students practise in pairs, make ritsu-rei the basic form for throwing techniques, za-rei for holding techniques, and ritsu-rei for matches, so that in each situation they can respect the opponent and practise correctly. - During the attack and defence of free practice and matches, and immediately before and after them, pay particular attention to and check students' behaviour, attitude and reihō."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p003",
+          "printedPage": "91",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_06/p002",
+      "printedPage": "90",
+      "textJa": "－90－\n第４章　技能指導の要点\n　基本動作は、見開きの左ページで基本的な解説を行い、右ページに指導例や段階的な練習の仕方\nを示しています。投げ技、抑え技については、基本的なかけ方や初歩の段階のかけ方、学習指導上\nの留意点など、初心者が安全に技を身に付けるための要点をまとめました。\n１　基本動作の前に\n⑴　礼法\n＜礼法の考え方＞\n　柔道は直接相手と組み合って投げたり抑えたりする格闘的な運動です。柔道の技能の向上\nには相手を尊重し敬意を表すこととともに、自らも謙虚で冷静な心が求められる。したがって、\n技能指導においても、礼法に代表される伝統的な行動の仕方や相手を尊重する態度、公正な\n態度、健康・安全に留意する態度など、正しい所作と共に態度に関する指導を重視します。\n特に、礼法は形を守ることから指導を行い、次第にその意義を理解して大切にできるように\nします。\n　基本動作\n第1 節\n両足の親指を重ねて座る。両手は脚の付け根\nにハの字に置く、膝頭は握り拳ひとつ開ける。\n正座\n背筋を伸ばし背中と頭が畳と並行になるように体を倒\nす。両手はハの字につく。\n座礼\n立ち方　両足のつま先を立て、腰を上げて右膝から立つ。\n座り方　左足を引き、左膝、右膝の順番で正座する。\n立礼\n踵を付け、伸ばした指先が体側から膝頭にと\nどくまで約30 度前に倒す。",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_06.pdf",
+      "pdfPage": 2,
+      "image": {
+        "file": "mext-2013/1333611_06-p002.jpg",
+        "alt": {
+          "en": "Page 90 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    },
+    {
+      "recordId": "mext-2013/1333611_06/p003",
+      "printedPage": "91",
+      "textJa": "－91－\n第１節　基本動作\n第\n１\n節\n指導の場面\n⑵　柔道衣の名称\n⑶　帯の結び方\n　帯を両手で持ち、帯の中央をお腹の中心に合わせ①、後ろにまわして前に戻す②。右手の帯を\n下から帯を２本まとめて上に通し、左手に持ち変える③④。\n　右手の帯の端で輪をつくり⑤⑥、反対側の端を輪に通し⑦、結び目が横になるように両手で帯の\n両端を適度な強さで引く⑧。\n指導例\n・ 柔道場や体育館への入場、退場時は、立礼、または、座礼を行い、履き物を揃えることがで\nきるようにします。\n・ 毎時間、授業の最初と最後の正座、座礼を励行し、正しく丁寧な礼法ができるようにします。\n・ 授業開始、終了時は、正座で整然と整列させ、黙想することで気持ちを切り替えることがで\nきるようにします。\n・ 生徒が対人で練習する場合、投げ技は立礼、抑え技は座礼、試合は立礼を基本とし、それぞ\nれの場面で相手を尊重して正しく実践できるようにします。\n・自由練習や試合の攻防及びその前後は、特に、留意して生徒の行動や態度、礼法を確認します。\n上衣\n帯\n下ばき\n横襟\n後ろ襟\n中袖\n後ろ帯\n前襟\n袖口\n裾口\n　① \n② \n③ \n④\n　⑤ \n⑥ \n⑦ \n⑧\n整然と揃えられた履物\n授業開始・終了の礼法\n試合の礼法\n練習時の礼法",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_06.pdf",
+      "pdfPage": 3,
+      "image": {
+        "file": "mext-2013/1333611_06-p003.jpg",
+        "alt": {
+          "en": "Page 91 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    }
+  ]
+}

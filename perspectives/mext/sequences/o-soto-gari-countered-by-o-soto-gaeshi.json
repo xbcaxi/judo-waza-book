@@ -1,0 +1,64 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Varying nage-waza: countering the opponent"
+      },
+      "prose": {
+        "en": "Tori counters uke's o-soto-gari and applies o-soto-gaeshi (major outer reap counter)."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p010",
+          "printedPage": "150",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "How to take the breakfall"
+      },
+      "prose": {
+        "en": "Uke takes an ushiro-ukemi (rear breakfall) in time with the o-soto-gaeshi."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_10/p010",
+          "printedPage": "150",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_10/p010",
+      "printedPage": "150",
+      "textJa": "－150－\n第４章　技能指導の要点\n⑵　投げ技の変化\n　相手の技を利用して（切り返して）、自分の技をかける。変化技と呼ばれる。\n①　相手の大内刈りを切り返す（相手の大内刈り→大内返し）\n③　相手の大内刈り→体落とし\n②　相手の大外刈りを切り返す（相手の大外刈り→大外返し）\n「取」は、「受」の大内刈りを切り返し、大内返しをかける\n「取」は、「受」の大外刈りを切り返し、大外返しをかける\n「取」は、「受」の大内刈りをかわして、体落としをかける\n受け身のとり方\n「受」は、大内返しに合わ\nせて横受け身をとる\n受け身のとり方\n「受」は、大外返しに合わ\nせて後ろ受け身をとる\n受け身のとり方\n「受」は、体落としに合わ\nせて横受け身をとる",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_10.pdf",
+      "pdfPage": 10,
+      "image": {
+        "file": "mext-2013/1333611_10-p010.jpg",
+        "alt": {
+          "en": "Page 150 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    }
+  ]
+}

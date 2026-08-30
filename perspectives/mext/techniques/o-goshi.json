@@ -1,0 +1,237 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Explanation of the technique",
+        "ja": "技の説明"
+      },
+      "prose": {
+        "en": "Tori breaks uke's balance forward, passes the right arm around uke's lower back, overlaps with uke, and, using the extension of both knees, the hikite (pulling hand) and the right arm passed around behind, loads uke onto the hips and throws uke forward. Image of the technique and the ukemi (breakfall) From kumi-kata, tori turns in, loads uke on the hips and throws forward; uke lands and takes ukemi."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p006",
+          "printedPage": "126",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Elementary way of applying it",
+        "ja": "初歩のかけ方"
+      },
+      "prose": {
+        "en": "How to take the ukemi: Uke rotates sideways about the right foot and takes yoko-ukemi (side breakfall). Tori turns in with mae-mawari-sabaki and throws uke forward without lifting uke off the mat. Tori uses mae-mawari-sabaki (forward turning body movement) and throws uke forward without lifting uke up. How to take the ukemi: In time with tori's ō-goshi, uke does not pull the hips back and takes mae-mawari-ukemi (forward rolling breakfall)."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p006",
+          "printedPage": "126",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Basic way of applying it",
+        "ja": "基本のかけ方"
+      },
+      "prose": {
+        "en": "From kumi-kata, tori turns in with mae-mawari-sabaki, loads uke onto the hips and throws forward. Tori uses mae-mawari-sabaki (forward turning body movement) to break uke's balance forward, and throws uke forward."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p006",
+          "printedPage": "126",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Devising the practice: practice of tai-sabaki (body movement) and balance",
+        "ja": "練習の工夫"
+      },
+      "prose": {
+        "en": "Two students practise the body movement together. Practise the tai-sabaki (body movement) in pairs. Cooperation of uke: So that tori does not bend forward, uke arches the upper body moderately even when lifted. Practise loading uke onto the hips and holding the balance."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p006",
+          "printedPage": "126",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Opportunities for applying the technique",
+        "ja": "技をかける機会"
+      },
+      "prose": {
+        "en": "Tori pushes uke; as uke plants the feet and holds ground, tori turns in with mae-mawari-sabaki and throws with ō-goshi. Push uke, and at the moment uke stands firm, apply ō-goshi (major hip throw) with mae-mawari-sabaki (forward turning body movement). As uke pushes, tori turns in with ushiro-mawari-sabaki and applies ō-goshi. In time with uke pushing forward, apply ō-goshi (major hip throw) with ushiro-mawari-sabaki (backward turning body movement)."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p007",
+          "printedPage": "127",
+          "jaSource": "ocr"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Faults that are easy to fall into",
+        "ja": "陥りやすい欠点"
+      },
+      "prose": {
+        "en": "Tori should not push the hips in too deeply. Tori should not let the stance become too narrow. Uke turns sideways while receiving the technique. Uke should not receive the technique while facing sideways."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p007",
+          "printedPage": "127",
+          "jaSource": "ocr"
+        }
+      ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points for safety instruction",
+        "ja": "安全指導のポイント"
+      },
+      "prose": {
+        "en": "Do not apply the technique bent forward, in a posture that drives the head into the mat."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_08/p007",
+          "printedPage": "127",
+          "jaSource": "ocr"
+        }
+      ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Accidents to watch for"
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_12/p011",
+          "printedPage": "173",
+          "jaSource": "pdf_text"
+        }
+      ],
+      "prose": {
+        "en": "If tori bends at the waist and applies the technique with the head lowered, there is a risk that not uke but tori will injure the neck from the head being driven in."
+      }
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Prohibited outright"
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_12/p011",
+          "printedPage": "173",
+          "jaSource": "pdf_text"
+        }
+      ],
+      "prose": {
+        "en": "Prohibit applying the technique with the head lowered; instruct that, if tori loses balance and ends up in a low posture, they release the lapel and sleeve of uke that they are holding and take mae-ukemi (front breakfall) themselves."
+      }
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points for safe instruction"
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_12/p011",
+          "printedPage": "173",
+          "jaSource": "pdf_text"
+        }
+      ],
+      "prose": {
+        "en": "With a right-handed grip, it is important that tori raises the upper body and repeats kakari-geiko and yakusoku-geiko so as to break uke's balance to the right front corner before applying the technique, thereby building proficiency."
+      }
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_08/p006",
+      "printedPage": "126",
+      "nameInSource": "Ō-goshi",
+      "textJa": "－126－\n第４章　技能指導の要点\n⑴　技の説明\n　「取」は、「受」を前に崩し、「受」の後ろ腰に右腕を回し、「受」\nと重なり、両膝の伸展、引き手、後ろに回した右腕を使い、「受」\nを腰に乗せ前方に投げる。\n⑵　技のかけ方\n　①　初歩のかけ方\n　②　基本のかけ方\n　③　練習の工夫　　体さばきとバランスの練習\n「取」は、前回りさばきで、「受」を前に崩して、前方に投げる\n受け身のとり方\n「受」は、取の大腰に合わせて、\n腰を引かずに前回り受け身をとる\n「取」は、前回りさばきで、「受」を持ち上げずに、前方へ投げる\n受け身のとり方\n「受」は、右足を軸に横回転し\nながら、横受け身をとる\n二人組み\nで、体さ\nばきを練\n習する\n受の協力\n「取」が前かがみ\nにならない様に、\n持ち上げられても\n上体を適度に反る\n「受」を腰に乗せ\nてバランスを取る\n練習をする\n技と受け身のイメージ\n大腰",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_08.pdf",
+      "pdfPage": 6,
+      "image": {
+        "file": "mext-2013/1333611_08-p006.jpg",
+        "alt": {
+          "en": "Page 126 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    },
+    {
+      "recordId": "mext-2013/1333611_08/p007",
+      "printedPage": "127",
+      "nameInSource": "Ō-goshi",
+      "textJa": "第2節 対人的技能\n\n(3③) 技をかける機会\n\n[受] が押してくるのに合わせて、後ろ回りさばきで大腰をかける\n\n(4) 指導上の留意点\n① 陥りやすい欠点\n\n「取| は、\n「取| は、           足幅が狭\n腰が深く入          くなり過\nり過ぎない              ぎないよ\nようにする           うにする\n\n前屈して、頭か\nら畳に突っ込む\n姿勢で技をかけ\n\nない\n\nー127 一",
+      "jaSource": "ocr",
+      "figureTextConfidence": "medium",
+      "pdfFile": "1333611_08.pdf",
+      "pdfPage": 7,
+      "image": {
+        "file": "mext-2013/1333611_08-p007.jpg",
+        "alt": {
+          "en": "Page 127 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    },
+    {
+      "recordId": "mext-2013/1333611_12/p011",
+      "printedPage": "173",
+      "textJa": "－173－\n資料１　柔道の授業の安全な実施に向けて\n資\n料\n１\n学習指導要領に例示されている投げ技と安全指導のポイント\n投げ技\nどんな事故に注意すべきか？\n事故を防止するための指導のポイントは？\n体\n落\nと\nし\n○右組の場合、取（技をかける人）が右膝をつく低い状態で技をかけると、受（技\nを受ける人）は真下に落ちやすく肩や肘を痛めることがあります。\n○膝をつく低い状態で技をかけることは禁止しましょう。\n○右組の場合、取は受を右前隅に崩して技をかけるようかかり練習や約束練習を繰り返して習熟を図\nることが重要です。\n○取が自分のバランスを崩して膝をついた場合は、無理に投げようとしないで、持っている受の襟や\n袖を放すように指導しましょう。そうすると受は状況に応じた受け身を安全にとりやすくなります。\n○取が右組のまま左の体落としをかけると、受は左手を思わずついて手首や肘を\n痛める原因となります。\n○初心者の段階では右組のまま左の体落としをかけることを禁止し、必ず引き手の方向に投げるよう\n指導しましょう。\n大\n腰\n○取が腰を曲げて頭部を低くした状態で技をかけると、受ではなく、取が頭部か\nら突っ込み頸部を痛める恐れがあります。\n○頭部を低くした状態で技をかけることを禁止し、自分のバランスを崩して低い姿勢になった場合は、\n持っている受の襟や袖を放し、自ら前受け身をとるように指導しましょう。\n○右組の場合、取は上体を起こし、受を右前隅に崩して技をかけるようかかり練習や約束練習を繰り\n返して習熟を図ることが重要です。\n膝\n車\n○取が右組のまま右足で膝車をかけると、受は左手を思わずついて手首や肘を痛\nめるおそれがあります。\n○初心者の段階では右組のまま右足で膝車をかけることを禁止し、必ず引き手の方向に投げるよう指\n導しましょう。\n○取の上体が崩れ、倒れながらも無理に技をかけると、受は肩から落ち、肩、肘\nを痛めることがあります。\n○上体が崩れた場合は技をかけないで自らが後ろ受け身をとるよう指導することが重要です。\n○取は右足前さばき（右足のつま先を内側に向ける体さばき）をしっかりしたうえで技をかけるよう\n指導しましょう。\n大\n外\n刈\nり\n○受が防御で踏みとどまったにもかかわらず取は上体を浴びせるようにして同体\nで倒れ込むと、受は真後ろに倒され後頭部を打つおそれがあります。\n○受が防御で踏みとどまった場合は、それ以上同体となって倒れ込むことを禁止しましょう。\n○右組の場合、取は受の右後ろ隅に十分崩して技をかけるようかかり練習や約束練習を繰り返して習\n熟を図ることが重要です。\n○取が受の両脚を刈り上げると、受は後頭部から落ちていく恐れがあります。\n○受の両脚を刈り上げることを禁止しましょう。\n○右組の場合、取は受の右後ろ隅に十分崩して技をかけるようかかり練習や約束練習を繰り返して習\n熟を図ることが重要です。\n○大外刈りをかけられた際に、受が上体をひねり、防御の手をつくと手首や肘を\n痛めるおそれがあります。\n○受は無理な防御をしないで潔く受け身をとるよう指導しましょう。\n支\nえ\n釣\nり\n込\nみ\n足\n○取が右組のまま右足で支え釣り込み足をかけると、受が左手を思わずついて手\n首や肘を痛めるおそれがあります。\n○初心者の段階では右組のまま右足で支え釣り込み足をかけることを禁止し、必ず引き手の方向に投\nげるよう指導しましょう。\n○取の上体が崩れ、倒れながらも無理に技をかけると、受は肩から落ち肩、肘を\n痛めるおそれがあります。\n○上体が崩れた場合は技をかけないで自ら後ろ受け身をとるよう指導しましょう。\n○取は右足前さばき（右足のつま先を内側に向ける体さばき）をしっかりしたうえで技をかけるよう\n指導しましょう。\n小\n内\n刈\nり\n○取が勢い余って同体となって倒れ込むと、受は真後ろに倒され後頭部を打つお\nそれがあります。\n○同体となって倒れ込むことは禁止しましょう。\n○取は自分のバランスを崩した場合は、同体となって倒れないように持っている受の襟や袖を放すよ\nうに指導しましょう。そうすると受は状況に応じた受け身を安全にとりやすくなります。\n○右組の場合、取は受の右袖をしっかり引きつけ右後ろ隅に崩して技をかけるよう指導しましょう。\n○小内刈りをかけられた際、受が上体をひねり、防御の手をつくと、受は手首や\n肘を痛めるおそれがあります。\n○受は無理な防御をしないで潔く受け身をとるよう指導しましょう。",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_12.pdf",
+      "pdfPage": 11,
+      "image": {
+        "file": "mext-2013/1333611_12-p011.jpg",
+        "alt": {
+          "en": "Page 173 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    }
+  ]
+}

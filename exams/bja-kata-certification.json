@@ -80,30 +80,45 @@
               "text": "1st Dan - Nage-no-kata",
               "terms": [
                 "kata"
+              ],
+              "kata": [
+                "nage-no-kata"
               ]
             },
             {
               "text": "2nd Dan - Katame-no-kata",
               "terms": [
                 "kata"
+              ],
+              "kata": [
+                "katame-no-kata"
               ]
             },
             {
               "text": "3rd Dan - Ju-no-kata",
               "terms": [
                 "kata"
+              ],
+              "kata": [
+                "ju-no-kata"
               ]
             },
             {
               "text": "4th Dan - Kime-no-kata",
               "terms": [
                 "kata"
+              ],
+              "kata": [
+                "kime-no-kata"
               ]
             },
             {
               "text": "5th Dan - Kodokan Goshin-jutsu",
               "terms": [
                 "kata"
+              ],
+              "kata": [
+                "kodokan-goshin-jutsu"
               ]
             }
           ]
@@ -117,6 +132,9 @@
               "text": "For 6th Dan, in addition to the five kata above, a minimum BJA Level 1 certificate in Koshiki-no-kata",
               "terms": [
                 "kata"
+              ],
+              "kata": [
+                "koshiki-no-kata"
               ]
             }
           ]

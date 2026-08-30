@@ -1,0 +1,244 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Explanation of the technique",
+        "ja": "技の説明"
+      },
+      "prose": {
+        "en": "Tori breaks uke's balance toward the right rear corner and, pivoting on the left foot, reaps uke's right heel from the inside with the arch of the right foot, throwing uke backwards. Image of the technique and the ukemi (breakfall)."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p006",
+          "printedPage": "136",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Introductory way of applying the technique",
+        "ja": "初歩のかけ方"
+      },
+      "prose": {
+        "en": "Uke's cooperation: Uke opens the right foot out and takes ushiro-ukemi (rear breakfall) supported on the left foot. Tori's cooperation: Tori pulls up on uke's right sleeve so that uke can take a solid ukemi. Uke opens the right foot forward, and tori reaps uke's right foot so as to open it out further, throwing uke to the rear. Uke works from a low posture up to a higher one by degrees: half-crouch → standing."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p006",
+          "printedPage": "136",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Basic way of applying the technique",
+        "ja": "基本のかけ方"
+      },
+      "prose": {
+        "en": "Tori, using a forward tai-sabaki (body movement), breaks uke's balance to the rear and throws by reaping uke's right heel with the right foot."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p006",
+          "printedPage": "136",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Practice ideas",
+        "ja": "練習の工夫"
+      },
+      "prose": {
+        "en": "Practising the direction of the reap Place the sole of the foot against uke's heel and check the effective direction of the reap. As practice for ushiro-ukemi, tori lets go of the pulling hand and uke slowly checks the rear breakfall."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p006",
+          "printedPage": "136",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Opportunities to apply the technique",
+        "ja": "技をかける機会"
+      },
+      "prose": {
+        "en": "Apply the technique with a rearward tai-sabaki (body movement) at the point where uke comes forward. Apply the technique with a forward tai-sabaki at the point where uke tries to step back."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p007",
+          "printedPage": "137",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Faults that are easy to fall into",
+        "ja": "陥りやすい欠点"
+      },
+      "prose": {
+        "en": "Tori must not apply the technique with the hips pulled back. Tori must not apply the technique with the lifting hand (tsurite) fully extended."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p007",
+          "printedPage": "137",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points for safe instruction",
+        "ja": "安全指導のポイント"
+      },
+      "prose": {
+        "en": "When thrown, uke must not put the hand or elbow down on the mat. Do not fall together with uke. Tori stands firmly and pulls with the pulling hand (hikite). Uke does not cling to tori, but takes the ukemi (breakfall)."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_09/p007",
+          "printedPage": "137",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Accidents to watch for"
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_12/p011",
+          "printedPage": "173",
+          "jaSource": "pdf_text"
+        }
+      ],
+      "steps": {
+        "en": [
+          "If tori overreaches and they fall together as one body, there is a risk that uke will be thrown straight backwards and strike the back of the head.",
+          "When ko-uchi-gari is applied to them, if uke twists the upper body and puts down a defending hand, there is a risk that uke will injure the wrist or elbow."
+        ]
+      }
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Prohibited outright"
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_12/p011",
+          "printedPage": "173",
+          "jaSource": "pdf_text"
+        }
+      ],
+      "prose": {
+        "en": "Prohibit falling together as one body."
+      }
+    },
+    {
+      "kind": "safety",
+      "heading": {
+        "en": "Points for safe instruction"
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_12/p011",
+          "printedPage": "173",
+          "jaSource": "pdf_text"
+        }
+      ],
+      "steps": {
+        "en": [
+          "Instruct that, if tori loses balance, they release the lapel and sleeve of uke that they are holding so as not to fall together as one body. Uke can then more easily and safely take ukemi suited to the situation.",
+          "With a right-handed grip, instruct tori to draw uke's right sleeve in firmly and break uke's balance to the right rear corner before applying the technique.",
+          "Instruct uke to take ukemi cleanly without unreasonable defence."
+        ]
+      }
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_09/p006",
+      "printedPage": "136",
+      "nameInSource": "Ko-uchi-gari",
+      "textJa": "－136－\n第４章　技能指導の要点\n⑴　技の説明\n　「取」は、「受」を右後ろすみに崩し、左足を軸に右足の土踏まず\nの部分で、「受」の右足踵部分を内側から刈り、\n「受」の後方に投げる。\n⑵　技のかけ方\n　①　初歩のかけ方\n　②　基本のかけ方\n　③　練習の工夫\n刈る方向の練習\n後ろ受け身の練習\n技と受け身のイメージ\n「受」の踵に足裏を当てて、効果的な刈る方向を確かめる。\n後ろ受け身の練習として、「取」\nが引き手を離し、「受」がゆっ\nくりと後ろ受け身を確認する\n小内刈り\n「取」は前さばきで「受」を後ろに崩し、右足で「受」の右踵を刈って投げる\n「受」は右足を前に開き、「取」は、「受」の右足をさらに開くように刈り、後方へ投げる\n「受」は中腰→立位へと低い姿勢から徐々に高い姿勢で行う\n受の協力\n「受」は、右足を開きながら左\n足を支えに後ろ受け身をとる\n取の協力\n「取」は、「受」の右袖を引き上げ\nてしっかりと受け身を取らせる",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_09.pdf",
+      "pdfPage": 6,
+      "image": {
+        "file": "mext-2013/1333611_09-p006.jpg",
+        "alt": {
+          "en": "Page 136 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    },
+    {
+      "recordId": "mext-2013/1333611_09/p007",
+      "printedPage": "137",
+      "nameInSource": "Ko-uchi-gari",
+      "textJa": "－137－\n第2 節　対人的技能\n第\n２\n節\n⑶　技をかける機会\n①\n②\n⑷　指導上の留意点\n　①　陥りやすい欠点\n　②　安全指導のポイント\n「受」が前に出てきたところを、後ろさばきでかける\n「受」が後ろに下がろうとしたところを、前さばきでかける\n「受」は、投\nげられた際\nに、手やひ\nじをつかな\nい\n「取」は、腰\nを引いて技を\nかけないよう\nにする\n「取」は、釣\nり手が伸び\nきった状態で\n技をかけない\nようにする\n同体で倒れな\nい。「取」は\nしっかりと立\nち引き手を引\nく。「受」は\n「取」にしが\nみつかず受け\n身をとる",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_09.pdf",
+      "pdfPage": 7,
+      "image": {
+        "file": "mext-2013/1333611_09-p007.jpg",
+        "alt": {
+          "en": "Page 137 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    },
+    {
+      "recordId": "mext-2013/1333611_12/p011",
+      "printedPage": "173",
+      "textJa": "－173－\n資料１　柔道の授業の安全な実施に向けて\n資\n料\n１\n学習指導要領に例示されている投げ技と安全指導のポイント\n投げ技\nどんな事故に注意すべきか？\n事故を防止するための指導のポイントは？\n体\n落\nと\nし\n○右組の場合、取（技をかける人）が右膝をつく低い状態で技をかけると、受（技\nを受ける人）は真下に落ちやすく肩や肘を痛めることがあります。\n○膝をつく低い状態で技をかけることは禁止しましょう。\n○右組の場合、取は受を右前隅に崩して技をかけるようかかり練習や約束練習を繰り返して習熟を図\nることが重要です。\n○取が自分のバランスを崩して膝をついた場合は、無理に投げようとしないで、持っている受の襟や\n袖を放すように指導しましょう。そうすると受は状況に応じた受け身を安全にとりやすくなります。\n○取が右組のまま左の体落としをかけると、受は左手を思わずついて手首や肘を\n痛める原因となります。\n○初心者の段階では右組のまま左の体落としをかけることを禁止し、必ず引き手の方向に投げるよう\n指導しましょう。\n大\n腰\n○取が腰を曲げて頭部を低くした状態で技をかけると、受ではなく、取が頭部か\nら突っ込み頸部を痛める恐れがあります。\n○頭部を低くした状態で技をかけることを禁止し、自分のバランスを崩して低い姿勢になった場合は、\n持っている受の襟や袖を放し、自ら前受け身をとるように指導しましょう。\n○右組の場合、取は上体を起こし、受を右前隅に崩して技をかけるようかかり練習や約束練習を繰り\n返して習熟を図ることが重要です。\n膝\n車\n○取が右組のまま右足で膝車をかけると、受は左手を思わずついて手首や肘を痛\nめるおそれがあります。\n○初心者の段階では右組のまま右足で膝車をかけることを禁止し、必ず引き手の方向に投げるよう指\n導しましょう。\n○取の上体が崩れ、倒れながらも無理に技をかけると、受は肩から落ち、肩、肘\nを痛めることがあります。\n○上体が崩れた場合は技をかけないで自らが後ろ受け身をとるよう指導することが重要です。\n○取は右足前さばき（右足のつま先を内側に向ける体さばき）をしっかりしたうえで技をかけるよう\n指導しましょう。\n大\n外\n刈\nり\n○受が防御で踏みとどまったにもかかわらず取は上体を浴びせるようにして同体\nで倒れ込むと、受は真後ろに倒され後頭部を打つおそれがあります。\n○受が防御で踏みとどまった場合は、それ以上同体となって倒れ込むことを禁止しましょう。\n○右組の場合、取は受の右後ろ隅に十分崩して技をかけるようかかり練習や約束練習を繰り返して習\n熟を図ることが重要です。\n○取が受の両脚を刈り上げると、受は後頭部から落ちていく恐れがあります。\n○受の両脚を刈り上げることを禁止しましょう。\n○右組の場合、取は受の右後ろ隅に十分崩して技をかけるようかかり練習や約束練習を繰り返して習\n熟を図ることが重要です。\n○大外刈りをかけられた際に、受が上体をひねり、防御の手をつくと手首や肘を\n痛めるおそれがあります。\n○受は無理な防御をしないで潔く受け身をとるよう指導しましょう。\n支\nえ\n釣\nり\n込\nみ\n足\n○取が右組のまま右足で支え釣り込み足をかけると、受が左手を思わずついて手\n首や肘を痛めるおそれがあります。\n○初心者の段階では右組のまま右足で支え釣り込み足をかけることを禁止し、必ず引き手の方向に投\nげるよう指導しましょう。\n○取の上体が崩れ、倒れながらも無理に技をかけると、受は肩から落ち肩、肘を\n痛めるおそれがあります。\n○上体が崩れた場合は技をかけないで自ら後ろ受け身をとるよう指導しましょう。\n○取は右足前さばき（右足のつま先を内側に向ける体さばき）をしっかりしたうえで技をかけるよう\n指導しましょう。\n小\n内\n刈\nり\n○取が勢い余って同体となって倒れ込むと、受は真後ろに倒され後頭部を打つお\nそれがあります。\n○同体となって倒れ込むことは禁止しましょう。\n○取は自分のバランスを崩した場合は、同体となって倒れないように持っている受の襟や袖を放すよ\nうに指導しましょう。そうすると受は状況に応じた受け身を安全にとりやすくなります。\n○右組の場合、取は受の右袖をしっかり引きつけ右後ろ隅に崩して技をかけるよう指導しましょう。\n○小内刈りをかけられた際、受が上体をひねり、防御の手をつくと、受は手首や\n肘を痛めるおそれがあります。\n○受は無理な防御をしないで潔く受け身をとるよう指導しましょう。",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_12.pdf",
+      "pdfPage": 11,
+      "image": {
+        "file": "mext-2013/1333611_12-p011.jpg",
+        "alt": {
+          "en": "Page 173 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    }
+  ]
+}

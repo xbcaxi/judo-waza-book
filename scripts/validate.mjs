@@ -82,6 +82,7 @@ const validateScheme = ajv.compile(await loadJson(path.join(root, 'schema/scheme
 const validateSequence = ajv.compile(await loadJson(path.join(root, 'schema/sequence.schema.json')));
 const validateGuide = ajv.compile(await loadJson(path.join(root, 'schema/guide.schema.json')));
 const validateSkill = ajv.compile(await loadJson(path.join(root, 'schema/skill.schema.json')));
+const validateKata = ajv.compile(await loadJson(path.join(root, 'schema/kata.schema.json')));
 const validateExam = ajv.compile(await loadJson(path.join(root, 'schema/exam.schema.json')));
 const validateProvider = ajv.compile(await loadJson(path.join(root, 'schema/provider.schema.json')));
 const validateChannel = ajv.compile(await loadJson(path.join(root, 'schema/channel.schema.json')));
@@ -94,6 +95,7 @@ const schemes = await loadDir('grading-schemes');
 const sequences = await loadDir('sequences');
 const guides = await loadDir('guides');
 const skills = await loadDir('skills');
+const kata = await loadDir('kata');
 const exams = await loadDir('exams');
 const providers = await loadDir('video-providers');
 const channels = await loadDir('video-channels');
@@ -106,7 +108,7 @@ const organisations = await loadDir('organisations');
  * path alone says whose voice this is and what it is about, and technique
  * and exam slugs can never collide. Schemes are the expected next kind;
  * nothing accepts them until something renders them. */
-const perspectiveTypes = ['techniques', 'exams'];
+const perspectiveTypes = ['techniques', 'exams', 'skills', 'guides', 'sequences'];
 const perspectives = [];
 {
   let orgDirs = [];
@@ -323,6 +325,7 @@ const withVideos = [
   ...sequences.map((q) => [`sequences/${q.name}`, q.data.videos ?? []]),
   ...guides.map((g) => [`guides/${g.name}`, g.data.videos ?? []]),
   ...perspectives.map((p) => [`perspectives/${p.name}`, p.data.videos ?? []]),
+  ...kata.map((k) => [`kata/${k.name}`, k.data.videos ?? []]),
 ];
 const usedProviders = new Set();
 for (const [where, videos] of withVideos) {
@@ -371,6 +374,7 @@ const guideIds = new Set(guides.map((g) => g.slug));
  * (techniques whose names contain them, the guide that covers them), and
  * syllabus items resolve OUT to them, so both directions are checked. */
 const termIds = new Set(glossary.map((t) => t.slug));
+const kataIds = new Set(kata.map((k) => k.slug));
 const termWords = new Map();
 for (const t of glossary) {
   if (!validateTerm(t.data)) report(`glossary/${t.name}`, validateTerm);
@@ -469,6 +473,19 @@ for (const p of providers) {
 /* Skills: the examined things that are not techniques - breakfalls,
  * gripping, escapes, turnovers. Every one must narrate itself, because a
  * skill with no steps is exactly the gap this collection exists to close. */
+/* A kata is named by its romaji, and the filename is that name lowercased,
+ * the same rule techniques follow. It is checked because the name is what a
+ * syllabus prints and what an exam item resolves to: a file called
+ * kodokan-goshin-jutsu.json holding a kata named something else would break
+ * that link silently. */
+for (const k of kata) {
+  if (!validateKata(k.data)) report(`kata/${k.name}`, validateKata);
+  const expected = k.data.name?.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+  if (expected && expected !== k.slug) {
+    problems.push(`kata/${k.name}: filename should be "${expected}.json" to match name "${k.data.name}"`);
+  }
+}
+
 for (const k of skills) {
   if (!validateSkill(k.data)) report(`skills/${k.name}`, validateSkill);
   if (!/^[a-z0-9][a-z0-9-]*$/.test(k.slug)) {
@@ -586,6 +603,11 @@ function checkItem(where, item) {
   for (const id of item.terms ?? []) {
     if (!termIds.has(id)) {
       problems.push(`${where}: item "${item.text}" references unknown glossary term "${id}"`);
+    }
+  }
+  for (const id of item.kata ?? []) {
+    if (!kataIds.has(id)) {
+      problems.push(`${where}: item "${item.text}" references unknown kata "${id}"`);
     }
   }
 }
@@ -854,6 +876,28 @@ for (const p of perspectives) {
     const technique = techniques.find((t) => t.slug === p.slug);
     if (technique?.data.banned === 'yes' && (p.data.sections ?? []).some((section) => section.steps)) {
       problems.push(`perspectives/${p.name}: ${p.slug} is documented for recognition only; no perspective may add step-by-step instruction`);
+    }
+  }
+  if (p.type === 'skills' && !skills.some((skill) => skill.slug === p.slug)) {
+    problems.push(`perspectives/${p.name}: unknown skill "${p.slug}"`);
+  }
+  if (p.type === 'guides' && !guides.some((guide) => guide.slug === p.slug)) {
+    problems.push(`perspectives/${p.name}: unknown guide "${p.slug}"`);
+  }
+  if (p.type === 'sequences' && !sequences.some((sequence) => sequence.slug === p.slug)) {
+    problems.push(`perspectives/${p.name}: unknown sequence "${p.slug}"`);
+  }
+  /* A cited page may carry the page itself as an image. Unlike an
+   * illustration beside a technique the path is written down rather than
+   * derived, so a typo in it is invisible until a reader meets a broken
+   * picture where the evidence for a claim should be. */
+  for (const page of p.data.sourcePages ?? []) {
+    if (!page.image) continue;
+    try {
+      await access(path.join(root, 'media', page.image.file));
+    } catch {
+      problems.push(`perspectives/${p.name}: page ${page.printedPage} claims `
+        + `media/${page.image.file}, which does not exist`);
     }
   }
   if (p.type === 'exams') {
@@ -1170,8 +1214,14 @@ console.log(`Glossary: ${glossary.length} terms.`);
 if (organisations.length > 0) {
   const onTechniques = perspectives.filter((p) => p.type === 'techniques').length;
   const onExams = perspectives.filter((p) => p.type === 'exams').length;
-  console.log(`Organisations: ${organisations.length}, with ${onTechniques} technique and ${onExams} exam `
-    + 'perspective(s); perspectives render only for readers who opt into that organisation\'s view.');
+  const onSkills = perspectives.filter((p) => p.type === 'skills').length;
+  const onGuides = perspectives.filter((p) => p.type === 'guides').length;
+  const onSequences = perspectives.filter((p) => p.type === 'sequences').length;
+  const spoken = [[onTechniques, 'technique'], [onExams, 'exam'], [onSkills, 'skill'], [onGuides, 'guide'], [onSequences, 'sequence']]
+    .filter(([count]) => count > 0).map(([count, word]) => `${count} ${word}`);
+  console.log(`Organisations: ${organisations.length}, with `
+    + `${spoken.length > 0 ? spoken.join(', ') : 'no'} perspective(s); `
+    + 'perspectives render only for readers who opt into that organisation\'s view.');
 }
 if (ijfFrequency) {
   const mapped = ijfMap ? Object.keys(ijfMap).length : 0;
@@ -1192,4 +1242,4 @@ if (kodokanRef) {
   console.log(`Kodokan definitions: ${kodokanRef.techniques.length} techniques and ${kodokanRef.groups.length} groups `
     + `from the ${kodokanRef.source.issued} document; ${named} technique(s) where the Kodokan's name is not the one this book leads with.`);
 }
-console.log(`Validated ${techniques.length} techniques, ${skills.length} skills, ${sequences.length} sequences, ${guides.length} guides, ${exams.length} exams, ${schemes.length} schemes, ${channels.length} channels and ${glossary.length} glossary terms; all checks passed.`);
+console.log(`Validated ${techniques.length} techniques, ${skills.length} skills, ${kata.length} kata, ${sequences.length} sequences, ${guides.length} guides, ${exams.length} exams, ${schemes.length} schemes, ${channels.length} channels and ${glossary.length} glossary terms; all checks passed.`);

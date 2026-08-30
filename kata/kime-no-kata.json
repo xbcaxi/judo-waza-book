@@ -1,0 +1,157 @@
+{
+  "name": "Kime-no-kata",
+  "nameJa": "極の形",
+  "gloss": null,
+  "about": null,
+  "sets": [
+    {
+      "name": "Idori (Set 1)",
+      "items": [
+        {
+          "text": "Ryote-dori",
+          "techniques": []
+        },
+        {
+          "text": "Tsukkake",
+          "techniques": []
+        },
+        {
+          "text": "Suri-age",
+          "techniques": []
+        },
+        {
+          "text": "Yoko-uchi",
+          "techniques": []
+        },
+        {
+          "text": "Ushiro-dori",
+          "techniques": []
+        },
+        {
+          "text": "Tsukkomi",
+          "techniques": []
+        },
+        {
+          "text": "Kiri-komi",
+          "techniques": []
+        },
+        {
+          "text": "Yoko-tsuki",
+          "techniques": []
+        }
+      ]
+    },
+    {
+      "name": "Tachiai (Set 2)",
+      "items": [
+        {
+          "text": "Ryote-dori",
+          "techniques": []
+        },
+        {
+          "text": "Sode-tori",
+          "techniques": []
+        },
+        {
+          "text": "Tsukkake",
+          "techniques": []
+        },
+        {
+          "text": "Tsuki-age",
+          "techniques": []
+        },
+        {
+          "text": "Suri-age",
+          "techniques": []
+        },
+        {
+          "text": "Yoko-uchi",
+          "techniques": []
+        },
+        {
+          "text": "Ke-age",
+          "techniques": []
+        },
+        {
+          "text": "Ushiro-dori",
+          "techniques": []
+        },
+        {
+          "text": "Tsukkomi",
+          "techniques": []
+        },
+        {
+          "text": "Kiri-komi",
+          "techniques": []
+        },
+        {
+          "text": "Nuki-gake",
+          "techniques": []
+        },
+        {
+          "text": "Kiri-oroshi",
+          "techniques": []
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "o_Xd_kteMzc",
+      "title": "令和8年講道館鏡開式 極の形 / Kodokan Kagami Biraki ceremony 2026 Kime-no-Kata",
+      "duration": "12:00",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "vRALigvtyVM",
+      "title": "令和7年講道館鏡開式 極の形 / Kodokan Kagami Biraki ceremony 2025 Kime-no-Kata",
+      "duration": "8:55",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "Hsvx-zNDEUo",
+      "title": "令和6年講道館鏡開式 極の形 取 道場良久 八段 受 向井幹博 七段",
+      "duration": "12:37",
+      "lang": "ja"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "1-YAOozPQNU",
+      "title": "Kime-no-Kata (English ver.)",
+      "duration": "42:46",
+      "lang": "en"
+    },
+    {
+      "provider": "kodokan",
+      "platform": "youtube",
+      "id": "ZdIW_dHJ2wA",
+      "title": "極の形 日本語版",
+      "duration": "40:27",
+      "lang": "ja"
+    }
+  ],
+  "links": [
+    {
+      "title": "Kime-no-kata: the Kodokan’s kata textbook",
+      "url": "https://kdkjd.org/wp-content/uploads/2024/07/kime_no_kata.pdf",
+      "source": "Kodokan Judo Institute"
+    }
+  ],
+  "image": null,
+  "source": {
+    "title": "Kodokan KATA Textbook, official English translation",
+    "date": "2026-08-30",
+    "note": {
+      "en": "Sets and the order of the items within them, as the Kodokan’s own textbook lists them. Copyright in that textbook is the Kodokan Judo Institute’s and its instructions and photographs are not reproduced here."
+    }
+  },
+  "adopted": "Revised on July 7th, 1977",
+  "amended": "Amended on June 1st, 2006"
+}

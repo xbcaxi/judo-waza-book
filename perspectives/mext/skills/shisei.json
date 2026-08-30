@@ -1,0 +1,162 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "2 Basic movements for throwing techniques"
+      },
+      "prose": {
+        "en": "Here the relationship between the basic movements and the throwing techniques is shown using tai-otoshi (body drop) as an example. The basic movements and the throwing techniques form a single continuous, integrated whole, and it is important to acquire each of the skills in relation to the others."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p004",
+          "printedPage": "92",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Posture (shizentai (natural posture), jigotai (defensive posture))"
+      },
+      "prose": {
+        "en": "The basic posture best suited to the attack and defence of judo throwing techniques is the shizentai (natural posture). It means standing naturally without putting in unnecessary force. The shizentai is the fundamental posture in judo; it is a stable posture from which it is easy to change. There are three natural postures: shizen-hontai, migi-shizentai and hidari-shizentai. There is also another posture, the jigotai (defensive posture), which is suited to defence. There are three defensive postures: jigo-hontai, migi-jigotai and hidari-jigotai."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p004",
+          "printedPage": "92",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Step 3"
+      },
+      "prose": {
+        "en": "③ Break balance on the spot → break balance while moving → break balance using tai-sabaki - In pairs, break the partner's balance in various ways."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p005",
+          "printedPage": "93",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Step 2"
+      },
+      "prose": {
+        "en": "② Grip up and move - In pairs, take a correct grip and move."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p005",
+          "printedPage": "93",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Step 1"
+      },
+      "prose": {
+        "en": "① Make the postures - In pairs, make the shizen-hontai and jigotai postures. By practising the basic movements in pairs from the introductory stage onwards, students acquire the relationship between tori and uke while developing from the basic movements towards the throwing techniques."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p005",
+          "printedPage": "93",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Step 1"
+      },
+      "prose": {
+        "en": "① Make the postures"
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p005",
+          "printedPage": "93",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Practice example"
+      },
+      "prose": {
+        "en": "Decide who is tori and who is uke and face each other. Tori changes posture freely from shizen-hontai into the right or left natural posture, or into a defensive posture, and so on. Uke quickly copies tori's posture as if reflected in a mirror."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_06/p005",
+          "printedPage": "93",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_06/p004",
+      "printedPage": "92",
+      "textJa": "－92－\n第４章　技能指導の要点\n２　投げ技の基本動作\n \n　ここでは「体落とし」を例に、基本動作と投げ技の関連を示した。基本動作と投げ技は一連、\n一体の関係にあり、それぞれの技能を関連付けて身に付けることが大切である。\n \n⑴　姿勢と組み方\n　○姿勢（自然体、自護体）\n　柔道の投げ技の攻防に最も適した基本的な姿勢は自然体です。余分な力を入れずに自然に\n立った姿勢をいいます。自然体は柔道における基本の姿勢であり、安定した変化しやすい姿\n勢です。自然体には自然本体、右自然体、左自然体の３つがあります。また、もうひとつの\n姿勢として防御に適した自護体があります。自護体には、自護本体、右自護体、左自護体の\n３つがあります。\n⑴姿勢と組み方\n⑵進退動作\n右自護体\n自護本体\n左自然体\n自然本体\n右自然体\n左自護体\n姿勢のイメージ\n自然本\n体から\n相手の\n技を防\nぐ自護\n本体へ",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_06.pdf",
+      "pdfPage": 4,
+      "image": {
+        "file": "mext-2013/1333611_06-p004.jpg",
+        "alt": {
+          "en": "Page 92 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    },
+    {
+      "recordId": "mext-2013/1333611_06/p005",
+      "printedPage": "93",
+      "textJa": "－93－\n第１節　基本動作\n第\n１\n節\n※本書では、技をかける人「取」を青の柔道衣、技を受ける人「受」を白の柔道衣で統一した。\n　安全な指導を徹底させる上で、技をかける人「取」の崩しと体さばき、技を受ける人「受」の\n　受け身を初歩の段階から２人１組で関連付けて習熟させることが大切です。\n　初歩の段階から２人１組のペアで基本動作を練習することで、取と受の関係性を身に付けながら、\n基本動作から投げ技へと発展させます。\nステップ１\n①姿勢をつくる\n練習例\n　取と受を決めて向き\n合い、取は自然本体か\nら左右の自然体、ある\nいは自護体など自由に\n姿勢を変化させます。\n受は鏡に写ったように\n取の姿勢を素早く真似\nします。\n基本動作のスモールステップ\nステップ１\nステップ2\nステップ3\n①姿勢をつくる\n・２人１組で、自然本体、自護体の姿勢をつくる\n②組み合って動く\n・２人１組で、正しく組んで移動する。\n③その場で崩す→動いて崩す→体さばきで崩す\n・２人１組で、様々な方法で相手を崩す。\n⑶崩しと体さばき\n⑷受け身\n受\n技を受ける人\n取\n技をかける人\n自然本体から\n左右の自然体へ\n左右の自護体へ",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal",
+      "pdfFile": "1333611_06.pdf",
+      "pdfPage": 5,
+      "image": {
+        "file": "mext-2013/1333611_06-p005.jpg",
+        "alt": {
+          "en": "Page 93 of the MEXT judo teaching guide, in Japanese, with photograph sequences of the technique."
+        },
+        "provenance": "third-party",
+        "credit": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan",
+        "source": "reference/mext-2013.json"
+      }
+    }
+  ]
+}
