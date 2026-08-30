@@ -106,7 +106,7 @@ const organisations = await loadDir('organisations');
  * path alone says whose voice this is and what it is about, and technique
  * and exam slugs can never collide. Schemes are the expected next kind;
  * nothing accepts them until something renders them. */
-const perspectiveTypes = ['techniques', 'exams'];
+const perspectiveTypes = ['techniques', 'exams', 'skills', 'guides'];
 const perspectives = [];
 {
   let orgDirs = [];
@@ -856,6 +856,12 @@ for (const p of perspectives) {
       problems.push(`perspectives/${p.name}: ${p.slug} is documented for recognition only; no perspective may add step-by-step instruction`);
     }
   }
+  if (p.type === 'skills' && !skills.some((skill) => skill.slug === p.slug)) {
+    problems.push(`perspectives/${p.name}: unknown skill "${p.slug}"`);
+  }
+  if (p.type === 'guides' && !guides.some((guide) => guide.slug === p.slug)) {
+    problems.push(`perspectives/${p.name}: unknown guide "${p.slug}"`);
+  }
   if (p.type === 'exams') {
     const exam = exams.find((e) => e.slug === p.slug);
     if (!exam) {
@@ -1170,8 +1176,13 @@ console.log(`Glossary: ${glossary.length} terms.`);
 if (organisations.length > 0) {
   const onTechniques = perspectives.filter((p) => p.type === 'techniques').length;
   const onExams = perspectives.filter((p) => p.type === 'exams').length;
-  console.log(`Organisations: ${organisations.length}, with ${onTechniques} technique and ${onExams} exam `
-    + 'perspective(s); perspectives render only for readers who opt into that organisation\'s view.');
+  const onSkills = perspectives.filter((p) => p.type === 'skills').length;
+  const onGuides = perspectives.filter((p) => p.type === 'guides').length;
+  const spoken = [[onTechniques, 'technique'], [onExams, 'exam'], [onSkills, 'skill'], [onGuides, 'guide']]
+    .filter(([count]) => count > 0).map(([count, word]) => `${count} ${word}`);
+  console.log(`Organisations: ${organisations.length}, with `
+    + `${spoken.length > 0 ? spoken.join(', ') : 'no'} perspective(s); `
+    + 'perspectives render only for readers who opt into that organisation\'s view.');
 }
 if (ijfFrequency) {
   const mapped = ijfMap ? Object.keys(ijfMap).length : 0;

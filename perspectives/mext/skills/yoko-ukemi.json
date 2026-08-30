@@ -1,0 +1,140 @@
+{
+  "source": {
+    "sourceId": "mext-2013",
+    "jurisdiction": "JP",
+    "pathway": "compulsory-school-pe",
+    "population": "whole-cohort",
+    "evidenceLabel": "authority",
+    "translationStatus": "machine-assisted, unreviewed"
+  },
+  "sections": [
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "① From the chōza (long-seated) posture: yoko-ukemi with the arm only"
+      },
+      "prose": {
+        "en": "From the chōza posture, raise both arms and both legs upward as in ushiro-ukemi (rear breakfall), fall diagonally backward, and take the breakfall with one arm. The opposite hand touches the belt; take the breakfall with the left and right arms alternately."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_07/p004",
+          "printedPage": "104",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "② From the face-up posture: yoko-ukemi using arm and legs"
+      },
+      "prose": {
+        "en": "From the face-up posture, raise both arms and both legs, turn the body to the side, and strike the tatami hard and simultaneously with both legs and the whole of one arm. Do this alternately to left and right. At this time the lower leg should be forward and the upper leg to the rear."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_07/p004",
+          "printedPage": "104",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Point"
+      },
+      "prose": {
+        "en": "When tori throws correctly, uke ends up in the yoko-ukemi posture. From the elementary stage it is important to practise repeatedly in pairs, linking the breakfall to the throwing action."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_07/p004",
+          "printedPage": "104",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "③ From the sonkyo (deep crouch) / chūgoshi (half-crouch) posture"
+      },
+      "prose": {
+        "en": "From the sonkyo posture, extend one leg diagonally forward, then fall diagonally backward and take the yoko-ukemi (side breakfall)."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_07/p006",
+          "printedPage": "106",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "④ From the standing posture"
+      },
+      "prose": {
+        "en": "From the standing posture, extend one leg forward and bend the knee, drop the buttocks close to the heel, and take the yoko-ukemi."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_07/p006",
+          "printedPage": "106",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Point"
+      },
+      "prose": {
+        "en": "When a technique is actually applied to the right leg, the breakfall has to be taken with the left hand. The reversed breakfall must be practised at the same time. From the sonkyo (or standing) posture, extend one leg forward and bend the knee, drop the buttocks close to the heel, turn the body over and take the yoko-ukemi with the opposite arm."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_07/p006",
+          "printedPage": "106",
+          "jaSource": "pdf_text"
+        }
+      ]
+    },
+    {
+      "kind": "coaching",
+      "heading": {
+        "en": "Point"
+      },
+      "prose": {
+        "en": "Practise the reversed breakfall as well."
+      },
+      "pages": [
+        {
+          "recordId": "mext-2013/1333611_07/p006",
+          "printedPage": "106",
+          "jaSource": "pdf_text"
+        }
+      ]
+    }
+  ],
+  "sourcePages": [
+    {
+      "recordId": "mext-2013/1333611_07/p004",
+      "printedPage": "104",
+      "textJa": "－104－\n第４章　技能指導の要点\n　①　長座の姿勢から　腕だけの横受け身\n　長座の姿勢から、後ろ受け身の要領で両腕と両脚を上方にあげ、\n斜め後ろに倒れて片腕で受け身をとります。反対の手は帯にふれ、\n交互に左右の腕で受け身をとります。\n　②　仰向けの姿勢から　腕と脚を使った横受け身\n　仰向けの姿勢から両腕と両脚をあげ、身体を横に向け、\n両脚と一方の腕全体で畳を同時に強くたたきます。左右交\n互に行います。このとき両脚は下側が前に上側が後ろにな\nるようにします。\n陥りやすい欠点\n横受け身\nポイント\n手は体側から\n握りこぶし一\nつ分の所をた\nたく\n両膝を軽く曲げ一\n足長半の間隔をあ\nけます。下の脚は\n側面全体で、上の\n脚は足裏で畳を同\n時にたたきます。\n受け身のイメージ\nポイント\n取が正しく投げる\nと受は横受け身の\n体勢になります。\n初歩の段階から２\n人１組で投げる動\n作と関連付けなが\nら繰り返し練習す\nることが大切で\nす。\n脚が交差する\n腕が開き過ぎる\n踵を打つ",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    },
+    {
+      "recordId": "mext-2013/1333611_07/p006",
+      "printedPage": "106",
+      "textJa": "－106－\n第４章　技能指導の要点\n　③　そんきょ （中腰）の姿勢から\n　そんきょの姿勢から、片方の脚を斜め前方に伸ばした後、斜め後方へ倒れて横受け身をとります。\n　④　立位の姿勢から\n　立位の姿勢から、片方の脚を前方へ伸ばし膝を曲げ、踵近くに臀部を落とし横受け身をとります。\n　⑤　反転した横受け身\n　そんきょ（立位）姿勢から、片方の脚を前方へ\n伸ばし膝を曲げ、踵の近くに臀部を落とし、体を\n反転させ、反対の腕で横受け身をとります。\n　⑥　移動しながら\n　　ア　継ぎ足で横に移動しながら横受け身\n　　イ　歩み足で前方に移動しながら横受け身\nポイント\n反転する受\nけ身も練習\nする。\nⒶ\nⒷ\n受け身のイメージ\n受け身のイメージ\nポイント\n実際に右足に技をかけられ\nた場合、左手で受け身をと\nることになる。反転する受\nけ身も同時に練習する必要\nがある。",
+      "jaSource": "pdf_text",
+      "figureTextConfidence": "normal"
+    }
+  ]
+}
