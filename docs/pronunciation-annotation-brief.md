@@ -1,12 +1,15 @@
 # Asking a Japanese speaker to annotate the names
 
 The sibling of `voiceover-brief.md`. That one commissions a RECORDING; this one
-commissions ANNOTATION, and the two are separate jobs that can go to separate
+commissions ANNOTATION, and they remain separate jobs that can go to separate
 people. Neither replaces the other: a respelling serves the reader scanning a
 syllabus on paper, and a recording serves the one who wants to hear it.
 
-The shareable version of this brief, formatted for sending to a stranger, is an
-Artifact. The spreadsheet is generated, not committed: see below.
+The shareable version, formatted for sending to a stranger, is an Artifact, and
+it carries BOTH asks on one page as Part A and Part B, because one person doing
+both is the better outcome and a single posting is the way to find them. These
+two files stay separate because they are what each half is judged against.
+The spreadsheet is not committed: see below.
 
 ## What we ask for
 
@@ -44,13 +47,16 @@ unmarked long vowel. That is why this is a commission and not a script.
 
     npm run pronunciation
 
-then the spreadsheet builder, which reads `wazabook-pronunciation.csv` and
-`reference/japanese-readings.json` and writes an `.xlsx` with two tabs: the
-instructions, and 244 rows with our columns locked and four columns for them.
+writes `wazabook-pronunciation.csv`. The `.xlsx` sent to an annotator is built
+from that CSV by hand, with two tabs: the instructions, and 244 rows carrying
+seven columns of ours, four empty yellow columns for them, and the file name
+each recording must take, which is read from `media/audio/SOURCE.tsv` so that
+Part B returns files the site can drop straight in. Match SOURCE.tsv on kana,
+stripping the `|` that marks a spoken break, or fifteen boundary names miss.
 
-The sheet is NOT committed, for the same reason the CSV is not: it is derived
-from the collections and a second copy of every Japanese name is a second thing
-to keep in step.
+Neither the CSV nor the sheet is committed: both are derived from the
+collections, and a second copy of every Japanese name is a second thing to keep
+in step.
 
 ## When it comes back
 

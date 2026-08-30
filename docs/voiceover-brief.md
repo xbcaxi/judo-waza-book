@@ -7,8 +7,14 @@ Japanese name, and we want a native speaker to say each name so a learner can
 hear it rather than guess from the romaji. The recordings go on a public
 website and in a public content repository.
 
-**230 short recordings. Every one is a single word or a short compound name.**
-No sentences, no narration. Total spoken content is under 1,600 characters.
+**244 short recordings. Every one is a single word or a short compound name.**
+No sentences, no narration. Total spoken content is under 1,700 characters.
+
+This is HALF a job. The other half is annotation, and the two go together:
+`pronunciation-annotation-brief.md` asks for the pitch accent and an English
+respelling from the same sheet. Commission both from one person where you can,
+because the person who can tell you a name's accent is the person who should be
+saying it. They can also be commissioned separately.
 
 ## The sheet
 
@@ -22,15 +28,19 @@ collections and would otherwise be a second copy of every Japanese name.
 | `romaji` | Roman-letter spelling, for your reference |
 | `kanji` | The Japanese written form |
 | `kana` | The reading. **Where this is filled in, it is the authority** |
+| `ipa`, `accent` | Filled for a handful. Mostly blank, and the annotation half of the job is to fill them |
 | `english` | What the word means, for context only. Do not read it |
 | `notes` | Read this. See "The one real trap" below |
 | `also_used_for` | Ignore. Internal bookkeeping |
 
-110 rows have kana. **120 do not, and that is where you can help us most:**
-please fill the `kana` column in for those rows and return the sheet with the
-audio. It takes a native speaker seconds per row and it fixes a gap in our
-data permanently. If you would rather not, record them anyway from the kanji
-and romaji and say so.
+**243 of the 244 now carry a reading, so this is no longer a gap to fill but
+one to check.** They were not all established the same way, and the sheet says
+which for each: taken from a dictionary, composed from parts that were, or
+inferred from the romaji. The composed and inferred ones are marked, and if a
+reading is wrong we would far rather hear it from you than ship it.
+
+There is one row with no reading at all, `Migi and hidari`, because the glossary
+holds two words in one entry. Skip it.
 
 ## The one real trap
 
@@ -61,6 +71,21 @@ said naturally, not three words with pauses.
 - **Name every file exactly as the `file` column says**, keeping the folder
   structure (`techniques/`, `glossary/`, `classification/`, `skills/`). A
   single zip is perfect.
+
+## What is there already, and why you are replacing it
+
+There is a synthesised set on the site today: Azure's `ja-JP-NaokiNeural`,
+generated as a floor rather than an answer. It is honest about what it is on
+every page that carries it. Your recordings replace it, name by name or all at
+once, and nothing on the site has to change for that to happen: the player
+reads whatever files are present.
+
+Two things the machine cannot do, which is the whole reason for commissioning
+you. It cannot be told a pitch accent, because no Japanese phone set either
+engine accepts will carry one. And it guesses at compounds: fed the kanji for
+juji-gatame it says *juji-KATAME*, and fed the kanji for nage-no-kata it can
+say *tō no katachi*. Every reading is now stated to stop it doing that, which
+is exactly why checking those readings matters.
 
 ## Rights, and please read this before accepting
 
