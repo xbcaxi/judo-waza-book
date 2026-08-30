@@ -865,6 +865,19 @@ for (const p of perspectives) {
   if (p.type === 'sequences' && !sequences.some((sequence) => sequence.slug === p.slug)) {
     problems.push(`perspectives/${p.name}: unknown sequence "${p.slug}"`);
   }
+  /* A cited page may carry the page itself as an image. Unlike an
+   * illustration beside a technique the path is written down rather than
+   * derived, so a typo in it is invisible until a reader meets a broken
+   * picture where the evidence for a claim should be. */
+  for (const page of p.data.sourcePages ?? []) {
+    if (!page.image) continue;
+    try {
+      await access(path.join(root, 'media', page.image.file));
+    } catch {
+      problems.push(`perspectives/${p.name}: page ${page.printedPage} claims `
+        + `media/${page.image.file}, which does not exist`);
+    }
+  }
   if (p.type === 'exams') {
     const exam = exams.find((e) => e.slug === p.slug);
     if (!exam) {

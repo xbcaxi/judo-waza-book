@@ -39,3 +39,26 @@ top of the script.
 - The Japanese is carried per PAGE, entire and unsegmented, never paired to an
   English paragraph. Pairing is a judgement, and a wrong pairing would be
   invisible.
+
+## Order
+
+`import.py`, `import-basic-movements.py` and `import-sequences.py` each write
+perspective files. `import-safety-table.py` appends to six that already exist.
+Then, once, in this order:
+
+    python3 tools/mext-2013/render-pages.py      # media/mext-2013/*.jpg
+    python3 tools/mext-2013/add-page-locators.py # pdfFile, pdfPage, image
+
+`render-pages.py` renders every page any perspective cites, at 110 dpi, which
+is measured rather than chosen: at that size a page is about 910x1290 and
+120 KB, and the photograph sequences and the coloured callouts are legible.
+`add-page-locators.py` then gives each cited page its file and page number
+inside that file, and the image rendered from it.
+
+The URL is deliberately NOT written into the perspectives.
+`reference/mext-2013.json` holds the thirteen file URLs and is the one place to
+correct if MEXT moves a file; the site builds the citation from it.
+
+Both are safe to re-run: the renderer skips a page whose image already exists,
+and the locator script overwrites the same three fields with the same values.
+

@@ -24,3 +24,20 @@ the name or an alias.
 Ten techniques in this book have no entry here. They are names the Kodokan does
 not use, either because it folds the technique into another one or because the
 name belongs to contest usage rather than the classification.
+
+## mext-2013.json
+
+The MEXT 2013 school judo guidebook as a DOCUMENT record rather than a
+transcription: publisher, edition, the page it is published from, and the
+thirteen PDFs it is split into with the URL of each.
+
+It exists so that a citation can be built. Every perspective under
+`perspectives/mext/` carries the record id and printed page of the page it came
+from, and this file is what turns those into a link to MEXT's own copy at the
+right page. The URLs here are the source of truth: `tools/mext-2013/` derives
+everything else from them, and if MEXT moves a file this is the one place to
+change.
+
+The page images in `media/mext-2013/` are rendered from the same PDFs. They are
+third-party and marked as such on every reference to them.
+
