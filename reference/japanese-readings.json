@@ -3,7 +3,7 @@
     "title": "English Wiktionary, Japanese entries",
     "url": "https://en.wiktionary.org/",
     "readOn": "2026-08-30",
-    "note": "Readings for the terms whose romaji in this repository does not pin down the pronunciation, almost always because it does not mark a long vowel: the romaji \"Dojo\" is どじょ or どうじょう and cannot say which. Kana is what the audio scripts use. IPA and pitch accent are for the human voice brief: neither synthesiser can be told an accent, and accent is exactly what separates ko-uchi from kōchi, so it is the one thing a recorded voice can give that a generated one cannot. `derived` marks a reading worked out from the romaji plus a confirmed component rather than looked up whole; `looked-up` marks one taken from the entry named. A reading marked romaji-is-authority is a morpheme whose standalone dictionary reading differs from the one judo uses in a compound."
+    "note": "Readings for the terms whose romaji in this repository does not pin down the pronunciation, almost always because it does not mark a long vowel: the romaji \"Dojo\" is どじょ or どうじょう and cannot say which. Kana is what the audio scripts use. IPA and pitch accent are for the human voice brief: neither synthesiser can be told an accent, and accent is exactly what separates ko-uchi from kōchi, so it is the one thing a recorded voice can give that a generated one cannot. `derived` marks a reading worked out from the romaji plus a confirmed component rather than looked up whole; `looked-up` marks one taken from the entry named. A reading marked romaji-is-authority is a morpheme whose standalone dictionary reading differs from the one judo uses in a compound. A reading marked composed is built from components looked up elsewhere in this file; already-kana means the source writes the term in kana and there was nothing to work out."
   },
   "readings": [
     {
@@ -788,6 +788,283 @@
       "how": "romaji-is-authority",
       "entry": "this book's own romaji",
       "note": "The dictionary gives おち for this character standing alone. In a technique name it takes the reading our romaji records, so that is what is used here."
+    },
+    {
+      "romaji": "Arigato gozaimashita",
+      "kana": "ありがとうございました",
+      "how": "already-kana",
+      "entry": "composed from parts in this file",
+      "note": "the kanji column is kana",
+      "kanji": "ありがとうございました"
+    },
+    {
+      "romaji": "Sono-mama",
+      "kana": "そのまま",
+      "how": "already-kana",
+      "entry": "composed from parts in this file",
+      "note": "the kanji column is kana",
+      "kanji": "そのまま"
+    },
+    {
+      "romaji": "Sore-made",
+      "kana": "それまで",
+      "how": "already-kana",
+      "entry": "composed from parts in this file",
+      "note": "the kanji column is kana",
+      "kanji": "それまで"
+    },
+    {
+      "romaji": "Yoshi",
+      "kana": "よし",
+      "how": "already-kana",
+      "entry": "composed from parts in this file",
+      "note": "the kanji column is kana",
+      "kanji": "よし"
+    },
+    {
+      "romaji": "Matte",
+      "kana": "まて",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "待 まつ stem plus て",
+      "kanji": "待て"
+    },
+    {
+      "romaji": "Toketa",
+      "kana": "とけた",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "解ける stem plus た",
+      "kanji": "解けた"
+    },
+    {
+      "romaji": "Kaeshi-waza",
+      "kana": "かえしわざ",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "返 かえし plus 技 わざ",
+      "kanji": "返技"
+    },
+    {
+      "romaji": "Nage-waza",
+      "kana": "なげわざ",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "投 なげ plus 技 わざ",
+      "kanji": "投技"
+    },
+    {
+      "romaji": "Ma-sutemi-waza",
+      "kana": "ますてみわざ",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "真 ま, 捨身 すてみ, 技 わざ",
+      "kanji": "真捨身技"
+    },
+    {
+      "romaji": "Yoko-sutemi-waza",
+      "kana": "よこすてみわざ",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "横 よこ, 捨身 すてみ, 技 わざ",
+      "kanji": "横捨身技"
+    },
+    {
+      "romaji": "Osaekomi-waza",
+      "kana": "おさえこみわざ",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "抑込 おさえこみ plus 技 わざ",
+      "kanji": "抑込技"
+    },
+    {
+      "romaji": "Renraku-waza",
+      "kana": "れんらくわざ",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "連絡 れんらく plus 技 わざ",
+      "kanji": "連絡技"
+    },
+    {
+      "romaji": "Gatame",
+      "kana": "がため",
+      "how": "romaji-is-authority",
+      "entry": "composed from parts in this file",
+      "note": "the rendaku form used in a name",
+      "kanji": "固"
+    },
+    {
+      "romaji": "Harai",
+      "kana": "はらい",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "no long vowel",
+      "kanji": "払"
+    },
+    {
+      "romaji": "Kuzure-",
+      "kana": "くずれ",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "no long vowel",
+      "kanji": "崩"
+    },
+    {
+      "romaji": "Makikomi",
+      "kana": "まきこみ",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "no long vowel",
+      "kanji": "巻込"
+    },
+    {
+      "romaji": "Tsurikomi",
+      "kana": "つりこみ",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "no long vowel",
+      "kanji": "釣込"
+    },
+    {
+      "romaji": "Tandoku-renshu",
+      "kana": "たんどくれんしゅう",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "単独 たんどく plus 練習 れんしゅう, both looked up",
+      "kanji": "単独練習"
+    },
+    {
+      "romaji": "Waza-ari-awasete-ippon",
+      "kana": "わざありあわせていっぽん",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "技 わざ, あり, 合わせて あわせて, 一本 いっぽん",
+      "kanji": "技あり合わせて一本"
+    },
+    {
+      "romaji": "Ude-ate",
+      "kana": "うであて",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "腕 うで plus 当 あて",
+      "kanji": "腕当"
+    },
+    {
+      "romaji": "Ashi-ate",
+      "kana": "あしあて",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "足 あし plus 当 あて",
+      "kanji": "足当"
+    },
+    {
+      "romaji": "Mae Ukemi",
+      "kana": "まえうけみ",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "前 まえ plus 受身 うけみ, looked up",
+      "kanji": "前受身"
+    },
+    {
+      "romaji": "Ushiro Ukemi",
+      "kana": "うしろうけみ",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "後 うしろ plus 受身 うけみ",
+      "kanji": "後受身"
+    },
+    {
+      "romaji": "Yoko Ukemi",
+      "kana": "よこうけみ",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "横 よこ plus 受身 うけみ",
+      "kanji": "横受身"
+    },
+    {
+      "romaji": "Mae Mawari Ukemi",
+      "kana": "まえまわりうけみ",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "前回り まえまわり plus 受身 うけみ",
+      "kanji": "前回り受身"
+    },
+    {
+      "romaji": "Nage-no-kata",
+      "kana": "なげのかた",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "投 なげ, の, 形 かた",
+      "kanji": "投の形"
+    },
+    {
+      "romaji": "Katame-no-kata",
+      "kana": "かためのかた",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "固 かため, の, 形 かた",
+      "kanji": "固の形"
+    },
+    {
+      "romaji": "Kime-no-kata",
+      "kana": "きめのかた",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "極 きめ, の, 形 かた",
+      "kanji": "極の形"
+    },
+    {
+      "romaji": "Ju-no-kata",
+      "kana": "じゅうのかた",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "柔 じゅう from 柔道 じゅうどう, looked up",
+      "kanji": "柔の形"
+    },
+    {
+      "romaji": "Koshiki-no-kata",
+      "kana": "こしきのかた",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "古式 こしき, の, 形 かた",
+      "kanji": "古式の形"
+    },
+    {
+      "romaji": "Itsutsu-no-kata",
+      "kana": "いつつのかた",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "五 いつつ, の, 形 かた",
+      "kanji": "五の形"
+    },
+    {
+      "romaji": "Kodokan Goshin-jutsu",
+      "kana": "こうどうかんごしんじゅつ",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "講道館 こうどうかん and 護身術 ごしんじゅつ, both looked up",
+      "kanji": "講道館護身術"
+    },
+    {
+      "romaji": "Kaeshi-kata",
+      "kana": "かえしかた",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "no kanji held; from the romaji, no long vowel"
+    },
+    {
+      "romaji": "Kodomo-no-kata",
+      "kana": "こどものかた",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "no kanji held; from the romaji, no long vowel"
+    },
+    {
+      "romaji": "Nage-waza-ura-no-kata",
+      "kana": "なげわざうらのかた",
+      "how": "composed",
+      "entry": "composed from parts in this file",
+      "note": "no kanji held; from the romaji, no long vowel"
     }
   ]
 }
