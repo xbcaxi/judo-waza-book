@@ -12,11 +12,11 @@ thirty Kodokan videos here are now on a kata record.
 `video-candidates.json` holds the full list with a URL for each. Nothing here
 is published on the site.
 
-`ijf-academy-classification.md` is the other kind of evidence kept here: what
-checking the reference against the IJF Academy's *Classification of Judo and
-100 Kodokan Techniques* found missing. Twenty of that course's 134 videos
-cover a subject with no video here, and it records where our meanings and
-markings disagree with the Kodokan's.
+The reference has also been checked against the IJF Academy's
+*Classification of Judo and 100 Kodokan Techniques* course: twenty of that
+course's 134 videos cover a subject with no video here, and the full check,
+including where our meanings and markings disagree with the Kodokan's, is
+kept in the project's private working notes.
 
 `kodokan-unlinked.json` is the 130 videos on the Kodokan's own YouTube
 channel that this reference does not link, out of the 242 it holds. Two of
