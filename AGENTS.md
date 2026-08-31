@@ -42,8 +42,8 @@ A sequence is not two techniques written one after the other. The first
 technique manufactures the condition for the second, and the condition is
 something the judoka feels: a widened base, weight settling back, a post, a
 step recovered. Name that condition in `described`, and say in `about` what
-reaction the first technique is provoking. "Do this, then this" is the wrong
-shape even when both halves are correct.
+opening the first technique creates and how the second uses it. "Do this,
+then this" is the wrong shape even when both halves are correct.
 
 ## Run the validator before you open anything
 
@@ -86,6 +86,9 @@ Original artwork is welcome and is the most useful contribution here. See
 ## Writing
 
 - British English. No em dashes.
+- The Voice subsection of `CONTRIBUTING.md`'s style guide is the house voice
+  for every prose field, and for comments and docs here too. Read it before
+  writing any of them.
 - Commit messages and PR bodies are one plain sentence saying what the change
   does. No reasons, no context, no bullet lists.
 - Comments say what the code does and any constraint that is not obvious. One

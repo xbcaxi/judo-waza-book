@@ -1134,6 +1134,41 @@ if (ijfShape && ijfTiers) {
   }
 }
 
+/* All-caps words in prose are shouting, and the style guide (CONTRIBUTING.md,
+ * "Voice") carries the rule: emphasis belongs in the wording. Checked here
+ * because a 2026 language audit found eighteen of them, and a lesson caught
+ * twice becomes a script's job. Only prose-carrying fields are swept, so
+ * transcribed federation text, video titles and link titles are untouched.
+ * The allowlist is for genuine acronyms and initialisms, never for emphasis. */
+const PROSE_KEYS = new Set(['about', 'described', 'receiving', 'viNotes', 'keyPoints',
+  'bannedNote', 'meaning', 'summary', 'statusNote', 'prose', 'steps', 'note']);
+const CAPS_ALLOWED = new Set(['IJF', 'BJA', 'BJC', 'BJJ', 'BSJA', 'MEXT', 'RNC',
+  'IPA', 'IBSA', 'RFEJYDA', 'USA', 'NGB', 'EJU', 'AJA', 'UKS', 'JSON']);
+function sweepCaps(node, where, inProse) {
+  if (typeof node === 'string') {
+    if (!inProse) return;
+    for (const match of node.matchAll(/\b[A-Z]{3,}\b/g)) {
+      if (!CAPS_ALLOWED.has(match[0])) {
+        problems.push(`${where}: all-caps "${match[0]}" in prose; carry the emphasis in the wording, or add a genuine acronym to the allowlist in validate.mjs`);
+      }
+    }
+  } else if (Array.isArray(node)) {
+    for (const item of node) sweepCaps(item, where, inProse);
+  } else if (node && typeof node === 'object') {
+    for (const [key, value] of Object.entries(node)) {
+      sweepCaps(value, where, inProse || PROSE_KEYS.has(key));
+    }
+  }
+}
+for (const [dir, entries] of [['techniques', techniques], ['skills', skills],
+  ['sequences', sequences], ['guides', guides], ['exams', exams], ['kata', kata],
+  ['grading-schemes', schemes], ['glossary', glossary]]) {
+  for (const entry of entries) sweepCaps(entry.data, `${dir}/${entry.name}`, false);
+}
+for (const perspective of perspectives) {
+  sweepCaps(perspective.data, `perspectives/${perspective.name}`, false);
+}
+
 if (problems.length > 0) {
   console.error(`Validation failed with ${problems.length} problem(s):\n- ${problems.join('\n- ')}`);
   process.exit(1);

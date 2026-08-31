@@ -450,6 +450,37 @@ not work is `watch` as a method - "watch their foot as they step" tells a
 reader to use a channel they may not have - so name the real one instead:
 felt through the sleeve, through the mat, at the belt line.
 
+### Voice
+
+A 2026 language audit of the rendered site found the prose strong but
+over-consistent: the same mannerisms repeating across unrelated entries
+until the voice felt engineered. These rules keep them out. They apply to
+every prose field here, and the site repository's `docs/editorial-style.md`
+carries the same rules for its side.
+
+- **Name the judoka, the body part, the action.** Techniques do not
+  "live", "wait" or "ask". Keep a metaphor only when it improves the
+  physical picture more than literal wording would.
+- **Reaction, then opening, once.** In a sequence, describe the weight or
+  position change the first technique causes and the opening it creates,
+  in one place. Vary the sentence shape between entries; never "exactly
+  there".
+- **Contrast only against a real misconception.** "Not X but Y" earns its
+  place when the reader plausibly believes X; otherwise state Y directly.
+- **One sentence per job.** The action or result takes one sentence, the
+  qualification a second. Semicolons only where the clauses are genuinely
+  parallel.
+- **Each field has one job.** `about` defines, `described` executes,
+  `receiving` gives uke's sensation and safety, `viNotes` the distinct
+  non-visual cue. When two fields narrate the same action, delete the
+  restatement.
+- **End on the instruction or the fact.** No closing flourish ("the throw
+  is yours") unless it changes what the reader should do next.
+- **Safety is stop condition, action, consequence.** Plainly, once: what
+  to feel for, what to do, what happens otherwise. No all caps (the
+  validator rejects shouting in prose), no reading of motives. Medical and
+  rules wording gets review by a qualified subject expert.
+
 ## Add a skill
 
 Not everything a grading examines has a technique name. Breakfalls,
@@ -499,7 +530,7 @@ validator checks:
   "techniques": ["o-uchi-gari", "tai-otoshi"],
   "about": { "en": "One or two sentences: why this pair works." },
   "described": { "en": ["First step of the whole sequence.", "Second step.", "The landing, always last."] },
-  "receiving": { "en": "The reaction the first technique asks for, the moment it changes, and how to land." },
+  "receiving": { "en": "The reaction the first technique draws out, the moment it changes, and how to land." },
   "viNotes": { "en": "How the sequence reads from contact, and what changes in VI judo." },
   "videos": []
 }
