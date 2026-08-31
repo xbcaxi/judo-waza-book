@@ -10,6 +10,17 @@ this first. It applies to you as much as to the tool.
 
 git-profile: simple
 
+## This repository is public, all of it, always
+
+Everything committed here must be fit for 100% public consumption: any
+judoka, federation, rights holder or journalist reading any file, on any
+branch that gets merged. That includes docs/. Working documents that carry
+internal analysis, strategy, legal risk framing, pricing thinking or
+anything else written for the project rather than for the public belong in
+the private site repository's docs/, never here. When in doubt, it goes
+there: this repo holds the judo, the sources, and documents the public is
+meant to read.
+
 ## Content is judo, and judo has to be right
 
 Every technique, grade and sequence in here is something a person will be
