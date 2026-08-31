@@ -67,5 +67,20 @@
   },
   "viNotes": {
     "en": "Two hands doing different jobs, so check them separately by feel: the anchor deep in the far collar, the fist gathered low on the near one. The thrust is the fast part, which is exactly why it goes on a smooth curve rather than as a push. Release both hands together at the tap."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "on-top",
+    "strangleUses": "collar",
+    "lock": null,
+    "cue": {
+      "en": "Facing the opponent, one deep collar grip anchors while the other hand drives the near collar across the throat like a bar."
+    },
+    "confusableWith": [
+      "kata-te-jime",
+      "ryote-jime"
+    ]
   }
 }

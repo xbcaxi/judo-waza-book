@@ -63,5 +63,20 @@
   },
   "viNotes": {
     "en": "Find the elbow by running your free hand down the arm from the wrist you have already pinned, so both hands work along the same limb and never lose it. Bring your shoulder over the pressing hand and lean in slowly: the pressure is easy to meter because it is your own weight. Release at the first tap, which may land on the mat rather than on you."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": "arm-straight-body",
+    "cue": {
+      "en": "The armlock made with the hand: the arm is fixed down and the palm and body weight press the elbow."
+    },
+    "confusableWith": [
+      "ashi-gatame",
+      "ude-gatame"
+    ]
   }
 }

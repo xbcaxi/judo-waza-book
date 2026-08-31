@@ -87,5 +87,21 @@
   },
   "viNotes": {
     "en": "This one is caught rather than hunted, and what you catch is a reaching arm arriving at your collar, which you feel immediately. Trap the wrist between your head and shoulder, then stack both hands on the elbow by running them down the arm to it. Lean in gently: a straight arm has very little travel before it has to be let go."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": "arm-straight-body",
+    "cue": {
+      "en": "The extended arm is trapped with the wrist at the attacker's shoulder and both hands press the elbow."
+    },
+    "confusableWith": [
+      "ashi-gatame",
+      "hiza-gatame",
+      "te-gatame"
+    ]
   }
 }

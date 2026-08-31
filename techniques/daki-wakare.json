@@ -64,5 +64,17 @@
   },
   "viNotes": {
     "en": "You arrive at this from contact you already have, which suits VI judo well. Find the wrap by sliding both arms along their sides until your hands meet rather than placing them, and let the lift tell you whether you have them squarely: if their weight hangs to one side, reset the clasp before you turn. On the way down keep hold until they land, then follow your own arms in to the hold."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "sideways",
+    "mechanism": "wrap-roll",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "From behind or beside, the opponent's body is wrapped and lifted; the attacker falls one way and throws them the other."
+    },
+    "confusableWith": []
   }
 }

@@ -77,5 +77,20 @@
   },
   "viNotes": {
     "en": "This begins from a partner already bent over you, which is contact you have. Run your hand across their back to the far hip to find the belt, and sit down close to your own heels so you know where the mat is before you commit to rolling. Roll along your spine with your chin tucked: the landing is the one part of this you cannot check on the way."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "pull-over",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "Against a bent-forward opponent the attacker takes the belt or arm, sits straight down, and rolls backwards, pulling them over the top."
+    },
+    "confusableWith": [
+      "sumi-gaeshi",
+      "tawara-gaeshi"
+    ]
   }
 }

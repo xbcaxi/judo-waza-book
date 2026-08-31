@@ -108,5 +108,20 @@
   },
   "viNotes": {
     "en": "Their forward pressure powers it, so the moment is one you feel rather than pick. Slide your leg out along the mat past their foot instead of lifting it into place, drop onto your side, and steer with the sleeve past your own shoulder. Know where the edge of the mat is before you sacrifice, because you are putting yourself down as well as them."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "side-drop",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "Against a forward-leaning opponent the attacker extends a leg, drops to the side, and floats them over the outstretched body to the front corner."
+    },
+    "confusableWith": [
+      "yoko-otoshi",
+      "yoko-wakare"
+    ]
   }
 }

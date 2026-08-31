@@ -79,5 +79,17 @@
   },
   "viNotes": {
     "en": "Barred in contest in the classical form because it takes the legs, but drilled all the same. Both standard grips go, leaving you working from body contact alone: come past their side chest first, and find the thighs by sliding your arms down their body rather than reaching. Lower them the whole way with your arms, since neither of you can see where they are going."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "leg-grab",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker steps behind or across, scoops the legs or trunk with both arms, and throws the opponent backwards."
+    },
+    "confusableWith": []
   }
 }

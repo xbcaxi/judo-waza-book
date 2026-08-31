@@ -107,5 +107,19 @@
   },
   "viNotes": {
     "en": "Releasing the lapel to wrap the neck is a real loss of information, so make the swap along their body, running your arm up their chest and around the neck rather than over the top. Once it is there the neck wrap tells you more than the lapel ever did, and their whole upper body is readable through it. Ease the arm free as they land."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "hip-lift",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A hip throw with the attacker's arm wrapped right around the neck; the opponent wheels over a deep hip."
+    },
+    "confusableWith": [
+      "o-goshi"
+    ]
   }
 }

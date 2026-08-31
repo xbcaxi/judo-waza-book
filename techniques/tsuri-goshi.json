@@ -108,5 +108,19 @@
   },
   "viNotes": {
     "en": "The belt is easy to find and gives you a strong second contact, which makes this a friendly hip throw to take without sight: pass your arm over or under theirs and run the hand round to the back of the belt. The hoist then tells you whether their hips have come to you before you turn in. Keep the sleeve as the belt hand releases."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "hip-lift",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A hip throw made with one hand gripping and lifting at the opponent's belt."
+    },
+    "confusableWith": [
+      "o-goshi"
+    ]
   }
 }

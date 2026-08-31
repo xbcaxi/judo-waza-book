@@ -63,5 +63,19 @@
   },
   "viNotes": {
     "en": "The lock comes from your hips, so the joint has to be found with your hands first: run both hands from the wrist to the elbow and set the elbow squarely on your stomach before you turn anything. Turn slowly. This one can also be reached standing, where neither of you has a clear picture of where the arm is, which is exactly why it is taken gently or not at all."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": "arm-straight-body",
+    "cue": {
+      "en": "The straight arm is held across the attacker's stomach and the lock comes from the turn of the body."
+    },
+    "confusableWith": [
+      "waki-gatame"
+    ]
   }
 }

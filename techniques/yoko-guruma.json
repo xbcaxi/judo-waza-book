@@ -96,5 +96,19 @@
   },
   "viNotes": {
     "en": "A counter that continues their attack rather than stopping it, which suits judo done in contact: their commitment is already in your arms. Thrust your leg deep between theirs as you drop, keep the trunk wrapped, and let your fall and their attack become one rotation. Release the wrap as they land, since you are both on the mat and have to find each other again."
+  },
+  "resolver": {
+    "counter": true,
+    "fall": "forwards",
+    "mechanism": "side-drop",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "As the opponent attacks, the attacker thrusts a leg between theirs, drops to the side, and wheels them over in the direction of their own attack."
+    },
+    "confusableWith": [
+      "ura-nage"
+    ]
   }
 }

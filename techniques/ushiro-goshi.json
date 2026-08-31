@@ -96,5 +96,19 @@
   },
   "viNotes": {
     "en": "The attack comes to you in contact, so you know the hip turn is coming before it bites: sink below them and clamp their waist. The lift tells you whether you have them squarely, and holding it for a beat kills their throw completely. Lower them under control rather than dropping them, because they are in the air with no idea where the mat is."
+  },
+  "resolver": {
+    "counter": true,
+    "fall": "down",
+    "mechanism": "hip-lift",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A hip throw is caught mid-turn: the attacker scoops the entering hips from behind, lifts the opponent clear, and lets them fall in front."
+    },
+    "confusableWith": [
+      "utsuri-goshi"
+    ]
   }
 }

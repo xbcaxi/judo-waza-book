@@ -92,5 +92,21 @@
   },
   "viNotes": {
     "en": "Groundwork begins from contact for everyone, which is why ne-waza is often where VI judoka are strongest. Keep one point of contact through every transition into the hold: from a throw, follow the held sleeve down to the mat and let it lead you to their right side. In the hold, read their escapes through your chest and hips rather than by watching their legs."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "beside-head",
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "Sitting beside the opponent with an arm around their neck, chest across chest: the scarf hold."
+    },
+    "confusableWith": [
+      "kata-gatame",
+      "kuzure-kesa-gatame",
+      "makura-kesa-gatame"
+    ]
   }
 }

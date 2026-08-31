@@ -86,5 +86,17 @@
   },
   "viNotes": {
     "en": "Built from full contact on your back, so the triangle can be formed entirely by feel: the back of your knee across their neck, then your shin hooked behind your own knee-pit, a lock your legs can confirm without any help. Square your hips towards them and close slowly. Open the triangle completely at the tap so they can get their head clear."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "legs-wrapped",
+    "strangleUses": "legs",
+    "lock": null,
+    "cue": {
+      "en": "The legs close in a triangle around the opponent's neck and one arm: the triangle choke."
+    },
+    "confusableWith": []
   }
 }

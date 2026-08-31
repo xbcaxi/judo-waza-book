@@ -90,5 +90,21 @@
   },
   "viNotes": {
     "en": "The extended leg is slid along the mat past the outside of their foot, so it is placed by contact and cannot be misjudged for height. There is no half measure in the drop: commit fully onto your side and pull across towards the space beyond your own head. Know where the mat edge is before you go down."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "sideways",
+    "mechanism": "side-drop",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker drops straight onto their side, blocking the opponent's foot, and throws them over the outstretched body."
+    },
+    "confusableWith": [
+      "tani-otoshi",
+      "uki-waza",
+      "yoko-gake"
+    ]
   }
 }

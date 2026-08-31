@@ -117,5 +117,19 @@
   },
   "viNotes": {
     "en": "Both hands are on sleeves, so you keep two channels of information right through the throw, which makes it a good one for VI judo. The high swing is also how you read them: when the sleeve arm goes up and their weight comes with it, the space underneath is open. Pivot in beneath the raised arm and keep the other sleeve for their landing."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "hip-lift",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A hip throw from a grip on both sleeves, one arm swung high across as the hips enter."
+    },
+    "confusableWith": [
+      "tsurikomi-goshi"
+    ]
   }
 }

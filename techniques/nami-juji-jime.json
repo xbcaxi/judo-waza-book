@@ -102,5 +102,20 @@
   },
   "viNotes": {
     "en": "Both hands grip alike, which makes this the easiest of the three cross strangles to check by feel: if one palm is facing the wrong way you are applying a different technique. Take each grip deep by tracking the collar with your fingers from the shoulder inwards, then close with the wrists and the elbows. Open both hands fully at the tap and stay with your partner a moment."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "on-top",
+    "strangleUses": "collar",
+    "lock": null,
+    "cue": {
+      "en": "A cross-collar strangle, arms crossed with the fingers of both hands inside the opposite collars."
+    },
+    "confusableWith": [
+      "gyaku-juji-jime",
+      "kata-juji-jime"
+    ]
   }
 }

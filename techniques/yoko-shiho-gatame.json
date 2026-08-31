@@ -97,5 +97,20 @@
   },
   "viNotes": {
     "en": "Both grips are found by threading, one arm under the neck and one between the legs to the belt, so your hands travel along their body to them rather than reaching. The chest is what holds and what reads: a bridge arrives as a lift, a turn as a slide away from you. Move around them like a weight on a table, chest never leaving chest."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "beside-chest",
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker lies across the opponent at right angles, chest on chest, gripping at the collar and between the legs."
+    },
+    "confusableWith": [
+      "kuzure-yoko-shiho-gatame",
+      "mune-gatame"
+    ]
   }
 }

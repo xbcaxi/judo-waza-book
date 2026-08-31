@@ -96,5 +96,19 @@
   },
   "viNotes": {
     "en": "The block is placed by touch: slide your sole up the outside of their shin until it meets the swell of the knee, then stop pushing and turn your hands. From the gripped-up start the wheel is in the arms in any case, and you can feel it working as soon as their shoulders start turning around a leg that has stopped moving."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "leg-block",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The sole of the foot blocks the opponent's knee and the hands wheel them forwards over it."
+    },
+    "confusableWith": [
+      "sasae-tsurikomi-ashi"
+    ]
   }
 }

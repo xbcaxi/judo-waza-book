@@ -104,5 +104,21 @@
   },
   "viNotes": {
     "en": "A sighted judoka times this by watching the step; you time it through the sleeve. With grips already taken, the rhythm of their feet travels up the arm, and the moment to sweep is the small lightening in the sleeve as the foot swings forward. Drill it moving up and down the mat with a partner until the tempo, rather than the sight of the foot, is the cue you act on."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "sideways",
+    "mechanism": "heel-clip",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The advancing foot is swept sideways the instant it touches the mat, before it can take weight."
+    },
+    "confusableWith": [
+      "ko-soto-gari",
+      "okuri-ashi-harai",
+      "tsubame-gaeshi"
+    ]
   }
 }

@@ -78,5 +78,19 @@
   },
   "viNotes": {
     "en": "Two techniques in one, and the switch happens while they are off the mat, so it is done entirely by feel: lift, feel them hang, then draw them across your front as you turn your hip underneath. Their feet leaving the floor is the cue, not anything that could be seen. Guide them down with your arm the whole way."
+  },
+  "resolver": {
+    "counter": true,
+    "fall": "forwards",
+    "mechanism": "hip-lift",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A hip attack is absorbed, the opponent lifted, the hips switched across, and they are thrown with the attacker's own hip throw."
+    },
+    "confusableWith": [
+      "ushiro-goshi"
+    ]
   }
 }

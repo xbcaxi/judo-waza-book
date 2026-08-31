@@ -58,5 +58,17 @@
   },
   "viNotes": {
     "en": "Their hook is deep inside your leg, so you know exactly where their attacking leg is. Step out of it backwards while you can still feel it, then bring your own leg round behind the leg they are standing on, which by then is the only one on the mat. The whole exchange happens with legs touching, so nothing has to be judged across a gap."
+  },
+  "resolver": {
+    "counter": true,
+    "fall": "backwards",
+    "mechanism": "leg-reap",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The big inside reap is answered: the attacked leg steps clear and the attacker's own leg comes round behind the standing leg to drive them over."
+    },
+    "confusableWith": []
   }
 }

@@ -63,5 +63,19 @@
   },
   "viNotes": {
     "en": "The reason this is documented apart from the strangle is that anyone caught in a triangle needs to know which is coming, and without sight the only difference is what you feel: pressure at the elbow rather than around the neck. As tori, say which one you are applying when you drill it. As uke, tap on either, and early."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": "arm-straight-legs-across",
+    "cue": {
+      "en": "The legs are locked in a triangle around head and arm, and the trapped elbow, not the neck, takes the pressure."
+    },
+    "confusableWith": [
+      "juji-gatame"
+    ]
   }
 }

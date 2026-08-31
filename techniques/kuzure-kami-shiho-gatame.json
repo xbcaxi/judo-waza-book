@@ -72,5 +72,19 @@
   },
   "viNotes": {
     "en": "This is the form you keep ending up in, because you switch to it by feel the moment an arm starts to work free. That is the first thing to change, before their hips move, and you read it through your chest and the trapped arm rather than by looking. Keep the wrapped shoulder as your anchor and let the rest of the hold move around it."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "over-head",
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The over-the-head hold with one arm controlling an arm and shoulder instead of the belt: the version contests actually produce."
+    },
+    "confusableWith": [
+      "kami-shiho-gatame"
+    ]
   }
 }

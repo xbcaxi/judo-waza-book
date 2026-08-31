@@ -58,5 +58,19 @@
   },
   "viNotes": {
     "en": "You reach this when the plain reap is blocked, and a block is something you feel through the arms rather than see. Trap their arm over your shoulder before you turn, so contact is unbroken from the reap into the wind, and land on your side rather than your shoulder. Turn straight in to a hold once you are down: you have arrived on the ground beside someone you can now only find by touch."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "wrap-roll",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The big outer reap finished by wrapping: the opponent's arm is trapped over the shoulder and the attacker turns and falls, rolling them over with the reap still working."
+    },
+    "confusableWith": [
+      "o-soto-gari"
+    ]
   }
 }

@@ -88,5 +88,21 @@
   },
   "viNotes": {
     "en": "From behind with your chest sealed to their back, all of this is contact. Feed the deep hand over the shoulder and down the lapel so the forearm arrives across the neck by following the cloth rather than by reaching around for it. Keep your head beside theirs, close gradually with each hand doing its own job, and release both at the tap."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "behind",
+    "strangleUses": "collar",
+    "lock": null,
+    "cue": {
+      "en": "From behind, one hand slides deep into the far lapel around the neck while the other feeds the near lapel down: the sliding collar."
+    },
+    "confusableWith": [
+      "hadaka-jime",
+      "kata-ha-jime",
+      "koshi-jime"
+    ]
   }
 }

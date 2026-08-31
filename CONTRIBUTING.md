@@ -286,7 +286,7 @@ Scheme files localise the same way (`name`, `description`, grade `label`s).
 
 ## Add a technique
 
-Every technique file has the same twenty-three fields, in the same order,
+Every technique file has the same twenty-five fields, in the same order,
 whether or not anyone has filled them in yet. Copy this and change it:
 
 ```json
@@ -303,6 +303,7 @@ whether or not anyone has filled them in yet. Copy this and change it:
   "gokyoSet": 2,
   "kodokanNumber": 309,
   "kodokanAbbr": "UMA",
+  "kodokan": null,
   "banned": "no",
   "bannedNote": null,
   "videos": [],
@@ -313,7 +314,8 @@ whether or not anyone has filled them in yet. Copy this and change it:
   "keyPoints": { "en": ["First point", "Second point", "Third point"] },
   "described": { "en": ["First step of the movement.", "Second step.", "The landing, always last."] },
   "receiving": { "en": "What the technique feels like to receive, and how to land." },
-  "viNotes": null
+  "viNotes": null,
+  "resolver": null
 }
 ```
 
@@ -383,6 +385,28 @@ hundred techniques the Kodokan recognises. Do not invent either: the source
 document itself prints `OUG` against both o-uchi-gari and o-uchi-gaeshi, and
 `KSG` against both ko-soto-gari and kami-shiho-gatame, so abbreviations are
 not unique and are not treated as such.
+
+### The resolver tag
+
+`resolver` is how the site's "What was that technique?" page finds a
+technique from a spectator's description, and it records only what a
+non-judoka can SEE: which way somebody fell, what did the lifting, where the
+attacker was. It never records how a technique is classified or performed;
+the classification fields already do that.
+
+Which of its fields apply depends on the branch, and the validator holds the
+pairing: a throw sets `fall` and `mechanism`; a hold sets `groundPosition`; a
+strangle sets `groundPosition` and `strangleUses`; a lock sets `lock`.
+Everything else stays null. `mechanism` is the dominant visual impression
+rather than the biomechanical truth - hane-goshi is a hip technique that
+reads as a springing leg, and the field records the reading. `counter` is
+true where the thrown judoka is the one who attacked first.
+
+`cue` is the one line shown beside the name, written for somebody who has
+never trained, and `confusableWith` lists the techniques a spectator
+genuinely cannot tell this one from at full speed. The relation is symmetric
+and the validator checks both directions: if you add B to A's list, add A to
+B's. The enum values live in `schema/technique.schema.json`.
 
 ### Filling a gap
 
@@ -537,7 +561,7 @@ validator checks:
 ```
 
 A sequence carries the same seven fields in that order, whether or not
-anyone has written them yet, exactly as a technique carries its twenty-three:
+anyone has written them yet, exactly as a technique carries its twenty-five:
 `described`, `receiving` and `viNotes` are `null` when unwritten, never
 missing, and they follow the same conventions as they do on a technique
 (see [Describing movement](#describing-movement-the-style-guide)). On a
@@ -643,7 +667,7 @@ counter recorded against them - which is the fastest way to find something
 worth writing:
 
 - **The canonical technique record.** Every technique file carries all
-  twenty-three fields, in the canonical order, with unwritten ones null or
+  twenty-five fields, in the canonical order, with unwritten ones null or
   empty. A missing field, a stray field or a field out of order is an error,
   not a style preference: the format is what lets a reader tell a gap from
   an omission.

@@ -106,5 +106,19 @@
   },
   "viNotes": {
     "en": "The high lapel hand does the work and reports back the whole time: while you can feel their weight hanging on it, they cannot settle back down. Keep that elbow up right through the turn. Their chest arriving on your back is your checkpoint for the entry, and the sleeve is what steadies their landing."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "hip-lift",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A hip throw driven by the lifting pull of both hands, the lapel hand kept high as the opponent comes up and over."
+    },
+    "confusableWith": [
+      "sode-tsurikomi-goshi"
+    ]
   }
 }

@@ -138,5 +138,19 @@
   },
   "viNotes": {
     "en": "Every checkpoint here is a contact, which is why armlocks travel so well into VI judo. Hips tight to their shoulder with no gap, both knees pinched over the arm, their thumb turned up in your hands. Lift the hips slowly and keep your head near the trapped arm so you can hear the tap as well as feel it, then lower and release the arm completely."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": "arm-straight-legs-across",
+    "cue": {
+      "en": "The attacker lies back with both legs across the opponent's chest, the straight arm levered across the hips: the cross armlock."
+    },
+    "confusableWith": [
+      "sankaku-gatame"
+    ]
   }
 }

@@ -168,5 +168,20 @@
   },
   "viNotes": {
     "en": "The reap is circular and travels along the inside of their leg, so let your calf find their thigh by contact instead of aiming at it. From the gripped-up start the moment to go is when their weight arrives on that leg, which comes to you through your hands. Keep your weight forward and the supporting knee soft, because a reap that misses takes your own balance with it."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "leg-reap",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker's calf reaps one leg away from the inside, between the opponent's feet, and they sit down backwards."
+    },
+    "confusableWith": [
+      "ko-uchi-gari",
+      "o-uchi-gake"
+    ]
   }
 }

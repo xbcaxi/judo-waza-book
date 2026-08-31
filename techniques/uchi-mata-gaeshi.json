@@ -58,5 +58,20 @@
   },
   "viNotes": {
     "en": "A leg rising between your thighs is unmistakable, and it is the signal to drop your weight and widen your base rather than to pull away. From there you can catch the lifting thigh or hook their standing leg, both of which you can locate precisely because they are in contact with you. Pull the collar down and across and let their own turn finish it."
+  },
+  "resolver": {
+    "counter": true,
+    "fall": "backwards",
+    "mechanism": "leg-reap",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The inner-thigh throw is caught: the rising leg is ridden or the standing leg swept, and its maker is turned over in the direction of their own attack."
+    },
+    "confusableWith": [
+      "hane-goshi-gaeshi",
+      "harai-goshi-gaeshi"
+    ]
   }
 }

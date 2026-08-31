@@ -75,5 +75,19 @@
   },
   "viNotes": {
     "en": "On your back you have full contact already, and the arm is trapped entirely by feel. Hug the wrist to your chest and follow the forearm with your hands until you find where the elbow bends, then bring the knee to that point rather than to where you expect it. Draw the wrist in slowly, and listen for the tap as well as feel for it."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": "arm-straight-body",
+    "cue": {
+      "en": "The extended arm is trapped and the attacker's knee presses down on the elbow."
+    },
+    "confusableWith": [
+      "ude-gatame"
+    ]
   }
 }

@@ -64,5 +64,19 @@
   },
   "viNotes": {
     "en": "The side version is easier to commit to without sight than the straight-back one, because you fold onto your side rather than travelling over your own head. Place your foot at the hip crease by sliding it up their thigh. Pull past your left shoulder and keep pulling until the roll completes, and know where the mat edge is before you sit."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "foot-in-belly",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The circle throw taken falling to one side rather than straight back, the foot on the stomach steering the opponent over the diagonal."
+    },
+    "confusableWith": [
+      "tomoe-nage"
+    ]
   }
 }

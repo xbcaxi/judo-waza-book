@@ -55,5 +55,17 @@
   "receiving": null,
   "viNotes": {
     "en": "Recognition only, and worth knowing by feel: the pressure comes around your ribs from legs crossed behind your back, not at a joint or the neck, and it does not build the way a legal technique does. Tap and tell your coach. Nobody should be applying this to anyone."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "legs-wrapped",
+    "strangleUses": "legs",
+    "lock": null,
+    "cue": {
+      "en": "Not a neck strangle at all: the legs cross around the opponent's trunk and squeeze the body."
+    },
+    "confusableWith": []
   }
 }

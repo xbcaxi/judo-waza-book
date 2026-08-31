@@ -58,5 +58,19 @@
   },
   "viNotes": {
     "en": "The attack hands you everything you need: their chest driving in, their leg swinging past yours. Answer the balance-break first by driving your hips forward, then swing your own leg through against a supporting leg you can locate precisely, because they are standing on it alone. Counters like this suit VI judo, since none of it happens out of contact."
+  },
+  "resolver": {
+    "counter": true,
+    "fall": "backwards",
+    "mechanism": "leg-reap",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The big outer reap is turned around: the attacker resists the pull, steps through, and reaps back with the same leg."
+    },
+    "confusableWith": [
+      "o-soto-gari"
+    ]
   }
 }

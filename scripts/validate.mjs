@@ -171,9 +171,9 @@ for (const t of techniques) {
  * addition goes. JSON Schema enforces the field SET (required, plus
  * additionalProperties false); only code can see the ORDER. */
 const techniqueFields = ['nameRomaji', 'nameJa', 'nameKana', 'aliases', 'otherNames', 'gloss',
-  'category', 'subCategory', 'wazaType', 'gokyoSet', 'kodokanNumber', 'kodokanAbbr', 'banned',
-  'bannedNote', 'videos', 'ijfAnimation', 'links', 'image', 'about', 'keyPoints', 'described',
-  'receiving', 'viNotes'];
+  'category', 'subCategory', 'wazaType', 'gokyoSet', 'kodokanNumber', 'kodokanAbbr', 'kodokan',
+  'banned', 'bannedNote', 'videos', 'ijfAnimation', 'links', 'image', 'about', 'keyPoints',
+  'described', 'receiving', 'viNotes', 'resolver'];
 for (const t of techniques) {
   const keys = Object.keys(t.data);
   /* Anything missing or unexpected has already been reported by the schema;
@@ -243,6 +243,50 @@ for (const t of techniques) {
   }
   if (t.data.banned === 'yes' && t.data.described) {
     problems.push(`techniques/${t.name}: a technique banned outright carries no described steps`);
+  }
+}
+
+/* The resolver's observable facts pair off with the branch, exactly as the
+ * site's zod schema holds them: a throw has a fall and a mechanism and no
+ * ground fields, a hold has a position, a strangle a position and an
+ * implement, a lock a trapped arm. And confusableWith is a cross-file claim
+ * zod cannot see: every slug must exist, none may be the technique itself,
+ * and the relation is symmetric - if a spectator cannot tell A from B, they
+ * cannot tell B from A either, so one direction on its own means the other
+ * file was forgotten. */
+{
+  const resolverBranchFields = {
+    'tachi-waza': ['fall', 'mechanism'],
+    'sutemi-waza': ['fall', 'mechanism'],
+    'osaekomi-waza': ['groundPosition'],
+    'shime-waza': ['groundPosition', 'strangleUses'],
+    'kansetsu-waza': ['lock'],
+  };
+  const confusable = new Map();
+  for (const t of techniques) {
+    const resolver = t.data.resolver;
+    if (!resolver) continue;
+    const wanted = resolverBranchFields[t.data.subCategory] ?? [];
+    for (const field of ['fall', 'mechanism', 'groundPosition', 'strangleUses', 'lock']) {
+      const set = resolver[field] !== null && resolver[field] !== undefined;
+      if (wanted.includes(field) && !set) {
+        problems.push(`techniques/${t.name}: a ${t.data.subCategory} technique's resolver sets ${field}`);
+      } else if (!wanted.includes(field) && set) {
+        problems.push(`techniques/${t.name}: resolver ${field} has no meaning on ${t.data.subCategory}, so it must be null`);
+      }
+    }
+    confusable.set(t.slug, new Set(resolver.confusableWith ?? []));
+  }
+  for (const [slug, lookalikes] of confusable) {
+    for (const other of lookalikes) {
+      if (!slugs.has(other)) {
+        problems.push(`techniques/${slug}.json: resolver confusableWith names unknown technique "${other}"`);
+      } else if (other === slug) {
+        problems.push(`techniques/${slug}.json: resolver confusableWith lists the technique itself`);
+      } else if (!(confusable.get(other)?.has(slug))) {
+        problems.push(`techniques/${other}.json: resolver confusableWith should list "${slug}", which lists it; the relation is symmetric`);
+      }
+    }
   }
 }
 

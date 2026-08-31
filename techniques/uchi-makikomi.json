@@ -73,5 +73,19 @@
   },
   "viNotes": {
     "en": "You are committing to the mat inside their arm, so the wrap has to be secure before the rotation starts: keep their arm over your shoulder from the entry and never let it slide. Once you are winding, that arm is your only sense of where they are. Release it as they land so both of you can get up."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "wrap-roll",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A winding fall on the inside line: the attacker turns in as for a one-armed shoulder throw and rolls inside the wrapped arm."
+    },
+    "confusableWith": [
+      "soto-makikomi"
+    ]
   }
 }

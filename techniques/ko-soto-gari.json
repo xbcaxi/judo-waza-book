@@ -95,5 +95,21 @@
   },
   "viNotes": {
     "en": "Feel the timing through the sleeve. You are waiting for the moment their right foot lands and has not yet settled, which reaches you as a brief heaviness through the grips, and then the sole scoops along the mat to find the heel. Scooping along the mat rather than lifting the foot means the heel is found by contact and you never sweep at empty space."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "heel-clip",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A small clip takes the opponent's heel from the outside just as the foot takes weight, and they sit straight back."
+    },
+    "confusableWith": [
+      "de-ashi-harai",
+      "ko-soto-gake",
+      "nidan-ko-soto-gari"
+    ]
   }
 }

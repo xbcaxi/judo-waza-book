@@ -148,5 +148,20 @@
   },
   "viNotes": {
     "en": "The throw runs on their forward pressure, which reaches you through the grips before anything else moves, so the gripped-up start suits it well. Place your foot on the belt line by sliding it up their body rather than kicking to a height. Know where the mat edge is before you sit down, and keep pulling through the whole arc so they land rolling."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "foot-in-belly",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker drops beneath the opponent, plants a foot on the stomach, and sends them overhead in a full circle."
+    },
+    "confusableWith": [
+      "sumi-gaeshi",
+      "yoko-tomoe-nage"
+    ]
   }
 }

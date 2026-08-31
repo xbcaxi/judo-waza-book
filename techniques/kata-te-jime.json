@@ -81,5 +81,19 @@
   },
   "viNotes": {
     "en": "Only one hand is strangling, so the other arm is your contact with the mat and with them: post it deliberately and leave it there. The pressure comes from your chest settling through the forearm, which means you can feel exactly how much you are applying and small shifts of weight are enough. When they tap, lift the weight first and then the grip."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "on-top",
+    "strangleUses": "collar",
+    "lock": null,
+    "cue": {
+      "en": "A single forearm drives the collar across the throat, anchored by one deep grip, while the body supplies the pressure."
+    },
+    "confusableWith": [
+      "tsukkomi-jime"
+    ]
   }
 }

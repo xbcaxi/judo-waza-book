@@ -57,5 +57,17 @@
   "receiving": null,
   "viNotes": {
     "en": "Recognition only, and worth knowing from the receiving end because it arrives with no warning at all: a leg across your middle and another behind your knees in the same instant. The danger is to the leg you are standing on, so go down with it rather than resisting on a planted foot, and report it however it was meant."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "leg-scissor",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The flying scissors: the attacker leaps sideways and scissors the opponent between both legs, one across the waist and one behind the knees."
+    },
+    "confusableWith": []
   }
 }

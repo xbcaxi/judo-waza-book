@@ -67,5 +67,17 @@
   },
   "viNotes": {
     "en": "The counter needs their attack to be committed, which you know from the pressure of their turn arriving in your hands. Move the target leg a small step aside so the sweep rises through nothing, then keep both grips and steer the rotation they have already started. It is thrown entirely by the hands, which is why it reads so well without sight."
+  },
+  "resolver": {
+    "counter": true,
+    "fall": "forwards",
+    "mechanism": "hands-only",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The big inner-thigh throw meets nothing: the attacked leg slips aside and the opponent's own rotation carries them to the mat."
+    },
+    "confusableWith": []
   }
 }

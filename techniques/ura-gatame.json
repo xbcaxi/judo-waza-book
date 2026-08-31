@@ -66,5 +66,17 @@
   },
   "viNotes": {
     "en": "You often arrive here by accident, at the end of a roll or a failed turnover, so the first job is working out which way you are facing. Their neck under one arm and their near arm under the other is the answer: you are looking towards their feet. Clasp your hands, drop the chest, spread your legs wide, and move your feet rather than your chest."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "underneath",
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The reverse hold: the attacker lies across the opponent's chest facing their feet, controlling head and arm, their own back towards the mat."
+    },
+    "confusableWith": []
   }
 }

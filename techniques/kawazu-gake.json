@@ -55,5 +55,17 @@
   "receiving": null,
   "viNotes": {
     "en": "Recognition only. What identifies it from underneath is the leg wound around yours as you both go backwards, so your foot cannot come free to land, and that is exactly what injures knees. If you feel your leg entangled as a partner falls back, go down with them rather than fighting to stay up, and tell your coach afterwards."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "wrap-roll",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A leg winds around the opponent's leg from the inside and the attacker falls backwards with it still entwined."
+    },
+    "confusableWith": []
   }
 }

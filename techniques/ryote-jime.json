@@ -64,5 +64,19 @@
   },
   "viNotes": {
     "en": "Both hands do the same thing, which makes the check simple by feel: two fists gathered together at the front of the neck. Take the collars near the front where the cloth is easiest to find, then turn the wrists and wring. Nothing in it needs sight, and all of it needs to be gradual."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "on-top",
+    "strangleUses": "collar",
+    "lock": null,
+    "cue": {
+      "en": "Both fists grip the collars in front of the throat and drive together, knuckles turning in."
+    },
+    "confusableWith": [
+      "tsukkomi-jime"
+    ]
   }
 }

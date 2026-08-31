@@ -106,5 +106,19 @@
   },
   "viNotes": {
     "en": "Everything is found from the back position you already hold: the lapel by running your hand along their collar into the neck, the wing by scooping under their arm and lifting it. Keep your head beside theirs so you know at once if they turn. Close gradually, and when they tap release the whole thing together, lowering the lifted arm rather than dropping it."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "behind",
+    "strangleUses": "collar",
+    "lock": null,
+    "cue": {
+      "en": "From behind, one collar grip closes the neck while the other arm lifts the opponent's arm and slides behind their head: the single wing."
+    },
+    "confusableWith": [
+      "okuri-eri-jime"
+    ]
   }
 }

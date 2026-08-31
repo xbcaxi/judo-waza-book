@@ -71,5 +71,17 @@
   },
   "viNotes": {
     "en": "A bent-over defence announces itself, their weight dropping and their head coming below your chest, and this is the answer to it. Take the belt by sliding your arm along their back until your thumb hooks under it, and get your hips under theirs before you straighten. Lower them with the belt hand rather than letting go at the top of the lift."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "hands-only",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "Against an opponent bent forward and defending, a grip on the back of the belt lifts them off their base and turns them over backwards."
+    },
+    "confusableWith": []
   }
 }

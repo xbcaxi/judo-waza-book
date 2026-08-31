@@ -128,5 +128,23 @@
   },
   "viNotes": {
     "en": "From the gripped-up start the cue is their chest arriving on your back as you turn in, felt across your shoulder blades. Keep the back of your sweeping thigh touching theirs from the first inch of the sweep: a leg travelling through open space has nothing to sweep, and the contact is also how you know how high their leg has come. Chest down and leg up happen together, as one tilt."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "leg-lift",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker turns in as for a hip throw and a straight leg sweeps the opponent's thigh; they go over hip and leg together."
+    },
+    "confusableWith": [
+      "hane-goshi",
+      "harai-makikomi",
+      "o-guruma",
+      "uchi-mata",
+      "yama-arashi"
+    ]
   }
 }

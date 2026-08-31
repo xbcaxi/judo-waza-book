@@ -52,5 +52,19 @@
   },
   "viNotes": {
     "en": "The hook is set calf to calf and stays there, which gives you a fixed reference for both bodies. Find it by swinging your leg past theirs and drawing it back until the calves meet, rather than placing it where you expect their leg to be. Drive with the chest, follow them down, and hold the sleeve up as they land."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "leg-reap",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacking leg hooks behind the opponent's leg and stays hooked, driving them down over the trap."
+    },
+    "confusableWith": [
+      "o-soto-gari"
+    ]
   }
 }

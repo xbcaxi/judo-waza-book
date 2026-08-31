@@ -104,5 +104,19 @@
   },
   "viNotes": {
     "en": "You take this against an attack, so the contact is handed to you: clamp the trunk as their turn comes in. The risk is your own landing, so turn your head to one side and take the mat on your upper back, never the neck. Release the trunk as they land so the two falls stay separate, and learn the bridge with a coach."
+  },
+  "resolver": {
+    "counter": true,
+    "fall": "backwards",
+    "mechanism": "bridge",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The opponent's trunk is grasped from behind or beside; the attacker bridges backwards and throws them over their own shoulder to the rear."
+    },
+    "confusableWith": [
+      "yoko-guruma"
+    ]
   }
 }

@@ -80,5 +80,19 @@
   },
   "viNotes": {
     "en": "This is applied to a turtled partner, so it starts from contact. Find the chin with the back of your hand and follow it into the collar, so the forearm arrives across the front of the throat rather than under the jaw. The strangle comes from your body walking round towards their head, so move slowly and feel it tighten; at the tap lift the weight before you open the hand."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "on-top",
+    "strangleUses": "collar",
+    "lock": null,
+    "cue": {
+      "en": "Against an opponent turtled on all fours: a deep collar grip closes the neck while the attacker's hip drives through the shoulders."
+    },
+    "confusableWith": [
+      "okuri-eri-jime"
+    ]
   }
 }

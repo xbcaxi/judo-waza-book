@@ -95,5 +95,19 @@
   },
   "viNotes": {
     "en": "There is no lift here, only a twist, so the throw depends on there being no gap between you: draw them onto your side with the hand at their back until you feel contact along your whole flank. From the gripped-up start the swap from lapel to waist travels along their body, so your hand never leaves them. If you can feel air between you, twisting will achieve nothing."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "hip-lift",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A half-entry hip throw: the opponent is caught on the side of the hip and floated over with a twist of the trunk, never lifted high."
+    },
+    "confusableWith": [
+      "o-goshi"
+    ]
   }
 }

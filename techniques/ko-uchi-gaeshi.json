@@ -58,5 +58,17 @@
   },
   "viNotes": {
     "en": "Their attack tells you where their foot is: the reap arrives at your own heel, and that touch is the cue to lift the foot clear and step it down behind theirs. The counter only works in the beat while their attacking leg is still off the mat, so act on the first contact rather than waiting to be certain what it was."
+  },
+  "resolver": {
+    "counter": true,
+    "fall": "backwards",
+    "mechanism": "hands-only",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A small inside trip is answered: the attacked foot lifts clear, the attacker turns in, and the opponent is dropped backwards with the hands."
+    },
+    "confusableWith": []
   }
 }

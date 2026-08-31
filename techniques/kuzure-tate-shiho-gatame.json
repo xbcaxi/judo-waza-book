@@ -50,5 +50,19 @@
   },
   "viNotes": {
     "en": "Astride them you can feel everything, so the hold is kept by answering what you feel rather than by gripping hard. A bridge arrives under your seat, a turn as one hip dropping away; float with the first and settle back down. Take whichever control they give you, arm and head together or a threaded leg, and keep your head down beside theirs so you know at once if they turn."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "on-top",
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "Astride the opponent but off-centre, the control varied: the mount as it looks when the opponent is fighting it."
+    },
+    "confusableWith": [
+      "tate-shiho-gatame"
+    ]
   }
 }

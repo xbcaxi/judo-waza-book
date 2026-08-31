@@ -86,5 +86,19 @@
   },
   "viNotes": {
     "en": "The trap and the lock are both contact. Fold their arm across their own neck and clamp it with the side of your head, so your head, not your eyes, tells you the arm has not slipped out. Because this hold can also compress the neck, stay ready for a tap anywhere and release everything, head pressure included, at the first one."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "beside-head",
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The opponent's own arm is pressed across their neck and trapped there by the attacker's head and shoulder."
+    },
+    "confusableWith": [
+      "kesa-gatame"
+    ]
   }
 }

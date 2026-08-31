@@ -64,5 +64,19 @@
   },
   "viNotes": {
     "en": "You take this when the reap alone will not put a heavier partner down, and that is something you feel rather than see: the heel goes, and they stay standing. Trap the arm before you drop so you keep contact all the way to the mat, and land on your side. Say what you are drilling first, because uke is going down underneath you."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "wrap-roll",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The small inside reap finished by diving: the heel is reaped inward and the attacker turns and drops onto the opponent, rolling them over the reaped leg."
+    },
+    "confusableWith": [
+      "ko-uchi-gari"
+    ]
   }
 }

@@ -77,5 +77,20 @@
   },
   "viNotes": {
     "en": "Barred in contest under the leg-grab rules, so it is drilled rather than fought. Drop your level first and let your hand find the leg on the way down by running it along their thigh to the back of the knee, which is far more reliable than reaching for it. Keep hold of the leg as they fall so you know where they have gone and can follow in."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "leg-grab",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker drops level, catches one leg behind the knee, and drives the opponent straight back over it."
+    },
+    "confusableWith": [
+      "kibisu-gaeshi",
+      "morote-gari"
+    ]
   }
 }

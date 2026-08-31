@@ -129,5 +129,21 @@
   },
   "viNotes": {
     "en": "From the gripped-up start used in VI judo contests there is no distance to close: the throw begins from contact. Feel their weight through both grips before you commit; the moment their pressure comes forward onto you is the entry cue. The change from lapel grip to the arm around the waist happens along their body, so your hand never loses contact on the way."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "hip-lift",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The classic hip throw: an arm around the waist, the hips through and lifting, the opponent rolled over the hip line."
+    },
+    "confusableWith": [
+      "koshi-guruma",
+      "tsuri-goshi",
+      "uki-goshi"
+    ]
   }
 }

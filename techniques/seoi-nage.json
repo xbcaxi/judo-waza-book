@@ -208,5 +208,20 @@
   },
   "viNotes": {
     "en": "The checkpoint that replaces seeing your entry is contact across your whole back: their chest on your shoulders with no space anywhere. Bring the elbow under their armpit by sliding your arm up their body rather than digging for the position, and keep the sleeve pulling so they stay readable through the turn. If you can feel them at one shoulder only, turn further before you lift."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "shoulder-carry",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker turns in, loads the opponent onto their back, and throws them right over the shoulder."
+    },
+    "confusableWith": [
+      "ippon-seoi-nage",
+      "seoi-otoshi"
+    ]
   }
 }

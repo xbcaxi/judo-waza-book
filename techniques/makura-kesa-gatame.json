@@ -51,5 +51,19 @@
   },
   "viNotes": {
     "en": "The pillow leg is the whole point: their head resting on your thigh closes the space a bridge needs, and you can feel that space opening or closing through the leg itself. Work the thigh in by sliding it under the neck rather than lifting their head onto it. Keep their arm pinned at your side and ride any turn with your hips."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "beside-head",
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The scarf hold with the opponent's head resting on the attacker's thigh like a pillow."
+    },
+    "confusableWith": [
+      "kesa-gatame"
+    ]
   }
 }

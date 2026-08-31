@@ -90,5 +90,20 @@
   },
   "viNotes": {
     "en": "The bar is laid high, across the front of both thighs, so it has to be placed by contact: bring the leg up their body until you feel both of their legs against it rather than choosing a height. From the gripped-up start their lean is already in your hands, and once the rail is set the throw is only a large turn of hands and trunk."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "leg-lift",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A leg bars across the front of the opponent's hips and they are wheeled over it in one large rotation."
+    },
+    "confusableWith": [
+      "ashi-guruma",
+      "harai-goshi"
+    ]
   }
 }

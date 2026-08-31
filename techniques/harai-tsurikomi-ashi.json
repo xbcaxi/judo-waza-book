@@ -92,5 +92,19 @@
   },
   "viNotes": {
     "en": "The whole set-up is a conversation through the hands: you step back, they step after you, and the lift you feel in the lapel hand tells you the advancing foot has not yet taken weight. Sweep by drawing your sole along the mat into the ankle rather than lifting your foot to meet it, so the foot is found by contact and arrives already moving."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "leg-block",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The opponent is drawn up and forward while their advancing ankle is swept away, and they pivot over the swept foot."
+    },
+    "confusableWith": [
+      "sasae-tsurikomi-ashi"
+    ]
   }
 }

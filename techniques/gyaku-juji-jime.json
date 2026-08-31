@@ -82,5 +82,20 @@
   },
   "viNotes": {
     "en": "Groundwork is where sight matters least, and the grips here are taken by touch in any case. Track the collar with your fingers from the shoulder into the neck so the depth is felt rather than guessed, and check which way your palms are facing before you close: reversed grips feel almost identical to the standard cross until the pressure arrives. Release completely at the tap, which may land on your arm or on the mat."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "on-top",
+    "strangleUses": "collar",
+    "lock": null,
+    "cue": {
+      "en": "A cross-collar strangle, forearms crossed at the throat; in this form both thumbs are inside the collars."
+    },
+    "confusableWith": [
+      "kata-juji-jime",
+      "nami-juji-jime"
+    ]
   }
 }

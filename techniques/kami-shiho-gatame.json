@@ -97,5 +97,19 @@
   },
   "viNotes": {
     "en": "Find the hold from the head end by sliding both arms down their sides until your hands meet the belt, which tells you immediately whether you are square. Read their escapes through your chest: a bridge arrives as a lift under your ribs, a turn as one shoulder dropping away. Answer both the same way, driving forward from the toes and settling again so no space opens under you."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "over-head",
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "Control from above the head: chest over the opponent's face and chest, arms under the shoulders gripping the belt."
+    },
+    "confusableWith": [
+      "kuzure-kami-shiho-gatame"
+    ]
   }
 }

@@ -148,5 +148,21 @@
   },
   "viNotes": {
     "en": "From the gripped-up start the pull to the toes is your entry signal, not anything seen: when the lapel-side elbow feels their weight rise, the pivot window is open. Keep both grips connected through the turn so their position stays readable through your hands; the sweeping leg finds the inside of the thigh by brushing contact up their leg, never by aiming through space."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "leg-lift",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A leg sweeps up between the opponent's thighs as the attacker rotates, lifting them over hip and leg together."
+    },
+    "confusableWith": [
+      "hane-goshi",
+      "harai-goshi",
+      "uchi-mata-makikomi"
+    ]
   }
 }

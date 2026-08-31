@@ -97,5 +97,19 @@
   },
   "viNotes": {
     "en": "You are dropping your body across the front of their feet, so make sure a partner knows it is coming when you drill it. Draw them onto their toes first, which you feel through the grips, then pull hard over your own body as you land on your side. Keep pulling through the roll and hold the sleeve, so they land in a rotation rather than a drop."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "side-drop",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker drops onto their side across the opponent's front, legs extended, and pulls them straight over their body."
+    },
+    "confusableWith": [
+      "uki-waza"
+    ]
   }
 }

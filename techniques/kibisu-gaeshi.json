@@ -85,5 +85,19 @@
   },
   "viNotes": {
     "en": "Barred in contest with every other leg grab, so this is a practice and dan-grade technique rather than a contest one. Find the heel by running your hand down the back of their leg to it instead of reaching for the floor, and let the push with the other hand leave at the same moment. Keep hold of the heel as they sit down: that grip is how you know where they have landed."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "leg-grab",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker drops, scoops the opponent's heel forward with a hand, and pushes them down over it."
+    },
+    "confusableWith": [
+      "kuchiki-taoshi"
+    ]
   }
 }

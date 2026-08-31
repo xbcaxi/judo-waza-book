@@ -79,5 +79,17 @@
   },
   "viNotes": {
     "en": "The circle is closed through your own sleeve, which makes this one of the easiest strangles to confirm by feel: fingers in your own cloth means the wheel is complete. Cradle the neck in the crook of your elbow first, then find the sleeve, then bring the other forearm across the throat. Close by drawing the elbows towards each other, slowly."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "on-top",
+    "strangleUses": "bare-arm",
+    "lock": null,
+    "cue": {
+      "en": "One hand grips inside its own opposite sleeve and both forearms close around the neck like a tightening wheel."
+    },
+    "confusableWith": []
   }
 }

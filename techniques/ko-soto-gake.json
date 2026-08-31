@@ -103,5 +103,19 @@
   },
   "viNotes": {
     "en": "One of the easiest throws to set from the gripped-up start, because all of it happens in contact: chest almost on chest, your calf behind their heel and staying there. Feel the hook seat itself against the back of the heel before you drive, and drive with your chest rather than your arms, so their weight goes back over a foot that cannot step away."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "heel-clip",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker's foot hooks the opponent's heel from the outside and holds it while they are driven straight back over it."
+    },
+    "confusableWith": [
+      "ko-soto-gari"
+    ]
   }
 }

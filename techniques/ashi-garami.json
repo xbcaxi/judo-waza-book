@@ -58,5 +58,17 @@
   "receiving": null,
   "viNotes": {
     "en": "Nothing here is practised, but the reason for the ban is worth carrying: a knee gives way without the graduated warning an elbow gives, and pressure you did not see arriving is pressure you start tapping to late. If a partner ever entangles your leg in randori and you feel load come onto the knee, tap at once rather than waiting to work out what it is."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": "leg-entangled",
+    "cue": {
+      "en": "A lock on the leg, not the arm: the opponent's leg is entangled between the attacker's."
+    },
+    "confusableWith": []
   }
 }

@@ -80,5 +80,21 @@
   },
   "viNotes": {
     "en": "You switch to this when the sweep meets resistance, and resistance is something you feel clearly through the lapel hand. Releasing that grip costs you half your information, so take the wrap straight away, sliding your arm up their arm to the shoulder, and turn as one piece rather than in two movements. Learn the winding landing with a coach beside you."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "wrap-roll",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The sweeping hip throw carried on into a winding fall, the opponent's arm wrapped as both go over together."
+    },
+    "confusableWith": [
+      "hane-makikomi",
+      "harai-goshi",
+      "soto-makikomi"
+    ]
   }
 }

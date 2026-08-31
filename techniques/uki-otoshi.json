@@ -109,5 +109,19 @@
   },
   "viNotes": {
     "en": "Nothing touches their legs, which makes this the purest hands-only throw here and a natural fit for VI judo: it is only their weight travelling past their own foot, and that is something your grips tell you exactly. Draw them into two steps and take the second one further than they expect. Keep the sleeve so the roll finishes supported."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "hands-only",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker drops to one knee and wheels the opponent forwards to the mat with barely any contact."
+    },
+    "confusableWith": [
+      "sumi-otoshi"
+    ]
   }
 }

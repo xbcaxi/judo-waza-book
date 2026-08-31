@@ -260,6 +260,142 @@
         }
       ],
       "description": "Notes for visually impaired judoka and their coaches. Null where nobody has written them yet."
+    },
+    "resolver": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "counter": {
+              "type": "boolean",
+              "description": "True when the technique answers the opponent's own attack, so the person thrown is the one who attacked first."
+            },
+            "fall": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "enum": [
+                    "forwards",
+                    "backwards",
+                    "sideways",
+                    "down"
+                  ]
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "Which way the thrown judoka falls. Null on katame-waza."
+            },
+            "mechanism": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "enum": [
+                    "hip-lift",
+                    "shoulder-carry",
+                    "leg-lift",
+                    "leg-reap",
+                    "heel-clip",
+                    "leg-block",
+                    "leg-scissor",
+                    "hands-only",
+                    "leg-grab",
+                    "wrap-roll",
+                    "foot-in-belly",
+                    "pull-over",
+                    "side-drop",
+                    "bridge"
+                  ]
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "What visibly did the work of the throw, as a spectator reads it. Null on katame-waza."
+            },
+            "groundPosition": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "enum": [
+                    "behind",
+                    "on-top",
+                    "beside-chest",
+                    "beside-head",
+                    "over-head",
+                    "underneath",
+                    "legs-wrapped"
+                  ]
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "Where the attacker is relative to the person controlled. Set on osaekomi-waza and shime-waza, null everywhere else."
+            },
+            "strangleUses": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "enum": [
+                    "collar",
+                    "bare-arm",
+                    "legs"
+                  ]
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "What the strangle is applied with. Set on shime-waza, null everywhere else."
+            },
+            "lock": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "enum": [
+                    "arm-straight-legs-across",
+                    "arm-bent",
+                    "arm-straight-body",
+                    "leg-entangled"
+                  ]
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "How the lock looks: which limb is trapped and in what shape. Set on kansetsu-waza, null everywhere else."
+            },
+            "cue": {
+              "$ref": "#/definitions/localisedText"
+            },
+            "confusableWith": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "description": "Techniques a spectator cannot tell this one from at full speed. Symmetric; empty when there are none."
+            }
+          },
+          "required": [
+            "counter",
+            "fall",
+            "mechanism",
+            "groundPosition",
+            "strangleUses",
+            "lock",
+            "cue",
+            "confusableWith"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Observable facts for the technique resolver: which way somebody fell, what did the work, where the attacker was, and the one-line cue that names it. Null where nobody has tagged the technique yet."
     }
   },
   "required": [
@@ -286,7 +422,8 @@
     "keyPoints",
     "described",
     "receiving",
-    "viNotes"
+    "viNotes",
+    "resolver"
   ],
   "additionalProperties": false,
   "definitions": {

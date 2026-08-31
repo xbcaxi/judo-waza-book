@@ -97,5 +97,19 @@
   },
   "viNotes": {
     "en": "Astride them, your seat and chest report everything, so hold by riding rather than by clamping. Wrap their arm and head together on one side and keep your head down beside theirs on that side, since that is where you will feel a turn start. Hook your feet under their thighs so a bridge lifts you instead of tipping you, then float and settle back down."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "on-top",
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker sits astride the opponent's chest and lies down onto them, controlling an arm and the head: judo's mount."
+    },
+    "confusableWith": [
+      "kuzure-tate-shiho-gatame"
+    ]
   }
 }

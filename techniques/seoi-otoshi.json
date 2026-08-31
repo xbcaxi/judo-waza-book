@@ -121,5 +121,20 @@
   },
   "viNotes": {
     "en": "You are dropping to your knees, so know where you are on the mat before you commit: the drop is fast and there is no checking the edge on the way down. The entry and its checkpoint are the shoulder throw's, chest to your back across its width. Keep the sleeve until they are down, and let it tell you when to rise."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "shoulder-carry",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A shoulder throw in which the attacker sinks low, often to one or both knees, and the opponent is drawn over by the drop."
+    },
+    "confusableWith": [
+      "ippon-seoi-nage",
+      "seoi-nage"
+    ]
   }
 }

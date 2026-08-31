@@ -176,5 +176,19 @@
   },
   "viNotes": {
     "en": "There is no back contact here, which takes away the checkpoint most turning throws give you. Use the leg instead: slide your foot out along the mat until it plants just outside their ankle, so the bar is placed by contact and the distance is known rather than guessed. Their weight loading the front foot is the cue to turn, and the throw itself is the rotation of both hands."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "leg-block",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker turns in and extends a leg across the opponent's shin; the opponent is driven over it fast and flat."
+    },
+    "confusableWith": [
+      "ashi-guruma"
+    ]
   }
 }

@@ -63,5 +63,20 @@
   },
   "viNotes": {
     "en": "Both sides of this are felt rather than seen. As tori, find the elbow by running your hands along the arm from the wrist instead of placing the leg by eye, and let the leg rest on the joint before any pressure goes into it. As uke, your cue to tap is the arm being drawn straight and clear of your body: the leg itself arrives with almost no warning, so do not wait for it."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": "arm-straight-body",
+    "cue": {
+      "en": "The armlock made with a leg: the wrist is fixed and the attacker's leg lies across the straight arm's elbow."
+    },
+    "confusableWith": [
+      "te-gatame",
+      "ude-gatame"
+    ]
   }
 }

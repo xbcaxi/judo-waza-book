@@ -66,5 +66,17 @@
   },
   "viNotes": {
     "en": "This hold keeps your weight on your own base, which leaves you less contact to read them by, so make it up elsewhere: their arm trapped between your knees, your chest across their shoulders, a hand or foot posted wide against a roll. It is also where juji-gatame is set up from, so being able to find and keep it by feel is worth the drilling."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "on-top",
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker stays up on knees and feet, pinning the opponent's upper body with chest and shoulder and controlling the near arm."
+    },
+    "confusableWith": []
   }
 }

@@ -64,5 +64,19 @@
   },
   "viNotes": {
     "en": "A partner driving in head down arrives with plenty of contact, so the clasp is easy to find: run both arms around their body above the hips until your hands meet. The risk is all in your own landing, so tuck your chin hard to your chest and take the fall along your back. Practise this one with a coach watching."
+  },
+  "resolver": {
+    "counter": true,
+    "fall": "forwards",
+    "mechanism": "pull-over",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A head-down attack is clasped around the body; the attacker falls straight backwards and throws the opponent over their own head."
+    },
+    "confusableWith": [
+      "hikikomi-gaeshi"
+    ]
   }
 }

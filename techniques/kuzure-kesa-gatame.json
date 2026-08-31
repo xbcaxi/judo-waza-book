@@ -90,5 +90,20 @@
   },
   "viNotes": {
     "en": "Threading your arm under the far shoulder gives you a contact that reports which way they are turning, which is why this version holds better than the neck wrap. Their arm pinned at your side is the second reading: when it starts to slide, the bridge is coming. Travel your hips around the compass to meet it and never let the chest lift."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "beside-head",
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The scarf hold with the arm under the opponent's shoulder instead of around the neck."
+    },
+    "confusableWith": [
+      "kesa-gatame",
+      "ushiro-kesa-gatame"
+    ]
   }
 }

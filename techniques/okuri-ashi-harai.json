@@ -98,5 +98,19 @@
   },
   "viNotes": {
     "en": "Pure rhythm, and rhythm travels through the hands better than it ever does through the eyes. Move sideways with them and count the beat through your grips until you feel both feet coming together, then sweep long and low along the mat so the ankle is found by contact. Warn uke in practice: both feet leave at once and the fall arrives quickly."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "sideways",
+    "mechanism": "heel-clip",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "Both feet are swept together sideways as they come level, usually while the opponent moves across the mat."
+    },
+    "confusableWith": [
+      "de-ashi-harai"
+    ]
   }
 }

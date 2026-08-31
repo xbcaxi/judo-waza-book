@@ -155,5 +155,23 @@
   },
   "viNotes": {
     "en": "From the gripped-up start the step in is the whole set-up, and your check is contact: chests close enough to touch means you are near enough to reap. The reaping leg finds theirs by cutting back through that contact rather than swinging through open space, with leg back and chest forward as one see-saw. Pull up on the sleeve as they land, because this fall goes straight back and uke has no preview of it."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "leg-reap",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker steps beside the opponent and a big sweep of the leg reaps their supporting leg away; they fall flat on their back."
+    },
+    "confusableWith": [
+      "o-soto-gaeshi",
+      "o-soto-gake",
+      "o-soto-guruma",
+      "o-soto-makikomi",
+      "o-soto-otoshi"
+    ]
   }
 }

@@ -58,5 +58,20 @@
   },
   "viNotes": {
     "en": "The sweep reaches you as a leg swinging back along the outside of your thigh, and that contact is the signal to drop your hips. Catch the sweeping leg by following it with your own rather than reaching for where you think it is, and pull their collar down and across the moment your legs meet. Their own turn does most of the work from there."
+  },
+  "resolver": {
+    "counter": true,
+    "fall": "backwards",
+    "mechanism": "leg-reap",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The sweeping hip throw is caught mid-turn: the sweeping leg is lifted and its maker is turned over the leg they stood on."
+    },
+    "confusableWith": [
+      "hane-goshi-gaeshi",
+      "uchi-mata-gaeshi"
+    ]
   }
 }

@@ -92,5 +92,20 @@
   },
   "viNotes": {
     "en": "The wrap is the part that needs care without sight. Slide your arm up their sleeve arm to the shoulder so you know exactly what you have trapped before you commit both of you to the mat. Say what you are drilling before you start: uke is landing too, and needs to know which side is coming."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "wrap-roll",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The springing hip entry finished as a wind: the opponent's arm and body are wrapped and both rotate to the mat together."
+    },
+    "confusableWith": [
+      "hane-goshi",
+      "harai-makikomi"
+    ]
   }
 }

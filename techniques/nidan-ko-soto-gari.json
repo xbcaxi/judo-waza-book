@@ -59,5 +59,19 @@
   },
   "viNotes": {
     "en": "The second beat depends on feeling the first one fail, which arrives through the grips as their weight moves onto the other leg. Keep the sweeping foot low and travelling across the mat so it finds the second heel by contact rather than by aim. Warn uke when you drill it: the fall comes suddenly and straight backwards after a beat in which nothing seemed to happen."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "heel-clip",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The small outside reap taken in two stages: one heel is attacked, and as the opponent saves it the same foot travels to reap the other."
+    },
+    "confusableWith": [
+      "ko-soto-gari"
+    ]
   }
 }

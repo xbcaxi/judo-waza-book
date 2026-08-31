@@ -63,5 +63,20 @@
   },
   "viNotes": {
     "en": "The simplest of the side holds to keep without sight, because there are no grips to find: your arms wrap the trunk and your chest does the work. Everything they try reads through the chest, a bridge as a lift and a turn as a roll away from you, and the answer to both is to float and settle. Slide around them with the chest contact unbroken rather than releasing and re-taking."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "beside-chest",
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "Chest pressed on chest from the side, both arms hugging around the opponent's trunk and far arm."
+    },
+    "confusableWith": [
+      "kuzure-yoko-shiho-gatame",
+      "yoko-shiho-gatame"
+    ]
   }
 }

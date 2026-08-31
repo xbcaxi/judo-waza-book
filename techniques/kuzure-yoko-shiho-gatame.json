@@ -50,5 +50,20 @@
   },
   "viNotes": {
     "en": "In live groundwork the textbook grips never settle, and this broken form is what your hands actually find. Keep chest contact as the constant and let the grips change underneath it: an arm threaded under the head, or their near arm trapped at your side, whichever is there. The chest is also how you are reading them, so it stays down while you re-grip."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "beside-chest",
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The side hold with one of its grips changed, still chest on chest at right angles."
+    },
+    "confusableWith": [
+      "mune-gatame",
+      "yoko-shiho-gatame"
+    ]
   }
 }

@@ -109,5 +109,21 @@
   },
   "viNotes": {
     "en": "From the gripped-up start there is no distance to close, so the throw is decided by whether their weight is already forward on your grips when you turn in. Set the bent leg by contact: let your calf and the back of your thigh settle along theirs, feel the fit down the whole leg, and only then spring. If the only contact is at your foot you are too shallow to lift anything."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "leg-lift",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A bent leg presses against the opponent's thigh and shin and springs them upward as the hip lifts them over."
+    },
+    "confusableWith": [
+      "hane-makikomi",
+      "harai-goshi",
+      "uchi-mata"
+    ]
   }
 }

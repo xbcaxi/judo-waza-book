@@ -93,5 +93,19 @@
   },
   "viNotes": {
     "en": "From the gripped-up start, the whole technique reads through the hands: the backward pressure, the step beside your foot, and the leg placed behind yours arrive in order with no flight time. As tori, the cue that the entry is deep enough is your hip touching your partner's; as uke, the calf contact behind your knee is the signal to prepare the rear breakfall."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "leg-reap",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker's leg is placed behind the opponent's and they are dropped straight back over it, with no reaping swing."
+    },
+    "confusableWith": [
+      "o-soto-gari"
+    ]
   }
 }

@@ -96,5 +96,19 @@
   },
   "viNotes": {
     "en": "Prohibited standing because the arm has nowhere to go and uke cannot submit in time, and that concern is sharper again when neither of you can see the arm. On the ground, take the wrist in both hands, clamp the arm along your side, and turn your trunk by the smallest amount that produces anything at all. Apply this more slowly than any other lock in judo."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": "arm-straight-body",
+    "cue": {
+      "en": "The straight arm is clamped under the attacker's armpit and levered with the whole body."
+    },
+    "confusableWith": [
+      "hara-gatame"
+    ]
   }
 }

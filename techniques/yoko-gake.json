@@ -102,5 +102,19 @@
   },
   "viNotes": {
     "en": "Your own falling weight powers the sweep, so the two happen together: a sweep first and a fall afterwards misses. Draw their weight onto the foot you mean to take, sweep along the mat to find the ankle, and let your side go down in the same instant. Both of you land, so drill it with a partner who knows it is coming."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "sideways",
+    "mechanism": "side-drop",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The opponent's ankle is swept as the attacker falls to the side, laying them out flat as both go down."
+    },
+    "confusableWith": [
+      "yoko-otoshi"
+    ]
   }
 }

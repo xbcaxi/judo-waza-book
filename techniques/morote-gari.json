@@ -76,5 +76,19 @@
   },
   "viNotes": {
     "en": "VI judo contests start gripped up, which removes the shooting entry this throw is best known for; from contact it becomes a level-change you feel through the grips as your partner's arms drop away. Defending it is mostly tactile: the instant the head drops and a shoulder touches your middle, sprawl your hips back and take the head."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "leg-grab",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "Both hands wrap behind the opponent's knees and the shoulder drives through: the double-leg takedown."
+    },
+    "confusableWith": [
+      "kuchiki-taoshi"
+    ]
   }
 }

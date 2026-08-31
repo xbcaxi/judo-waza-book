@@ -64,5 +64,17 @@
   },
   "viNotes": {
     "en": "The belt is the easiest landmark on a judogi, so this is a friendly throw to find: run your hand across their front to the far hip and feel for the knot or the seam. The posture it answers, square and heavy, is also one you can read through the grips before committing. Keep the sleeve as they turn down so you know where they have landed."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "hands-only",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A hand takes the belt at the far hip and the opponent is turned down backwards over their own feet."
+    },
+    "confusableWith": []
   }
 }

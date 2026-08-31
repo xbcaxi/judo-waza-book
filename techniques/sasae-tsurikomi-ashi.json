@@ -110,5 +110,20 @@
   },
   "viNotes": {
     "en": "Place the prop by sliding your sole up the front of their shin until it meets the ankle, so contact finds the joint rather than a guessed height. From the gripped-up start the lift is what makes the throw, and it is easy to feel: their weight comes up onto the stepping foot before the prop matters at all. The foot blocks, the hands wheel."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "leg-block",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A foot props the opponent's ankle while the hands lift and pull, and they rotate forwards over the blocked foot."
+    },
+    "confusableWith": [
+      "harai-tsurikomi-ashi",
+      "hiza-guruma"
+    ]
   }
 }

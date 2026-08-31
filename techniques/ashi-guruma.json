@@ -90,5 +90,20 @@
   },
   "viNotes": {
     "en": "From the gripped-up start the entry feels like a hip throw right up to the moment the hip contact never comes, so judge the turn by their weight rising through both grips rather than by the shape of it. Place the barring leg by sliding your shin up the outside of theirs until it meets the knee line; a leg lifted to a height you have guessed will either miss or take weight, and both spoil the wheel."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "leg-block",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A leg bars across the opponent's knee line, taking no weight, and they are wheeled over it by the hands."
+    },
+    "confusableWith": [
+      "o-guruma",
+      "tai-otoshi"
+    ]
   }
 }

@@ -153,5 +153,21 @@
   },
   "viNotes": {
     "en": "The sweep travels along the mat, which is what lets you find the heel without seeing it: keep the sole low and let it meet the foot rather than aiming at it. The moment to go is when their weight arrives on that foot, felt as pressure coming forward through both grips. Keep your own base underneath you, because a missed sweep from a lifted leg costs you your balance as well."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "heel-clip",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The sole of the foot reaps the opponent's heel from the inside as their step lands, and they fall to the rear."
+    },
+    "confusableWith": [
+      "ko-uchi-gake",
+      "ko-uchi-makikomi",
+      "o-uchi-gari"
+    ]
   }
 }

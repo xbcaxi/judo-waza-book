@@ -58,5 +58,19 @@
   },
   "viNotes": {
     "en": "You feel their sweep coming before it takes your foot, and that is the whole opportunity: curl the foot up and back so their sole passes underneath, then sweep back along the same line while their foot is still travelling. It happens in one beat, so act on the first touch rather than waiting to confirm it. Hold the sleeve firmly, because both of you are moving fast."
+  },
+  "resolver": {
+    "counter": true,
+    "fall": "sideways",
+    "mechanism": "heel-clip",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A foot sweep answered in the same beat: the attacked foot dips under the sweep and sweeps back."
+    },
+    "confusableWith": [
+      "de-ashi-harai"
+    ]
   }
 }

@@ -104,5 +104,20 @@
   },
   "viNotes": {
     "en": "Releasing the lapel for the wrap is the risky moment, so make it a slide up the outside of their arm and clamp it under your armpit where you can feel it held. From then on that arm is your only connection, so keep it until they land. Learn the rotation with a coach beside you, because you are taking the mat as well."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "wrap-roll",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The opponent's arm is wrapped from the outside and the attacker turns in and winds them over their body to the mat."
+    },
+    "confusableWith": [
+      "harai-makikomi",
+      "uchi-makikomi"
+    ]
   }
 }

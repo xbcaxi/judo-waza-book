@@ -72,5 +72,19 @@
   },
   "viNotes": {
     "en": "The reversed angle is disorienting without sight, so use a landmark: their shoulder against your hip with their arm trapped under your armpit means you are facing their feet. Read a bridge through your hip and a turn through your chest, and answer both with your legs. The weight stays down while you travel around them."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "beside-head",
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The scarf hold facing the other way: the attacker sits at the opponent's shoulder facing their feet, the arm trapped."
+    },
+    "confusableWith": [
+      "kuzure-kesa-gatame"
+    ]
   }
 }

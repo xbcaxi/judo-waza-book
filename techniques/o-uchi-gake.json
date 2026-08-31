@@ -59,5 +59,19 @@
   },
   "viNotes": {
     "en": "The hook stays, and that is the advantage: once your calf is wrapped behind their thigh you have a fixed contact and can drive with the whole body without needing to place anything else. Curl the leg in by sliding it up the inside of theirs rather than reaching for the position. Follow them down, and keep the sleeve up for their breakfall."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "leg-reap",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The leg hooks the opponent's inner thigh and stays hooked while the attacker drives them down over the trapped leg."
+    },
+    "confusableWith": [
+      "o-uchi-gari"
+    ]
   }
 }

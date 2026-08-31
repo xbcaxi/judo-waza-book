@@ -58,5 +58,19 @@
   },
   "viNotes": {
     "en": "This is the version you end up in when the entry is deep but the lift is not there, and that is a difference you feel through the grips rather than see. Clamp their arm to your shoulder before you rotate so nothing is lost on the way down. Land on your side and turn straight in to a hold."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "wrap-roll",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The inner-thigh throw finished as a wind: the arm is trapped across the shoulder and both roll through rather than the opponent being lifted clear."
+    },
+    "confusableWith": [
+      "uchi-mata"
+    ]
   }
 }

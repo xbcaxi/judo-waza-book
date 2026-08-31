@@ -77,5 +77,19 @@
   },
   "viNotes": {
     "en": "The same-side grip is the thing to get right and the easiest thing to check by touch: both hands on one side of their body, the right one high on their right lapel with the palm turned out. The throw is in the wrench of the hands rather than in the hip, so it stays readable through your grips the whole way. Their fall comes across your body, so keep the sleeve."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "leg-lift",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "From a lapel and sleeve grip on the same side, a sweeping leg and wrenching hands take the opponent over together."
+    },
+    "confusableWith": [
+      "harai-goshi"
+    ]
   }
 }

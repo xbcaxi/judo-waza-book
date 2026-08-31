@@ -58,5 +58,20 @@
   },
   "viNotes": {
     "en": "The attack announces itself before it lands: their hip turns in and a bent leg presses across the front of your thigh. Drop your weight the instant you feel the turn rather than waiting for the leg, or the spring gets underneath you. Take your own leg round the outside by tracing their calf with yours, and start the pull down on the collar as soon as your legs touch."
+  },
+  "resolver": {
+    "counter": true,
+    "fall": "backwards",
+    "mechanism": "leg-reap",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The springing hip throw is caught as it turns in: the springing leg is blocked or swept and its maker is taken over."
+    },
+    "confusableWith": [
+      "harai-goshi-gaeshi",
+      "uchi-mata-gaeshi"
+    ]
   }
 }

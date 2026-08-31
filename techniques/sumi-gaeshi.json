@@ -144,5 +144,20 @@
   },
   "viNotes": {
     "en": "Both of you are crouched and gripped, which is contact you already have, and their forward pressure is the signal to sit. Find the inside of their thigh by running your instep up the inside of their leg as you go down. Keep pulling all the way through the roll so they land rolling; from underneath, a partner who stops pulling is how a roll turns into a drop."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "pull-over",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The attacker rolls onto their back and an instep inside the opponent's thigh turns them over the corner."
+    },
+    "confusableWith": [
+      "hikikomi-gaeshi",
+      "tomoe-nage"
+    ]
   }
 }

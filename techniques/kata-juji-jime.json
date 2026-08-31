@@ -70,5 +70,20 @@
   },
   "viNotes": {
     "en": "Take the first grip deep and settle it before hunting for the second: a hand that arrives late is easier to place than one that arrives shallow. The mixed grip is the easiest of the three to set against resistance, which counts for a lot when the collar has to be found by touch. Close with the elbows rather than the fingers, and open both hands completely at the tap."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": null,
+    "mechanism": null,
+    "groundPosition": "on-top",
+    "strangleUses": "collar",
+    "lock": null,
+    "cue": {
+      "en": "A cross-collar strangle with one hand of each kind, one thumb inside and one fingers inside: the mixed grip."
+    },
+    "confusableWith": [
+      "gyaku-juji-jime",
+      "nami-juji-jime"
+    ]
   }
 }

@@ -100,5 +100,20 @@
   },
   "viNotes": {
     "en": "Releasing the lapel costs you a source of information, so replace it at once: swing your arm under their armpit by sliding it up their sleeve arm, not by reaching into space. The checkpoint before you throw is their chest against your back across its whole width; if you can only feel them at your shoulder, your hips are not yet under theirs."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "shoulder-carry",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "One arm is wrapped over the attacker's shoulder and the opponent rolls over their back on that side."
+    },
+    "confusableWith": [
+      "seoi-nage",
+      "seoi-otoshi"
+    ]
   }
 }

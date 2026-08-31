@@ -90,5 +90,19 @@
   },
   "viNotes": {
     "en": "The bar goes behind both legs, so the step has to be deep: you are deep enough when your hip passes theirs, which you feel rather than judge. Lay the leg across the backs of both thighs by drawing it back until it meets them both. Pull hard on the sleeve as they go, because this one drops them straight backwards with neither leg able to step."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "leg-reap",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "One leg bars behind both of the opponent's legs at once and they are wheeled straight backwards over it."
+    },
+    "confusableWith": [
+      "o-soto-gari"
+    ]
   }
 }

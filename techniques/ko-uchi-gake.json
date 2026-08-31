@@ -67,5 +67,19 @@
   },
   "viNotes": {
     "en": "The hook has to find the heel by contact: step in until your foot meets the inside of theirs and then wrap it, rather than reaching for a position. Once it is hooked you have a fixed point to read them from, so drive through their centre with your body and keep the hook right through the landing."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "heel-clip",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The small inside trip made with a hook: the foot stays behind the opponent's heel while the attacker drives, often dropping low."
+    },
+    "confusableWith": [
+      "ko-uchi-gari"
+    ]
   }
 }

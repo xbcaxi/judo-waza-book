@@ -119,5 +119,17 @@
   },
   "viNotes": {
     "en": "The classical form is barred in contest because the hand passes between the legs, and the shoulder version that is legal has to be taken with contact you can trust. Duck by sliding your head down their side, and reach the thigh by running your arm down their body to it rather than into open space. Stand only once their weight sits evenly across both shoulders; if it hangs to one side, put them down."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "forwards",
+    "mechanism": "shoulder-carry",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "The opponent is drawn across the attacker's shoulders in a fireman's carry and wheeled over."
+    },
+    "confusableWith": []
   }
 }

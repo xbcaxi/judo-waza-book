@@ -70,5 +70,19 @@
   },
   "viNotes": {
     "en": "Nothing touches their legs, so the whole throw is read and delivered through the hands: you are waiting for their weight to settle back onto the heel, which arrives as their pressure coming onto your grips. Step past their side and drive both hands at the corner behind them. It works well from the gripped-up start, because grips are all it ever needed."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "hands-only",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "No lift and no leg: as the opponent's weight settles on their heels they are dropped straight down into the rear corner by the hands."
+    },
+    "confusableWith": [
+      "uki-otoshi"
+    ]
   }
 }

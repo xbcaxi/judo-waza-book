@@ -100,5 +100,19 @@
   },
   "viNotes": {
     "en": "The barring leg is slid along the mat, which is the safest way to place something you cannot see: it finds the backs of their heels by contact and can never be too high. Drop onto your side close beside them with your head tucked out of their fall line. As uke, a leg arriving behind your ankles is the warning, and the fall goes straight back."
+  },
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "side-drop",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "cue": {
+      "en": "A leg slides behind the opponent's legs and the attacker sits down to the side, tipping them straight backwards over it."
+    },
+    "confusableWith": [
+      "yoko-otoshi"
+    ]
   }
 }
