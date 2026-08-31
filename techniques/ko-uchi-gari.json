@@ -161,6 +161,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The sole of the foot reaps the opponent's heel from the inside as their step lands, and they fall to the rear."
     },

@@ -31,5 +31,10 @@
       "start": 3840,
       "title": "1:04:00 Ouchi-gari to Ippon-seoi-nage"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The inside reap is pulled away from, weight comes forward, and they go over a shoulder."
+    }
+  }
 }

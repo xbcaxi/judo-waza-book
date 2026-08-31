@@ -126,6 +126,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": "arm-bent",
+    "lockPress": null,
     "cue": {
       "en": "The bent arm is wrapped in a figure-four of the attacker's arms and turned against shoulder and elbow."
     },

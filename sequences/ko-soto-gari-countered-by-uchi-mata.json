@@ -31,5 +31,10 @@
       "title": "56:57 Kosoto-gari countered by Uchi-mata",
       "start": 3417
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The clip at the heel leaves its owner on one leg, and a rising thigh lifts them over."
+    }
+  }
 }

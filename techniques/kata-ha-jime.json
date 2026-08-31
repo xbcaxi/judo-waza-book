@@ -114,6 +114,7 @@
     "groundPosition": "behind",
     "strangleUses": "collar",
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "From behind, one collar grip closes the neck while the other arm lifts the opponent's arm and slides behind their head: the single wing."
     },

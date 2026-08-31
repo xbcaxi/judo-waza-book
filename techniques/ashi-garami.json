@@ -66,6 +66,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": "leg-entangled",
+    "lockPress": null,
     "cue": {
       "en": "A lock on the leg, not the arm: the opponent's leg is entangled between the attacker's."
     },

@@ -104,6 +104,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": "arm-straight-body",
+    "lockPress": "armpit",
     "cue": {
       "en": "The straight arm is clamped under the attacker's armpit and levered with the whole body."
     },

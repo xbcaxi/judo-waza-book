@@ -31,5 +31,10 @@
       "start": 5403,
       "title": "1:30:03 Ippon-seoi-nage to Tani-otoshi"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The blocked shoulder throw becomes a sit-down drop: a leg slides behind their heels and both go back."
+    }
+  }
 }

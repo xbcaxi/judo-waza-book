@@ -31,5 +31,10 @@
       "start": 4978,
       "title": "1:22:58 De-ashi-barai to Hiza-guruma"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "A missed foot sweep, then the planted leg is wheeled over a foot blocking at the knee."
+    }
+  }
 }

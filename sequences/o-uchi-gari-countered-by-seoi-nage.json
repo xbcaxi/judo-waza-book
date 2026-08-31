@@ -31,5 +31,10 @@
       "title": "O-uchi-gari countered by Morote-seoi-nage",
       "duration": "0:19"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The reap is slipped, and its owner is spun in under the arm and carried over a shoulder."
+    }
+  }
 }

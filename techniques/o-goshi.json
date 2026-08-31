@@ -137,6 +137,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The classic hip throw: an arm around the waist, the hips through and lifting, the opponent rolled over the hip line."
     },

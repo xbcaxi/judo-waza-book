@@ -31,5 +31,10 @@
       "title": "Ko-uchi-gari into O-soto-gake",
       "duration": "0:15"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The inside flick sends them back, and the leg they plant is hooked out."
+    }
+  }
 }

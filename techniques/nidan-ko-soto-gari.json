@@ -67,6 +67,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The small outside reap taken in two stages: one heel is attacked, and as the opponent saves it the same foot travels to reap the other."
     },

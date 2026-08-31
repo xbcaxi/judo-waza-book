@@ -31,5 +31,10 @@
       "start": 4378,
       "title": "1:12:58 Kosoto-gari to De-ashi-barai"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "A clip at the heel chases them into a step, and the stepping foot is swept."
+    }
+  }
 }

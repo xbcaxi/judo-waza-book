@@ -112,6 +112,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The opponent's arm is wrapped from the outside and the attacker turns in and winds them over their body to the mat."
     },

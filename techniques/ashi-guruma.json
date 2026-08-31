@@ -98,6 +98,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "A leg bars across the opponent's knee line, taking no weight, and they are wheeled over it by the hands."
     },

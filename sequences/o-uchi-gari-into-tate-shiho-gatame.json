@@ -36,5 +36,10 @@
       "id": "535080190",
       "title": "O-Uchi-Gari into Tate-Shiho-Gatame"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The inside reap puts them flat on their back with the attacker landing astride."
+    }
+  }
 }

@@ -101,6 +101,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The attacker's leg is placed behind the opponent's and they are dropped straight back over it, with no reaping swing."
     },

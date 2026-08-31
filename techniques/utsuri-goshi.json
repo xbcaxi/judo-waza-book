@@ -86,6 +86,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "A hip attack is absorbed, the opponent lifted, the hips switched across, and they are thrown with the attacker's own hip throw."
     },

@@ -31,5 +31,10 @@
       "start": 5238,
       "title": "1:27:18 Hiza-garuma to De-ashi-barai"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "They step around the blocking foot and the stepping foot is swept mid-stride."
+    }
+  }
 }

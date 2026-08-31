@@ -38,5 +38,10 @@
       "title": "Ippon-seoi-nage into Seoi-otoshi",
       "duration": "0:17"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The stalled shoulder throw drops: the attacker sinks to the knees and pulls them over the top."
+    }
+  }
 }

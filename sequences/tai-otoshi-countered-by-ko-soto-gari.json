@@ -31,5 +31,10 @@
       "title": "Tai-otoshi countered by Ko-soto-gari",
       "duration": "0:17"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The trip is answered with a clip behind the supporting heel, and the tripper goes down backwards."
+    }
+  }
 }

@@ -36,5 +36,10 @@
       "id": "535079492",
       "title": "Tai-Otoshi into Yoko-Shiho-Gatame"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "Tripped over the straight leg onto their side, and the attacker follows down across their body."
+    }
+  }
 }

@@ -125,6 +125,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "A hip throw from a grip on both sleeves, one arm swung high across as the hips enter."
     },

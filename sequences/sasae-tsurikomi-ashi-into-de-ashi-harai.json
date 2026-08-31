@@ -23,5 +23,10 @@
   "viNotes": {
     "en": "Both attacks are ashi-waza on a moving partner, which is timing through contact rather than anything visual, but the movement itself is the part to drill with a coach calling the space. Their foot lifting over your prop is felt directly on your propping sole: that is your cue. Keep the sleeve tight so their body stays with yours while your feet do the work."
   },
-  "videos": []
+  "videos": [],
+  "resolver": {
+    "cue": {
+      "en": "They step over the propping foot and the advancing foot is swept as it travels."
+    }
+  }
 }

@@ -72,6 +72,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "From behind or beside, the opponent's body is wrapped and lifted; the attacker falls one way and throws them the other."
     },

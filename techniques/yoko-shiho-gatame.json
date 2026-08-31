@@ -105,6 +105,7 @@
     "groundPosition": "beside-chest",
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The attacker lies across the opponent at right angles, chest on chest, gripping at the collar and between the legs."
     },

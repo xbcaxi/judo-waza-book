@@ -31,5 +31,10 @@
       "title": "O-goshi into Uki-goshi",
       "duration": "0:16"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "A full hip throw that will not lift becomes a shallower turn over the hip."
+    }
+  }
 }

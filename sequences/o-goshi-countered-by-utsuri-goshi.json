@@ -23,5 +23,10 @@
   "viNotes": {
     "en": "The cue is at the belt line, which is exactly where a hip throw already has you in contact: their hips dropping under yours while your entry is only half made means the throw is now theirs. Countering, keep your chest against them through the whole change of side so you never lose where they are, and lift with your legs, not your back. Agree the drill first and add height slowly."
   },
-  "videos": []
+  "videos": [],
+  "resolver": {
+    "cue": {
+      "en": "The hip entry is absorbed from below, lifted, and set down over the defender's own hip instead."
+    }
+  }
 }

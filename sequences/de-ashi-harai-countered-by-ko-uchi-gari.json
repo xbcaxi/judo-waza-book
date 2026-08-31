@@ -31,5 +31,10 @@
       "title": "De-ashi-barai by Ko-uchi-gari",
       "duration": "0:11"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "A foot sweep misses, and the sweeper's standing leg is flicked out while their foot is still in the air."
+    }
+  }
 }

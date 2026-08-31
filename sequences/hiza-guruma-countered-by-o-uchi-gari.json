@@ -31,5 +31,10 @@
       "title": "Hiza-guruma by O-uchi-gari",
       "duration": "0:15"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The knee block is stepped past and the blocker's standing leg is reaped from the inside."
+    }
+  }
 }

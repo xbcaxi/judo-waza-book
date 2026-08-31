@@ -58,6 +58,7 @@
     "groundPosition": "beside-chest",
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The side hold with one of its grips changed, still chest on chest at right angles."
     },

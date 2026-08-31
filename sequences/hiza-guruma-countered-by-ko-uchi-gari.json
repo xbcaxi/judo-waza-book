@@ -31,5 +31,10 @@
       "start": 3306,
       "title": "55:06 Hiza-garuma countered by Kouchi-gari"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The foot blocking the knee is lifted over, and the blocker's standing heel is flicked away."
+    }
+  }
 }

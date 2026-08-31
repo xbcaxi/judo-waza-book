@@ -66,6 +66,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The inner-thigh throw is caught: the rising leg is ridden or the standing leg swept, and its maker is turned over in the direction of their own attack."
     },

@@ -108,6 +108,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "One arm is wrapped over the attacker's shoulder and the opponent rolls over their back on that side."
     },

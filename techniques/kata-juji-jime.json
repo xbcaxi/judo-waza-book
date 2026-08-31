@@ -78,6 +78,7 @@
     "groundPosition": "on-top",
     "strangleUses": "collar",
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "A cross-collar strangle with one hand of each kind, one thumb inside and one fingers inside: the mixed grip."
     },

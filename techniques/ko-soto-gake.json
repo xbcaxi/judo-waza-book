@@ -111,6 +111,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The attacker's foot hooks the opponent's heel from the outside and holds it while they are driven straight back over it."
     },

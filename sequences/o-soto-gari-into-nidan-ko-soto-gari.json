@@ -31,5 +31,10 @@
       "title": "O-soto-gari into Nidan-ko-soto-gari",
       "duration": "0:18"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The big reap misses and the attacker chases the retreating foot with a small clip."
+    }
+  }
 }

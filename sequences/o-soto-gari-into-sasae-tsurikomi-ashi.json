@@ -31,5 +31,10 @@
       "start": 4530,
       "title": "1:15:30 Osoto-gari to Sasae-tsurikomi-ashi"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "They drag the leg clear of the reap and drive forward onto a foot propped at the ankle."
+    }
+  }
 }

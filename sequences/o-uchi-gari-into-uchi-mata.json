@@ -31,5 +31,10 @@
       "start": 4152,
       "title": "1:09:12 Ouchi-gari to Uchi-mata"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The reaping leg swings back out and rises between their thighs to lift them over."
+    }
+  }
 }

@@ -87,6 +87,7 @@
     "groundPosition": "on-top",
     "strangleUses": "bare-arm",
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "One hand grips inside its own opposite sleeve and both forearms close around the neck like a tightening wheel."
     },

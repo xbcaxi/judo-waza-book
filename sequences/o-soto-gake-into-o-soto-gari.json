@@ -31,5 +31,10 @@
       "title": "O-soto-gake into O-soto-gari",
       "duration": "0:15"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The hooked leg hops free and is reaped the moment it lands."
+    }
+  }
 }

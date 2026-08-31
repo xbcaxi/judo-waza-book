@@ -45,5 +45,10 @@
       "title": "ko-uchi-gari into ippon-seoi-nage",
       "duration": "0:17"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "A flick inside the foot brings them forward, and they are spun under the arm and carried over a shoulder."
+    }
+  }
 }

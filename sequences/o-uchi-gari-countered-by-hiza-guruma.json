@@ -31,5 +31,10 @@
       "start": 3359,
       "title": "55:59 Ouchi-gari countered by Hiza-garuma"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The inside reap is caught mid-attack: a foot blocks the standing knee and its owner is wheeled over."
+    }
+  }
 }

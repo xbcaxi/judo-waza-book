@@ -115,6 +115,7 @@
     "groundPosition": "behind",
     "strangleUses": "bare-arm",
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "From behind with a bare forearm across the front of the neck: the rear naked choke."
     },

@@ -43,5 +43,10 @@
       "title": "Tai-otoshi countered by Ko-soto-gake",
       "duration": "0:12"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The extended blocking leg is hooked from behind, and the tripper drops backwards over their own block."
+    }
+  }
 }

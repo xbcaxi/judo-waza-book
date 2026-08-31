@@ -176,6 +176,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The attacker's calf reaps one leg away from the inside, between the opponent's feet, and they sit down backwards."
     },

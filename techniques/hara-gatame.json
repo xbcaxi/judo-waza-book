@@ -71,6 +71,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": "arm-straight-body",
+    "lockPress": "stomach",
     "cue": {
       "en": "The straight arm is held across the attacker's stomach and the lock comes from the turn of the body."
     },

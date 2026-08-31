@@ -89,6 +89,7 @@
     "groundPosition": "on-top",
     "strangleUses": "collar",
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "A single forearm drives the collar across the throat, anchored by one deep grip, while the body supplies the pressure."
     },

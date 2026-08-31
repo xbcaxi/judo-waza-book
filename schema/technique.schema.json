@@ -367,6 +367,24 @@
               ],
               "description": "How the lock looks: which limb is trapped and in what shape. Set on kansetsu-waza, null everywhere else."
             },
+            "lockPress": {
+              "anyOf": [
+                {
+                  "type": "string",
+                  "enum": [
+                    "knee",
+                    "leg",
+                    "armpit",
+                    "stomach",
+                    "hands"
+                  ]
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "description": "What presses on the straightened arm, as a spectator sees it. Set when lock is arm-straight-body, null everywhere else."
+            },
             "cue": {
               "$ref": "#/definitions/localisedText"
             },
@@ -386,6 +404,7 @@
             "groundPosition",
             "strangleUses",
             "lock",
+            "lockPress",
             "cue",
             "confusableWith"
           ],

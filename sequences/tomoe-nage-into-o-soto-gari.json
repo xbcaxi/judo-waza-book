@@ -31,5 +31,10 @@
       "start": 4713,
       "title": "1:18:33 Tomoe-nage to Ososto-gari"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The circle throw stalls, both stand back up, and the braced leg is reaped backwards."
+    }
+  }
 }

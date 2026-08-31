@@ -96,6 +96,7 @@
     "groundPosition": "behind",
     "strangleUses": "collar",
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "From behind, one hand slides deep into the far lapel around the neck while the other feeds the near lapel down: the sliding collar."
     },

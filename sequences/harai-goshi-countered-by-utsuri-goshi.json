@@ -23,5 +23,10 @@
   "viNotes": {
     "en": "You will know the counter has begun before you are lifted, because their waist wraps yours and your own hip loses contact with theirs. Countering, keep your chest against them right through the change of side so you never lose where they are, and lift with your legs and a straight back. Agree the drill first and add height slowly."
   },
-  "videos": []
+  "videos": [],
+  "resolver": {
+    "cue": {
+      "en": "The hip attack is absorbed, lifted, and switched onto the defender's own hip in mid-air."
+    }
+  }
 }

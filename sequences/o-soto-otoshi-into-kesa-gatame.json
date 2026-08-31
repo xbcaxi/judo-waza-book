@@ -50,5 +50,10 @@
       "title": "O-soto-otoshi into Kesa-gatame",
       "duration": "1:03"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The straight backwards drop finishes with the attacker sitting in beside their head to hold."
+    }
+  }
 }

@@ -71,6 +71,7 @@
     "groundPosition": "beside-chest",
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "Chest pressed on chest from the side, both arms hugging around the opponent's trunk and far arm."
     },

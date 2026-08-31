@@ -146,6 +146,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": "arm-straight-legs-across",
+    "lockPress": null,
     "cue": {
       "en": "The attacker lies back with both legs across the opponent's chest, the straight arm levered across the hips: the cross armlock."
     },

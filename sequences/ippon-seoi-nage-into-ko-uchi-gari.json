@@ -38,5 +38,10 @@
       "title": "Ippon-seoi-nage into Ko-uchi-gari",
       "duration": "0:18"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "They sit back against the shoulder throw and the near heel is flicked out from the inside."
+    }
+  }
 }

@@ -88,6 +88,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The sweeping hip throw carried on into a winding fall, the opponent's arm wrapped as both go over together."
     },

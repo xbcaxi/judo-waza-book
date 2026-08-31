@@ -31,5 +31,10 @@
       "title": "Tate-shiho-gatame to Juji-gatame",
       "duration": "0:27"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "A push out of the hold astride offers an arm; a leg swings over the head and the arm is pulled straight."
+    }
+  }
 }

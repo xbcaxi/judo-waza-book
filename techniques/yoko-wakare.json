@@ -105,6 +105,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The attacker drops onto their side across the opponent's front, legs extended, and pulls them straight over their body."
     },

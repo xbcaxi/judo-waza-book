@@ -110,6 +110,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The opponent's ankle is swept as the attacker falls to the side, laying them out flat as both go down."
     },

@@ -43,5 +43,10 @@
       "title": "Ko-uchi-gari into O-soto-gari",
       "duration": "0:15"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "A small flick inside the foot, then the leg it made them stand on is reaped away."
+    }
+  }
 }

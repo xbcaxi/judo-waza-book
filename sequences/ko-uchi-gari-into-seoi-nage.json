@@ -43,5 +43,10 @@
       "title": "Ko-uchi-gari into Morote-seoi-nage",
       "duration": "0:18"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The small inside flick brings them forward and low, straight onto the shoulder throw."
+    }
+  }
 }

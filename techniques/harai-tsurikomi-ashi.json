@@ -100,6 +100,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The opponent is drawn up and forward while their advancing ankle is swept away, and they pivot over the swept foot."
     },

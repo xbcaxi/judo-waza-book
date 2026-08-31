@@ -23,5 +23,10 @@
   "viNotes": {
     "en": "Their leg arriving between yours is the cue, and it comes with contact everywhere else, so this counter is entirely readable from the grips. Widen and sink first, because a counter attempted while your balance is still going is only a slower fall. Turn to face their direction before you extend the blocking leg, so it travels along their shin to the foot."
   },
-  "videos": []
+  "videos": [],
+  "resolver": {
+    "cue": {
+      "en": "The high lifting attack is blocked at its one standing foot and turned forward over a straight leg."
+    }
+  }
 }

@@ -104,6 +104,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "As the opponent attacks, the attacker thrusts a leg between theirs, drops to the side, and wheels them over in the direction of their own attack."
     },

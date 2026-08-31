@@ -118,6 +118,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "A foot props the opponent's ankle while the hands lift and pull, and they rotate forwards over the blocked foot."
     },

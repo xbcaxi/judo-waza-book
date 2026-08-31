@@ -75,6 +75,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The small inside trip made with a hook: the foot stays behind the opponent's heel while the attacker drives, often dropping low."
     },

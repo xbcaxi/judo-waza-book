@@ -31,5 +31,10 @@
       "title": "52:57 Osoto-gari countered by Osoto-gaeshi",
       "start": 3177
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The big backwards reap is answered with the same reap, and the first attacker is the one who falls."
+    }
+  }
 }

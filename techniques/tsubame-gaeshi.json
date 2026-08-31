@@ -66,6 +66,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "A foot sweep answered in the same beat: the attacked foot dips under the sweep and sweeps back."
     },

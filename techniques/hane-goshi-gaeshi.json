@@ -66,6 +66,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The springing hip throw is caught as it turns in: the springing leg is blocked or swept and its maker is taken over."
     },

@@ -39,5 +39,10 @@
       "duration": "0:17",
       "role": "one-knee (kata-hiza) finish"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The blocked shoulder throw sinks lower and they are carried across the shoulders instead."
+    }
+  }
 }

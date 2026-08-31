@@ -72,6 +72,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "A hand takes the belt at the far hip and the opponent is turned down backwards over their own feet."
     },

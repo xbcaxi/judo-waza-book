@@ -31,5 +31,10 @@
       "title": "Ippon-seoi-nage into uchi-maki-komi",
       "duration": "0:26"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The stalled shoulder throw turns into a wind, the trapped arm kept as both roll through."
+    }
+  }
 }

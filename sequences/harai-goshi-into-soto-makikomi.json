@@ -31,5 +31,10 @@
       "title": "Harai-goshi into Soto-maki-komi",
       "duration": "0:18"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The hip attack becomes a wind: the arm is wrapped and both roll over together."
+    }
+  }
 }

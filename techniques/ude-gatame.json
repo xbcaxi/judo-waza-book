@@ -95,6 +95,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": "arm-straight-body",
+    "lockPress": "hands",
     "cue": {
       "en": "The extended arm is trapped with the wrist at the attacker's shoulder and both hands press the elbow."
     },

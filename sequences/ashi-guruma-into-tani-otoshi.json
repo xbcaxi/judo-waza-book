@@ -23,5 +23,10 @@
   "viNotes": {
     "en": "The switch is a leg-to-leg conversation, so it costs a visually impaired judoka nothing. Keep your blocking leg where it is until you feel their thigh travel past it: that brush is their escape, and it is your cue to turn your chest and drop the same leg behind theirs. Because you both finish on the mat, agree the direction you are working in first and know where the edge is."
   },
-  "videos": []
+  "videos": [],
+  "resolver": {
+    "cue": {
+      "en": "A forward wheel over a straight leg that suddenly becomes a sit-down drop behind their heels."
+    }
+  }
 }

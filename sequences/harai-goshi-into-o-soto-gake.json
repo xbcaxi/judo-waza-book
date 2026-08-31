@@ -23,5 +23,10 @@
   "viNotes": {
     "en": "The whole switch happens along one leg, so keep your attacking leg in contact as it comes down: slide it past their thigh rather than lifting it clear and hunting for the hook. Their defensive weight change is felt as pressure coming back into your lapel hand, and that pressure is the cue to hook instead of sweep. Stay chest to chest so the second attack starts from contact rather than from a search."
   },
-  "videos": []
+  "videos": [],
+  "resolver": {
+    "cue": {
+      "en": "The sweeping hip attack is leant away from, and the escaping leg is hooked out backwards."
+    }
+  }
 }

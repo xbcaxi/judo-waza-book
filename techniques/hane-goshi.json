@@ -117,6 +117,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "A bent leg presses against the opponent's thigh and shin and springs them upward as the hip lifts them over."
     },

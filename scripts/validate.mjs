@@ -275,6 +275,15 @@ for (const t of techniques) {
         problems.push(`techniques/${t.name}: resolver ${field} has no meaning on ${t.data.subCategory}, so it must be null`);
       }
     }
+    /* lockPress pairs with one lock shape rather than a branch: the
+     * arm-straight-body locks are told apart by what does the pressing, and
+     * no other lock needs the field. Mirrored in the site's zod schema. */
+    const pressed = resolver.lockPress !== null && resolver.lockPress !== undefined;
+    if (resolver.lock === 'arm-straight-body' && !pressed) {
+      problems.push(`techniques/${t.name}: an arm-straight-body lock says what presses the arm; set resolver.lockPress`);
+    } else if (resolver.lock !== 'arm-straight-body' && pressed) {
+      problems.push(`techniques/${t.name}: resolver lockPress only has meaning when lock is arm-straight-body, so it must be null`);
+    }
     confusable.set(t.slug, new Set(resolver.confusableWith ?? []));
   }
   for (const [slug, lookalikes] of confusable) {
@@ -568,7 +577,7 @@ for (const k of skills) {
  * leaving the field out, and the three written-for-the-ear fields sit in the
  * same order as they do on a technique. JSON Schema enforces the field SET;
  * only code can see the ORDER. */
-const sequenceFields = ['kind', 'techniques', 'about', 'described', 'receiving', 'viNotes', 'videos'];
+const sequenceFields = ['kind', 'techniques', 'about', 'described', 'receiving', 'viNotes', 'videos', 'resolver'];
 
 /* Sequences: schema, naming, and every referenced technique must exist. */
 for (const q of sequences) {

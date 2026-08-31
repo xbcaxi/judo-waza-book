@@ -106,6 +106,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "Both feet are swept together sideways as they come level, usually while the opponent moves across the mat."
     },

@@ -31,5 +31,10 @@
       "title": "54:04 De-ashi-barai countered by Tsubame-gaeshi",
       "start": 3244
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The sweep is slipped and swept back on the same line, one quick exchange of feet."
+    }
+  }
 }

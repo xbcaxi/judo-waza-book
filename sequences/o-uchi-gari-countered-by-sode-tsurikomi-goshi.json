@@ -31,5 +31,10 @@
       "title": "O-uchi-gari countered by Sode-tsuri-komi-goshi",
       "duration": "0:17"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The reap is slipped, the reaching sleeve is carried high, and its owner goes over the hip."
+    }
+  }
 }

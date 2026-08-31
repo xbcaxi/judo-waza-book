@@ -66,6 +66,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The big outer reap is turned around: the attacker resists the pull, steps through, and reaps back with the same leg."
     },

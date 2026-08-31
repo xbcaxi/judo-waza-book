@@ -37,5 +37,10 @@
       "title": "Ippon-seoi-nage into Ko-uchi-gake",
       "duration": "0:13"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "They sit back against the shoulder throw and the near leg is hooked out from the inside."
+    }
+  }
 }

@@ -58,6 +58,7 @@
     "groundPosition": "on-top",
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "Astride the opponent but off-centre, the control varied: the mount as it looks when the opponent is fighting it."
     },

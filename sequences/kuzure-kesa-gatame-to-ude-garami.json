@@ -31,5 +31,10 @@
       "title": "Kuzure-kesa-gatame to Ude-garami",
       "duration": "0:30"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The free arm pushes out of the hold and is folded back on itself."
+    }
+  }
 }

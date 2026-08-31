@@ -31,5 +31,10 @@
       "title": "Ko-soto-gari into Mune-gatame",
       "duration": "0:25"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The heel clip drops them at the attacker's feet, who kneels straight onto their chest."
+    }
+  }
 }

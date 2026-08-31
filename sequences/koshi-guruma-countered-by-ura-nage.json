@@ -23,5 +23,10 @@
   "viNotes": {
     "en": "The counter is read at the belt line: their hips dropping below yours while your arm is still around their neck is the cue, and it arrives early. Countering, keep your chest against them all the way and lift with your legs and a straight back, and turn as you land so they arrive beside you rather than beneath you. This is a big throw both ways, so agree the drill, use the space and build it up gradually."
   },
-  "videos": []
+  "videos": [],
+  "resolver": {
+    "cue": {
+      "en": "The high hip attack is caught around the waist, and the defender arches backwards to carry them over."
+    }
+  }
 }

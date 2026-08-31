@@ -80,6 +80,7 @@
     "groundPosition": "over-head",
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The over-the-head hold with one arm controlling an arm and shoulder instead of the belt: the version contests actually produce."
     },

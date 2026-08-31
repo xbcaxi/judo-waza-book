@@ -66,6 +66,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The big outer reap finished by wrapping: the opponent's arm is trapped over the shoulder and the attacker turns and falls, rolling them over with the reap still working."
     },

@@ -23,5 +23,10 @@
   "viNotes": {
     "en": "Their foot lifting off the mat is felt directly through your sweeping foot, and that is the cue to change from a sweep to a barrier. Step across in contact, hip to hip, rather than letting go and finding the position again. Both of you finish on the mat, so agree the working direction first and know where the edge is."
   },
-  "videos": []
+  "videos": [],
+  "resolver": {
+    "cue": {
+      "en": "They lift a foot clear of the clip, and a leg bars behind them as both drop backwards."
+    }
+  }
 }

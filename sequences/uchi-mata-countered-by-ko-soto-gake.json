@@ -31,5 +31,10 @@
       "start": 3538,
       "title": "58:58 Uchi-mata countered by Kosoto-gake"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "Everything rests on the lifter's standing heel, and hooking it drops the whole attack backwards."
+    }
+  }
 }

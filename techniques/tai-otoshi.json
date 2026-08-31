@@ -184,6 +184,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The attacker turns in and extends a leg across the opponent's shin; the opponent is driven over it fast and flat."
     },

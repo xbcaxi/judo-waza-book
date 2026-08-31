@@ -74,6 +74,7 @@
     "groundPosition": "underneath",
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The reverse hold: the attacker lies across the opponent's chest facing their feet, controlling head and arm, their own back towards the mat."
     },

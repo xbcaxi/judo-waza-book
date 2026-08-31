@@ -23,5 +23,10 @@
   "viNotes": {
     "en": "Their leg against yours is the cue and their weight in your hands tells you which foot is loaded, so this counter is made entirely from contact. Lift clear and step behind you rather than fighting for the ground, then let the lapel hand load the foot before your own foot goes anywhere. Sweep along their line of travel, not into it."
   },
-  "videos": []
+  "videos": [],
+  "resolver": {
+    "cue": {
+      "en": "The inside reap is escaped, and the reaper's outside heel is clipped away while they are still turned in."
+    }
+  }
 }

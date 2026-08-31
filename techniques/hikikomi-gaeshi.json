@@ -85,6 +85,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "Against a bent-forward opponent the attacker takes the belt or arm, sits straight down, and rolls backwards, pulling them over the top."
     },

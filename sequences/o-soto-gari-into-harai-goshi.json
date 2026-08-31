@@ -31,5 +31,10 @@
       "start": 4614,
       "title": "1:16:54 Osoto-gari to Harai-goshi"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The reap is pulled clear, they surge forward, and the attacker turns in to sweep the thigh."
+    }
+  }
 }

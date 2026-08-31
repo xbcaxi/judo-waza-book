@@ -31,5 +31,10 @@
       "title": "Okuri-ashi-barai into Mune-gatame",
       "duration": "0:20"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "Both feet swept together, and the attacker kneels straight onto their chest."
+    }
+  }
 }

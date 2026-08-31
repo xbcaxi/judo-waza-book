@@ -38,5 +38,10 @@
       "title": "Hiza-guruma into Harai-goshi",
       "duration": "0:18"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The blocked wheel makes them push forward, and the attacker turns in to sweep the thigh."
+    }
+  }
 }

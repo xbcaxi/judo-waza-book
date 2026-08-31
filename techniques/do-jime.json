@@ -63,6 +63,7 @@
     "groundPosition": "legs-wrapped",
     "strangleUses": "legs",
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "Not a neck strangle at all: the legs cross around the opponent's trunk and squeeze the body."
     },

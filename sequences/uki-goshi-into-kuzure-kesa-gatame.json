@@ -43,5 +43,10 @@
       "title": "Uki-goshi into Kuzure-kesa-gatame",
       "duration": "0:30"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "Turned around the hip to land close beside the attacker, who settles straight into the hold."
+    }
+  }
 }

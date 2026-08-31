@@ -31,5 +31,10 @@
       "title": "Tai-otoshi into Uchi-mata",
       "duration": "0:17"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "They step over the blocking leg, and a leg rises into the gap they have just opened to lift them."
+    }
+  }
 }

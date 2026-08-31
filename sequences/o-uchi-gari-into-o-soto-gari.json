@@ -31,5 +31,10 @@
       "start": 4000,
       "title": "1:06:40 Ouchi-gari to Osoto-gari"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The reap inside one leg loads the other, which is reaped from the outside."
+    }
+  }
 }

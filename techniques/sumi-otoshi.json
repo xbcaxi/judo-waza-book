@@ -78,6 +78,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "No lift and no leg: as the opponent's weight settles on their heels they are dropped straight down into the rear corner by the hands."
     },

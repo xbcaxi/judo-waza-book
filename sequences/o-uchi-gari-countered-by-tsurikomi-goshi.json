@@ -43,5 +43,10 @@
       "title": "O-uchi-gari countered by Tsuri-komi-goshi",
       "duration": "0:16"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The inside reap is absorbed, and its owner, leaning forward on one leg, is lifted over the hip."
+    }
+  }
 }

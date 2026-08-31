@@ -60,6 +60,26 @@
       "items": {
         "$ref": "#/definitions/video"
       }
+    },
+    "resolver": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "cue": {
+              "$ref": "#/definitions/localisedText"
+            }
+          },
+          "required": [
+            "cue"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Observable facts for the technique resolver: the one-line cue that names the sequence to a spectator. Null where nobody has tagged the sequence yet."
     }
   },
   "required": [
@@ -69,7 +89,8 @@
     "described",
     "receiving",
     "viNotes",
-    "videos"
+    "videos",
+    "resolver"
   ],
   "additionalProperties": false,
   "definitions": {

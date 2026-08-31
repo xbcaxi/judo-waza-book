@@ -31,5 +31,10 @@
       "title": "1:28:32 Harai-goshi to Osoto-gari",
       "start": 5312
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "A hip and thigh attack forwards, then the leg they braced back on is reaped away."
+    }
+  }
 }

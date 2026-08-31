@@ -100,6 +100,7 @@
     "groundPosition": "beside-head",
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "Sitting beside the opponent with an arm around their neck, chest across chest: the scarf hold."
     },

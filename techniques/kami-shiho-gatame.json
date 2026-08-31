@@ -105,6 +105,7 @@
     "groundPosition": "over-head",
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "Control from above the head: chest over the opponent's face and chest, arms under the shoulders gripping the belt."
     },

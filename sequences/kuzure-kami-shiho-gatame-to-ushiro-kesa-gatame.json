@@ -31,5 +31,10 @@
       "title": "Kuzure-kami-shiho-gatame to Ushiro-kesa-gatame",
       "duration": "0:19"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The escape turn is followed, and the hold reappears at their shoulder facing the other way."
+    }
+  }
 }

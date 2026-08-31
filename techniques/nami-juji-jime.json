@@ -110,6 +110,7 @@
     "groundPosition": "on-top",
     "strangleUses": "collar",
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "A cross-collar strangle, arms crossed with the fingers of both hands inside the opposite collars."
     },

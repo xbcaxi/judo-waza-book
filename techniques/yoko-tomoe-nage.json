@@ -72,6 +72,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The circle throw taken falling to one side rather than straight back, the foot on the stomach steering the opponent over the diagonal."
     },

@@ -64,5 +64,10 @@
       "title": "ouchigari into kouchigari",
       "duration": "0:15"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "A reap inside one leg, then a flick inside the other as the weight moves across."
+    }
+  }
 }

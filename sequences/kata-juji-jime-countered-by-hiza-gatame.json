@@ -23,5 +23,10 @@
   "viNotes": {
     "en": "Both judoka are in continuous contact here, so nothing in this exchange depends on sight for either of you. Because the tap is the whole safety system, agree before you start how you will give it and how you will receive it: a hand tap on the body is felt, a mat tap may not be, and a voice is heard by both. Apply the pressure slowly enough that the tap always arrives first."
   },
-  "videos": []
+  "videos": [],
+  "resolver": {
+    "cue": {
+      "en": "The arm reaching in to strangle is caught and pressed straight under a knee."
+    }
+  }
 }

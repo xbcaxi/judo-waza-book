@@ -31,5 +31,10 @@
       "title": "Ko-uchi-gari into Tai-otoshi",
       "duration": "0:14"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The inside flick is stepped away from, and they are tripped forward over a straight leg."
+    }
+  }
 }

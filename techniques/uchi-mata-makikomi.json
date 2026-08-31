@@ -66,6 +66,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The inner-thigh throw finished as a wind: the arm is trapped across the shoulder and both roll through rather than the opponent being lifted clear."
     },

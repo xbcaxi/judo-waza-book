@@ -93,6 +93,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The attacker drops, scoops the opponent's heel forward with a hand, and pushes them down over it."
     },

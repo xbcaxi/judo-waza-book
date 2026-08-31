@@ -129,6 +129,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "A shoulder throw in which the attacker sinks low, often to one or both knees, and the opponent is drawn over by the drop."
     },

@@ -98,6 +98,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "One leg bars behind both of the opponent's legs at once and they are wheeled straight backwards over it."
     },

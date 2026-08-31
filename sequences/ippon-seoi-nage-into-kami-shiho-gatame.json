@@ -36,5 +36,10 @@
       "id": "535079858",
       "title": "Ippon-Seoi-Nage into Kami-Shiho-Gatame"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The shoulder throw ends with the attacker above their head, dropping straight onto the hold."
+    }
+  }
 }

@@ -71,6 +71,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": "arm-straight-body",
+    "lockPress": "leg",
     "cue": {
       "en": "The armlock made with a leg: the wrist is fixed and the attacker's leg lies across the straight arm's elbow."
     },

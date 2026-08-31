@@ -72,6 +72,7 @@
     "groundPosition": "on-top",
     "strangleUses": "collar",
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "Both fists grip the collars in front of the throat and drive together, knuckles turning in."
     },

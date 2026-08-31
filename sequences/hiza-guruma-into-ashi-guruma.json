@@ -23,5 +23,10 @@
   "viNotes": {
     "en": "Only the height of the block changes, so treat the pair as one continuous action of the hands rather than two throws. Keep your hands wheeling right through the change and let your leg travel up their body in contact, knee to thigh, so you never lose the position. Their foot lifting over your block is felt as your blocking foot going light, and that is your cue to step across."
   },
-  "videos": []
+  "videos": [],
+  "resolver": {
+    "cue": {
+      "en": "A wheel over a foot at the knee, lifted over, becomes the same wheel over a higher straight leg."
+    }
+  }
 }

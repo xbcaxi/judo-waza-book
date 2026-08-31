@@ -23,5 +23,10 @@
   "viNotes": {
     "en": "Your own legs give you the cue: if they will not straighten under their weight, stop asking for the lift and drop. Nothing changes above the waist, so the grips and the turn stay exactly as they were and the change costs you no information. Keep their arm clamped to your shoulder as you go down so their body stays where you expect it."
   },
-  "videos": []
+  "videos": [],
+  "resolver": {
+    "cue": {
+      "en": "The same shoulder entry, but the attacker drops to a knee and pulls them over instead of lifting."
+    }
+  }
 }

@@ -23,5 +23,10 @@
   "viNotes": {
     "en": "Their pull away is felt in both hands, and it is the cue to release the hook rather than to chase it. Spin in from where you are, on the ball of your foot, keeping the sleeve so their chest follows you round. The finish drops you to a knee, so the leg finds the front of their legs by sliding along the mat rather than by being placed."
   },
-  "videos": []
+  "videos": [],
+  "resolver": {
+    "cue": {
+      "en": "They pull away from the hook behind their leg, and the attacker drops under the arm to pull them over the top."
+    }
+  }
 }

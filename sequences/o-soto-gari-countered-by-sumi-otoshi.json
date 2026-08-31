@@ -31,5 +31,10 @@
       "start": 3678,
       "title": "1:01:18 Osoto-gari countered by Sumi-otoshi"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The reap arrives on one leg, is stepped clear of, and hands alone tip its owner into the rear corner."
+    }
+  }
 }

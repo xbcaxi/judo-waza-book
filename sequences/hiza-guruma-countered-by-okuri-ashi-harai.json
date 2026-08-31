@@ -31,5 +31,10 @@
       "start": 3599,
       "title": "59:59 Hiza-garuma countered by Okuri-ashi-barai"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "Sliding off the wheel puts the attacker's feet together, and both are swept sideways."
+    }
+  }
 }

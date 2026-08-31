@@ -23,5 +23,10 @@
   "viNotes": {
     "en": "The reap tells you where their weight has gone before you commit to the hook: if their right side has taken the load, the heel is where the hook belongs. Step in close so your chest stays against theirs, because a hook made at arm's length has no drive behind it. Hook and push at the same moment, foot holding the heel while the hand takes the chest away."
   },
-  "videos": []
+  "videos": [],
+  "resolver": {
+    "cue": {
+      "en": "The inside reap misses, and the far heel is hooked from outside while they are still stepping."
+    }
+  }
 }

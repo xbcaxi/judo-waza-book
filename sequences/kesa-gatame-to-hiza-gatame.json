@@ -31,5 +31,10 @@
       "title": "Kesa-gatame to Hiza-gatame",
       "duration": "0:24"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The push out of the hold offers a straight arm, and a knee comes down onto its elbow."
+    }
+  }
 }

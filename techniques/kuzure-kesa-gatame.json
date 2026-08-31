@@ -98,6 +98,7 @@
     "groundPosition": "beside-head",
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The scarf hold with the arm under the opponent's shoulder instead of around the neck."
     },

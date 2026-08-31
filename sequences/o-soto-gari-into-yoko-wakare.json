@@ -31,5 +31,10 @@
       "title": "O-soto-gari into yoko-wakare",
       "duration": "0:20"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "They lean hard into the reap, and the attacker drops sideways underneath to let them fall over."
+    }
+  }
 }

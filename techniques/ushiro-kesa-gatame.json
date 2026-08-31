@@ -80,6 +80,7 @@
     "groundPosition": "beside-head",
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The scarf hold facing the other way: the attacker sits at the opponent's shoulder facing their feet, the arm trapped."
     },

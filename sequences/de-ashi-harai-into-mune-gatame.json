@@ -36,5 +36,10 @@
       "id": "535078742",
       "title": "De-Ashi-Barai into Mune-Gatame"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The foot sweep lands them on their side and the attacker drops straight onto their chest."
+    }
+  }
 }

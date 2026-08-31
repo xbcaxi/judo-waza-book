@@ -112,6 +112,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The opponent's trunk is grasped from behind or beside; the attacker bridges backwards and throws them over their own shoulder to the rear."
     },

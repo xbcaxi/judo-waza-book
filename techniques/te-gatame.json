@@ -71,6 +71,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": "arm-straight-body",
+    "lockPress": "hands",
     "cue": {
       "en": "The armlock made with the hand: the arm is fixed down and the palm and body weight press the elbow."
     },

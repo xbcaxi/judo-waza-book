@@ -71,6 +71,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": "arm-straight-legs-across",
+    "lockPress": null,
     "cue": {
       "en": "The legs are locked in a triangle around head and arm, and the trapped elbow, not the neck, takes the pressure."
     },

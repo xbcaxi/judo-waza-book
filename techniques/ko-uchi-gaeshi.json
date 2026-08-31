@@ -66,6 +66,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "A small inside trip is answered: the attacked foot lifts clear, the attacker turns in, and the opponent is dropped backwards with the hands."
     },

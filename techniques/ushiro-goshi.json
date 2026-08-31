@@ -104,6 +104,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "A hip throw is caught mid-turn: the attacker scoops the entering hips from behind, lifts the opponent clear, and lets them fall in front."
     },

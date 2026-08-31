@@ -60,6 +60,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "The attacking leg hooks behind the opponent's leg and stays hooked, driving them down over the trap."
     },

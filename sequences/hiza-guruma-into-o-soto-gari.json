@@ -38,5 +38,10 @@
       "title": "Hiza-guruma into O-soto-gari",
       "duration": "0:19"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "Tipped forward over a blocking foot, they brace back, and the braced leg is reaped."
+    }
+  }
 }

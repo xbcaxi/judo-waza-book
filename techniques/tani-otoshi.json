@@ -108,6 +108,7 @@
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
+    "lockPress": null,
     "cue": {
       "en": "A leg slides behind the opponent's legs and the attacker sits down to the side, tipping them straight backwards over it."
     },

@@ -31,5 +31,10 @@
       "title": "Harai-goshi countered by Ushiro-goshi",
       "duration": "0:16"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The hip attack is caught from behind, lifted clean off the floor and dropped."
+    }
+  }
 }

@@ -38,5 +38,10 @@
       "title": "ko-uchi-gari countered by harai-tsuri-komi-ashi",
       "duration": "0:15"
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The attacked foot is drawn back, and the attacker's standing ankle is swept on the same beat."
+    }
+  }
 }

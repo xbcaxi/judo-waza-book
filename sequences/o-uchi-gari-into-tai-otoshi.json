@@ -30,5 +30,10 @@
       "title": "1:05:14 Ouchi-gari to Tai-otoshi",
       "start": 3914
     }
-  ]
+  ],
+  "resolver": {
+    "cue": {
+      "en": "An inside reap backwards, then they are spun forward and tripped over a straight leg."
+    }
+  }
 }
