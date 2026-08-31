@@ -1,8 +1,8 @@
 # Photography shot list: the own-image programme
 
-Generated 2026-08-31 from the technique data, for the replacement programme
-docs/licence-audit.md commits to: every third-party and unknown image replaced
-by our own photography. Two lists below: the 67 replacements first, then the
+Generated 2026-08-31 from the technique data, for the image replacement
+programme: every third-party and unknown image replaced by our own
+photography, which NOTICE.md and CONTRIBUTING.md have always asked for. Two lists below: the 67 replacements first, then the
 43 techniques that have never had an image, which are worth shooting in the
 same sessions since the pair is already on the mat.
 
@@ -243,7 +243,7 @@ sacrifices last.
 ## Not photography, listed so they are not forgotten
 
 - The 31 grading-scheme sheets (BJA pictorial guides, JudoScotland syllabus
-  sheets) are documents, not technique shots. Options per the audit: ask the
+  sheets) are documents, not technique shots. Options: ask the
   federations for permission, or retire the sheets once technique photographs
   cover what they showed.
 - The 48 MEXT page scans are a verification task, not a reshoot.
