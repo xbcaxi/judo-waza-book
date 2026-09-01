@@ -1,18 +1,20 @@
 # Inbox: links that did not fit
 
-6 links from the owner's spreadsheet remain unattached, out of 969.
+3 links from the owner's spreadsheet remain unattached, out of 969.
 
-FIVE LEFT ON 2026-09-01, when the owner asked for the non-Kodokan names to be
-covered: Te-guruma became a full entry (with the o-soto-gari counter clip as a
-sequence of its own), and Kubi-nage and both Kata-ashi-dori clips attached as
-named variations on koshi-guruma and kuchiki-taoshi. Of what stays: Daki-age
-is real and expected, but its classification (the wazaType an entry must
-state) could not be verified from the references this repository holds, so
-writing it waits on a session with web access or the owner's bookshelf;
-Hiza-soto-muso and Mae-hiza-ura-nage could not be identified from held
-sources at all. The three sequence-shaped clips wait on sequences nobody has
-written (Okuri-ashi-harai countered by Tsubame-gaeshi, Tsuri-komi-goshi
-countered by Utsuri-goshi, and a chaptered Uchi-mata-sukashi). They are
+EIGHT LEFT ON 2026-09-01, when the owner asked for the non-Kodokan names to
+be covered. Te-guruma became a full entry (with the o-soto-gari counter clip
+as a sequence of its own); Kubi-nage and both Kata-ashi-dori clips attached
+as named variations on koshi-guruma and kuchiki-taoshi; the two remaining
+counter clips became sequences (Okuri-ashi-harai and Tsuri-komi-goshi
+countered by Tsubame-gaeshi and Utsuri-goshi respectively); and the
+chaptered Uchi-mata-sukashi clip joined the sequence that already existed
+for it. What stays, and why: Daki-age is real and expected, but its
+classification (the wazaType an entry must state) could not be verified from
+the references this repository holds, so writing it waits on a session with
+web access or the owner's bookshelf; Hiza-soto-muso and Mae-hiza-ura-nage
+could not be identified from held sources at all. All three are short Akita
+clips, so a sentence from anyone who has watched them settles each. They are
 kept because each one is waiting on a decision or a piece of coverage, not
 because nobody looked at them.
 

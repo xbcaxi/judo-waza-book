@@ -1,7 +1,7 @@
 {
   "about": "Video links from the owner spreadsheet that did NOT attach to any technique, skill, sequence or grade. Held deliberately: they are the raw material for deciding what this reference is still missing. Nothing here is published on the site.",
   "source": "Judo_Techniques_and_Gradings.xlsx, provider tabs",
-  "count": 6,
+  "count": 3,
   "links": [
     {
       "provider": "akita",
@@ -35,39 +35,6 @@
       "suggestsNewTechnique": false,
       "note": "Title does not resolve to any technique, skill or sequence in the book.",
       "duration": "0:12"
-    },
-    {
-      "provider": "akita",
-      "title": "Okuri-ashi-barai by Tsubame-gaeshi",
-      "platform": "youtube",
-      "id": "q2r1EkwR9ik",
-      "url": "https://www.youtube.com/watch?v=q2r1EkwR9ik",
-      "reason": "no-match",
-      "suggestsNewTechnique": false,
-      "note": "Title does not resolve to any technique, skill or sequence in the book.",
-      "duration": "0:12"
-    },
-    {
-      "provider": "akita",
-      "title": "Tsuri-komi-goshi by Utsuri-goshi",
-      "platform": "youtube",
-      "id": "SHta4IbAU-E",
-      "url": "https://www.youtube.com/watch?v=SHta4IbAU-E",
-      "reason": "no-match",
-      "suggestsNewTechnique": false,
-      "note": "Title does not resolve to any technique, skill or sequence in the book.",
-      "duration": "0:17"
-    },
-    {
-      "provider": "mike-swain",
-      "title": "51:02 Uchi-mata countered by Sukashi",
-      "platform": "youtube",
-      "id": "_cCAytbmk3g",
-      "url": "https://www.youtube.com/watch?v=_cCAytbmk3g&t=3062s",
-      "reason": "no-match",
-      "suggestsNewTechnique": false,
-      "note": "Title does not resolve to any technique, skill or sequence in the book.",
-      "start": 3062
     }
   ]
 }

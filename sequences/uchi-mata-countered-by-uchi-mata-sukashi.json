@@ -23,7 +23,15 @@
   "viNotes": {
     "en": "The slip is timing rather than strength, which makes it a fine counter to own without sight: their leg swinging between yours is the cue, and the answer is to turn your hips out of the way rather than to brace. Keep both grips throughout, because the grips are the only thing telling you where they are once your bodies stop touching. Guide the sleeve along the line they are already turning."
   },
-  "videos": [],
+  "videos": [
+    {
+      "provider": "mike-swain",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "start": 3062,
+      "title": "51:02 Uchi-mata countered by Sukashi"
+    }
+  ],
   "resolver": {
     "cue": {
       "en": "Nothing is added: the lifting attack is stepped out of and its own turn puts the attacker down."

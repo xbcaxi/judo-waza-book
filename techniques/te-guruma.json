@@ -40,9 +40,21 @@
       "Wheel uke over your chest line and control them all the way to the mat"
     ]
   },
-  "described": null,
-  "receiving": null,
-  "viNotes": null,
+  "described": {
+    "en": [
+      "Step in close to your partner's right side, bending your knees until your hips are below theirs.",
+      "Slide your right hand, palm up, between their thighs to catch the inside of their left thigh; your left hand takes the back of their belt or the far hip.",
+      "Draw them tight to your chest and stand up through your legs, lifting them across your chest; keep your back straight and let the legs do all of it.",
+      "At the top, steer with both hands so their legs rise and their shoulders tip towards the mat in front of you.",
+      "Lower them over your chest line onto their back, controlling the descent with both hands all the way down: like sukui-nage, this is a lift and a placement, never a drop."
+    ]
+  },
+  "receiving": {
+    "en": "One hand arrives under your thigh, the other at your belt, and the floor leaves you: you are carried across your partner's chest with your feet higher than your head for a moment. Stay compact, keep your chin tucked and do not reach for the mat. A good partner lowers you onto your back; as it arrives, slap with your free arm and let your legs come down after."
+  },
+  "viNotes": {
+    "en": "Barred in contest because the lifting hand takes the leg, but drilled and examined all the same. Everything happens at full body contact, so nothing in it depends on sight: find the thigh by sliding your hand down from the hip rather than reaching for it, and feel your partner's weight settle onto your chest before you lift. Agree the landing spot first, and lower them the whole way down."
+  },
   "resolver": {
     "counter": false,
     "fall": "down",
