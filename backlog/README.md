@@ -1,6 +1,9 @@
 # Inbox: links that did not fit
 
-1 link from the owner's spreadsheet remains unattached, out of 969.
+0 links from the owner's spreadsheet remain unattached, out of 969: THE
+INBOX IS EMPTY as of 2026-09-01. The notes below are kept as the record of
+how each kind of link found its home, because the reasoning holds for
+anything similar that arrives.
 
 EIGHT LEFT ON 2026-09-01, when the owner asked for the non-Kodokan names to
 be covered. Te-guruma became a full entry (with the o-soto-gari counter clip
@@ -9,10 +12,11 @@ as named variations on koshi-guruma and kuchiki-taoshi; the two remaining
 counter clips became sequences (Okuri-ashi-harai and Tsuri-komi-goshi
 countered by Tsubame-gaeshi and Utsuri-goshi respectively); and the
 chaptered Uchi-mata-sukashi clip joined the sequence that already existed
-for it. What stays, and why: Daki-age is real and expected, but its
-classification (the wazaType an entry must state) could not be verified from
-the references this repository holds, so writing it waits on one line from
-judoinfo.com/dakiage/ or the owner's bookshelf. Hiza-soto-muso and
+for it. Daki-age was the last to leave: its classification could not be verified
+from the references this repository holds, and the owner supplied
+judoinfo.com/dakiage/'s line (recognised by the Kodokan in 1982 as a
+koshi-waza; older under the names mochi-age, idaki-age and daki-otoshi),
+which let the entry be written the same day. Hiza-soto-muso and
 Mae-hiza-ura-nage were identified by the owner on 2026-09-01 and left the
 inbox the same day: the first as a technique of its own (the outer knee
 twist-down, from sumo's soto-muso), the second as a named variation on

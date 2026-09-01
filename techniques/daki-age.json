@@ -1,0 +1,48 @@
+{
+  "nameRomaji": "Daki-age",
+  "nameJa": "抱上",
+  "nameKana": null,
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "high lift"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "koshi-waza",
+  "gokyoSet": null,
+  "kodokanNumber": null,
+  "kodokanAbbr": null,
+  "kodokan": null,
+  "banned": "in-competition",
+  "bannedNote": {
+    "en": "Prohibited in competition: lifting an opponent who is on the mat and driving them back down is a hansoku-make offence under IJF rules, so the high lift has no legal finish in contest. It remains part of the Kodokan classification and is demonstrated with a controlled lowering."
+  },
+  "videos": [
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "ToI7sxt4DnY",
+      "title": "Daki-age",
+      "duration": "0:25"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [],
+  "image": null,
+  "about": {
+    "en": "The high lift: with uke on their back, guarding between their legs, tori wraps the trunk, stands, and lifts them bodily from the mat. Neither the 1895 Gokyo nor the 1920 revision listed it; the Kodokan recognised it officially in 1982 as a koshi-waza, though the movement is far older and went by mochi-age, idaki-age and daki-otoshi in earlier days. In modern contest it has no legal ending, because driving a lifted opponent back to the mat is a serious offence, so the name is met in the rule book rather than on the scoreboard."
+  },
+  "keyPoints": {
+    "en": [
+      "Recognise it: uke is wrapped around the trunk and lifted bodily from the mat",
+      "In contest there is no legal finish; driving a lifted opponent down is hansoku-make",
+      "In practice a lifted partner is always lowered under control, never dropped"
+    ]
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "resolver": null,
+  "variations": []
+}

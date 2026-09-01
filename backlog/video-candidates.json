@@ -1,18 +1,6 @@
 {
   "about": "Video links from the owner spreadsheet that did NOT attach to any technique, skill, sequence or grade. Held deliberately: they are the raw material for deciding what this reference is still missing. Nothing here is published on the site.",
   "source": "Judo_Techniques_and_Gradings.xlsx, provider tabs",
-  "count": 1,
-  "links": [
-    {
-      "provider": "akita",
-      "title": "Daki-age",
-      "platform": "youtube",
-      "id": "ToI7sxt4DnY",
-      "url": "https://www.youtube.com/watch?v=ToI7sxt4DnY",
-      "reason": "no-match",
-      "suggestsNewTechnique": false,
-      "note": "Title does not resolve to any technique, skill or sequence in the book.",
-      "duration": "0:25"
-    }
-  ]
+  "count": 0,
+  "links": []
 }
