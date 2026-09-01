@@ -91,7 +91,9 @@
     "cue": {
       "en": "The attacker steps behind or across, scoops the legs or trunk with both arms, and throws the opponent backwards."
     },
-    "confusableWith": []
+    "confusableWith": [
+      "te-guruma"
+    ]
   },
   "variations": []
 }

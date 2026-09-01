@@ -1,0 +1,27 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "o-soto-gari",
+    "te-guruma"
+  ],
+  "about": {
+    "en": "The outer reap arrives chest to chest with the reaping leg in the air, and that leg is what the hand wheel takes: tori drops the hips, catches the raised thigh with one hand and the back with the other, and lifts the whole attack over to land flat. The filmed version runs straight on into the chest hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "l8U2XfsUyLM",
+      "title": "O-soto-gari countered by Te-guruma, leading into a (Kuzure)Mune-gatame",
+      "duration": "0:22"
+    }
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The big backwards reap is caught mid-swing: its owner is hoisted bodily and wheeled over to land flat."
+    }
+  }
+}

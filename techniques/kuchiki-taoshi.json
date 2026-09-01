@@ -94,5 +94,42 @@
       "morote-gari"
     ]
   },
-  "variations": []
+  "variations": [
+    {
+      "name": "Kata-soto-ashi-dori",
+      "aliases": [
+        "single outer leg grab"
+      ],
+      "about": {
+        "en": "The one-hand drop taken on the outside of uke's leg: the hand catches behind the knee or ankle from the outside and drives uke back over the trapped foot. A syllabus and video-library name for a form of kuchiki-taoshi; barred in competition with the rest of the leg grabs."
+      },
+      "videos": [
+        {
+          "provider": "akita",
+          "platform": "youtube",
+          "id": "Cc8SEF_EQg0",
+          "title": "Kata-soto-ashi-dori",
+          "duration": "0:23"
+        }
+      ]
+    },
+    {
+      "name": "Kata-uchi-ashi-dori",
+      "aliases": [
+        "single inner leg grab"
+      ],
+      "about": {
+        "en": "The same takedown from the inside: the hand reaches between uke's knees, catches the far side of one leg and drives them back over it. Printed by this name in the BJA Mon syllabus; barred in competition with the rest of the leg grabs."
+      },
+      "videos": [
+        {
+          "provider": "akita",
+          "platform": "youtube",
+          "id": "nKj0jdM_sjg",
+          "title": "Kata-uchi-ashi-dori",
+          "duration": "0:17"
+        }
+      ]
+    }
+  ]
 }

@@ -1,0 +1,62 @@
+{
+  "nameRomaji": "Te-guruma",
+  "nameJa": "手車",
+  "nameKana": null,
+  "aliases": [],
+  "otherNames": [],
+  "gloss": {
+    "en": "hand wheel"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": null,
+  "kodokanNumber": null,
+  "kodokanAbbr": null,
+  "kodokan": null,
+  "banned": "in-competition",
+  "bannedNote": {
+    "en": "Prohibited in competition: the lifting hand grips uke's leg, and the IJF bars any direct attack on the legs with the hands or arms. The technique is unaffected outside contest, and it appears by name in the BJA Mon syllabus this reference transcribes."
+  },
+  "videos": [
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "CTwlJf52u2g",
+      "title": "Te-guruma",
+      "duration": "0:36"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [],
+  "image": null,
+  "about": {
+    "en": "The hand wheel: tori drops the hips below uke's, one hand gripping the inner thigh and the other holding the belt or back, lifts uke bodily across the chest and wheels them over to land on their back. Before the leg-grab rules it was best known as a spectacular counter to hip and inner-thigh attacks. The Kodokan does not list it among its hundred and records actions of this shape as sukui-nage; this book keeps the te-guruma name because syllabuses, commentators and clubs use it."
+  },
+  "keyPoints": {
+    "en": [
+      "Drop your hips below uke's before you lift; the legs do the lifting, never the back",
+      "One palm under the inner thigh, the other controlling the belt or back",
+      "Wheel uke over your chest line and control them all the way to the mat"
+    ]
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "resolver": {
+    "counter": false,
+    "fall": "down",
+    "mechanism": "leg-grab",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "lockPress": null,
+    "cue": {
+      "en": "Uke is hoisted bodily, one hand under the thigh and one on the back, and wheeled over to land flat."
+    },
+    "confusableWith": [
+      "sukui-nage"
+    ]
+  },
+  "variations": []
+}

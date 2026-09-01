@@ -1752,7 +1752,8 @@
         "tomoe-nage",
         "okuri-eri-jime",
         "nami-juji-jime",
-        "gyaku-juji-jime"
+        "gyaku-juji-jime",
+        "kuchiki-taoshi"
       ],
       "syllabus": [
         {
@@ -1769,7 +1770,9 @@
             },
             {
               "text": "Kata-uchi-ashi-dori",
-              "techniques": []
+              "techniques": [
+                "kuchiki-taoshi"
+              ]
             },
             {
               "text": "Soto-kibisu-gaeshi",
@@ -2257,7 +2260,8 @@
         "sode-tsurikomi-goshi",
         "ko-uchi-gake",
         "sankaku-jime",
-        "sumi-gaeshi"
+        "sumi-gaeshi",
+        "te-guruma"
       ],
       "syllabus": [
         {
@@ -2274,7 +2278,9 @@
             },
             {
               "text": "Te-guruma",
-              "techniques": []
+              "techniques": [
+                "te-guruma"
+              ]
             },
             {
               "text": "Ko-uchi-gake-mata-maki-komi",

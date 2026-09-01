@@ -123,5 +123,24 @@
       "o-goshi"
     ]
   },
-  "variations": []
+  "variations": [
+    {
+      "name": "Kubi-nage",
+      "aliases": [
+        "neck throw"
+      ],
+      "about": {
+        "en": "The neck throw of club practice: the arm wraps the neck exactly as here, but the hips stay shallow and the throw runs over the hip corner rather than the full hip line. Widely taught as a first throw under its own name; the classification records it as koshi-guruma."
+      },
+      "videos": [
+        {
+          "provider": "akita",
+          "platform": "youtube",
+          "id": "Esqgq6JEew8",
+          "title": "Kubi-nage",
+          "duration": "0:19"
+        }
+      ]
+    }
+  ]
 }

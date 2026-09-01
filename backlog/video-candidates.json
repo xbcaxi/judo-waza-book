@@ -1,128 +1,73 @@
 {
- "about": "Video links from the owner spreadsheet that did NOT attach to any technique, skill, sequence or grade. Held deliberately: they are the raw material for deciding what this reference is still missing. Nothing here is published on the site.",
- "source": "Judo_Techniques_and_Gradings.xlsx, provider tabs",
- "count": 11,
- "links": [
-  {
-   "provider": "akita",
-   "title": "Kata-soto-ashi-dori",
-   "platform": "youtube",
-   "id": "Cc8SEF_EQg0",
-   "url": "https://www.youtube.com/watch?v=Cc8SEF_EQg0",
-   "reason": "no-match",
-   "suggestsNewTechnique": true,
-   "note": "Title does not resolve to any technique, skill or sequence in the book.",
-   "duration": "0:23"
-  },
-  {
-   "provider": "akita",
-   "title": "Kata-uchi-ashi-dori",
-   "platform": "youtube",
-   "id": "nKj0jdM_sjg",
-   "url": "https://www.youtube.com/watch?v=nKj0jdM_sjg",
-   "reason": "no-match",
-   "suggestsNewTechnique": true,
-   "note": "Title does not resolve to any technique, skill or sequence in the book.",
-   "duration": "0:17"
-  },
-  {
-   "provider": "akita",
-   "title": "Kubi-nage",
-   "platform": "youtube",
-   "id": "Esqgq6JEew8",
-   "url": "https://www.youtube.com/watch?v=Esqgq6JEew8",
-   "reason": "no-match",
-   "suggestsNewTechnique": true,
-   "note": "Title does not resolve to any technique, skill or sequence in the book.",
-   "duration": "0:19"
-  },
-  {
-   "provider": "akita",
-   "title": "Mae-hiza-ura-nage",
-   "platform": "youtube",
-   "id": "knrTFFmpqTk",
-   "url": "https://www.youtube.com/watch?v=knrTFFmpqTk",
-   "reason": "no-match",
-   "suggestsNewTechnique": true,
-   "note": "Title does not resolve to any technique, skill or sequence in the book.",
-   "duration": "0:16"
-  },
-  {
-   "provider": "akita",
-   "title": "Te-guruma",
-   "platform": "youtube",
-   "id": "CTwlJf52u2g",
-   "url": "https://www.youtube.com/watch?v=CTwlJf52u2g",
-   "reason": "no-match",
-   "suggestsNewTechnique": true,
-   "note": "Title does not resolve to any technique, skill or sequence in the book.",
-   "duration": "0:36"
-  },
-  {
-   "provider": "akita",
-   "title": "Daki-age",
-   "platform": "youtube",
-   "id": "ToI7sxt4DnY",
-   "url": "https://www.youtube.com/watch?v=ToI7sxt4DnY",
-   "reason": "no-match",
-   "suggestsNewTechnique": false,
-   "note": "Title does not resolve to any technique, skill or sequence in the book.",
-   "duration": "0:25"
-  },
-  {
-   "provider": "akita",
-   "title": "Hiza-soto-muso",
-   "platform": "youtube",
-   "id": "L_JQ_MnU6M8",
-   "url": "https://www.youtube.com/watch?v=L_JQ_MnU6M8",
-   "reason": "no-match",
-   "suggestsNewTechnique": false,
-   "note": "Title does not resolve to any technique, skill or sequence in the book.",
-   "duration": "0:12"
-  },
-  {
-   "provider": "akita",
-   "title": "O-soto-gari countered by Te-guruma, leading into a (Kuzure)Mune-gatame",
-   "platform": "youtube",
-   "id": "l8U2XfsUyLM",
-   "url": "https://www.youtube.com/watch?v=l8U2XfsUyLM",
-   "reason": "no-match",
-   "suggestsNewTechnique": false,
-   "note": "Title does not resolve to any technique, skill or sequence in the book.",
-   "duration": "0:22"
-  },
-  {
-   "provider": "akita",
-   "title": "Okuri-ashi-barai by Tsubame-gaeshi",
-   "platform": "youtube",
-   "id": "q2r1EkwR9ik",
-   "url": "https://www.youtube.com/watch?v=q2r1EkwR9ik",
-   "reason": "no-match",
-   "suggestsNewTechnique": false,
-   "note": "Title does not resolve to any technique, skill or sequence in the book.",
-   "duration": "0:12"
-  },
-  {
-   "provider": "akita",
-   "title": "Tsuri-komi-goshi by Utsuri-goshi",
-   "platform": "youtube",
-   "id": "SHta4IbAU-E",
-   "url": "https://www.youtube.com/watch?v=SHta4IbAU-E",
-   "reason": "no-match",
-   "suggestsNewTechnique": false,
-   "note": "Title does not resolve to any technique, skill or sequence in the book.",
-   "duration": "0:17"
-  },
-  {
-   "provider": "mike-swain",
-   "title": "51:02 Uchi-mata countered by Sukashi",
-   "platform": "youtube",
-   "id": "_cCAytbmk3g",
-   "url": "https://www.youtube.com/watch?v=_cCAytbmk3g&t=3062s",
-   "reason": "no-match",
-   "suggestsNewTechnique": false,
-   "note": "Title does not resolve to any technique, skill or sequence in the book.",
-   "start": 3062
-  }
- ]
+  "about": "Video links from the owner spreadsheet that did NOT attach to any technique, skill, sequence or grade. Held deliberately: they are the raw material for deciding what this reference is still missing. Nothing here is published on the site.",
+  "source": "Judo_Techniques_and_Gradings.xlsx, provider tabs",
+  "count": 6,
+  "links": [
+    {
+      "provider": "akita",
+      "title": "Mae-hiza-ura-nage",
+      "platform": "youtube",
+      "id": "knrTFFmpqTk",
+      "url": "https://www.youtube.com/watch?v=knrTFFmpqTk",
+      "reason": "no-match",
+      "suggestsNewTechnique": true,
+      "note": "Title does not resolve to any technique, skill or sequence in the book.",
+      "duration": "0:16"
+    },
+    {
+      "provider": "akita",
+      "title": "Daki-age",
+      "platform": "youtube",
+      "id": "ToI7sxt4DnY",
+      "url": "https://www.youtube.com/watch?v=ToI7sxt4DnY",
+      "reason": "no-match",
+      "suggestsNewTechnique": false,
+      "note": "Title does not resolve to any technique, skill or sequence in the book.",
+      "duration": "0:25"
+    },
+    {
+      "provider": "akita",
+      "title": "Hiza-soto-muso",
+      "platform": "youtube",
+      "id": "L_JQ_MnU6M8",
+      "url": "https://www.youtube.com/watch?v=L_JQ_MnU6M8",
+      "reason": "no-match",
+      "suggestsNewTechnique": false,
+      "note": "Title does not resolve to any technique, skill or sequence in the book.",
+      "duration": "0:12"
+    },
+    {
+      "provider": "akita",
+      "title": "Okuri-ashi-barai by Tsubame-gaeshi",
+      "platform": "youtube",
+      "id": "q2r1EkwR9ik",
+      "url": "https://www.youtube.com/watch?v=q2r1EkwR9ik",
+      "reason": "no-match",
+      "suggestsNewTechnique": false,
+      "note": "Title does not resolve to any technique, skill or sequence in the book.",
+      "duration": "0:12"
+    },
+    {
+      "provider": "akita",
+      "title": "Tsuri-komi-goshi by Utsuri-goshi",
+      "platform": "youtube",
+      "id": "SHta4IbAU-E",
+      "url": "https://www.youtube.com/watch?v=SHta4IbAU-E",
+      "reason": "no-match",
+      "suggestsNewTechnique": false,
+      "note": "Title does not resolve to any technique, skill or sequence in the book.",
+      "duration": "0:17"
+    },
+    {
+      "provider": "mike-swain",
+      "title": "51:02 Uchi-mata countered by Sukashi",
+      "platform": "youtube",
+      "id": "_cCAytbmk3g",
+      "url": "https://www.youtube.com/watch?v=_cCAytbmk3g&t=3062s",
+      "reason": "no-match",
+      "suggestsNewTechnique": false,
+      "note": "Title does not resolve to any technique, skill or sequence in the book.",
+      "start": 3062
+    }
+  ]
 }
