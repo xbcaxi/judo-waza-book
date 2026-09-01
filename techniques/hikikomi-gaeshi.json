@@ -25,6 +25,20 @@
       "duration": "0:59"
     },
     {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "uauVAfK-S0s",
+      "title": "Spinning Hikikomi-gaeshi - Demo",
+      "role": "spinning form"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "WV745XfBsgA",
+      "title": "Hikikomi-gaeshi - Demo",
+      "role": "demonstration"
+    },
+    {
       "provider": "judo-video-library",
       "platform": "youtube",
       "id": "YgOCElhRR7c",

@@ -30,6 +30,20 @@
       "duration": "1:03"
     },
     {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "3LLBrF4w86Q",
+      "title": "Kibisu-gaeshi - Demo",
+      "role": "demonstration"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "Ik5xGGoTih4",
+      "title": "Switch Side Kibisu-gaeshi - Demo",
+      "role": "switch-side form"
+    },
+    {
       "provider": "assorted",
       "platform": "youtube",
       "id": "9oA9Srf7KLk",

@@ -38,6 +38,20 @@
       "duration": "1:09"
     },
     {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "hRuTyKJChsw",
+      "title": "Kuchiki-taoshi - Demo",
+      "role": "demonstration"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "OeI7xOu0bRA",
+      "title": "Outside Kuchiki-taoshi - Demo",
+      "role": "outside form"
+    },
+    {
       "provider": "assorted",
       "platform": "youtube",
       "id": "EaBtg5zhleg",

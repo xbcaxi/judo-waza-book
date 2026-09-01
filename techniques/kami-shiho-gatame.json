@@ -56,6 +56,12 @@
       "platform": "vimeo",
       "id": "123994888",
       "title": "Kami-shiho-gatame"
+    },
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "2evEh7OBnBg",
+      "title": "Kami-shiho-gatame - Demo"
     }
   ],
   "ijfAnimation": null,
