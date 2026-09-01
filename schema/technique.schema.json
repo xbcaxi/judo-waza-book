@@ -415,6 +415,45 @@
         }
       ],
       "description": "Observable facts for the technique resolver: which way somebody fell, what did the work, where the attacker was, and the one-line cue that names it. Null where nobody has tagged the technique yet."
+    },
+    "variations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "description": "The name the variation is most often heard under."
+          },
+          "aliases": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "description": "Other names for the same form. Empty when there are none."
+          },
+          "about": {
+            "$ref": "#/definitions/localisedText"
+          },
+          "videos": {
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/video"
+            },
+            "description": "Demonstrations of this form specifically. Empty when none has been found yet."
+          }
+        },
+        "required": [
+          "name",
+          "aliases",
+          "about",
+          "videos"
+        ],
+        "additionalProperties": false
+      },
+      "description": "Named forms of the technique that contest or coaching distinguishes and the classification does not. Empty when none has been written yet."
     }
   },
   "required": [
@@ -442,7 +481,8 @@
     "described",
     "receiving",
     "viNotes",
-    "resolver"
+    "resolver",
+    "variations"
   ],
   "additionalProperties": false,
   "definitions": {

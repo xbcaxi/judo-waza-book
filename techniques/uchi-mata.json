@@ -165,5 +165,25 @@
       "harai-goshi",
       "uchi-mata-makikomi"
     ]
-  }
+  },
+  "variations": [
+    {
+      "name": "Front uchi-mata",
+      "aliases": [],
+      "about": {
+        "en": "A coaching name for where the lifting leg works: it sweeps across the front of the thigh, on the line of harai-goshi, rather than rising between the legs. The entry, the pull and the finish are unchanged, and referees score it as uchi-mata."
+      },
+      "videos": []
+    },
+    {
+      "name": "Ken-ken uchi-mata",
+      "aliases": [
+        "hopping uchi-mata"
+      ],
+      "about": {
+        "en": "Uchi-mata finished with a run of hops on the supporting leg. The first lift does not complete the throw, so tori keeps the inner thigh loaded and hops after uke's balance until they turn over. Common in contest against a strong defensive posture."
+      },
+      "videos": []
+    }
+  ]
 }

@@ -173,7 +173,7 @@ for (const t of techniques) {
 const techniqueFields = ['nameRomaji', 'nameJa', 'nameKana', 'aliases', 'otherNames', 'gloss',
   'category', 'subCategory', 'wazaType', 'gokyoSet', 'kodokanNumber', 'kodokanAbbr', 'kodokan',
   'banned', 'bannedNote', 'videos', 'ijfAnimation', 'links', 'image', 'about', 'keyPoints',
-  'described', 'receiving', 'viNotes', 'resolver'];
+  'described', 'receiving', 'viNotes', 'resolver', 'variations'];
 for (const t of techniques) {
   const keys = Object.keys(t.data);
   /* Anything missing or unexpected has already been reported by the schema;

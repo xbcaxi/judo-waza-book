@@ -132,5 +132,18 @@
       "en": "The opponent is drawn across the attacker's shoulders in a fireman's carry and wheeled over."
     },
     "confusableWith": []
-  }
+  },
+  "variations": [
+    {
+      "name": "The Laats takedown",
+      "aliases": [
+        "side takedown",
+        "drop kata-guruma"
+      ],
+      "about": {
+        "en": "The drop form thrown without touching the leg: tori drops to the side beneath uke, loads them across the shoulders from the sleeve and jacket alone, and tips them over sideways. It has been around far longer than its fame, which arrived when the IJF barred hand-on-leg attacks and this became the form of kata-guruma a contest judoka can still throw. Known in Europe by the Laats name; referees score it as kata-guruma, and some commentators loosely call it yoko-otoshi for the way it finishes."
+      },
+      "videos": []
+    }
+  ]
 }

@@ -224,5 +224,18 @@
       "ippon-seoi-nage",
       "seoi-otoshi"
     ]
-  }
+  },
+  "variations": [
+    {
+      "name": "Reverse seoi-nage",
+      "aliases": [
+        "Korean seoi-nage",
+        "gyaku seoi-nage"
+      ],
+      "about": {
+        "en": "The spin runs the other way: gripping one side of the jacket, tori turns outwards past uke's shoulder instead of inwards under it, dropping beneath the arm to throw over the back. Popularised on the international circuit by Korean athletes, and scored as seoi-nage."
+      },
+      "videos": []
+    }
+  ]
 }
