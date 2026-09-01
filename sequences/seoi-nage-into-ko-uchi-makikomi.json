@@ -1,0 +1,26 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "seoi-nage",
+    "ko-uchi-makikomi"
+  ],
+  "about": {
+    "en": "Same reaction as the reaping combination, finished by wrapping: when your partner defends the shoulder throw by sitting back, their near heel can be taken inward, and because their arm is still held from the first attack you drop through the reap rather than stand over it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [
+    {
+      "provider": "efficient-judo",
+      "platform": "youtube",
+      "id": "lmcJmIlmeMM",
+      "title": "Seoi-nage into Ko-uchi-makikomi - Combination demo"
+    }
+  ],
+  "resolver": {
+    "cue": {
+      "en": "The shoulder throw is answered by sitting back, and the near heel is reaped inward and wrapped as the attacker drops onto it."
+    }
+  }
+}
