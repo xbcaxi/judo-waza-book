@@ -120,5 +120,22 @@
       "yoko-guruma"
     ]
   },
-  "variations": []
+  "variations": [
+    {
+      "name": "Mae-hiza-ura-nage",
+      "aliases": [],
+      "about": {
+        "en": "A front-facing form of the rear throw: instead of the belly-to-belly arch from behind, tori faces uke, drives a knee forward beneath them and lifts, dumping them backwards over it. An oddity of international contest footage rather than a Kodokan form, kept under the name the video library records it by."
+      },
+      "videos": [
+        {
+          "provider": "akita",
+          "platform": "youtube",
+          "id": "knrTFFmpqTk",
+          "title": "Mae-hiza-ura-nage",
+          "duration": "0:16"
+        }
+      ]
+    }
+  ]
 }

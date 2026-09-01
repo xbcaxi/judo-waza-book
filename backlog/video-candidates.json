@@ -1,19 +1,8 @@
 {
   "about": "Video links from the owner spreadsheet that did NOT attach to any technique, skill, sequence or grade. Held deliberately: they are the raw material for deciding what this reference is still missing. Nothing here is published on the site.",
   "source": "Judo_Techniques_and_Gradings.xlsx, provider tabs",
-  "count": 3,
+  "count": 1,
   "links": [
-    {
-      "provider": "akita",
-      "title": "Mae-hiza-ura-nage",
-      "platform": "youtube",
-      "id": "knrTFFmpqTk",
-      "url": "https://www.youtube.com/watch?v=knrTFFmpqTk",
-      "reason": "no-match",
-      "suggestsNewTechnique": true,
-      "note": "Title does not resolve to any technique, skill or sequence in the book.",
-      "duration": "0:16"
-    },
     {
       "provider": "akita",
       "title": "Daki-age",
@@ -24,17 +13,6 @@
       "suggestsNewTechnique": false,
       "note": "Title does not resolve to any technique, skill or sequence in the book.",
       "duration": "0:25"
-    },
-    {
-      "provider": "akita",
-      "title": "Hiza-soto-muso",
-      "platform": "youtube",
-      "id": "L_JQ_MnU6M8",
-      "url": "https://www.youtube.com/watch?v=L_JQ_MnU6M8",
-      "reason": "no-match",
-      "suggestsNewTechnique": false,
-      "note": "Title does not resolve to any technique, skill or sequence in the book.",
-      "duration": "0:12"
     }
   ]
 }

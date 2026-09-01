@@ -1,0 +1,68 @@
+{
+  "nameRomaji": "Hiza-soto-muso",
+  "nameJa": "膝外無双",
+  "nameKana": null,
+  "aliases": [],
+  "otherNames": [
+    {
+      "name": "soto-muso",
+      "system": "sumo",
+      "note": {
+        "en": "The sumo twist-down this judo form borrows its name and shape from."
+      }
+    }
+  ],
+  "gloss": {
+    "en": "outer knee twist-down"
+  },
+  "category": "nage-waza",
+  "subCategory": "tachi-waza",
+  "wazaType": "te-waza",
+  "gokyoSet": null,
+  "kodokanNumber": null,
+  "kodokanAbbr": null,
+  "kodokan": null,
+  "banned": "in-competition",
+  "bannedNote": {
+    "en": "Prohibited in competition: the blocking hand works directly on uke's leg, and the IJF bars any attack on the legs with the hands or arms. The technique is unaffected outside contest."
+  },
+  "videos": [
+    {
+      "provider": "akita",
+      "platform": "youtube",
+      "id": "L_JQ_MnU6M8",
+      "title": "Hiza-soto-muso",
+      "duration": "0:12"
+    }
+  ],
+  "ijfAnimation": null,
+  "links": [],
+  "image": null,
+  "about": {
+    "en": "The outer knee twist-down, borrowed from sumo's soto-muso: one hand leaves its grip to press the outside of uke's knee, and the other hand and chest twist them down backwards over the blocked leg. A rarity of international contest footage rather than the Kodokan classification, documented here under the name the video libraries use."
+  },
+  "keyPoints": {
+    "en": [
+      "Break the balance to the rear corner before the hand goes to the knee",
+      "The palm blocks the outside of the knee; the block holds still while the body turns",
+      "Twist with the remaining grip and your chest, steering them down over the blocked leg"
+    ]
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "resolver": {
+    "counter": false,
+    "fall": "backwards",
+    "mechanism": "hands-only",
+    "groundPosition": null,
+    "strangleUses": null,
+    "lock": null,
+    "lockPress": null,
+    "cue": {
+      "en": "One hand drops to press the outside of the knee and the twist takes them down backwards over it."
+    },
+    "confusableWith": []
+  },
+  "variations": []
+}
