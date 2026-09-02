@@ -1,18 +1,18 @@
 {
   "name": {
-    "en": "Competitive dan grades"
+    "en": "Dan grades"
   },
   "organisation": "British Judo Association",
   "country": "GB",
   "order": 4,
   "description": {
-    "en": "The senior competitive pathway of the British Judo Association, 1st to 5th Dan, as it stands for promotions from 1 January 2026. The hundred techniques the Kodokan recognises are divided into five sets of twenty, one to a dan grade. A candidate demonstrates the whole set for the grade being taken, five techniques of their own choice from each set already passed, and then performance skills, where the technique is theirs to choose from any of the hundred: throws linked into combinations and counters, groundwork combined, escaped or entered, and standing judo carried into groundwork. Each grade below lists the techniques it can be examined on by name, which is its own twenty and every set beneath it; the performance sections range over all hundred. The examination itself, with its marks and pass marks, is in the examinations section, one form per grade. Judo that is graded on a technical rather than competitive pathway reaches the same grades by a different examination. The BJA recently replaced their 1982 scheme, built on 67 techniques, to teach the wider Kodokan curriculum and to bring its dan grade policy into line with IJF policy."
+    "en": "The senior grades of the British Judo Association, 1st to 5th Dan, as they stand for promotions from 1 January 2026. Two routes reach them, competitive and technical, and the syllabus below is common to both: the routes differ in the paper that examines a candidate and in what they must have done to be eligible, not in the techniques they have to be able to do. The hundred techniques the Kodokan recognises are divided into five sets of twenty, one to a dan grade. A candidate demonstrates the whole set for the grade being taken, five techniques of their own choice from each set already passed, and then performance skills, where the technique is theirs to choose from any of the hundred: throws linked into combinations and counters, groundwork combined, escaped or entered, and standing judo carried into groundwork. Each grade below lists the techniques it can be examined on by name, which is its own twenty and every set beneath it; the performance sections range over all hundred. Both papers, with their marks and pass marks, are in the examinations section, one per grade per route. The BJA recently replaced their 1982 scheme, built on 67 techniques, to teach the wider Kodokan curriculum and to bring its dan grade policy into line with IJF policy."
   },
   "source": {
     "title": "BJA Competitive Dan Grade Scheme: Assessment Guide, mark sheets, kata requirements and promotion requirements",
     "date": "October 2025",
     "note": {
-      "en": "Transcribed from the BJA dan grade documents. The scheme governs promotions from 1 January 2026, after a transition period that began on 1 July 2025. Ages, times in grade and competition points are the competitive pathway's; the technical pathway sets its own. Kata is examined separately from the skills assessment and need not be taken on the same day."
+      "en": "Transcribed from the BJA dan grade documents. The scheme governs promotions from 1 January 2026, after a transition period that began on 1 July 2025. The technique sets are common to both routes: the technical mark sheets in the examinations section name the same twenty per grade as the competitive ones. Ages, times in grade and competition points are the competitive pathway's; the technical pathway sets its own. Kata is examined separately from the skills assessment and need not be taken on the same day."
     }
   },
   "grades": [
