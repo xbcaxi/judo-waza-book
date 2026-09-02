@@ -722,6 +722,27 @@ for (const e of exams) {
   }
 }
 
+/* A route id is a grouping key within one federation, and its label is what a
+ * reader is shown for the whole group. Two papers agreeing on the id and
+ * disagreeing on the label would put one wording on a group whose other
+ * members were transcribed with another, and the site would show whichever it
+ * met first. Nothing else compares them, so it is compared here. */
+{
+  const labels = new Map();
+  for (const e of exams) {
+    const route = e.data.route;
+    if (!route) continue;
+    const key = `${e.data.organisation} ${route.id}`;
+    const label = route.label?.en;
+    const seen = labels.get(key);
+    if (seen === undefined) labels.set(key, { label, from: e.name });
+    else if (seen.label !== label) {
+      problems.push(`exams/${e.name}: route "${route.id}" is labelled "${label}" here and `
+        + `"${seen.label}" in exams/${seen.from}; one federation's route has one label`);
+    }
+  }
+}
+
 /* 3: schemes and cross-file integrity. */
 for (const s of schemes) {
   if (!validateScheme(s.data)) report(`grading-schemes/${s.name}`, validateScheme);

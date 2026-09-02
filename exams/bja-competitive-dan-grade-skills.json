@@ -4,6 +4,12 @@
   },
   "organisation": "British Judo Association",
   "country": "GB",
+  "route": {
+    "id": "dan-competitive",
+    "label": {
+      "en": "Dan Competitive"
+    }
+  },
   "summary": {
     "en": "The BJA's technical examination for promotion to 1st to 5th Dan: single techniques from the British Judo Gokyo, continuation and combination techniques, counters, groundwork chains and escapes, and kata, marked out of ten per technique with pass marks rising by grade."
   },

@@ -4,6 +4,12 @@
   },
   "organisation": "British Judo Association",
   "country": "GB",
+  "route": {
+    "id": "dan-competitive",
+    "label": {
+      "en": "Dan Competitive"
+    }
+  },
   "summary": {
     "en": "The BJA's competitive dan grade assessment for 2nd Dan has five sections. Candidates demonstrate the twenty Kodokan fundamental skills set for the grade and five more from each preceding grade, then choose their own techniques for the performance sections: throws linked into combinations and counters, groundwork combined, escaped or entered, and standing judo carried into groundwork. Each demonstration is scored from 0 to 10; the pass mark is 326 of 450, 72.5 per cent."
   },

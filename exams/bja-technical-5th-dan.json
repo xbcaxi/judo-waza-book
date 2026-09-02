@@ -4,6 +4,12 @@
   },
   "organisation": "British Judo Association",
   "country": "GB",
+  "route": {
+    "id": "dan-technical",
+    "label": {
+      "en": "Dan Technical"
+    }
+  },
   "summary": {
     "en": "The BJA technical route to 5th Dan: twenty set techniques in their traditional form, prior learning chosen by the examiner, and performance skills in combination, counter and transition. Every section is passed at 80 per cent."
   },
