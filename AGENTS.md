@@ -96,7 +96,22 @@ Original artwork is welcome and is the most useful contribution here. See
 
 ## Branching
 
-Work on `feature/<slug>` or `fix/<slug>`, never straight on `main`.
+EVERY change happens on a branch, never straight on `main`. That includes a
+one-word typo, a single field, and anything you were about to decide was too
+small to be worth branching for. There is no size below which this stops
+applying.
+
+Three names, and nothing else:
+
+- `feature/<slug>` for new content or a new capability.
+- `fix/<slug>` for a correction to something already here.
+- `claude/<slug>` for work an assistant started, which is what Claude Code
+  names its own branches. It was not listed here until September 2026 and the
+  branches were arriving anyway.
+
+Push the branch rather than leaving it local. A branch that exists on one
+machine is a branch nobody else can see, which defeats both reasons for the
+rule.
 
 Some changes here need a matching change in the private site repository, schema
 changes among them. Open the content half and it will be paired up before it
