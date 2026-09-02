@@ -2,6 +2,9 @@
   "nameRomaji": "Ko-uchi-gari",
   "nameJa": "小内刈",
   "nameKana": "こうちがり",
+  "phonetic": {
+    "en": "KOH OO-chee GAH-ree"
+  },
   "aliases": [
     "Kouchi-gari"
   ],

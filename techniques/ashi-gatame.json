@@ -2,6 +2,9 @@
   "nameRomaji": "Ashi-gatame",
   "nameJa": "足固",
   "nameKana": "あしがため",
+  "phonetic": {
+    "en": "AH-shee gah-TAH-meh"
+  },
   "aliases": [
     "Ude-hishigi-ashi-gatame"
   ],

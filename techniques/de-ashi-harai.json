@@ -2,6 +2,9 @@
   "nameRomaji": "De-ashi-harai",
   "nameJa": "出足払",
   "nameKana": "であしはらい",
+  "phonetic": {
+    "en": "deh-AH-shee hah-RYE"
+  },
   "aliases": [
     "De-ashi-barai"
   ],

@@ -2,6 +2,9 @@
   "nameRomaji": "O-soto-otoshi",
   "nameJa": "大外落",
   "nameKana": "おおそとおとし",
+  "phonetic": {
+    "en": "OH SOH-toh oh-TOH-shee"
+  },
   "aliases": [
     "Osoto-otoshi"
   ],

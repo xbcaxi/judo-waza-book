@@ -2,6 +2,9 @@
   "nameRomaji": "Kata-ha-jime",
   "nameJa": "片羽絞",
   "nameKana": "かたはじめ",
+  "phonetic": {
+    "en": "kah-TAH HAH JEE-meh"
+  },
   "aliases": [
     "Kataha-jime"
   ],

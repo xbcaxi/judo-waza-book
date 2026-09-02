@@ -2,6 +2,9 @@
   "nameRomaji": "O-soto-gari",
   "nameJa": "大外刈",
   "nameKana": "おおそとがり",
+  "phonetic": {
+    "en": "OH SOH-toh GAH-ree"
+  },
   "aliases": [
     "Osoto-gari"
   ],

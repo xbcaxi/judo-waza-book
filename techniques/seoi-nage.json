@@ -2,6 +2,9 @@
   "nameRomaji": "Seoi-nage",
   "nameJa": "背負投",
   "nameKana": "せおいなげ",
+  "phonetic": {
+    "en": "seh-OY NAH-geh"
+  },
   "aliases": [
     "Morote-seoi-nage"
   ],

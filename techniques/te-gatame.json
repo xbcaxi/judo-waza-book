@@ -2,6 +2,9 @@
   "nameRomaji": "Te-gatame",
   "nameJa": "手固",
   "nameKana": "てがため",
+  "phonetic": {
+    "en": "TEH gah-TAH-meh"
+  },
   "aliases": [
     "Ude-hishigi-te-gatame"
   ],

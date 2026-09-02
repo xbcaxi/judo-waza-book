@@ -2,6 +2,9 @@
   "nameRomaji": "O-uchi-gari",
   "nameJa": "大内刈",
   "nameKana": "おおうちがり",
+  "phonetic": {
+    "en": "OH OO-chee GAH-ree"
+  },
   "aliases": [
     "Ouchi-gari"
   ],

@@ -2,6 +2,9 @@
   "nameRomaji": "Soto-makikomi",
   "nameJa": "外巻込",
   "nameKana": "そとまきこみ",
+  "phonetic": {
+    "en": "SOH-toh mah-kee-KOH-mee"
+  },
   "aliases": [
     "Soto-maki-komi"
   ],

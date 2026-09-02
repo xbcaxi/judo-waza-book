@@ -2,6 +2,9 @@
   "nameRomaji": "Obi-otoshi",
   "nameJa": "帯落",
   "nameKana": "おびおとし",
+  "phonetic": {
+    "en": "OH-bee oh-TOH-shee"
+  },
   "aliases": [],
   "otherNames": [],
   "gloss": {

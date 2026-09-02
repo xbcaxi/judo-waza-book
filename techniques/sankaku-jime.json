@@ -2,6 +2,9 @@
   "nameRomaji": "Sankaku-jime",
   "nameJa": "三角絞",
   "nameKana": "さんかくじめ",
+  "phonetic": {
+    "en": "sahn-KAH-koo JEE-meh"
+  },
   "aliases": [
     "Sangaku-jime"
   ],

@@ -2,6 +2,9 @@
   "nameRomaji": "Hara-gatame",
   "nameJa": "腹固",
   "nameKana": "はらがため",
+  "phonetic": {
+    "en": "HAH-rah gah-TAH-meh"
+  },
   "aliases": [
     "Ude-hishigi-hara-gatame"
   ],

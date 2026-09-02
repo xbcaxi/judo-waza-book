@@ -2,6 +2,9 @@
   "nameRomaji": "Kata-guruma",
   "nameJa": "肩車",
   "nameKana": "かたぐるま",
+  "phonetic": {
+    "en": "kah-TAH goo-ROO-mah"
+  },
   "aliases": [],
   "otherNames": [
     {

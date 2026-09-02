@@ -2,6 +2,9 @@
   "nameRomaji": "Kani-basami",
   "nameJa": "蟹挟",
   "nameKana": "かにばさみ",
+  "phonetic": {
+    "en": "KAH-nee bah-SAH-mee"
+  },
   "aliases": [
     "Kani-hasami"
   ],
