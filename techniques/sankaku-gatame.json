@@ -24,6 +24,16 @@
   },
   "banned": "no",
   "bannedNote": null,
+  "contest": {
+    "status": "conditional",
+    "note": {
+      "en": "The hold is legal on the ground. A kata-sankaku that blocks uke's body with both legs, or pressure onto the neck or spinal vertebrae from behind, is a direct hansoku-make."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.2.2"
+    ]
+  },
   "videos": [
     {
       "provider": "kodokan",

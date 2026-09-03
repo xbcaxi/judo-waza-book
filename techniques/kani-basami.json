@@ -28,6 +28,16 @@
   "bannedNote": {
     "en": "Prohibited in competition since the 1980s after serious knee and leg injuries to receivers; attempting it in shiai is direct hansoku-make. It remains part of judo's historical canon and study."
   },
+  "contest": {
+    "status": "prohibited",
+    "note": {
+      "en": "Named in the rules as a direct hansoku-make, so attempting it ends the contest against the judoka who tried."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.2.2"
+    ]
+  },
   "videos": [
     {
       "provider": "kodokan",

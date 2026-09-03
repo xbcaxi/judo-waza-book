@@ -26,6 +26,17 @@
   "bannedNote": {
     "en": "Penalised in competition in its classical form, where tori's hand passes between uke's legs: current IJF rules give a shido for the hand reaching the leg. The version that takes uke across the shoulders without touching the legs is thrown in contest today, so what is penalised is the form rather than the technique. The BJA sets kata-guruma as a 4th Dan fundamental skill."
   },
+  "contest": {
+    "status": "conditional",
+    "note": {
+      "en": "Two rules meet here. The classical form, where the hand passes between uke's legs, draws a shido for the hand reaching the leg, while the version taken across the shoulders without touching the legs is thrown in contest and scores. Diving forward onto the head to complete either form is a direct hansoku-make."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2",
+      "18.2.1"
+    ]
+  },
   "videos": [
     {
       "provider": "kodokan",

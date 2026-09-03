@@ -19,6 +19,16 @@
   "kodokan": null,
   "banned": "no",
   "bannedNote": null,
+  "contest": {
+    "status": "conditional",
+    "note": {
+      "en": "The throw is legal and scores. Bending forward and downward onto the head to drive it through is a direct hansoku-make; the penalty is for the dive rather than for the throw."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.2.1"
+    ]
+  },
   "videos": [
     {
       "provider": "kodokan",

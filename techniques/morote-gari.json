@@ -30,6 +30,16 @@
   "bannedNote": {
     "en": "Penalised in competition: current IJF rules answer any grip, block or push on the leg with the hand or arm with a shido, and taking both legs at once is the plainest case of it. Nothing restricts the technique outside contest, and the BJA sets it as a 5th Dan fundamental skill."
   },
+  "contest": {
+    "status": "penalised",
+    "note": {
+      "en": "Taking both legs with the hands draws a shido. Nothing about the throw itself is barred; it is the hands reaching the legs that the rule answers."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2"
+    ]
+  },
   "videos": [
     {
       "provider": "kodokan",

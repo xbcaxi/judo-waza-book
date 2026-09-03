@@ -29,6 +29,16 @@
   "bannedNote": {
     "en": "Prohibited in competition and free practice: the knee can give way before there is time to submit, which is why judo restricts joint locks to the elbow."
   },
+  "contest": {
+    "status": "prohibited",
+    "note": {
+      "en": "A direct hansoku-make. The rulebook governs contest only; this book's wider caution against applying it at all is a safety judgement of its own."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.2.2"
+    ]
+  },
   "videos": [
     {
       "provider": "kodokan",

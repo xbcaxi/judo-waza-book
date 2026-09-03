@@ -21,6 +21,16 @@
   "bannedNote": {
     "en": "Penalised in competition: the lifting hand grips the inner thigh, and current IJF rules give a shido for touching the leg below the top of the inner thigh. Grips on the jacket and under the belt down to that line are allowed. The technique appears by name in the BJA Mon syllabus this reference transcribes."
   },
+  "contest": {
+    "status": "penalised",
+    "note": {
+      "en": "The lifting hand at the inner thigh draws a shido. The rule allows grips on the jacket and under the belt down to the top of the inner thigh, and penalises the leg below that line."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2"
+    ]
+  },
   "videos": [
     {
       "provider": "akita",

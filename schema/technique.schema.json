@@ -192,6 +192,17 @@
       ],
       "description": "What the prohibition is and why. Required whenever banned is not \"no\", null otherwise."
     },
+    "contest": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/contestRule"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "What a referee does about the technique under the rulebook cited, and which articles say so. Null where no rule singles the technique out. banned answers whether judo applies the technique at all; this answers what competition rules cost."
+    },
     "videos": {
       "type": "array",
       "items": {
@@ -479,6 +490,7 @@
     "kodokan",
     "banned",
     "bannedNote",
+    "contest",
     "videos",
     "ijfAnimation",
     "links",
@@ -572,6 +584,49 @@
         "id",
         "title"
       ]
+    },
+    "contestRule": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "penalised",
+            "prohibited",
+            "conditional"
+          ],
+          "description": "\"penalised\" where applying the technique draws a shido; \"prohibited\" where it draws a direct hansoku-make; \"conditional\" where what the referee gives depends on the form, the position or the age group, and note says how."
+        },
+        "note": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/localisedText"
+            }
+          ],
+          "description": "The rule in this book's own words. Never a transcription of the rulebook."
+        },
+        "sourceId": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$",
+          "description": "The reference/ record for the rulebook and edition this comes from, so a later edition can be told from the one used."
+        },
+        "articles": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "description": "The articles of that rulebook the note paraphrases, in the rulebook's own numbering."
+        }
+      },
+      "required": [
+        "status",
+        "note",
+        "sourceId",
+        "articles"
+      ],
+      "additionalProperties": false
     },
     "linkRef": {
       "type": "object",

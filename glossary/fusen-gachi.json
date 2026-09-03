@@ -1,0 +1,12 @@
+{
+  "term": "Fusen-gachi",
+  "kanji": "不戦勝",
+  "kana": "ふせんがち",
+  "category": "scoring",
+  "meaning": {
+    "en": "Win by default, given when the other contestant does not appear for the contest."
+  },
+  "guides": [
+    "competition-rules-basics"
+  ]
+}

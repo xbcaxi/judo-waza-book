@@ -21,6 +21,17 @@
   "kodokan": null,
   "banned": "no",
   "bannedNote": null,
+  "contest": {
+    "status": "conditional",
+    "note": {
+      "en": "The throw is legal and scores. Diving forward onto the head to force it through is a direct hansoku-make, and the rule names seoi-nage without separating its forms. In cadet events only, a reverse seoi-nage scores nothing and the thrower is given a shido, and cadets may not throw or defend with the head."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.4",
+      "18.2.1"
+    ]
+  },
   "videos": [
     {
       "provider": "kodokan",

@@ -32,6 +32,16 @@
   "bannedNote": {
     "en": "Penalised in competition: catching the leg with the hand draws a shido under current IJF rules. The grip becomes legal once both judoka are clearly in ne-waza and the standing exchange has stopped. It is taught and examined as normal, and the BJA sets it as a 4th Dan fundamental skill."
   },
+  "contest": {
+    "status": "penalised",
+    "note": {
+      "en": "Catching the leg with the hand draws a shido while both judoka are standing. Once they are clearly in ne-waza and the standing exchange has stopped, the same grip is legal."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2"
+    ]
+  },
   "videos": [
     {
       "provider": "kodokan",

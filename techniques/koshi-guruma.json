@@ -24,6 +24,7 @@
   "kodokan": null,
   "banned": "no",
   "bannedNote": null,
+  "contest": null,
   "videos": [
     {
       "provider": "kodokan",

@@ -1,0 +1,65 @@
+{
+  "sourceId": "ijf-sor-2026",
+  "titleEn": "Sport and Organisation Rules of the International Judo Federation: refereeing rules",
+  "publisherEn": "International Judo Federation (IJF)",
+  "edition": "2026",
+  "effectiveFrom": "2026-01-01",
+  "landingPage": null,
+  "readOn": "2026-09-03",
+  "readFrom": "Explanatory_Guide_Judo_Referee-2026.pdf, the IJF's published explanatory guide carrying section D1.1 and Articles 1 to 21 of the refereeing rules",
+  "rights": "Copyright in the rulebook is the International Judo Federation's. Nothing from it is transcribed here. Every technique that cites it carries a paraphrase written for this book and the article number the paraphrase came from, so a reader can check the claim against the IJF's own copy.",
+  "note": {
+    "en": "The refereeing rules change with the Olympic cycle, and a rule written down without its edition goes wrong quietly. Techniques cite this record by sourceId and article number rather than repeating the rulebook's name, so the next edition is one file to replace."
+  },
+  "articlesCited": [
+    {
+      "article": "14",
+      "titleEn": "Ippon",
+      "note": {
+        "en": "The four criteria for ippon, and the rule that a voluntary bridge after being thrown scores ippon against the judoka who bridges."
+      }
+    },
+    {
+      "article": "15",
+      "titleEn": "Waza-ari and Yuko",
+      "note": {
+        "en": "What each score is given for, standing and on the ground."
+      }
+    },
+    {
+      "article": "17",
+      "titleEn": "Osaekomi-waza",
+      "note": {
+        "en": "When a hold-down counts, and the rule that it is never valid around the head and neck alone without control of at least one arm."
+      }
+    },
+    {
+      "article": "18.1.2",
+      "titleEn": "Shido for an Illegal Move",
+      "note": {
+        "en": "The leg grabs, the gripping restrictions, and standing joint locks and strangles at the lower degree of risk."
+      }
+    },
+    {
+      "article": "18.1.4",
+      "titleEn": "Penalties (Shido) in Cadet Competitions",
+      "note": {
+        "en": "Throwing or defending with the head, and reverse seoi-nage, in cadet events only."
+      }
+    },
+    {
+      "article": "18.2.1",
+      "titleEn": "Hansoku-make for Dangerous Techniques",
+      "note": {
+        "en": "Diving forward onto the head while throwing."
+      }
+    },
+    {
+      "article": "18.2.2",
+      "titleEn": "Hansoku-make for Acts against the Spirit of Judo",
+      "note": {
+        "en": "The techniques given a direct hansoku-make by name, the sankaku restrictions, and lifting an opponent off the mat to force them back down."
+      }
+    }
+  ]
+}

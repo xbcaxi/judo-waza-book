@@ -21,6 +21,16 @@
   "bannedNote": {
     "en": "Penalised in competition in its classical form, which scoops uke's legs from behind: current IJF rules give a shido for taking the legs with the hands or arms. What is penalised is the contact with the legs rather than the throw. Nothing changes outside contest, and the BJA sets it as a 5th Dan fundamental skill."
   },
+  "contest": {
+    "status": "penalised",
+    "note": {
+      "en": "Scooping the legs with the arms draws a shido. The penalty follows the contact with the legs rather than the direction of the throw."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2"
+    ]
+  },
   "videos": [
     {
       "provider": "kodokan",

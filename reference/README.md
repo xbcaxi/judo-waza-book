@@ -41,6 +41,28 @@ change.
 The page images in `media/mext-2013/` are rendered from the same PDFs. They are
 third-party and marked as such on every reference to them.
 
+## ijf-sor-2026.json
+
+The refereeing rules of the IJF's *Sport and Organisation Rules*, 2026 edition,
+as a DOCUMENT record rather than a transcription: publisher, edition, when it
+was read, and the articles this repository cites with a line on what each one
+settles.
+
+Nothing from the rulebook is reproduced. A technique's `contest` field carries a
+paraphrase written for this book and points here by `sourceId`, with the article
+numbers the paraphrase came from, so any claim can be checked against the IJF's
+own copy and the whole reference can be re-dated in one file when the next
+edition lands.
+
+That mattered more than it sounds. Competition rules change with the Olympic
+cycle, and technique entries written under an older rulebook went on asserting a
+hansoku-make for the leg grabs when this edition gives a shido. Rules recorded
+without their edition do not announce that they have gone stale.
+
+`landingPage` is null: the edition was read from the IJF's published explanatory
+guide PDF and the canonical URL has not been confirmed. Filling it in is a
+useful small pull request.
+
 ## japanese-readings.json
 
 Readings for the terms whose romaji does not pin down the pronunciation. Almost

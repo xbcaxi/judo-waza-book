@@ -29,6 +29,17 @@
   "kodokan": null,
   "banned": "no",
   "bannedNote": null,
+  "contest": {
+    "status": "conditional",
+    "note": {
+      "en": "The strangle is legal on the ground. Bringing pressure onto the neck or spinal vertebrae from an ushiro-sankaku is a direct hansoku-make, as is a kata-sankaku that blocks uke's body with both legs; taking the head with the legs without uke's arm inside is matte and a shido."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2",
+      "18.2.2"
+    ]
+  },
   "videos": [
     {
       "provider": "kodokan",

@@ -26,6 +26,16 @@
   "bannedNote": {
     "en": "Prohibited act under competition rules: squeezing the trunk with crossed legs (scissoring the body) is penalised with hansoku-make. Unlike most banned techniques it has no legitimate contest history to preserve; it is listed so it can be recognised and stopped."
   },
+  "contest": {
+    "status": "prohibited",
+    "note": {
+      "en": "A direct hansoku-make. The rule names the technique outright, so the referee does not weigh how hard the legs were squeezed."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.2.2"
+    ]
+  },
   "videos": [
     {
       "provider": "kodokan",

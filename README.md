@@ -71,6 +71,17 @@ full. `"yes"` is a technique not to be applied at all, documented for
 recognition and refereeing with a `bannedNote` saying why and deliberately no
 step-by-step instruction. Everything else is `"no"`.
 
+`banned` answers whether judo applies the technique at all. What a referee does
+about it is a different question with a different answer, and `contest` carries
+that one: `"penalised"` where applying it draws a shido, `"prohibited"` where it
+draws a direct hansoku-make, `"conditional"` where the penalty depends on the
+form, the position or the age group. It is `null` on the great majority of
+techniques, which no rule singles out. Every `contest` cites the rulebook it
+came from by the `sourceId` of a record in `reference/` and the article numbers
+the note paraphrases, because a rule written down without its edition goes wrong
+quietly: the leg grabs were written up here as hansoku-make offences when the
+IJF had already made them shido.
+
 Where the Kodokan recognises a technique, the file carries its place in that
 classification: `kodokanNumber` (101 to 810) and the three-letter
 `kodokanAbbr`. Both are null for the variants judo uses that the hundred does

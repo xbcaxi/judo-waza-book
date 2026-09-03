@@ -26,6 +26,16 @@
   "bannedNote": {
     "en": "Prohibited in competition: falling backwards with a leg entwined around the opponent's leg risks severe knee and ankle injury. Named for the sumo wrestler Kawazu, and older than judo itself; it is retained in the vocabulary so it can be recognised and refereed."
   },
+  "contest": {
+    "status": "prohibited",
+    "note": {
+      "en": "A direct hansoku-make, and the twist or turn some judoka add during the throw does not make it something else. The rule draws the line explicitly: o-soto-gari, o-uchi-gari and uchi-mata with the foot or leg entwined around uke's leg are permitted and score."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.2.2"
+    ]
+  },
   "videos": [
     {
       "provider": "kodokan",

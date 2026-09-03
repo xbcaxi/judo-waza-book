@@ -19,6 +19,16 @@
   "kodokan": null,
   "banned": "no",
   "bannedNote": null,
+  "contest": {
+    "status": "conditional",
+    "note": {
+      "en": "The throw is legal and scores. Diving forward onto the head while performing or attempting it is a direct hansoku-make."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.2.1"
+    ]
+  },
   "videos": [
     {
       "provider": "kodokan",

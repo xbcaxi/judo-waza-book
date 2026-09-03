@@ -21,6 +21,16 @@
   "bannedNote": {
     "en": "Prohibited in competition: current IJF rules give a direct hansoku-make for lifting an opponent off the mat and forcing them back down without a judo technique, so the high lift has no legal finish in contest. It remains part of the Kodokan classification and is demonstrated with a controlled lowering."
   },
+  "contest": {
+    "status": "prohibited",
+    "note": {
+      "en": "Lifting an opponent off the mat and forcing them back down without a judo technique is a direct hansoku-make, which leaves the high lift no legal finish in contest."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.2.2"
+    ]
+  },
   "videos": [
     {
       "provider": "akita",

@@ -17,7 +17,7 @@
         "en": "Winning"
       },
       "prose": {
-        "en": "A contest is won by ippon: a throw landing largely on the back with control, speed and force; twenty seconds of hold-down; or submission to a strangle or an elbow lock. Two waza-ari make ippon and end it the same way, and so does a third shido against the other contestant. If time runs out with nothing decisive, the higher score wins: more waza-ari first, and if the waza-ari are level, more yuko. Only if the contestants are level on both does the contest go into golden score."
+        "en": "A contest runs four minutes, for seniors, juniors and cadets alike, and is won by ippon: a throw landing largely on the back with control, speed and force; twenty seconds of hold-down; or submission to a strangle or an elbow lock. Two waza-ari make ippon and end it the same way, and so does a third shido against the other contestant. If time runs out with nothing decisive, the higher score wins: more waza-ari first, and if the waza-ari are level, more yuko. Only if the contestants are level on both does the contest go into golden score."
       }
     },
     {
@@ -25,7 +25,7 @@
         "en": "The three scores"
       },
       "prose": {
-        "en": "Ippon ends the contest. Waza-ari is the throw that lands past ninety degrees of the shoulder axis but not on the back, or that misses one of the four elements of ippon - speed, force, on the back, controlled to the landing. Yuko is the smallest score: a landing on the side at about ninety degrees or further forward, on the upper back, on the side across shoulder and one elbow or hand, on one or both buttocks, or on the neck. There is no score at all where the stomach, the front of the hip or a knee touches first."
+        "en": "Ippon ends the contest. Waza-ari is the throw that lands past ninety degrees of the shoulder axis but not on the back, or that misses one of the four elements of ippon - speed, force, on the back, controlled to the landing. Yuko is the smallest score: a landing on the side at about ninety degrees or further forward, on the upper back, on the side across shoulder and one elbow or hand, on one or both buttocks, or on the neck. There is no score at all where the stomach, the front of the hip or a knee touches first. Ippon, waza-ari and yuko show on the scoreboard as 100, 10 and 1, which is the plainest statement of the rule below: no number of ones ever makes a ten."
       }
     },
     {
@@ -34,6 +34,14 @@
       },
       "prose": {
         "en": "Two waza-ari make ippon. Nothing else accumulates. Yuko are counted and announced - one, two, three - but they never combine into a waza-ari: ten yuko still lose to one waza-ari. This is what makes them a tie-breaker rather than a running total, and it is the part most often got wrong by anyone who learned the pre-2017 rules, where scores did build."
+      }
+    },
+    {
+      "heading": {
+        "en": "Bridging out"
+      },
+      "prose": {
+        "en": "A contestant who bridges on the way down, taking the landing on the head and one or both feet rather than the back, is scored ippon against however well the escape works. The rule is there to stop judoka loading their own neck to save a contest, and it is one of the few places where the score turns on what the falling contestant does rather than on the throw."
       }
     },
     {
@@ -57,7 +65,7 @@
         "en": "Penalties"
       },
       "prose": {
-        "en": "Shido punishes passivity and minor infringements: false attacks, stepping out, defensive or dangerous gripping, breaking a grip with two hands and taking nothing in return, taking hold of a leg or the trousers, and wasting time between matte and hajime by dawdling over a judogi, hair or belt. Three shido make hansoku-make. Direct hansoku-make is kept for the gravest acts, among them kawazu-gake, kani-basami, do-jime and ashi-garami, and it ends the contest at once. The leg grabs belong to the first group and not the second: they cost a shido, not the contest. Shido never score, and they decide a contest only by reaching three."
+        "en": "Shido punishes passivity and minor infringements: false attacks, stepping out, defensive or dangerous gripping, breaking a grip with two hands and taking nothing in return, taking hold of a leg or the trousers, and wasting time between matte and hajime by dawdling over a judogi, hair or belt. Passivity has a clock of its own: once conventional grips are taken and the exchange is otherwise progressing, forty-five seconds without an attack draws a shido. Three shido make hansoku-make. Direct hansoku-make is kept for the gravest acts, among them kawazu-gake, kani-basami, do-jime and ashi-garami, and it ends the contest at once. The leg grabs belong to the first group and not the second: they cost a shido, not the contest. Shido never score, and they decide a contest only by reaching three."
       }
     },
     {

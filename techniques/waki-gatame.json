@@ -26,6 +26,17 @@
   "bannedNote": {
     "en": "Restricted in competition when applied standing: the arm is trapped under tori's armpit with nowhere for the elbow to go, so uke cannot always submit in time. Current IJF rules grade the penalty by the risk, giving a shido where uke can still escape and hansoku-make where the lock is on and there is no escape. On the ground it is a legal armlock, taught, demonstrated and examined, and the BJA sets it as a 1st Dan fundamental skill."
   },
+  "contest": {
+    "status": "conditional",
+    "note": {
+      "en": "Applied standing, the penalty follows the risk: a shido where uke can still escape, and hansoku-make where the arm is locked with no escape. On the ground it is a legal armlock and carries no penalty."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2",
+      "18.2.2"
+    ]
+  },
   "videos": [
     {
       "provider": "kodokan",

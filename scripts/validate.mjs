@@ -172,7 +172,7 @@ for (const t of techniques) {
  * additionalProperties false); only code can see the ORDER. */
 const techniqueFields = ['nameRomaji', 'nameJa', 'nameKana', 'aliases', 'otherNames', 'gloss',
   'category', 'subCategory', 'wazaType', 'gokyoSet', 'kodokanNumber', 'kodokanAbbr', 'kodokan',
-  'banned', 'bannedNote', 'videos', 'ijfAnimation', 'links', 'image', 'about', 'keyPoints',
+  'banned', 'bannedNote', 'contest', 'videos', 'ijfAnimation', 'links', 'image', 'about', 'keyPoints',
   'described', 'receiving', 'viNotes', 'resolver', 'variations'];
 for (const t of techniques) {
   const keys = Object.keys(t.data);
@@ -1028,6 +1028,21 @@ if (ijfMap && !validateIjfMap(ijfMap)) report('competition-stats/ijf-technique-m
 if (ijfTiers && !validateTiers(ijfTiers)) report('competition-stats/ijf-competition-tiers.json', validateTiers);
 if (ijfFrequency && !validateFrequency(ijfFrequency)) report('competition-stats/ijf-technique-frequency.json', validateFrequency);
 if (ijfShape && !validateContestShape(ijfShape)) report('competition-stats/ijf-contest-shape.json', validateContestShape);
+
+/* A technique's `contest` cites the rulebook it came from by the `sourceId` of
+ * a record in reference/, not by name, so that the edition is pinned and a new
+ * cycle is one file to replace. A citation pointing at nothing is worse than no
+ * citation, so the id has to resolve. */
+const rulebookIds = new Set();
+for (const entry of await loadDir('reference')) {
+  if (typeof entry.data.sourceId === 'string') rulebookIds.add(entry.data.sourceId);
+}
+for (const t of techniques) {
+  const cited = t.data.contest?.sourceId;
+  if (cited && !rulebookIds.has(cited)) {
+    problems.push(`techniques/${t.name}: contest cites rulebook "${cited}", which no reference/ record declares`);
+  }
+}
 
 /* The Kodokan's published definitions, kept so that a name in this book can be
  * checked against the Kodokan's own without opening the PDF. The book leads

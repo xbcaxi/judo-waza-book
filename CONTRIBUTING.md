@@ -733,6 +733,42 @@ refuses the steps.
 
 Everything else is `"no"`, and then `bannedNote` must be `null`.
 
+### What the referee does about it: `contest`
+
+`banned` and `bannedNote` answer whether judo applies the technique and why not.
+They are not the place to say what a referee gives for it, because those are
+different questions that change on different timetables: the technique is the
+same one it was in 1935, and the penalty for it changes with the Olympic cycle.
+`contest` carries the referee's answer, and is `null` on most techniques.
+
+    "contest": {
+      "status": "penalised",
+      "note": { "en": "The hand at the heel counts as a leg grab and draws a shido." },
+      "sourceId": "ijf-sor-2026",
+      "articles": ["18.1.2"]
+    }
+
+`status` is `"penalised"` where applying the technique draws a shido,
+`"prohibited"` where it draws a direct hansoku-make, and `"conditional"` where
+what the referee gives depends on the form, the position or the age group -
+standing waki-gatame, which is a shido or a hansoku-make according to the risk,
+or uchi-mata, which is entirely legal until somebody dives onto their head. Say
+which in the `note`.
+
+Three rules for the note. Write it in this book's own voice: a rulebook is
+somebody else's copyright and nothing from one is transcribed here. Lead with
+what is legal where most of the technique is - "the throw is legal and scores"
+before the exception. And say the rule, not your opinion of it.
+
+`sourceId` names a record in `reference/` and `articles` gives that rulebook's
+own article numbers, so a reader can check the claim and a new edition is one
+file to replace. The validator refuses a `sourceId` no reference record
+declares. If you are citing a rulebook that has no record yet, add one first,
+modelled on `reference/ijf-sor-2026.json`.
+
+Do not write a rule down without its edition. Every wrong statement this
+reference has carried about competition was once correct.
+
 ## Add an organisation's perspective on a technique or an examination
 
 A national body, affiliate or club can say its own piece on a technique -
