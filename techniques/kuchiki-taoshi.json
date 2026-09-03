@@ -30,7 +30,7 @@
   "kodokan": null,
   "banned": "in-competition",
   "bannedNote": {
-    "en": "Prohibited in competition: taking uke's leg with the hand is a direct attack on the legs, which the IJF penalises with hansoku-make. The technique is unaffected outside contest, and the BJA sets it as a 4th Dan fundamental skill."
+    "en": "Penalised in competition: catching the leg with the hand draws a shido under current IJF rules. The grip becomes legal once both judoka are clearly in ne-waza and the standing exchange has stopped. It is taught and examined as normal, and the BJA sets it as a 4th Dan fundamental skill."
   },
   "videos": [
     {
@@ -71,7 +71,7 @@
   ],
   "image": null,
   "about": {
-    "en": "The single-leg takedown, named for felling a rotten tree: tori drops level, catches one leg behind the knee and drives the upper body back over it. A Kodokan te-waza and a wrestling staple, it is prohibited in current IJF competition under the leg-grab rules, but remains legal to practise and appears in older syllabuses."
+    "en": "The single-leg takedown, named for felling a rotten tree: tori drops level, catches one leg behind the knee and drives the upper body back over it. A Kodokan te-waza and a wrestling staple, it draws a shido in current IJF competition under the leg-grab rules, but remains legal to practise and appears in older syllabuses."
   },
   "keyPoints": {
     "en": [
@@ -93,7 +93,7 @@
     "en": "Your partner's level drops and a hand closes behind your knee, and from that moment you have one leg to balance on. Do not fight to stay upright: let the leg go with them, turn slightly to your side as you fall, and slap with the free arm. Landing on the point of the tailbone is the risk, so sit back rather than down."
   },
   "viNotes": {
-    "en": "Barred in contest under the leg-grab rules, so it is drilled rather than fought. Drop your level first and let your hand find the leg on the way down by running it along their thigh to the back of the knee, which is far more reliable than reaching for it. Keep hold of the leg as they fall so you know where they have gone and can follow in."
+    "en": "Penalised under the leg-grab rules, so it is drilled far more often than it is fought. Drop your level first and let your hand find the leg on the way down by running it along their thigh to the back of the knee, which is far more reliable than reaching for it. Keep hold of the leg as they fall so you know where they have gone and can follow in."
   },
   "resolver": {
     "counter": false,
@@ -118,7 +118,7 @@
         "single outer leg grab"
       ],
       "about": {
-        "en": "The one-hand drop taken on the outside of uke's leg: the hand catches behind the knee or ankle from the outside and drives uke back over the trapped foot. A syllabus and video-library name for a form of kuchiki-taoshi; barred in competition with the rest of the leg grabs."
+        "en": "The one-hand drop taken on the outside of uke's leg: the hand catches behind the knee or ankle from the outside and drives uke back over the trapped foot. A syllabus and video-library name for a form of kuchiki-taoshi; penalised with the rest of the leg grabs in competition."
       },
       "videos": [
         {
@@ -136,7 +136,7 @@
         "single inner leg grab"
       ],
       "about": {
-        "en": "The same takedown from the inside: the hand reaches between uke's knees, catches the far side of one leg and drives them back over it. Printed by this name in the BJA Mon syllabus; barred in competition with the rest of the leg grabs."
+        "en": "The same takedown from the inside: the hand reaches between uke's knees, catches the far side of one leg and drives them back over it. Printed by this name in the BJA Mon syllabus; penalised with the rest of the leg grabs in competition."
       },
       "videos": [
         {
