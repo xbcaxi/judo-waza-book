@@ -1,4 +1,5 @@
-# YouTube Data API v3 key: set YT_API_KEY in the environment, never here.
+# YouTube Data API v3 key: set YT_API_KEY in the environment, or in a
+# gitignored .env beside this file as YT_API_KEY=... Never here.
 
 # The working database and the CSV and JSON files beside it are gitignored:
 # they are a crawl, not content. What reaches the repository goes through

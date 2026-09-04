@@ -26,3 +26,5 @@ tools/video-pipeline/edges.csv
 tools/video-pipeline/review.csv
 tools/video-pipeline/approved.json
 tools/video-pipeline/__pycache__/
+# The pipeline's YouTube API key, one per person; the environment wins over it.
+tools/video-pipeline/.env

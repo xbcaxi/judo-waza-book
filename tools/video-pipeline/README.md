@@ -36,7 +36,7 @@ the gaps, in priority order.
 
 ```sh
 pip install -r requirements.txt
-export YT_API_KEY=...            # Google Cloud console, YouTube Data API v3
+export YT_API_KEY=...            # or put YT_API_KEY=... in tools/video-pipeline/.env (gitignored)
 
 python extract_edges.py          # the edges and the existing videos, from the repository
 python seed_shortlist.py         # the hand-curated shortlist in data/

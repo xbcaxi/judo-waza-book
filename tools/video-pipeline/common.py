@@ -186,11 +186,33 @@ def single_technique_videos(con):
     return {r[0] for r in rows}
 
 
+def api_key():
+    """YT_API_KEY from the environment, or from a gitignored .env beside this
+    file (one KEY=value per line). The environment wins, as it does for the
+    site's .env.deploy. The key is per person and never committed."""
+    key = os.environ.get("YT_API_KEY")
+    if key:
+        return key
+    env = os.path.join(HERE, ".env")
+    if os.path.exists(env):
+        with open(env, encoding="utf-8") as f:
+            for line in f:
+                m = re.match(r"^\s*YT_API_KEY\s*=\s*(.+?)\s*$", line)
+                if m and not line.lstrip().startswith("#"):
+                    return m.group(1).strip("\"'")
+    return None
+
+
 class YouTube:
-    def __init__(self, con, api_key=None):
-        self.key = api_key or os.environ.get("YT_API_KEY")
+    def __init__(self, con, key=None):
+        self.key = key or api_key()
         if not self.key:
-            raise SystemExit("Set YT_API_KEY (YouTube Data API v3, from the Google Cloud console)")
+            raise SystemExit(
+                "No YouTube API key. Set YT_API_KEY in the environment, or put\n"
+                "  YT_API_KEY=...\n"
+                f"in {os.path.join(HERE, '.env')} (gitignored). Get one from the Google\n"
+                "Cloud console: YouTube Data API v3."
+            )
         self.con = con
 
     def _spend(self, units):
