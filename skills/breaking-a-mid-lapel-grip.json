@@ -1,0 +1,39 @@
+{
+  "name": {
+    "en": "Breaking a mid-lapel grip"
+  },
+  "kind": "kumi-kata",
+  "techniques": [
+    "seoi-nage"
+  ],
+  "grips": [
+    "standard"
+  ],
+  "about": {
+    "en": "A lapel grip at chest height sets your posture, so it goes before you attack. Stripping it down with two hands works but leaves you with nothing, and that is a shido; the push-pull keeps a grip, pushing their lapel hand down while pulling their sleeve, so the hand comes off and your attack is already moving."
+  },
+  "keyPoints": {
+    "en": [
+      "Push their lapel hand down while pulling their sleeve: the two together",
+      "Keep at least one grip; a two-hand strip that keeps none is a shido",
+      "The break is the start of the throw, not a pause"
+    ]
+  },
+  "described": {
+    "en": [
+      "Take your partner's sleeve with your pulling hand and hold it.",
+      "Put your other hand over the wrist of their lapel hand and push it straight down as you pull the sleeve towards your hip.",
+      "As their hand leaves the lapel, take that lapel yourself and turn in."
+    ]
+  },
+  "receiving": {
+    "en": "A hand on your wrist pushing down while your sleeve is pulled is the push-pull, and your lapel grip is about to go. Let it go rather than be bent forward with it, and retake lower."
+  },
+  "viNotes": {
+    "en": "The push on your wrist and the pull on your sleeve arrive together, and the direction of the pull says which way the throw is coming. Release, straighten, re-grip."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

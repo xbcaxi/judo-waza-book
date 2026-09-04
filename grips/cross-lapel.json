@@ -1,0 +1,75 @@
+{
+  "name": {
+    "en": "Cross lapel"
+  },
+  "hands": [
+    {
+      "role": "hikite",
+      "target": "sleeve-elbow"
+    },
+    {
+      "role": "tsurite",
+      "target": "lapel-cross",
+      "note": {
+        "en": "The lapel on the same side as your lifting hand, the gyaku-eri."
+      }
+    }
+  ],
+  "stance": "kenka-yotsu",
+  "throws": [
+    {
+      "technique": "ippon-seoi-nage",
+      "direction": "forward"
+    },
+    {
+      "technique": "koshi-guruma",
+      "direction": "forward"
+    },
+    {
+      "technique": "o-soto-gari",
+      "direction": "rear"
+    },
+    {
+      "technique": "ko-uchi-gari",
+      "direction": "rear"
+    }
+  ],
+  "contest": {
+    "status": "conditional",
+    "note": {
+      "en": "A cross grip is allowed with a positive attitude and time is given to prepare the attack. Held to block or to bend the opponent, it draws a shido."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2"
+    ]
+  },
+  "about": {
+    "en": "The lifting hand crosses to the lapel on its own side rather than the far one. Against the opposite stance it is often the lapel you can actually reach, and it sets up the throws that turn away from the gripped side: the one-arm shoulder throw above all."
+  },
+  "keyPoints": {
+    "en": [
+      "Reach across their centre line to the near lapel, not round to the far one",
+      "Keep the elbow bent; a straight crossing arm is easy to break",
+      "It is a grip for attacking from, not for holding"
+    ]
+  },
+  "described": {
+    "en": [
+      "Facing a partner in the opposite stance, take their sleeve with your pulling hand as usual.",
+      "Bring your lifting hand across your own body to the lapel on the same side as that hand, at chest height.",
+      "Draw the elbow in so the crossed arm is bent and your shoulders stay square.",
+      "Attack towards the side you have crossed to."
+    ]
+  },
+  "receiving": {
+    "en": "A hand on the lapel nearest it, arm across their own body, means a turning throw is coming towards that side. Their crossed arm is a lever you can move: bring your elbow over it and the grip loses its angle."
+  },
+  "viNotes": {
+    "en": "Feel for which lapel the lifting hand has taken. The cross grip puts their forearm diagonally across your chest, and that diagonal points at the throw."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

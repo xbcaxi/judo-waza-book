@@ -1,0 +1,74 @@
+{
+  "name": {
+    "en": "Double lapel"
+  },
+  "hands": [
+    {
+      "role": "hikite",
+      "target": "lapel-mid",
+      "note": {
+        "en": "The lapel instead of the sleeve."
+      }
+    },
+    {
+      "role": "tsurite",
+      "target": "lapel-mid"
+    }
+  ],
+  "stance": "either",
+  "throws": [
+    {
+      "technique": "tsurikomi-goshi",
+      "direction": "forward"
+    },
+    {
+      "technique": "o-uchi-gari",
+      "direction": "rear"
+    },
+    {
+      "technique": "ko-uchi-gari",
+      "direction": "rear"
+    },
+    {
+      "technique": "tomoe-nage",
+      "direction": "forward"
+    }
+  ],
+  "contest": {
+    "status": "conditional",
+    "note": {
+      "en": "A collar and lapel grip is allowed with a positive attitude. Used with one or both arms to force a bending posture, it draws a shido."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2"
+    ]
+  },
+  "about": {
+    "en": "Both hands on the lapels at chest height. Nothing controls the sleeve, so nothing controls the arm, but both hands lift and both pull, and a partner can be moved straight forwards and backwards with great force: the lifting-pulling hip throw and the two inner reaps come from it, and the circle throw when they push back."
+  },
+  "keyPoints": {
+    "en": [
+      "Both grips at chest height, elbows down",
+      "Push and pull with the whole body, not the arms",
+      "Attack at once; two lapels held still is a stalling grip"
+    ]
+  },
+  "described": {
+    "en": [
+      "Take one lapel with each hand at chest height, thumbs outside the cloth.",
+      "Draw the elbows in so your forearms lie against your partner's chest.",
+      "Move them forwards or backwards along the line of the lapels, and attack the moment they resist."
+    ]
+  },
+  "receiving": {
+    "en": "Both lapels held and your sleeves free means pressure straight through your centre. Take a sleeve at once: their arms are the lever and the sleeve is where you stop it."
+  },
+  "viNotes": {
+    "en": "Two hands on your chest and none on your arm is a grip you can identify at once. Expect to be moved straight along your own centre line."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

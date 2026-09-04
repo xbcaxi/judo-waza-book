@@ -83,6 +83,7 @@ const validateSequence = ajv.compile(await loadJson(path.join(root, 'schema/sequ
 const validateGuide = ajv.compile(await loadJson(path.join(root, 'schema/guide.schema.json')));
 const validateSkill = ajv.compile(await loadJson(path.join(root, 'schema/skill.schema.json')));
 const validateKata = ajv.compile(await loadJson(path.join(root, 'schema/kata.schema.json')));
+const validateGrip = ajv.compile(await loadJson(path.join(root, 'schema/grip.schema.json')));
 const validateExam = ajv.compile(await loadJson(path.join(root, 'schema/exam.schema.json')));
 const validateProvider = ajv.compile(await loadJson(path.join(root, 'schema/provider.schema.json')));
 const validateChannel = ajv.compile(await loadJson(path.join(root, 'schema/channel.schema.json')));
@@ -96,6 +97,7 @@ const sequences = await loadDir('sequences');
 const guides = await loadDir('guides');
 const skills = await loadDir('skills');
 const kata = await loadDir('kata');
+const grips = await loadDir('grips');
 const exams = await loadDir('exams');
 const providers = await loadDir('video-providers');
 const channels = await loadDir('video-channels');
@@ -539,6 +541,24 @@ for (const k of kata) {
   }
 }
 
+/* Grips: one record per grip-set, every field present in one order, every throw
+ * it feeds a real technique, and the rulebook it cites a real record. */
+const gripFields = ['name', 'hands', 'stance', 'throws', 'contest', 'about', 'keyPoints', 'described', 'receiving', 'viNotes', 'videos', 'source'];
+const gripIds = new Set(grips.map((g) => g.slug));
+for (const g of grips) {
+  if (!validateGrip(g.data)) report(`grips/${g.name}`, validateGrip);
+  if (!/^[a-z0-9][a-z0-9-]*$/.test(g.slug)) {
+    problems.push(`grips/${g.name}: filename must be lowercase with hyphens`);
+  }
+  const keys = Object.keys(g.data);
+  if (keys.length === gripFields.length && keys.some((key, at) => key !== gripFields[at])) {
+    problems.push(`grips/${g.name}: fields are out of canonical order; expected ${gripFields.join(', ')}`);
+  }
+  for (const link of g.data.throws ?? []) {
+    if (!slugs.has(link.technique)) problems.push(`grips/${g.name}: unknown technique "${link.technique}"`);
+  }
+}
+
 for (const k of skills) {
   if (!validateSkill(k.data)) report(`skills/${k.name}`, validateSkill);
   if (!/^[a-z0-9][a-z0-9-]*$/.test(k.slug)) {
@@ -546,6 +566,9 @@ for (const k of skills) {
   }
   for (const slug of k.data.techniques ?? []) {
     if (!slugs.has(slug)) problems.push(`skills/${k.name}: unknown technique "${slug}"`);
+  }
+  for (const grip of k.data.grips ?? []) {
+    if (!gripIds.has(grip)) problems.push(`skills/${k.name}: unknown grip "${grip}"`);
   }
   /* WEBP OR SVG, and skills are the only collection that may use either.
    *
@@ -1051,6 +1074,19 @@ for (const q of sequences) {
     problems.push(`sequences/${q.name}: source cites "${cited}", which no reference/ record declares`);
   }
 }
+for (const g of grips) {
+  for (const [field, cited] of [['contest', g.data.contest?.sourceId], ['source', g.data.source?.sourceId]]) {
+    if (cited && !rulebookIds.has(cited)) {
+      problems.push(`grips/${g.name}: ${field} cites "${cited}", which no reference/ record declares`);
+    }
+  }
+}
+for (const k of skills) {
+  const cited = k.data.source?.sourceId;
+  if (cited && !rulebookIds.has(cited)) {
+    problems.push(`skills/${k.name}: source cites "${cited}", which no reference/ record declares`);
+  }
+}
 
 /* The Kodokan's published definitions, kept so that a name in this book can be
  * checked against the Kodokan's own without opening the PDF. The book leads
@@ -1374,4 +1410,4 @@ if (kodokanRef) {
   console.log(`Kodokan definitions: ${kodokanRef.techniques.length} techniques and ${kodokanRef.groups.length} groups `
     + `from the ${kodokanRef.source.issued} document; ${named} technique(s) where the Kodokan's name is not the one this book leads with.`);
 }
-console.log(`Validated ${techniques.length} techniques, ${skills.length} skills, ${kata.length} kata, ${sequences.length} sequences, ${guides.length} guides, ${exams.length} exams, ${schemes.length} schemes, ${channels.length} channels and ${glossary.length} glossary terms; all checks passed.`);
+console.log(`Validated ${techniques.length} techniques, ${skills.length} skills, ${grips.length} grips, ${kata.length} kata, ${sequences.length} sequences, ${guides.length} guides, ${exams.length} exams, ${schemes.length} schemes, ${channels.length} channels and ${glossary.length} glossary terms; all checks passed.`);

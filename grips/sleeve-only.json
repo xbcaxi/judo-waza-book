@@ -1,0 +1,77 @@
+{
+  "name": {
+    "en": "Sleeve only"
+  },
+  "hands": [
+    {
+      "role": "hikite",
+      "target": "sleeve-elbow"
+    },
+    {
+      "role": "free",
+      "target": "none",
+      "note": {
+        "en": "Kept free on purpose, to post and to fend."
+      }
+    }
+  ],
+  "stance": "either",
+  "throws": [
+    {
+      "technique": "seoi-nage",
+      "direction": "forward",
+      "note": {
+        "en": "Usually the dropping form."
+      }
+    },
+    {
+      "technique": "ko-uchi-gari",
+      "direction": "rear"
+    },
+    {
+      "technique": "de-ashi-harai",
+      "direction": "side"
+    },
+    {
+      "technique": "sumi-gaeshi",
+      "direction": "forward"
+    }
+  ],
+  "contest": {
+    "status": "conditional",
+    "note": {
+      "en": "One grip is allowed while an attack follows. Avoiding kumi-kata altogether draws a shido, and so does holding the sleeve end for defence."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2"
+    ]
+  },
+  "about": {
+    "en": "One hand on the sleeve, the other deliberately free. The free hand posts on the shoulder or arm to deny your partner their grip while the sleeve hand does the pulling, and the throws are the ones that need only a sleeve: the drop shoulder throw, the minor inner reap and the foot sweep."
+  },
+  "keyPoints": {
+    "en": [
+      "The free hand works: post, fend, then attack",
+      "Sleeve hand above the elbow, pulling towards your own hip",
+      "The moment the attack starts, the free hand takes its grip"
+    ]
+  },
+  "described": {
+    "en": [
+      "Take your partner's sleeve above the elbow with your pulling hand.",
+      "Keep the other hand free, resting on or near their shoulder to stop their lifting hand landing.",
+      "Pull the sleeve to move them, and go straight into the throw the pull opens, the free hand joining as you turn."
+    ]
+  },
+  "receiving": {
+    "en": "One hand on your sleeve and a hand on your shoulder that will not let you grip is a partner keeping the tempo. Circle towards the held sleeve to take the post off line, and grip the moment it lifts."
+  },
+  "viNotes": {
+    "en": "A hand posting on your shoulder rather than gripping is a distinctive touch: flat, moving, never settled. It is a grip fight, and the attack comes the instant the post is cleared."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

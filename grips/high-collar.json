@@ -1,0 +1,75 @@
+{
+  "name": {
+    "en": "High collar"
+  },
+  "hands": [
+    {
+      "role": "hikite",
+      "target": "sleeve-elbow"
+    },
+    {
+      "role": "tsurite",
+      "target": "lapel-high",
+      "note": {
+        "en": "Deep behind the neck, the oku-eri."
+      }
+    }
+  ],
+  "stance": "ai-yotsu",
+  "throws": [
+    {
+      "technique": "o-soto-gari",
+      "direction": "rear"
+    },
+    {
+      "technique": "harai-goshi",
+      "direction": "forward"
+    },
+    {
+      "technique": "koshi-guruma",
+      "direction": "forward"
+    },
+    {
+      "technique": "uchi-mata",
+      "direction": "forward"
+    }
+  ],
+  "contest": {
+    "status": "conditional",
+    "note": {
+      "en": "A collar grip is allowed as long as the attitude is positive and an attack follows. Used to force the head down and hold a bending posture, it draws a shido."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2"
+    ]
+  },
+  "about": {
+    "en": "The lifting hand reaches over the shoulder and takes the collar behind the neck. It controls the head, and the head controls the posture, so the throws it feeds are the ones that want your partner bent or turned: the major outer reap, the sweeping hip throw and the hip wheel among them. Taller judoka reach it most easily."
+  },
+  "keyPoints": {
+    "en": [
+      "Reach over, not round: the elbow goes above their shoulder",
+      "The forearm lies along the back of the neck and does the steering",
+      "Attack at once; a high collar held still is a penalty waiting"
+    ]
+  },
+  "described": {
+    "en": [
+      "From the sleeve grip, raise your lifting arm over your partner's shoulder on the lapel side.",
+      "Take the collar behind the neck, fingers inside the cloth, thumb outside, as deep as the reach allows.",
+      "Let the forearm settle along the back of their neck and draw their head towards your shoulder.",
+      "Move straight into the attack the grip was taken for."
+    ]
+  },
+  "receiving": {
+    "en": "The weight of an arm on the back of your neck is the first sign, and posture goes next. Straighten up before you do anything else, because every throw from this grip needs your head down. Breaking it is a whole skill of its own."
+  },
+  "viNotes": {
+    "en": "The high collar is one of the easiest grips to read without sight: the forearm on the back of the neck is unmistakable, and the pull on the head says which way the attack is coming before the feet move."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

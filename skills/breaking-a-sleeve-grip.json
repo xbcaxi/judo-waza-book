@@ -1,0 +1,40 @@
+{
+  "name": {
+    "en": "Breaking a sleeve grip"
+  },
+  "kind": "kumi-kata",
+  "techniques": [
+    "ko-uchi-gari"
+  ],
+  "grips": [
+    "standard"
+  ],
+  "about": {
+    "en": "A partner's hand on your sleeve above the elbow steals the arm you need. Circling the wrist out, pulling the elbow through their grip, or bringing your elbow over the top of their hand all break it, and the sleeve you free is the one to capture on them in return. Breaking with two hands and keeping neither grip draws a shido, so one hand keeps hold."
+  },
+  "keyPoints": {
+    "en": [
+      "Circle the wrist outwards and pull the elbow through",
+      "Or bring your elbow over their hand and drop it",
+      "Keep one of your own grips while you break"
+    ]
+  },
+  "described": {
+    "en": [
+      "Keep one of your own grips on your partner.",
+      "Turn the wrist of the held arm outwards and draw the elbow back through their grip in one movement.",
+      "If the grip holds, lift your elbow over the top of their hand and drop it to peel the fingers off.",
+      "Take their sleeve with the freed hand before they retake yours."
+    ]
+  },
+  "receiving": {
+    "en": "Your sleeve grip going is felt as the elbow slipping through your fingers or a weight coming down over your hand. Let it go before the fingers are wrenched and take the grip again lower down."
+  },
+  "viNotes": {
+    "en": "You know where their hand is because you can feel it. Break towards the thumb side of their grip, where the fingers are weakest, and take their sleeve the moment yours is free."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

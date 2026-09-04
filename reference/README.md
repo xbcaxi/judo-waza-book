@@ -63,6 +63,32 @@ without their edition do not announce that they have gone stale.
 guide PDF and the canonical URL has not been confirmed. Filling it in is a
 useful small pull request.
 
+## judo-sequences-2026.json
+
+The project owner's catalogue of which technique follows, answers or continues
+which, with the reaction of uke that makes the second possible, as a DOCUMENT
+record: what it is, when it was read, the fixed lists of triggers and directions
+it defines, and what it leaves out.
+
+It is the `source` of the 397 sequences imported on 2026-09-04 and the
+authority for the `trigger` and `direction` fields on any sequence. It carries
+the catalogue's own note that renraku-waza and renzoku-waza are drawn
+differently by different sources, which is why this repository records the
+physical direction rather than choosing a word. The edges it describes that a
+sequence record cannot hold are listed in `backlog/judo-sequences-unmodelled.json`.
+
+## kumikata-schema-2026.json
+
+The project owner's model of gripping as data, as a DOCUMENT record: the grip
+targets, the roles of each hand, the two stance situations, the actions of a
+grip exchange and the phases they fall into. It names the coaching systems its
+vocabulary came from and reproduces none of their material.
+
+It is the `source` of the `grips/` collection, of the kumi-kata skills that
+describe grip plans and grip breaks, and of the gripping terms added to the
+glossary on 2026-09-04. The actions are recorded in English because Japanese
+terminology for them is less settled than for throws.
+
 ## japanese-readings.json
 
 Readings for the terms whose romaji does not pin down the pronunciation. Almost

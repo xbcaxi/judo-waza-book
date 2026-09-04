@@ -1,0 +1,41 @@
+{
+  "name": {
+    "en": "Breaking a high collar grip"
+  },
+  "kind": "kumi-kata",
+  "techniques": [
+    "o-soto-gari",
+    "uchi-mata"
+  ],
+  "grips": [
+    "high-collar"
+  ],
+  "about": {
+    "en": "An arm over your shoulder onto your collar controls your head and your head controls everything. Ducking under the arm and turning takes your head out from beneath it and leaves their arm draped over nothing; a two-hand strip with your head down is the other way, and the moment the arm comes off your posture comes back and the outer reap or the inner thigh throw is there."
+  },
+  "keyPoints": {
+    "en": [
+      "Duck under the arm and turn out, or strip with the head down",
+      "Straighten the moment the arm is off",
+      "Attack immediately; they are reaching for it again"
+    ]
+  },
+  "described": {
+    "en": [
+      "Lower your head and step under the arm that holds your collar, turning your shoulder out from beneath it.",
+      "If the grip holds, take their wrist with both hands and strip it down while your head stays low.",
+      "Straighten your posture as the arm comes off and take your own grips.",
+      "Attack before they can reach for the collar again."
+    ]
+  },
+  "receiving": {
+    "en": "A partner ducking under your high collar arm is about to come up with their posture back and your arm out of position. Release before the duck completes, or you are reaching over nothing."
+  },
+  "viNotes": {
+    "en": "Duck towards the elbow of the arm on your neck, which is the side it came over. When the weight leaves the back of your neck, straighten at once."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

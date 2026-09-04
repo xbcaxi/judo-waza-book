@@ -1,0 +1,42 @@
+{
+  "name": {
+    "en": "Climbing the lapel from a low grip"
+  },
+  "kind": "kumi-kata",
+  "techniques": [
+    "seoi-nage",
+    "o-soto-gari",
+    "o-uchi-gari"
+  ],
+  "grips": [
+    "standard"
+  ],
+  "about": {
+    "en": "The novice's route to the standard grip. A low lapel is easy to take and hard to refuse; from there the hand walks up the cloth to collarbone height while the other hand finds the sleeve. It is slower than a direct grab and much harder to be denied."
+  },
+  "keyPoints": {
+    "en": [
+      "First contact low on the lapel, near the belt",
+      "Walk the hand up the cloth without letting go",
+      "The sleeve hand arrives as the lapel hand reaches height"
+    ]
+  },
+  "described": {
+    "en": [
+      "Step in and take your partner's lapel low, near the belt, with your lifting hand; nobody fights hard for that grip.",
+      "Keeping the cloth in your hand, slide it up the lapel a few inches at a time, elbow down.",
+      "As the hand reaches collarbone height, take the sleeve with your pulling hand.",
+      "Settle both elbows and attack from the standard grip you have built."
+    ]
+  },
+  "receiving": {
+    "en": "A hand climbing your lapel is heading for your collarbone and your posture. Take your own grips while it climbs, and the exchange is even by the time it arrives."
+  },
+  "viNotes": {
+    "en": "Contact low on the lapel is easy to make without sight, and the climb keeps your hand on your partner the whole way, so you never lose them. Feel for the collarbone with the top of the hand."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

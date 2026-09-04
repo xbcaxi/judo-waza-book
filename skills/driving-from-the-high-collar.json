@@ -1,0 +1,42 @@
+{
+  "name": {
+    "en": "Driving from the high collar"
+  },
+  "kind": "kumi-kata",
+  "techniques": [
+    "o-soto-gari",
+    "harai-goshi",
+    "koshi-guruma"
+  ],
+  "grips": [
+    "high-collar"
+  ],
+  "about": {
+    "en": "A same-stance plan for the taller judoka: take the lapel, climb it over the shoulder to the collar behind the neck, and drive. With the forearm along the back of the neck your partner's head goes where you send it, and the throws that follow are the ones that want it bent and turned."
+  },
+  "keyPoints": {
+    "en": [
+      "Climb the lapel to the collar in one continuous movement",
+      "Forearm along the back of the neck, elbow above their shoulder",
+      "Drive and throw at once; a held high collar is a shido"
+    ]
+  },
+  "described": {
+    "en": [
+      "Take your partner's lapel with your lifting hand and climb it without letting go until the hand can reach over the shoulder.",
+      "Take the collar behind the neck and lay your forearm along it.",
+      "Take the sleeve with your pulling hand as they react.",
+      "Drive their head towards your shoulder and throw."
+    ]
+  },
+  "receiving": {
+    "en": "A lapel hand climbing over your shoulder is heading for the back of your neck, and once it is there your posture belongs to them. Stop it at the shoulder with your forearm, or straighten and break it before the drive."
+  },
+  "viNotes": {
+    "en": "The climb is felt as a grip moving up your lapel and then the weight of a forearm across the back of your neck. Straighten your posture the moment the weight lands; every throw from here needs your head down."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

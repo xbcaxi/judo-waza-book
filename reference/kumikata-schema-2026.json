@@ -1,0 +1,38 @@
+{
+  "sourceId": "kumikata-schema-2026",
+  "titleEn": "Kumi-kata: Grip Strategy Schema",
+  "publisherEn": "The project owner's gripping catalogue for this repository",
+  "edition": "2026-09",
+  "landingPage": null,
+  "readOn": "2026-09-04",
+  "readFrom": "kumikataschema.md, a working model of gripping as data: grip targets, the roles of each hand, stance situations, a catalogue of grip-sets with the throws each feeds, the actions of a grip exchange, and seed plans and breaks",
+  "rights": "Written for this project and published under the repository licence. The catalogue names the coaching systems it drew its vocabulary from (Jimmy Pedro's gripping instruction and Neil Adams' Grips among them) and reproduces none of their material; the grips/ records and kumi-kata skills here are written in this book's words from the generic vocabulary, and the plans carry no coach's name.",
+  "note": {
+    "en": "The source for the grips/ collection (one record per grip-set, with the throws it feeds), for the kumi-kata skills that describe grip plans and grip breaks, and for the gripping terms in the glossary. Japanese terminology for grip actions is less settled than for throws, so the actions are recorded in English."
+  },
+  "taxonomy": {
+    "stances": ["ai-yotsu", "kenka-yotsu", "either"],
+    "targets": ["sleeve-end", "sleeve-elbow", "sleeve-inside", "lapel-low", "lapel-mid", "lapel-high", "lapel-cross", "back", "belt-front", "belt-back", "under-arm", "head"],
+    "roles": ["tsurite", "hikite", "free"],
+    "actions": {
+      "contact": "First touch, usually low on the lapel or on the shoulder; easier to get than the target grip.",
+      "climb": "Walk the hand up the lapel to the height wanted.",
+      "capture-sleeve": "Secure the pulling hand before anything else.",
+      "circle": "Move sideways to expose the sleeve or lapel wanted.",
+      "post": "A hand on uke's shoulder or upper arm that stops their grip landing.",
+      "repost": "Put the post back after uke clears it.",
+      "break": "Remove uke's grip; one method per place it can be.",
+      "strip": "Remove uke's grip by taking your own jacket away from it.",
+      "feed": "Pass the lapel from one hand to the other.",
+      "steal": "Take the sleeve uke is gripping you with.",
+      "pin": "Trap uke's sleeve against your body.",
+      "pull-through": "Drag the sleeve across your body.",
+      "elbow-over": "Bring your elbow over uke's grip to break it or sit on top of it.",
+      "head-control": "Forehead or lifting hand used to set uke's head.",
+      "release": "Let go to reset the tempo.",
+      "stiff-arm": "Hold uke off with a straight arm; penalised when passive.",
+      "attack-off-grip": "The throw the plan was for, the moment the set is reached."
+    },
+    "phases": ["approach", "first contact", "fight", "dominance", "attack", "reset"]
+  }
+}

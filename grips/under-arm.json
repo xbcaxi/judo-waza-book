@@ -1,0 +1,77 @@
+{
+  "name": {
+    "en": "Sleeve and under the arm"
+  },
+  "hands": [
+    {
+      "role": "hikite",
+      "target": "sleeve-elbow"
+    },
+    {
+      "role": "tsurite",
+      "target": "under-arm",
+      "note": {
+        "en": "Under the arm to the back of the jacket."
+      }
+    }
+  ],
+  "stance": "either",
+  "throws": [
+    {
+      "technique": "uchi-mata",
+      "direction": "forward"
+    },
+    {
+      "technique": "harai-goshi",
+      "direction": "forward"
+    },
+    {
+      "technique": "tani-otoshi",
+      "direction": "rear"
+    },
+    {
+      "technique": "sukui-nage",
+      "direction": "rear",
+      "note": {
+        "en": "The form that does not take the legs."
+      }
+    }
+  ],
+  "contest": {
+    "status": "allowed",
+    "note": {
+      "en": "A jacket grip under the arm is allowed. Clasping the hands together round the body from here makes a bear hug and draws a shido."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2"
+    ]
+  },
+  "about": {
+    "en": "The lifting arm goes under your partner's arm to the back of the jacket rather than over it. It is the shorter judoka's answer to the high collar: the same control of the upper body from beneath, and the throws are the inner thigh throw and the sweeping hip throw, or the valley drop when they lean back."
+  },
+  "keyPoints": {
+    "en": [
+      "Under the arm and onto the back, hand flat and gripping the jacket",
+      "Your shoulder goes into their armpit; stay close",
+      "Never join your hands round the body"
+    ]
+  },
+  "described": {
+    "en": [
+      "From the sleeve grip, slide your lifting arm under your partner's arm on the lapel side.",
+      "Take the back of the jacket behind their shoulder blade and draw your shoulder up into their armpit.",
+      "Pull them onto you and attack; the sleeve hand keeps their far shoulder turning."
+    ]
+  },
+  "receiving": {
+    "en": "An arm under yours to your back lifts your shoulder and takes your posture from below. Push the elbow of that arm down and step away from it, or their hip is already under you."
+  },
+  "viNotes": {
+    "en": "An arm under your arm rather than over your shoulder tells you the attacker is lower than you and coming in close. Push their elbow down; it is the one lever you have."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

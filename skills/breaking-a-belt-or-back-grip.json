@@ -1,0 +1,41 @@
+{
+  "name": {
+    "en": "Breaking a belt or back grip"
+  },
+  "kind": "kumi-kata",
+  "techniques": [
+    "tani-otoshi",
+    "sumi-gaeshi"
+  ],
+  "grips": [
+    "belt-back",
+    "over-back"
+  ],
+  "about": {
+    "en": "A hand on your belt or over your shoulder onto your back means a lift is coming. Turning your hips away from the hand and dropping your level takes the hips out of reach, and a partner who has committed to the reach is leaning over you: the valley drop and the corner reversal are the answers from underneath."
+  },
+  "keyPoints": {
+    "en": [
+      "Turn the hips away from the hand and sink",
+      "Do not let them get chest to chest",
+      "A partner leaning over an empty reach is thrown backwards"
+    ]
+  },
+  "described": {
+    "en": [
+      "The moment a hand lands on your belt or your back, turn your hips away from it and lower your stance.",
+      "Keep your own grip on their sleeve so they cannot square up.",
+      "If they lean over you to keep the reach, drop under them into the valley drop or the corner reversal."
+    ]
+  },
+  "receiving": {
+    "en": "Your hand on their belt with their hips turning away and dropping means the lift is gone and you are leaning. Release and stand up before the sacrifice comes."
+  },
+  "viNotes": {
+    "en": "A hand on your belt or your back is unmistakable. Turn the hips away and sink in one movement, and feel whether their weight follows you over; if it does, the counter is underneath."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

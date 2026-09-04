@@ -1,0 +1,76 @@
+{
+  "name": {
+    "en": "Sleeve and lapel"
+  },
+  "hands": [
+    {
+      "role": "hikite",
+      "target": "sleeve-elbow"
+    },
+    {
+      "role": "tsurite",
+      "target": "lapel-mid"
+    }
+  ],
+  "stance": "either",
+  "throws": [
+    {
+      "technique": "seoi-nage",
+      "direction": "forward"
+    },
+    {
+      "technique": "tai-otoshi",
+      "direction": "forward"
+    },
+    {
+      "technique": "uchi-mata",
+      "direction": "forward"
+    },
+    {
+      "technique": "o-soto-gari",
+      "direction": "rear"
+    },
+    {
+      "technique": "o-uchi-gari",
+      "direction": "rear"
+    }
+  ],
+  "contest": {
+    "status": "allowed",
+    "note": {
+      "en": "The grip the rules call normal kumi-kata: one hand on the sleeve, one on the lapel, above the belt. No time limit before it attracts attention, and every other set is judged against it."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2"
+    ]
+  },
+  "about": {
+    "en": "The grip almost every technique in this reference is written from: pulling hand at the sleeve just below the elbow, lifting hand on the lapel at collarbone height. It reaches the throws in every direction, which is why it is taught first and why a contest between two people who both want it becomes a fight for the sleeve."
+  },
+  "keyPoints": {
+    "en": [
+      "Sleeve hand outside the elbow, lapel hand at collarbone height, thumb outside the cloth",
+      "Elbows down and close; a lifted elbow is an invitation",
+      "Take the sleeve first if you can: it is the harder of the two to win"
+    ]
+  },
+  "described": {
+    "en": [
+      "Face your partner in a natural stance, the same foot forward as theirs.",
+      "Take their sleeve with your pulling hand, the cloth just below the elbow, fingers wrapped and the thumb resting outside.",
+      "Take their lapel with your lifting hand at the height of the collarbone, thumb outside.",
+      "Drop both elbows so they hang close to your ribs, and feel their weight through both hands before you move."
+    ]
+  },
+  "receiving": {
+    "en": "Held this way you can feel exactly what they can: your posture through the lapel, your movement through the sleeve. A lapel hand that climbs is heading for the high collar; a sleeve hand that tightens is about to pull. Keep your own two grips level with theirs and the exchange stays even."
+  },
+  "viNotes": {
+    "en": "Every VI judo contest begins from this set already taken on both sides, so the reading of your partner through the two hands is the whole of the standing game before the first attack. Practise noticing which hand their weight arrives in."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

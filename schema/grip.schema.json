@@ -1,0 +1,293 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "$ref": "#/definitions/localisedText"
+    },
+    "hands": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 2,
+      "items": {
+        "type": "object",
+        "properties": {
+          "role": {
+            "type": "string",
+            "enum": ["tsurite", "hikite", "free"],
+            "description": "The lifting hand, the pulling hand, or a hand deliberately kept free."
+          },
+          "target": {
+            "type": "string",
+            "enum": ["sleeve-end", "sleeve-elbow", "sleeve-inside", "lapel-low", "lapel-mid", "lapel-high", "lapel-cross", "back", "belt-front", "belt-back", "under-arm", "head", "none"],
+            "description": "Where on uke the hand goes. \"none\" for a free hand."
+          },
+          "note": {
+            "$ref": "#/definitions/localisedText"
+          }
+        },
+        "required": ["role", "target"],
+        "additionalProperties": false
+      },
+      "description": "One entry per hand, the pulling hand first where both are placed."
+    },
+    "stance": {
+      "type": "string",
+      "enum": ["ai-yotsu", "kenka-yotsu", "either"],
+      "description": "Whether the set belongs to the same-stance game (ai-yotsu), the opposite-stance game (kenka-yotsu), or either."
+    },
+    "throws": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "technique": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]*$"
+          },
+          "direction": {
+            "type": "string",
+            "enum": ["forward", "rear", "side"],
+            "description": "Which way the throw takes uke from this grip."
+          },
+          "note": {
+            "$ref": "#/definitions/localisedText"
+          }
+        },
+        "required": ["technique", "direction"],
+        "additionalProperties": false
+      },
+      "description": "The throws this set feeds, so a technique page can list the grips that lead to it and this page the throws that follow from it. Empty when none has been written yet."
+    },
+    "contest": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "status": {
+              "type": "string",
+              "enum": ["allowed", "conditional"],
+              "description": "\"allowed\" where the rules take no interest in the grip; \"conditional\" where it is allowed with a positive attitude and penalised when used to block, bend or stall, and note says which."
+            },
+            "note": {
+              "$ref": "#/definitions/localisedText"
+            },
+            "sourceId": {
+              "type": "string",
+              "pattern": "^[a-z0-9][a-z0-9-]*$"
+            },
+            "articles": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          },
+          "required": ["status", "note", "sourceId", "articles"],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "What competition rules make of the grip, cited to a rulebook record in reference/ by sourceId and article, the same way a technique's contest field is. Null where nobody has checked."
+    },
+    "about": {
+      "$ref": "#/definitions/localisedText"
+    },
+    "keyPoints": {
+      "$ref": "#/definitions/localisedKeyPoints"
+    },
+    "described": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/localisedSteps"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Taking the set, hand by hand, written to be heard. Null where nobody has written it yet."
+    },
+    "receiving": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/localisedText"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "What it is like to be held this way, and what it takes from you. Null where nobody has written it yet."
+    },
+    "viNotes": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/localisedText"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Notes for visually impaired judoka, who begin every contest already gripped. Null where nobody has written them yet."
+    },
+    "videos": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/video"
+      }
+    },
+    "source": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "sourceId": {
+              "type": "string",
+              "pattern": "^[a-z0-9][a-z0-9-]*$"
+            },
+            "recordId": {
+              "type": "string",
+              "minLength": 1
+            },
+            "note": {
+              "$ref": "#/definitions/localisedText"
+            }
+          },
+          "required": ["sourceId"],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "The catalogue or document the set was read from, by the sourceId of a record in reference/. Null where it was written from practice."
+    }
+  },
+  "required": ["name", "hands", "stance", "throws", "contest", "about", "keyPoints", "described", "receiving", "viNotes", "videos", "source"],
+  "additionalProperties": false,
+  "definitions": {
+    "localisedText": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": ["en"],
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Text by BCP 47 language code; \"en\" required, other languages optional."
+    },
+    "localisedKeyPoints": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "minItems": 3,
+          "maxItems": 3,
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "required": ["en"],
+      "additionalProperties": {
+        "minItems": 3,
+        "maxItems": 3,
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "description": "Exactly three key points per language; \"en\" required."
+    },
+    "localisedSteps": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "minItems": 2,
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "required": ["en"],
+      "additionalProperties": {
+        "minItems": 2,
+        "type": "array",
+        "items": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "description": "Ordered steps per language (at least two); \"en\" required."
+    },
+    "video": {
+      "type": "object",
+      "properties": {
+        "provider": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        },
+        "platform": {
+          "type": "string",
+          "enum": ["youtube", "vimeo"]
+        },
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "start": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "note": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/localisedText"
+            }
+          ]
+        },
+        "duration": {
+          "type": "string",
+          "minLength": 1
+        },
+        "role": {
+          "type": "string",
+          "minLength": 1
+        },
+        "recommended": {
+          "default": false,
+          "type": "boolean"
+        },
+        "lang": {
+          "type": "string"
+        },
+        "captions": {
+          "type": "boolean"
+        },
+        "spokenInstruction": {
+          "type": "boolean"
+        }
+      },
+      "required": ["provider", "platform", "id", "title"]
+    }
+  },
+  "title": "grip",
+  "description": "One grip-set: a two-hand (or one-hand) configuration on uke, which stance game it belongs to, the throws it feeds and what the rules make of it. The grip id is the filename. Like a technique record, every field is present in every file, in the order listed here: a field nobody has written yet is null, never absent."
+}

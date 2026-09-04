@@ -1,0 +1,42 @@
+{
+  "name": {
+    "en": "Breaking a two on one"
+  },
+  "kind": "kumi-kata",
+  "techniques": [
+    "o-uchi-gari",
+    "seoi-nage"
+  ],
+  "grips": [
+    "two-on-one",
+    "russian"
+  ],
+  "about": {
+    "en": "Both of your partner's hands on one of your arms leaves you a free hand and them none. Pulling the held elbow back to your hip shortens their lever and turning in towards the held arm faces them again; the free hand takes a grip as you turn, and the major inner reap or the shoulder throw follows while they still have two hands on one arm."
+  },
+  "keyPoints": {
+    "en": [
+      "Pull the held elbow back to your hip",
+      "Turn in towards the held arm to face them",
+      "The free hand grips as you turn, and the attack follows"
+    ]
+  },
+  "described": {
+    "en": [
+      "Draw the elbow of the held arm back and down to your own hip.",
+      "Turn your body in towards that arm so you face your partner squarely.",
+      "Take a lapel or sleeve with your free hand as you turn.",
+      "Attack while both of their hands are still on one arm."
+    ]
+  },
+  "receiving": {
+    "en": "The held elbow pulling back to their hip and their body turning to face you takes the angle out of your two on one. Let one hand go and take a second grip before they attack, or you have two hands on one arm and nothing else."
+  },
+  "viNotes": {
+    "en": "Two hands on one of your arms is a clear feeling and so is the answer: pull that elbow to your hip and turn towards it. Your free hand finds their collar as you come round."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

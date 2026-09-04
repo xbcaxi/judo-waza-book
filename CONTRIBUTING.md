@@ -526,12 +526,54 @@ like techniques, and they live in `skills/<slug>.json`:
 }
 ```
 
-`kind` is `ukemi`, `kumi-kata`, `escape` or `turnover`. `nameRomaji` and
+`kind` is `ukemi`, `kumi-kata`, `escape` or `turnover`. A `kumi-kata` skill is
+a grip PLAN (how a set is reached) or a grip BREAK (how one is removed), and
+names the grip-sets it works with in `grips`; the sets themselves live in
+`grips/`, below. `nameRomaji` and
 `nameJa` are for skills judo names in Japanese; leave them out for ones it
 names only in English ("bridge-and-roll escape"). `techniques` lists the
 techniques the skill is performed against or arrives in. `described` is
 REQUIRED on a skill: a skill with no narration is exactly the gap this
 collection exists to close.
+
+## Add a grip-set
+
+Create `grips/<slug>.json`. A grip-set is a configuration of hands on uke, not
+a skill: the sleeve-and-lapel, the high collar, two on one. It records where
+each hand goes, which stance game it belongs to, the throws it feeds and what
+the rules make of it, and the site lists it on every technique it feeds.
+
+```json
+{
+  "name": { "en": "High collar" },
+  "hands": [
+    { "role": "hikite", "target": "sleeve-elbow" },
+    { "role": "tsurite", "target": "lapel-high", "note": { "en": "Deep behind the neck, the oku-eri." } }
+  ],
+  "stance": "ai-yotsu",
+  "throws": [
+    { "technique": "o-soto-gari", "direction": "rear" },
+    { "technique": "harai-goshi", "direction": "forward" }
+  ],
+  "contest": { "status": "conditional", "note": { "en": "Allowed with a positive attitude; used to force the head down it draws a shido." }, "sourceId": "ijf-sor-2026", "articles": ["18.1.2"] },
+  "about": { "en": "What the set controls and which throws follow from it." },
+  "keyPoints": { "en": ["Three", "key", "points"] },
+  "described": { "en": ["Taking the set, hand by hand.", "Written to be heard."] },
+  "receiving": { "en": "What being held this way takes from you, and the first thing to do about it." },
+  "viNotes": { "en": "How the set is recognised by touch." },
+  "videos": [],
+  "source": { "sourceId": "kumikata-schema-2026" }
+}
+```
+
+`role` is `tsurite` (the lifting hand), `hikite` (the pulling hand) or `free`.
+`target` is one of the places on uke a hand can go, from the fixed list in
+`reference/kumikata-schema-2026.json`. `stance` is `ai-yotsu`, `kenka-yotsu` or
+`either`. `contest` follows the same shape as a technique's, with `allowed` and
+`conditional` as its two states, because the rulebook takes no interest in
+some grips and admits others only while they are attacking. Every field is
+present in the order shown; `described`, `receiving` and `viNotes` are null
+when unwritten.
 
 ## Add a combination, counter, transition or chain
 

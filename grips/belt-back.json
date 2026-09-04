@@ -1,0 +1,70 @@
+{
+  "name": {
+    "en": "Sleeve and back belt"
+  },
+  "hands": [
+    {
+      "role": "hikite",
+      "target": "sleeve-elbow"
+    },
+    {
+      "role": "tsurite",
+      "target": "belt-back",
+      "note": {
+        "en": "Over or round the arm to the belt behind."
+      }
+    }
+  ],
+  "stance": "either",
+  "throws": [
+    {
+      "technique": "tsuri-goshi",
+      "direction": "forward"
+    },
+    {
+      "technique": "ura-nage",
+      "direction": "rear"
+    },
+    {
+      "technique": "ushiro-goshi",
+      "direction": "rear"
+    }
+  ],
+  "contest": {
+    "status": "conditional",
+    "note": {
+      "en": "A belt grip is allowed with a positive attitude and time to prepare an attack. Held without attacking, it draws a shido; clasping both hands round the body from here is a bear hug and draws a shido too."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2"
+    ]
+  },
+  "about": {
+    "en": "The lifting hand reaches round to the belt at the back. It is the grip of the lifting throws and of the counters that pick a partner up bodily: the rear throw and the rear hip throw. Reaching it means getting close, which is why it is most often taken in the middle of a partner's own attack."
+  },
+  "keyPoints": {
+    "en": [
+      "Reach round the body, over the arm or under it, to the belt behind",
+      "Draw their hips onto yours: this is a lifting grip",
+      "Do not clasp your hands; a closed circle round the body is a penalty"
+    ]
+  },
+  "described": {
+    "en": [
+      "From close range, reach your lifting arm round your partner's body, over their arm, to the belt at the back.",
+      "Grip the belt palm down and draw their hips against you.",
+      "Drop your own hips below theirs before lifting."
+    ]
+  },
+  "receiving": {
+    "en": "An arm round your back to the belt means you are about to be lifted. Sink your hips, widen your feet and get your own hand to their belt or the mat before it happens."
+  },
+  "viNotes": {
+    "en": "An arm reaching round your back is one of the clearest touches in judo, and it always means a lift. Sink at once."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

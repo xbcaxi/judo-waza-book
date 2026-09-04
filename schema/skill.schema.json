@@ -35,6 +35,15 @@
         "minLength": 1
       }
     },
+    "grips": {
+      "default": [],
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "description": "For a kumi-kata skill, the grip-sets in grips/ it takes or breaks, so a grip page can list the plans that reach it."
+    },
     "about": {
       "$ref": "#/definitions/localisedText"
     },
@@ -70,6 +79,34 @@
           "$ref": "#/definitions/imageRef"
         }
       ]
+    },
+    "source": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "sourceId": {
+              "type": "string",
+              "pattern": "^[a-z0-9][a-z0-9-]*$"
+            },
+            "recordId": {
+              "type": "string",
+              "minLength": 1
+            },
+            "note": {
+              "$ref": "#/definitions/localisedText"
+            }
+          },
+          "required": [
+            "sourceId"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "The catalogue or document the skill was read from, by the sourceId of a record in reference/. Optional; absent or null where it was written from practice."
     }
   },
   "required": [

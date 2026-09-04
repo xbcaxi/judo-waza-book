@@ -1,0 +1,43 @@
+{
+  "name": {
+    "en": "Lapel first, the classical way"
+  },
+  "kind": "kumi-kata",
+  "techniques": [
+    "uchi-mata",
+    "harai-goshi",
+    "o-soto-gari"
+  ],
+  "grips": [
+    "standard",
+    "high-collar"
+  ],
+  "about": {
+    "en": "The older plan: take the lapel first, use it to set your partner's posture, and let the sleeve follow. The lifting hand goes on early and climbs as high as the exchange allows, to the high collar if it can; a partner whose head is controlled gives up the sleeve to get it back."
+  },
+  "keyPoints": {
+    "en": [
+      "Lapel first, as high as the exchange allows",
+      "Use the lapel to set their posture before you take the sleeve",
+      "The sleeve comes when they reach to fight the lapel"
+    ]
+  },
+  "described": {
+    "en": [
+      "Take your partner's lapel with your lifting hand as soon as you are in range, at chest height or above.",
+      "Draw them towards you and down with that hand, so their posture bends.",
+      "When they raise an arm to fight the lapel grip, take the sleeve of that arm.",
+      "Climb the lapel to the collar if their head is still up, and attack from the grip you reach."
+    ]
+  },
+  "receiving": {
+    "en": "A lapel taken early and used to bend you is the start of a lapel-first plan; the sleeve grab follows the moment you reach for the hand. Straighten your posture first and reach for their sleeve second."
+  },
+  "viNotes": {
+    "en": "The pull on your lapel comes before anything touches your arm, and it tells you where their lifting hand is. Their sleeve is on the same side as that pull."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

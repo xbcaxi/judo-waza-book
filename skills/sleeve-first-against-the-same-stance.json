@@ -1,0 +1,44 @@
+{
+  "name": {
+    "en": "Sleeve first against the same stance"
+  },
+  "kind": "kumi-kata",
+  "techniques": [
+    "ippon-seoi-nage",
+    "ko-uchi-gari",
+    "seoi-nage"
+  ],
+  "grips": [
+    "sleeve-only",
+    "standard"
+  ],
+  "about": {
+    "en": "Against a partner in the same stance, whoever wins the sleeve wins the exchange, so this plan takes it before anything else. The free hand posts on their lead shoulder to keep their lapel grip off while you circle to their sleeve side; once the sleeve is caught the attack goes straight from it, and the lapel is added only if the throw needs it."
+  },
+  "keyPoints": {
+    "en": [
+      "Post on the lead shoulder to deny their lapel hand",
+      "Circle towards the sleeve side, then capture above the elbow",
+      "Repost every time they clear it; attack the moment the sleeve is yours"
+    ]
+  },
+  "described": {
+    "en": [
+      "Put your lifting hand flat on your partner's lead shoulder, arm slightly bent, so their lifting hand cannot reach your lapel.",
+      "Move sideways towards the side of their sleeve hand, keeping the post in place.",
+      "Take their sleeve above the elbow with your pulling hand and draw it towards your hip.",
+      "If they knock the post off, put it back before doing anything else.",
+      "Attack from the sleeve alone, or add the lapel as you turn in."
+    ]
+  },
+  "receiving": {
+    "en": "A hand on your shoulder that will not let you grip, and a partner circling towards your sleeve hand, is a sleeve-first plan. Clear the post with your forearm and take their lapel in the same movement, or their sleeve grip arrives before yours."
+  },
+  "viNotes": {
+    "en": "You will feel the post as a flat hand on your shoulder that moves when you move. The circle tells you which of your arms they want: it is the one you feel them travelling towards."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

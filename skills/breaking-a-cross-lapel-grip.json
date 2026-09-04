@@ -1,0 +1,41 @@
+{
+  "name": {
+    "en": "Breaking a cross-lapel grip"
+  },
+  "kind": "kumi-kata",
+  "techniques": [
+    "ippon-seoi-nage",
+    "tai-otoshi"
+  ],
+  "grips": [
+    "cross-lapel"
+  ],
+  "about": {
+    "en": "A cross grip puts your partner's arm diagonally across their own body, and a straight crossing arm is a lever. Bringing your elbow over it and pinning it to your chest breaks the angle, and turning your shoulder in does the same; either leaves their arm across their body and your throw towards it."
+  },
+  "keyPoints": {
+    "en": [
+      "Elbow over the crossing arm, then pin it to your chest",
+      "Or turn your gripped shoulder in and their angle is gone",
+      "The trapped arm is the one you throw on"
+    ]
+  },
+  "described": {
+    "en": [
+      "Lift the elbow on the gripped side over your partner's crossing arm.",
+      "Drop the elbow and pin their arm against your chest.",
+      "Or turn the gripped shoulder in towards them so their grip loses its angle.",
+      "Attack on the arm you have trapped."
+    ]
+  },
+  "receiving": {
+    "en": "Their elbow coming over your crossing arm and dropping onto it pins your arm across your own chest. Let go before it is pinned and re-grip on the near side."
+  },
+  "viNotes": {
+    "en": "You can feel the diagonal of their arm across your chest; the elbow goes over it at the point nearest your shoulder. Once pinned, their arm is under your hand and the throw is on that side."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

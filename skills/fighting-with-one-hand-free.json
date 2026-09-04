@@ -1,0 +1,41 @@
+{
+  "name": {
+    "en": "Fighting with one hand free"
+  },
+  "kind": "kumi-kata",
+  "techniques": [
+    "seoi-nage",
+    "ko-uchi-gari",
+    "de-ashi-harai"
+  ],
+  "grips": [
+    "sleeve-only"
+  ],
+  "about": {
+    "en": "A plan that never takes a second grip. One hand holds the sleeve and the other stays free to post, fend, feed and steal, and the attacks are the ones a single sleeve is enough for: the drop shoulder throw, the minor inner reap and the foot sweep, each taken the instant the free hand has cleared the way."
+  },
+  "keyPoints": {
+    "en": [
+      "The free hand is never idle: post, fend, steal",
+      "Every attack is one a sleeve alone can throw",
+      "Change grips before they settle, not after"
+    ]
+  },
+  "described": {
+    "en": [
+      "Take your partner's sleeve above the elbow with your pulling hand and keep the other hand off the jacket.",
+      "Use the free hand to knock their lifting hand off your lapel each time it lands, and to keep their shoulder turned.",
+      "Pull the sleeve to move them, and attack the moment their weight arrives where the pull sends it, the free hand joining only as you turn in."
+    ]
+  },
+  "receiving": {
+    "en": "A partner who holds one sleeve and refuses to take a second grip is playing tempo, and a referee will notice too. Take your own grip through the fending hand, and expect the attack at the exact moment you succeed."
+  },
+  "viNotes": {
+    "en": "One hand on your sleeve and a second hand that touches, pushes and leaves without gripping is this plan. The attack comes when the free hand stops fending, so treat every clearance as a warning."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

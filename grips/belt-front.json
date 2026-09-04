@@ -1,0 +1,63 @@
+{
+  "name": {
+    "en": "Sleeve and front belt"
+  },
+  "hands": [
+    {
+      "role": "hikite",
+      "target": "sleeve-elbow"
+    },
+    {
+      "role": "tsurite",
+      "target": "belt-front"
+    }
+  ],
+  "stance": "either",
+  "throws": [
+    {
+      "technique": "tsuri-goshi",
+      "direction": "forward"
+    },
+    {
+      "technique": "uki-waza",
+      "direction": "side"
+    }
+  ],
+  "contest": {
+    "status": "conditional",
+    "note": {
+      "en": "A belt grip is allowed with a positive attitude and time is given to prepare an attack. Held without attacking, it draws a shido."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2"
+    ]
+  },
+  "about": {
+    "en": "The lifting hand takes the belt at the front instead of the lapel. It moves the hips directly, which the lapel never does, and the throws it feeds are the ones that lift or drop the whole body: the lifting hip throw and the floating throw."
+  },
+  "keyPoints": {
+    "en": [
+      "Grip the knot side of the belt, palm down",
+      "The belt hand lifts the hips; the sleeve hand turns the shoulders",
+      "Attack at once, or the grip is a stalling penalty"
+    ]
+  },
+  "described": {
+    "en": [
+      "From the sleeve grip, drop your lifting hand from the lapel to the belt at the front, gripping the cloth palm down.",
+      "Draw their hips towards your own with that hand while the sleeve hand keeps their shoulders turning.",
+      "Lift or drop as the throw requires."
+    ]
+  },
+  "receiving": {
+    "en": "A hand on your belt is a hand on your hips, and your hips are what every throw moves. Turn your hips away from that hand and lower your stance until it is broken."
+  },
+  "viNotes": {
+    "en": "A hand at the belt is easy to place from the feel of your own knot. Expect to be lifted or drawn forward by the hips rather than turned by the shoulders."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "name": {
+    "en": "Sleeve and over the back"
+  },
+  "hands": [
+    {
+      "role": "hikite",
+      "target": "sleeve-elbow"
+    },
+    {
+      "role": "tsurite",
+      "target": "back",
+      "note": {
+        "en": "Over the shoulder onto the back of the jacket."
+      }
+    }
+  ],
+  "stance": "ai-yotsu",
+  "throws": [
+    {
+      "technique": "tsuri-goshi",
+      "direction": "forward"
+    },
+    {
+      "technique": "o-soto-gari",
+      "direction": "rear"
+    },
+    {
+      "technique": "harai-goshi",
+      "direction": "forward"
+    },
+    {
+      "technique": "uchi-mata",
+      "direction": "forward"
+    }
+  ],
+  "contest": {
+    "status": "allowed",
+    "note": {
+      "en": "A jacket grip anywhere above the belt is allowed. Used to force the head down, it draws a shido like any other."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2"
+    ]
+  },
+  "about": {
+    "en": "The lifting arm goes over the shoulder and takes the back of the jacket. It is a taller judoka's grip and a close one: the arm across the shoulders controls the upper body completely, and the throws are the big forward ones and the major outer reap."
+  },
+  "keyPoints": {
+    "en": [
+      "The arm lies across the shoulders; the hand grips the back, not the collar",
+      "Get chest to chest; this grip does not work at arm's length",
+      "The reach exposes your own side; attack before it is used"
+    ]
+  },
+  "described": {
+    "en": [
+      "From the sleeve grip, swing your lifting arm over your partner's shoulder on the lapel side.",
+      "Take the back of the jacket between the shoulder blades, as far across as you can reach.",
+      "Draw them chest to chest with the arm across their shoulders and attack."
+    ]
+  },
+  "receiving": {
+    "en": "An arm over your shoulder onto your back pins your upper body to theirs. Their side under that arm is open: drive your head into their chest and attack under the arm before they do."
+  },
+  "viNotes": {
+    "en": "The weight of an arm across the top of your shoulders is easy to place, and it means the attacker is close and tall. The attack comes from the side the arm went over."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

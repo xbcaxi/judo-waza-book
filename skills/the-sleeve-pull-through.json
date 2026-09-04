@@ -1,0 +1,43 @@
+{
+  "name": {
+    "en": "The sleeve pull-through"
+  },
+  "kind": "kumi-kata",
+  "techniques": [
+    "ippon-seoi-nage",
+    "sumi-gaeshi",
+    "ko-uchi-gari"
+  ],
+  "grips": [
+    "two-on-one",
+    "sleeve-only"
+  ],
+  "about": {
+    "en": "Against the opposite stance, the pull-through drags your partner's sleeve straight across your body and turns their shoulder past you, taking the lapel hand out of the fight and leaving both of your hands on one of their arms. From there the one-arm shoulder throw and the corner reversal are a step away."
+  },
+  "keyPoints": {
+    "en": [
+      "Take the sleeve, then pull it across your body, not towards it",
+      "Turn your own shoulders with the pull so their arm crosses your chest",
+      "The second hand joins on the same arm as it crosses"
+    ]
+  },
+  "described": {
+    "en": [
+      "Facing a partner in the opposite stance, take their lead sleeve above the elbow with your pulling hand.",
+      "Step back on that side and drag the sleeve across your body, turning your shoulders so their arm is pulled across your chest.",
+      "Add your other hand to the same arm as it crosses, at the cuff or behind the elbow.",
+      "Attack on the held arm while their shoulder is turned past you."
+    ]
+  },
+  "receiving": {
+    "en": "Your sleeve dragged across their body turns your shoulder past them and takes your other hand out of reach. Step round with the pull rather than resisting it, and get your free hand to their collar before the second hand arrives on your arm."
+  },
+  "viNotes": {
+    "en": "The pull-through is felt as your arm being drawn across in front of you and your shoulder turning after it. Follow the pull with your feet, and know where their collar is so the free hand finds it."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

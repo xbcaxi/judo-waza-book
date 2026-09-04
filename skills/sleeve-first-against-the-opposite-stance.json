@@ -1,0 +1,43 @@
+{
+  "name": {
+    "en": "Sleeve first against the opposite stance"
+  },
+  "kind": "kumi-kata",
+  "techniques": [
+    "ippon-seoi-nage",
+    "ko-uchi-gari",
+    "sumi-gaeshi"
+  ],
+  "grips": [
+    "sleeve-only",
+    "cross-lapel"
+  ],
+  "about": {
+    "en": "Right against left, both lead hands reach for the same lapel and the sleeves are on the far side. This plan still takes the sleeve first, but the post goes on the near arm rather than the shoulder and the circle is wider, and the lapel that follows is usually the cross one because it is the lapel you can reach."
+  },
+  "keyPoints": {
+    "en": [
+      "Post on their lead arm, above the elbow, to keep it off your lapel",
+      "Circle to the outside of that arm to reach the sleeve",
+      "The lapel you add is the cross lapel; attack away from it"
+    ]
+  },
+  "described": {
+    "en": [
+      "Facing a partner in the opposite stance, put your lifting hand on the outside of their lead arm above the elbow and keep it there.",
+      "Step to the outside of that arm so their sleeve comes within reach of your pulling hand.",
+      "Take the sleeve above the elbow and draw it across your body.",
+      "Add the cross lapel with the posting hand if the throw wants it, and attack towards the sleeve side."
+    ]
+  },
+  "receiving": {
+    "en": "In the opposite stance a hand posted on your lead arm is stopping you reaching the lapel you both want. Turn your lead shoulder in and reach under the post for the sleeve instead; the exchange is a race for the same two grips."
+  },
+  "viNotes": {
+    "en": "Opposite stance means their lead arm meets yours directly, so the post arrives on your arm rather than your shoulder. Feel for which way they circle: it is towards your sleeve hand."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}

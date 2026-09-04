@@ -1,0 +1,75 @@
+{
+  "name": {
+    "en": "Two on one"
+  },
+  "hands": [
+    {
+      "role": "hikite",
+      "target": "sleeve-elbow"
+    },
+    {
+      "role": "tsurite",
+      "target": "sleeve-end",
+      "note": {
+        "en": "The same sleeve, at the cuff."
+      }
+    }
+  ],
+  "stance": "either",
+  "throws": [
+    {
+      "technique": "ippon-seoi-nage",
+      "direction": "forward"
+    },
+    {
+      "technique": "sumi-gaeshi",
+      "direction": "forward"
+    },
+    {
+      "technique": "ko-uchi-gari",
+      "direction": "rear"
+    },
+    {
+      "technique": "tani-otoshi",
+      "direction": "rear"
+    }
+  ],
+  "contest": {
+    "status": "conditional",
+    "note": {
+      "en": "A one-side grip is allowed with a positive attitude and time to prepare an attack. Holding it defensively, or holding the sleeve end for defence, draws a shido."
+    },
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "18.1.2"
+    ]
+  },
+  "about": {
+    "en": "Both of your hands on one of your partner's arms, one at the elbow and one at the cuff. Their other arm is free and yours are both committed, so the position only works while it is attacking: the one-arm shoulder throw on the held arm, or the corner reversal and the valley drop when they pull it back."
+  },
+  "keyPoints": {
+    "en": [
+      "Elbow hand does the pulling, cuff hand keeps the arm straight",
+      "Their free hand is the danger; stay off its centre line",
+      "Attack the arm you hold, in the direction they resist"
+    ]
+  },
+  "described": {
+    "en": [
+      "Take your partner's sleeve at the elbow with your pulling hand.",
+      "Add your other hand at the same sleeve's cuff, so both hands hold one arm.",
+      "Draw the arm across your body to turn their shoulder towards you.",
+      "Throw on the held arm before their free hand finds a grip."
+    ]
+  },
+  "receiving": {
+    "en": "Both of their hands on one of your arms leaves you a free hand and them none. Use it: take a grip with it before they attack, and pull the held elbow back towards your hip to shorten their lever."
+  },
+  "viNotes": {
+    "en": "Two hands on one of your sleeves and nothing on the rest of you is an unmistakable feeling. Your free hand is the answer; know where their collar is without looking."
+  },
+  "videos": [],
+  "source": {
+    "sourceId": "kumikata-schema-2026"
+  }
+}
