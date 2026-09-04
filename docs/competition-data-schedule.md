@@ -43,7 +43,10 @@ tables the site renders. Both now land together.
 fraction of the sport. Any table losing more than a tenth of its rows fails the
 run.
 
-The guard passes on real data. Its failing path has not been exercised.
+The guard passes on real data, and its failing path is exercised now: the
+rule lives in `tools/ijf-results/lib/shrink.mjs` with tests over both paths,
+including the 70,372-rows-to-7 shape the incident had, and the workflow runs
+it as `tools/ijf-results/shrink-check.mjs`.
 
 ## Remaining
 
