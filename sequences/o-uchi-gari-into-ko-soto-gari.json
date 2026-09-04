@@ -6,6 +6,7 @@
   ],
   "trigger": "steps-around",
   "direction": "same",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who steps round the major inner reap has put the foot down beside you with weight on the heel. Reaping that heel from the outside takes it."
   },

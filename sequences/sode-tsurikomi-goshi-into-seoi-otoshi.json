@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": "same",
+  "resolvesTo": null,
   "about": {
     "en": "When the sleeve-lifting hip throw stalls at the top, dropping to the knees under the lifted sleeve turns it into the dropping shoulder throw."
   },

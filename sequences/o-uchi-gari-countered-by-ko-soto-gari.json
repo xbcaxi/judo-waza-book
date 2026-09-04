@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "Escaping the inner reap loads your partner's outside foot. Reaping the outside of that foot answers on the opposite line, while they are still turned in from their own attack."
   },

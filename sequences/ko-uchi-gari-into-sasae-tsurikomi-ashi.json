@@ -6,6 +6,7 @@
   ],
   "trigger": "steps-over",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who steps forward through the minor inner reap has weight arriving on the front foot. Propping that ankle and wheeling them over it uses the step."
   },

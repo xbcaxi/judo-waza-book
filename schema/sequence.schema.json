@@ -58,6 +58,18 @@
       ],
       "description": "Whether the second technique throws the same way as the first (a continuation, renzoku-waza), the opposite way (a change of direction, renraku-waza) or across it. Recorded as the physical fact because sources draw the two words differently. Null where unstated."
     },
+    "resolvesTo": {
+      "anyOf": [
+        {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Where the pairing is itself a named technique, the slug of that technique: its page carries the demonstration and the sequence needs no video of its own. Always the last technique in the list. Null otherwise."
+    },
     "about": {
       "$ref": "#/definitions/localisedText"
     },
@@ -137,6 +149,7 @@
     "techniques",
     "trigger",
     "direction",
+    "resolvesTo",
     "about",
     "described",
     "receiving",

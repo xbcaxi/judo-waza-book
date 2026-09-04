@@ -16,3 +16,13 @@ wazabook-pronunciation.csv
 
 # Derived from the collections by npm run pronunciation:lexicon.
 wazabook-lexicon.xml
+
+# The video pipeline's working files: a crawl of YouTube metadata, the review
+# sheet and the approvals. What a reviewer approves reaches sequences/ and
+# grips/ through tools/video-pipeline/apply_approved.py; the crawl itself is
+# never committed.
+tools/video-pipeline/candidates.sqlite
+tools/video-pipeline/edges.csv
+tools/video-pipeline/review.csv
+tools/video-pipeline/approved.json
+tools/video-pipeline/__pycache__/

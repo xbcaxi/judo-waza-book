@@ -6,6 +6,7 @@
   ],
   "trigger": "steps-over",
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "A partner sweeping at your foot with the lifting-pulling sweep is standing on one leg. Stepping over the sweep and reaping that leg from the outside sends them backwards."
   },

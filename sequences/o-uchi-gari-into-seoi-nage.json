@@ -6,6 +6,7 @@
   ],
   "trigger": "pulls-back",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "The back-then-front pair every club drills. A partner who steps back from the major inner reap pushes forward to recover; turning in under the arms takes them over the shoulder with that push."
   },

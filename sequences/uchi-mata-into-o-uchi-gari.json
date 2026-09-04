@@ -6,6 +6,7 @@
   ],
   "trigger": "bends-forward",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who drops the hips and bends forward to stop the inner thigh throw has the rear leg planted beneath them. Bringing the sweeping leg down and reaping that leg from the inside takes them backwards."
   },

@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "The wheel needs your weight on the blocked leg; lifting it over the blocking foot leaves the attacker balanced on one heel, and the small inner reap takes it."
   },

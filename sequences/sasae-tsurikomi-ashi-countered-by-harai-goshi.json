@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "A partner propping your ankle has pulled you towards them. Stepping past the prop and turning in to sweep the thigh uses the pull."
   },

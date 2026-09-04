@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "Hooking and reaping attack the same leg on the same line. If your partner hops free of the hook, the leg is momentarily unweighted and can be reaped as it lands."
   },

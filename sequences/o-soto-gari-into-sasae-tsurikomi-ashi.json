@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "Defending the outer reap, your partner drags the attacked leg back and drives forward; the propping foot catches that drive at the ankle and wheels them over it."
   },

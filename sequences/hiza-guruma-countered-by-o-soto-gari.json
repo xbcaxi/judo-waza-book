@@ -6,6 +6,7 @@
   ],
   "trigger": "steps-over",
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "A partner propping your knee is standing on one leg. Stepping over the propping foot and reaping that supporting leg from the outside takes them backwards."
   },

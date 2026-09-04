@@ -7,6 +7,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "Three reaps in a row, each fed by the escape from the last: inside, then outside, then the small outside reap as the retreating heel finally runs out of mat."
   },

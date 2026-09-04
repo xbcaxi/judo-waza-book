@@ -6,6 +6,7 @@
   ],
   "trigger": "steps-around",
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "Stepping round a partner turned in for the hip wheel puts your leg behind both of theirs. Dropping backwards from there is the valley drop."
   },

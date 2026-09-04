@@ -6,6 +6,7 @@
   ],
   "trigger": "blocks-hip",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who stiffens and drops the hips against the lift has weight on the near heel. Reaping it from the inside takes the leg they are braced on."
   },

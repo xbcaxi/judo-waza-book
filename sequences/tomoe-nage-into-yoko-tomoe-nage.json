@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": "lateral",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who braces straight back against the circle throw is not coming over the top. Rolling to one side instead, foot still on the belt, is the side circle throw."
   },

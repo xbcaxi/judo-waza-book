@@ -6,6 +6,7 @@
   ],
   "trigger": "blocks-hip",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who stiffens the arm and blocks the hip has their weight on the near heel. Reaping it from the inside with a small step takes the leg they are braced on."
   },

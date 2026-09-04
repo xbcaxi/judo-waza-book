@@ -6,6 +6,7 @@
   ],
   "trigger": "weight-shifts",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "When your partner steps back from the shoulder wheel, the near heel is light. Reaping it from the inside as you come up takes the leg they moved off."
   },

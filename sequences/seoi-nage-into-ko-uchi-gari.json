@@ -6,6 +6,7 @@
   ],
   "trigger": "weight-shifts",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who stiffens and sits back from the shoulder throw has their weight on the near heel. Reaping it from the inside as you come out of the turn takes it."
   },

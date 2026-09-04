@@ -6,6 +6,7 @@
   ],
   "trigger": "bends-forward",
   "direction": "same",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who bends forward over your back to stop the shoulder throw has their weight above you. Sitting back under them and lifting with the instep is the corner reversal."
   },

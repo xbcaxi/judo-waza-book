@@ -6,6 +6,7 @@
   ],
   "trigger": "pulls-back",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who pulls the foot back from the sweep leans forward to keep their balance. Turning in and putting your leg across their shin takes them over it with the lean."
   },

@@ -6,6 +6,7 @@
   ],
   "trigger": "pulls-back",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "The classical back-then-front pair reversed: a partner who sits back to stop the sweeping hip throw has loaded the rear leg. Reaping it from the inside sends them the way they were leaning."
   },

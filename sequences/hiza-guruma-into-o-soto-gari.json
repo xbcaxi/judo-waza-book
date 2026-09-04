@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "Front then back. The knee wheel draws their balance forward; when they brace back against it, their weight settles over their heels and the major outer reap arrives on the same side with the balance-breaking already done."
   },

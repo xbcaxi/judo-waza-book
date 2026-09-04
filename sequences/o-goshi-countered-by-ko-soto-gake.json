@@ -6,6 +6,7 @@
   ],
   "trigger": "blocks-hip",
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "Blocking the major hip throw leaves your partner's near heel beside your foot. Hooking it from the outside takes them backwards over it."
   },

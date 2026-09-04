@@ -6,6 +6,7 @@
   ],
   "trigger": "pulls-back",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who pulls the foot back from the prop has their weight going onto the other leg. Reaping that leg from the inside takes it."
   },

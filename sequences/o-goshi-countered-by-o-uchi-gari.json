@@ -6,6 +6,7 @@
   ],
   "trigger": "blocks-hip",
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "A hand on the hip stops the major hip throw with your partner's near leg between yours. Reaping it from the inside takes them backwards."
   },

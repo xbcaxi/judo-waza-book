@@ -6,6 +6,7 @@
   ],
   "trigger": "weight-shifts",
   "direction": "same",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who lifts the foot away from the advancing sweep puts all their weight on the other leg. Reaping that heel from the outside takes the leg they are standing on."
   },

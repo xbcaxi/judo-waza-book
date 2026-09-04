@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "The minor inner reap drops your partner straight back with you following in. Dropping the chest onto theirs as they land is the chest hold."
   },

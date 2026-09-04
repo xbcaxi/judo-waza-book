@@ -6,6 +6,7 @@
   ],
   "trigger": "steps-around",
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "Stepping round the sweeping leg of the inner thigh throw puts your leg behind your partner's standing one. Dropping backwards from there is the valley drop."
   },

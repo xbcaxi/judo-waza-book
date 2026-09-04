@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "A knee wheel needs your partner to be on one leg with the other extended as a block. Stepping past the block and reaping the inside of their supporting leg takes it away."
   },

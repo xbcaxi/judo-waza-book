@@ -6,6 +6,7 @@
   ],
   "trigger": "steps-around",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who steps round the shoulder throw has a foot beside yours with their weight on the heel. Reaping it from the outside takes them backwards."
   },

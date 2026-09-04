@@ -6,6 +6,7 @@
   ],
   "trigger": "pulls-back",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who sits back to stop the springing hip throw has left the rear leg planted and loaded. Reaping it from the inside takes them backwards."
   },

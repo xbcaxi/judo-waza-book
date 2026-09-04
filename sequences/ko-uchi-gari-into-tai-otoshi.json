@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "When the reap is answered by a backward step, the weight that returns forward can be sent over an extended leg instead. Tai-otoshi blocks rather than lifts, so it works even when they are heavy."
   },

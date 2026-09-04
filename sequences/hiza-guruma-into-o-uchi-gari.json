@@ -6,6 +6,7 @@
   ],
   "trigger": "pulls-back",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who sits back to stop the knee wheel has loaded the far leg. Reaping it from the inside takes them backwards."
   },

@@ -6,6 +6,7 @@
   ],
   "trigger": "pulls-back",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who braces backwards against the inner thigh throw is leaning away from you. Dropping to your side with a leg across their front takes them the way they leaned."
   },

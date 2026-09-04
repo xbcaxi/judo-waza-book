@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "A partner sweeping both feet has pulled you sideways towards them. Stepping over the sweep and turning in to sweep the thigh uses the pull."
   },

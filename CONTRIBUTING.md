@@ -596,6 +596,7 @@ validator checks:
   "techniques": ["o-uchi-gari", "tai-otoshi"],
   "trigger": "pulls-back",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": { "en": "One or two sentences: why this pair works." },
   "described": { "en": ["First step of the whole sequence.", "Second step.", "The landing, always last."] },
   "receiving": { "en": "The reaction the first technique draws out, the moment it changes, and how to land." },
@@ -616,9 +617,14 @@ opposite way (`opposite`, a change of direction) or across it (`lateral`), and
 is recorded as the physical fact because sources draw renraku-waza and
 renzoku-waza differently. `source` names the catalogue or published document
 the relationship was read from by the `sourceId` of a record in `reference/`;
-null where the pair was written from practice.
+null where the pair was written from practice. `resolvesTo` is set where the
+pairing is itself a named technique, such as o-soto-gari countered by
+o-soto-gaeshi: it names that technique, which must be the one the sequence
+ends in, and the sequence then needs no video of its own because the
+technique's page carries the demonstration. Null for the rest, which is most
+combinations and every transition.
 
-A sequence carries the same eleven fields in that order, whether or not
+A sequence carries the same twelve fields in that order, whether or not
 anyone has written them yet, exactly as a technique carries its twenty-five:
 `described`, `receiving` and `viNotes` are `null` when unwritten, never
 missing, and they follow the same conventions as they do on a technique

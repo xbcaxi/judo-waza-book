@@ -1,0 +1,42 @@
+# YouTube Data API v3 key: set YT_API_KEY in the environment, never here.
+
+# The working database and the CSV and JSON files beside it are gitignored:
+# they are a crawl, not content. What reaches the repository goes through
+# apply_approved.py into sequences/ and grips/.
+db: candidates.sqlite
+
+# Channels to index in full via playlistItems.list (1 unit per 50 videos).
+# Either channel_id or handle; index_channels.py resolves a handle and prints
+# the id to paste back. `trust` weights a channel's candidates in scoring.
+# Names should match video-providers/ where a provider exists, so an approved
+# video lands under the right provider.
+channels:
+  - name: Kodokan
+    channel_id: UCtF6tu7GuZYkZzht5MIv8UQ
+    trust: 1.0
+  - name: IJF Academy
+    handle: "@IJFAcademy"
+    trust: 0.9
+  - name: Efficient Judo
+    handle: "@EfficientJudo"
+    trust: 0.7
+  - name: Judo Encyclopedia
+    handle: "@JudoEncyclopedia"
+    trust: 0.6
+  - name: Judo Fanatics
+    handle: "@JudoFanatics"
+    trust: 0.7
+  - name: Shintaro Higashi
+    handle: "@ShintaroHigashi"
+    trust: 0.7
+  - name: Fighting Films
+    handle: "@FightingFilms"
+    trust: 0.6
+
+# search.list costs 100 units and the default quota is 10,000 a day.
+search_daily_budget: 90
+
+# Scoring. Videos over the limit lose a fifth of a point: a sequence is a few
+# seconds of footage and a long video needs a start time set on review.
+max_duration_seconds: 420
+min_score: 0.5

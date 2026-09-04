@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "Sliding sideways off the wheel puts the attacker's feet together in motion, which is precisely what the double sweep punishes."
   },

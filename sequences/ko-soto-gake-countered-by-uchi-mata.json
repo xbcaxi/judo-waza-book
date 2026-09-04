@@ -6,6 +6,7 @@
   ],
   "trigger": "lifts-leg",
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "A partner hooking your heel from the outside is standing on one leg beside you. Lifting the hooked leg out and sweeping it up between their thighs takes them over the leg they are standing on."
   },

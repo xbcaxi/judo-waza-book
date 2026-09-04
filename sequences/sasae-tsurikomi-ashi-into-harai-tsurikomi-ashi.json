@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": "same",
+  "resolvesTo": null,
   "about": {
     "en": "If your partner's foot slides past the prop, sweeping it on through with the same lifting pull is the lifting-pulling foot sweep."
   },

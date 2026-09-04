@@ -6,6 +6,7 @@
   ],
   "trigger": "lifts-leg",
   "direction": "same",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who lifts the hooked leg away from the minor outer hook is standing on the other leg. Reaping that leg from the inside takes them backwards before the foot comes down."
   },

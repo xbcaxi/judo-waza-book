@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "hane-goshi",
+    "sasae-tsurikomi-ashi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "about": {
+    "en": "As your partner turns in for the springing hip throw, their weight comes forward onto the leading foot. Propping that ankle and wheeling them over it before the spring takes them forward past the hip they meant to throw you over; the pair is the ninth of the gonosen-no-kata."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026",
+    "note": {
+      "en": "Named in the video shortlist that accompanied the catalogue, from the order of the gonosen-no-kata, rather than in the catalogue itself."
+    }
+  }
+}

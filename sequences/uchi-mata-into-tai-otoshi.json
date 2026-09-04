@@ -6,6 +6,7 @@
   ],
   "trigger": "pulls-back",
   "direction": "same",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who pulls off the sweeping leg by planting the other foot stays leaning forward. Dropping the sweeping leg across their shin turns the throw into the body drop."
   },

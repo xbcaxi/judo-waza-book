@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "o-uchi-gari",
+    "de-ashi-harai"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "about": {
+    "en": "A partner reaping from the inside is standing on one leg, and their weight is on it as the reap begins. Sweeping that supporting foot sideways before the reap bites takes the leg they stand on; the pair is the third of the gonosen-no-kata."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026",
+    "note": {
+      "en": "Named in the video shortlist that accompanied the catalogue, from the order of the gonosen-no-kata, rather than in the catalogue itself."
+    }
+  }
+}

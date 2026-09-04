@@ -600,7 +600,7 @@ for (const k of skills) {
  * leaving the field out, and the three written-for-the-ear fields sit in the
  * same order as they do on a technique. JSON Schema enforces the field SET;
  * only code can see the ORDER. */
-const sequenceFields = ['kind', 'techniques', 'trigger', 'direction', 'about', 'described', 'receiving', 'viNotes', 'videos', 'resolver', 'source'];
+const sequenceFields = ['kind', 'techniques', 'trigger', 'direction', 'resolvesTo', 'about', 'described', 'receiving', 'viNotes', 'videos', 'resolver', 'source'];
 
 /* Sequences: schema, naming, and every referenced technique must exist. */
 for (const q of sequences) {
@@ -618,6 +618,11 @@ for (const q of sequences) {
   for (const slug of q.data.techniques ?? []) {
     if (!slugs.has(slug)) problems.push(`sequences/${q.name}: unknown technique "${slug}"`);
     else categories.push(techniques.find((t) => t.slug === slug).data.category);
+  }
+  /* A sequence that resolves to a technique is saying its pairing IS that
+   * technique, so it can only be the one the sequence ends in. */
+  if (q.data.resolvesTo && q.data.resolvesTo !== q.data.techniques[q.data.techniques.length - 1]) {
+    problems.push(`sequences/${q.name}: resolvesTo "${q.data.resolvesTo}" is not the technique the sequence ends in`);
   }
   /* The kind must match what the techniques actually are, or the sequence
    * lists on the wrong page and is described with the wrong vocabulary. */

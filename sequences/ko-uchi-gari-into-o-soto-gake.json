@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "The inner reap sends them backwards on the same side you are about to attack from outside. O-soto-gake takes the leg they have just planted to stop themselves."
   },

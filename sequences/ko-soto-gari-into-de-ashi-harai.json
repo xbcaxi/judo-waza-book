@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "The small outer reap chases your partner into a step, and the stepping foot is swept as it advances."
   },

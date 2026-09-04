@@ -6,6 +6,7 @@
   ],
   "trigger": "pulls-back",
   "direction": "same",
+  "resolvesTo": null,
   "about": {
     "en": "A partner leaning forward after stepping back from the prop is taken by dropping under them: the dropping shoulder throw finishes the wheel that the prop began."
   },

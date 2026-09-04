@@ -6,6 +6,7 @@
   ],
   "trigger": "blocks-hip",
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "A partner who starts to turn in for the one-arm shoulder throw can be stopped with a hand on the hip. The turn they started has put their near leg between yours, and reaping it from the inside takes them backwards."
   },

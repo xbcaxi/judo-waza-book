@@ -6,6 +6,7 @@
   ],
   "trigger": "pulls-back",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who bends the knees and sits back to stop the shoulder throw has planted the rear leg. Reaping it from the inside as you turn back out sends them the way they pulled."
   },

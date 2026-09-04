@@ -6,6 +6,7 @@
   ],
   "trigger": "lifts-leg",
   "direction": "same",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who lifts the heel away from the minor outer reap is standing on one leg. Reaping that leg from the inside takes it before the other foot lands."
   },

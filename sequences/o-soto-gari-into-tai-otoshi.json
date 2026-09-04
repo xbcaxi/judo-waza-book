@@ -6,6 +6,7 @@
   ],
   "trigger": "pulls-back",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who pulls the leg back from the major outer reap leans forward to do it. Turning in and putting the leg across their shin takes them forward over it."
   },

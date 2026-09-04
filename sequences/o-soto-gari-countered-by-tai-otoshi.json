@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "When the major outer reap misses, your partner's reaping leg is out and their weight is forward. Turning in and putting your leg across their standing shin takes them over it."
   },

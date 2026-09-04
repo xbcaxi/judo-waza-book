@@ -6,6 +6,7 @@
   ],
   "trigger": "pulls-back",
   "direction": "same",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who sits back from the sweeping hip throw stays leaning forward once the sweep stops. Dropping the sweeping leg to the mat across their shin turns the same rotation into the body drop."
   },

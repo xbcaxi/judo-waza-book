@@ -6,6 +6,7 @@
   ],
   "trigger": "weight-shifts",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who stiffens against the sweep and shifts their weight to the far leg has left the near heel light. Reaping it from the inside takes them backwards."
   },

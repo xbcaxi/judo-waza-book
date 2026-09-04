@@ -6,6 +6,7 @@
   ],
   "trigger": "blocks-hip",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who drops their hips to stop the lifting-pulling hip throw has their weight back on the rear leg. Reaping it from the inside sends them backwards."
   },

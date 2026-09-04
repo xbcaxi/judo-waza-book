@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "The high sleeve lift stays exactly where it is; only the legs change, from the blocked hip entry to the sweeping thigh."
   },

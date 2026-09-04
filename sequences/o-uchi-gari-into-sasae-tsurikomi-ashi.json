@@ -6,6 +6,7 @@
   ],
   "trigger": "steps-around",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who steps round the major inner reap has their weight arriving on the front foot. Propping that ankle and wheeling them over it uses the step."
   },

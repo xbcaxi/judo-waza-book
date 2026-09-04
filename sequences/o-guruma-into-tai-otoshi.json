@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": "same",
+  "resolvesTo": null,
   "about": {
     "en": "When the major wheel stalls at your partner's thigh, dropping the leg lower across their shin turns the same rotation into the body drop."
   },

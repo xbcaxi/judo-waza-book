@@ -6,6 +6,7 @@
   ],
   "trigger": "pulls-back",
   "direction": "opposite",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who sits back from the sleeve-lifting hip throw has loaded the rear leg. Reaping it from the inside, sleeve still held high, takes them backwards."
   },

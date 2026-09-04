@@ -6,6 +6,7 @@
   ],
   "trigger": "pulls-back",
   "direction": "same",
+  "resolvesTo": null,
   "about": {
     "en": "A partner who resists the knee wheel by stepping back stays leaning forward over the blocking foot. Dropping that foot to the mat across their shin turns the wheel into the body drop."
   },

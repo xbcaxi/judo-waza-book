@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "When the prop misses, your partner's propping leg is extended and their weight is coming forward. Turning in and putting your leg across their standing shin takes them over it."
   },

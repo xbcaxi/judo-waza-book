@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "When the minor outer reap misses, your partner's reaping leg is out and their weight is on the front foot. Turning in and putting your leg across that shin takes them over it."
   },

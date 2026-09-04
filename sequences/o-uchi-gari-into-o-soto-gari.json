@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "Saving the leg from the inner reap loads the other one, and the loaded leg is reaped from the outside."
   },

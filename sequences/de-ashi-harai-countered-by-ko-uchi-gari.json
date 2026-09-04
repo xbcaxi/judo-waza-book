@@ -6,6 +6,7 @@
   ],
   "trigger": null,
   "direction": null,
+  "resolvesTo": null,
   "about": {
     "en": "A sweep that misses leaves your partner standing on one leg with their sweeping foot in the air. Reaping the leg they are standing on answers it directly."
   },
