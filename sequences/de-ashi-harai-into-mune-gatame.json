@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration tZMF8FXRMl4 on the record"
+  },
   "about": {
     "en": "The first throw-into-hold most juniors learn. A foot sweep lands your partner on their side beside you, which is a step from the chest hold if you keep the sleeve and follow them down."
   },

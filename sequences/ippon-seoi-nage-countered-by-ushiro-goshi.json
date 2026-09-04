@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who turns in for the one-arm shoulder throw with the arm not yet trapped has offered their back. Sinking below their hips, wrapping the waist and lifting takes the attack off the floor."
   },

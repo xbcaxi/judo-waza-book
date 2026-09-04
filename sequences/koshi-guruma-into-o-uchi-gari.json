@@ -7,6 +7,8 @@
   "trigger": "blocks-hip",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who blocks the hip wheel by pushing your hip away has stopped the turn with their weight back. Reaping the near leg from the inside takes them backwards."
   },

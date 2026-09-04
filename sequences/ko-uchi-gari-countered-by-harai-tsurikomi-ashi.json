@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration ynKHSNn1ILQ on the record"
+  },
   "about": {
     "en": "Withdrawing the reaped foot and sweeping the ankle they are standing on answers the minor inner reap on the same beat, before their weight has finished transferring."
   },

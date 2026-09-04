@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration _cCAytbmk3g on the record"
+  },
   "about": {
     "en": "Same reaction, reaping instead of hooking: when your partner defends the shoulder throw by sitting back, their near foot can be swept out from the inside before their weight returns to it."
   },

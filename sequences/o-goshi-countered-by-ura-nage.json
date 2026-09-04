@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "When the major hip throw stalls with your partner in front of you, wrapping the waist, dropping the hips and throwing yourself backwards takes them over your shoulder."
   },

@@ -7,6 +7,8 @@
   "trigger": "steps-over",
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner propping your ankle is standing on one leg. Stepping over the prop and reaping that leg from the outside sends them backwards."
   },

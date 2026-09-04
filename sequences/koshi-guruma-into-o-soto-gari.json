@@ -7,6 +7,8 @@
   "trigger": "steps-around",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who steps round the hip wheel has put a foot down outside you with their weight on it. Reaping that leg from the outside, arm still round the neck, takes them backwards."
   },

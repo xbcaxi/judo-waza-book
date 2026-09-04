@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration H0e7XRqywts on the record"
+  },
   "about": {
     "en": "The small inner reap draws your partner's foot back and settles their weight forward and low, creating the opening for the shoulder throw."
   },

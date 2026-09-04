@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "The side separation lands your partner across your body. Turning onto their chest with an arm under the neck and one through the legs is the side four-quarters."
   },

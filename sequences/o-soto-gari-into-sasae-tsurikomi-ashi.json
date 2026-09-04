@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration _cCAytbmk3g on the record"
+  },
   "about": {
     "en": "Defending the outer reap, your partner drags the attacked leg back and drives forward; the propping foot catches that drive at the ankle and wheels them over it."
   },

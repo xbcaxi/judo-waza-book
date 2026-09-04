@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration 5bTdzQdgUSg on the record"
+  },
   "about": {
     "en": "One of the first combinations most syllabuses teach: the failed inner reap makes your partner load the very leg the major outer reap takes away."
   },

@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration _cCAytbmk3g on the record"
+  },
   "about": {
     "en": "The hooking leg commits the attacker close and square; turning in and dropping the blocking leg across their shin turns their hook into your body drop."
   },

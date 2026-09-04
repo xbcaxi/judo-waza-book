@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": "same",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "When the reap stalls against a strong leg, planting the reaping foot behind your partner's heel and driving them down over it is the major outer drop."
   },

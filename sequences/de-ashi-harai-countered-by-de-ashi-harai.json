@@ -7,6 +7,8 @@
   "trigger": "over-commits",
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "The foot sweep is its own mirror counter: a partner whose sweep misses has their sweeping foot in the air and their weight on the other one, and sweeping that supporting foot as it takes the weight sends the same throw back."
   },

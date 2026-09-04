@@ -7,6 +7,8 @@
   "trigger": "steps-around",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who steps round the inner thigh throw puts a foot down outside you with their weight on it. Reaping that leg from the outside takes them backwards."
   },

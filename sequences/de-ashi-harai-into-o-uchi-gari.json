@@ -7,6 +7,8 @@
   "trigger": "weight-shifts",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who skips the foot away from the sweep lands with their weight on the far leg. Reaping it from the inside takes them backwards before the near foot is planted again."
   },

@@ -7,6 +7,8 @@
   "trigger": "pulls-back",
   "direction": "same",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "When the one-arm shoulder throw stalls with your partner hanging back, stepping the leg across their shin and dropping is the body drop, in the same direction and with the same arm."
   },

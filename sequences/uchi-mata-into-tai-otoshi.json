@@ -7,6 +7,12 @@
   "trigger": "pulls-back",
   "direction": "same",
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "import check",
+    "against": "MEXT 2013 school judo guidebook, record mext-2013/1333611_10/p008"
+  },
   "about": {
     "en": "A partner who pulls off the sweeping leg by planting the other foot stays leaning forward. Dropping the sweeping leg across their shin turns the throw into the body drop."
   },

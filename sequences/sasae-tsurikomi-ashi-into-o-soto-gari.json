@@ -7,6 +7,8 @@
   "trigger": "steps-over",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who steps over the propping foot has planted that leg forward with their weight on it. Reaping it from the outside takes them backwards over the step."
   },

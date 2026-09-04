@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "The knee wheel mirrors the prop: a partner propping your ankle is on one bent leg, and propping that knee and wheeling them over it takes the leg they stand on."
   },

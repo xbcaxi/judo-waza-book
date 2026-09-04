@@ -7,6 +7,8 @@
   "trigger": "blocks-hip",
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "Blocking the hip wheel leaves your partner's near heel beside your foot. Hooking it from the outside takes them backwards over it."
   },

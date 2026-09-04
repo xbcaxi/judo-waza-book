@@ -597,6 +597,8 @@ validator checks:
   "trigger": "pulls-back",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": { "en": "One or two sentences: why this pair works." },
   "described": { "en": ["First step of the whole sequence.", "Second step.", "The landing, always last."] },
   "receiving": { "en": "The reaction the first technique draws out, the moment it changes, and how to land." },
@@ -624,7 +626,19 @@ ends in, and the sequence then needs no video of its own because the
 technique's page carries the demonstration. Null for the rest, which is most
 combinations and every transition.
 
-A sequence carries the same twelve fields in that order, whether or not
+`status` is the quality bar. A sequence arrives as `"draft"`: a relationship
+somebody has recorded, with an `about` and nothing more, and the site builds
+no page for it (a technique page says how many drafts name it). It becomes
+`"reviewed"` when a person has confirmed the pair against something they can
+name, and `reviewed` says what: `on` (a date), `by` (a role, never a name:
+"project owner", "club coach", "import check") and `against` (a video id that
+shows exactly this pair, a printed source and its page, a kata that contains
+it, or the technique record it resolves to). Approving a video through
+`tools/video-pipeline/` does this in the same write. The narrated fields are
+not part of the bar: a reviewed sequence with `described` still null is a
+page worth having and a gap the validator counts.
+
+A sequence carries the same fourteen fields in that order, whether or not
 anyone has written them yet, exactly as a technique carries its twenty-five:
 `described`, `receiving` and `viNotes` are `null` when unwritten, never
 missing, and they follow the same conventions as they do on a technique

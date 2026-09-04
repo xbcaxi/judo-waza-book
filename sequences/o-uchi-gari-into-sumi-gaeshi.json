@@ -7,6 +7,8 @@
   "trigger": "bends-forward",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who bends forward and pushes to stop the major inner reap is leaning over you. Sitting back under them and lifting with the instep is the corner reversal."
   },

@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration 6tFIEeyrdf4 on the record"
+  },
   "about": {
     "en": "When the shoulder throw stalls with their arm still trapped high, winding inwards turns the stall into the throw: you keep the arm, add your body weight and roll through instead of lifting."
   },

@@ -8,6 +8,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration _cCAytbmk3g on the record"
+  },
   "about": {
     "en": "Three reaps in a row, each fed by the escape from the last: inside, then outside, then the small outside reap as the retreating heel finally runs out of mat."
   },

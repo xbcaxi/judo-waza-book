@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the owner's own practice, as first written"
+  },
   "about": {
     "en": "Both are ashi-waza on a moving partner. If they step over the prop, the same foot is advancing and unweighted, which is precisely what De-ashi-barai sweeps."
   },

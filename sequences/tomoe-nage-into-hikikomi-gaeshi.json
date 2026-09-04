@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": "same",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "When the circle throw stalls with your partner leaning over you, reaching over the shoulder to the belt and rolling is the pulling-in reversal."
   },

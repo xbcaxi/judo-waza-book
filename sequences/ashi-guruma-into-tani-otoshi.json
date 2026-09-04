@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the owner's own practice, as first written"
+  },
   "about": {
     "en": "Ashi-guruma turns your partner forward over an extended leg. Stepping around the block to escape it puts them behind their own feet, and Tani-otoshi drops them there."
   },

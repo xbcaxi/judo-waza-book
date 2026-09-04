@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": "same",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "When the hip wheel stalls with your partner braced against the hip, sweeping the thigh with the leg instead of wheeling them over the hip is the sweeping hip throw, arm still round the neck."
   },

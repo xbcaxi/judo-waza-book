@@ -7,6 +7,8 @@
   "trigger": "steps-around",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who circles away from the sweeping leg puts a heel down close beside your foot. Hooking it from the outside takes them backwards over it."
   },

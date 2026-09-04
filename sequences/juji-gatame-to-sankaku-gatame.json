@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "The legs that hold the head for the cross armlock are one turn from the triangle hold. When the arm is defended, hooking the foot behind the far knee and settling your weight onto their chest pins the head and one arm without needing the elbow at all."
   },

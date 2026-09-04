@@ -10,8 +10,15 @@ matches one, and 'assorted' otherwise.
 This is the only step that touches the repository, and it does so the way a
 contributor would: one field, one file, then `npm run validate`.
 
+APPROVING A VIDEO IS THE REVIEW. A sequence that was a draft becomes reviewed
+in the same write, with the video id as what it was confirmed against and the
+reviewer's role from the sheet as who confirmed it, so the site publishes it
+on the next build. Watching the clip is the quality bar; nothing else has to
+be edited by hand. Grips have no status and are unaffected.
+
 Usage: python apply_approved.py [approved.json] [--dry-run]
 """
+import datetime
 import glob
 import json
 import os
@@ -62,7 +69,17 @@ def main():
             continue
         d["videos"].extend(added)
         touched += 1
-        print(f"{edge['file']}: +{len(added)} video(s)")
+        published = ""
+        if d.get("status") == "draft":
+            reviewer = next((v.get("reviewer") for v in edge["videos"] if v.get("reviewer")), "") or "reviewer"
+            d["status"] = "reviewed"
+            d["reviewed"] = {
+                "on": datetime.date.today().isoformat(),
+                "by": reviewer,
+                "against": f"the demonstration {added[0]['id']}",
+            }
+            published = "; now reviewed, and published on the next build"
+        print(f"{edge['file']}: +{len(added)} video(s){published}")
         if not dry:
             with open(file, "w", encoding="utf-8", newline="\n") as f:
                 json.dump(d, f, ensure_ascii=False, indent=2)

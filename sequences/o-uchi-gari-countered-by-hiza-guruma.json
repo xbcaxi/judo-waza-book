@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration _cCAytbmk3g on the record"
+  },
   "about": {
     "en": "The inner reap is an entry on one supporting leg; blocking that knee and steering the shoulders wheels the attacker over their own attack."
   },

@@ -7,6 +7,8 @@
   "trigger": "pushes-forward",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who leans in to resist the minor inner reap is pushing towards you. Sitting back under them and placing the foot on the belt turns the push into the circle throw."
   },

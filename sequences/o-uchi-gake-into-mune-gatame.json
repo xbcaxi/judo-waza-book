@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "The major inner hook lands you on your partner's chest. Squaring up and spreading the legs as you land is the chest hold, taken from the fall itself."
   },

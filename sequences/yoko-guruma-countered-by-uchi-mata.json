@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner wrapping your waist to throw themselves into the side wheel is on one leg as they step in. Turning in and sweeping that thigh before they commit takes them over it."
   },

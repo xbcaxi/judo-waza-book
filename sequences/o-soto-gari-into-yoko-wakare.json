@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration NJwBQujHJAk on the record"
+  },
   "about": {
     "en": "A partner who resists the major outer reap by leaning hard into you has committed their weight forward. Yoko-wakare takes the support away sideways and lets that commitment finish the throw."
   },

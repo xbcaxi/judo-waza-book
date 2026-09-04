@@ -7,6 +7,8 @@
   "trigger": "steps-over",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who steps through the minor outer reap lands on a bent leg with their weight going forward. Propping that knee and wheeling them over it uses the step."
   },

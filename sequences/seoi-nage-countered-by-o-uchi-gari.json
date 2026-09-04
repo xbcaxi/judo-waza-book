@@ -7,6 +7,8 @@
   "trigger": "blocks-hip",
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A hand on the hip stops the shoulder throw with your partner's near leg between yours. Reaping it from the inside takes them backwards."
   },

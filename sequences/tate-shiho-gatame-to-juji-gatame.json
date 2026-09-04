@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration nWmeGxoUM_Y on the record"
+  },
   "about": {
     "en": "The commonest ne-waza chain in contest: they defend the lengthwise hold by pushing with an arm, and you swing a leg over to take it. Age limits apply to joint locks; learn this only under instruction."
   },

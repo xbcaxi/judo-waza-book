@@ -7,6 +7,8 @@
   "trigger": "steps-around",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who steps round the major outer reap has their weight coming forward onto a bent front leg. Propping that knee and wheeling them over it uses the step."
   },

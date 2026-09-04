@@ -7,6 +7,8 @@
   "trigger": "blocks-hip",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "The junior's first combination. A partner who blocks the major hip throw by pushing your hip away has stopped the turn with their weight back. Reaping the near leg from the inside sends them backwards."
   },

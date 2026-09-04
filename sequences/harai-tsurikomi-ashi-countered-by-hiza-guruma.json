@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "The knee wheel mirrors the lifting sweep: a partner sweeping with the lifting-pulling sweep is on one leg with that knee bent, and propping the knee and wheeling them over it takes the leg they are standing on."
   },

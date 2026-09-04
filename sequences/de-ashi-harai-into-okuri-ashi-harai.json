@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": "same",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "If the advancing foot sweep catches the foot a moment late, your partner's second foot arrives beside the first. Sweeping both together, with the same pull, is the double foot sweep."
   },

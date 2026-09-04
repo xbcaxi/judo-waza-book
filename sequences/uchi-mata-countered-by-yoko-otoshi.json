@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner turned in for the inner thigh throw can be taken sideways: dropping to your side with a leg across their standing leg takes them over it into the side drop."
   },

@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "The minor outer hook takes your partner down backwards with you following, and you land beside them at the hip. An arm under the far shoulder from there is the broken scarf hold."
   },

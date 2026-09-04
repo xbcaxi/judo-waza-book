@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": "hane-goshi-gaeshi",
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "import check",
+    "against": "the technique record hane-goshi-gaeshi, whose page carries the demonstration"
+  },
   "about": {
     "en": "As your partner turns in for the springing hip throw, the leg they spring with is off the mat and the leg they stand on is committed. Reaping the standing leg from the outside as the spring begins is the springing hip counter, the named answer."
   },

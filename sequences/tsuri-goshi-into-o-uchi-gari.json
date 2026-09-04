@@ -7,6 +7,8 @@
   "trigger": "blocks-hip",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who blocks the lifting hip throw by pushing the hip away has their weight back. Reaping the near leg from the inside, belt still held, takes them backwards."
   },

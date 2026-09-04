@@ -70,6 +70,47 @@
       ],
       "description": "Where the pairing is itself a named technique, the slug of that technique: its page carries the demonstration and the sequence needs no video of its own. Always the last technique in the list. Null otherwise."
     },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "reviewed"
+      ],
+      "description": "\"draft\" for a relationship recorded and not yet confirmed; \"reviewed\" once a person has confirmed the pair against something nameable and said what in reviewed. The site publishes reviewed sequences only."
+    },
+    "reviewed": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "on": {
+              "type": "string",
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            },
+            "by": {
+              "type": "string",
+              "minLength": 1,
+              "description": "A role, never a name: \"project owner\", \"club coach\", \"import check\"."
+            },
+            "against": {
+              "type": "string",
+              "minLength": 1,
+              "description": "What the pair was confirmed against: a video id that shows exactly this pair, a printed source and page, a kata that contains it, or the technique record it resolves to."
+            }
+          },
+          "required": [
+            "on",
+            "by",
+            "against"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Who confirmed the pair, when, and against what. Required when status is \"reviewed\", null when it is \"draft\"."
+    },
     "about": {
       "$ref": "#/definitions/localisedText"
     },
@@ -150,6 +191,8 @@
     "trigger",
     "direction",
     "resolvesTo",
+    "status",
+    "reviewed",
     "about",
     "described",
     "receiving",

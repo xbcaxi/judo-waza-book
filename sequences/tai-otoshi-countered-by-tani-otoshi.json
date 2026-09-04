@@ -7,6 +7,8 @@
   "trigger": "steps-around",
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "Stepping round a partner turned in for the body drop puts your leg behind both of theirs. Dropping backwards from there is the valley drop."
   },

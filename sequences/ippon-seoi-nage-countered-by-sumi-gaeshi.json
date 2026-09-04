@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who drops low for the one-arm shoulder throw has bent forward under you. Sitting back under them and lifting with the instep is the corner reversal, taken as they load."
   },

@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "import check",
+    "against": "MEXT 2013 school judo guidebook, record mext-2013/1333611_10/p012"
+  },
   "about": {
     "en": "The major outer reap lands your partner beside your reaping leg with the sleeve still in your hand. Dropping onto them with that arm pulled across your hip and your other arm round the neck is the scarf hold."
   },

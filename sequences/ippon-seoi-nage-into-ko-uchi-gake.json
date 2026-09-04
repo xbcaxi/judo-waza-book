@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration rByc_fG0D1M on the record"
+  },
   "about": {
     "en": "The shoulder throw threatens forward, so your partner sits back to defend. That leaves their near leg light and their weight behind it, which is all Ko-uchi-gake needs."
   },

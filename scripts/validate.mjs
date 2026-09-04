@@ -600,7 +600,7 @@ for (const k of skills) {
  * leaving the field out, and the three written-for-the-ear fields sit in the
  * same order as they do on a technique. JSON Schema enforces the field SET;
  * only code can see the ORDER. */
-const sequenceFields = ['kind', 'techniques', 'trigger', 'direction', 'resolvesTo', 'about', 'described', 'receiving', 'viNotes', 'videos', 'resolver', 'source'];
+const sequenceFields = ['kind', 'techniques', 'trigger', 'direction', 'resolvesTo', 'status', 'reviewed', 'about', 'described', 'receiving', 'viNotes', 'videos', 'resolver', 'source'];
 
 /* Sequences: schema, naming, and every referenced technique must exist. */
 for (const q of sequences) {
@@ -618,6 +618,15 @@ for (const q of sequences) {
   for (const slug of q.data.techniques ?? []) {
     if (!slugs.has(slug)) problems.push(`sequences/${q.name}: unknown technique "${slug}"`);
     else categories.push(techniques.find((t) => t.slug === slug).data.category);
+  }
+  /* The quality bar. A reviewed sequence says who confirmed it and against
+   * what; a draft says nothing, and the site builds no page for it. The two
+   * fields travel together in both directions, as banned and bannedNote do. */
+  if (q.data.status === 'reviewed' && !q.data.reviewed) {
+    problems.push(`sequences/${q.name}: status is "reviewed" but nothing says who reviewed it or against what`);
+  }
+  if (q.data.status === 'draft' && q.data.reviewed) {
+    problems.push(`sequences/${q.name}: carries a review but status is still "draft"; one of the two is wrong`);
   }
   /* A sequence that resolves to a technique is saying its pairing IS that
    * technique, so it can only be the one the sequence ends in. */
@@ -1359,6 +1368,10 @@ for (const field of ['described', 'receiving', 'viNotes']) {
   const missing = sequences.filter((q) => !q.data[field]).length;
   if (missing > 0) {
     console.log(`  ${field.padEnd(10)} unwritten on ${missing} of ${sequences.length} sequences`);
+  }
+  {
+    const drafts = sequences.filter((q) => q.data.status === 'draft').length;
+    if (drafts > 0) console.log(`  ${'status'.padEnd(10)} ${drafts} of ${sequences.length} sequences are drafts awaiting review, and have no page until then`);
   }
 }
 const uncountered = throwsHere.filter((t) => !countered.has(t.slug)).length;

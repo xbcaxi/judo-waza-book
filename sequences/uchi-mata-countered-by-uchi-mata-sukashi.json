@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": "uchi-mata-sukashi",
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration _cCAytbmk3g on the record"
+  },
   "about": {
     "en": "The slip: instead of blocking the throw you remove yourself from it, and your partner's own committed turn puts them on the mat. Nothing is added but timing."
   },

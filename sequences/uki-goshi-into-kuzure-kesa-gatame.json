@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration bLoR5aFqHU0 on the record"
+  },
   "about": {
     "en": "The floating hip turns your partner around your hip rather than over it, so they land close beside you and slightly on their side: the broken scarf hold takes that position as it is."
   },

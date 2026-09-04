@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": "tsubame-gaeshi",
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration q2r1EkwR9ik on the record"
+  },
   "about": {
     "en": "The double sweep asks both of your feet to travel together, which is exactly the moment the swallow counter wants. You withdraw the foot they are sweeping and sweep their sweeping leg on the same line while it is still in the air. The book records the same answer to de-ashi-harai; here the timing is finer, because both of your feet were already moving when the attack came."
   },

@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the owner's own practice, as first written"
+  },
   "about": {
     "en": "Same entry, different finish. When the lift will not come because their hips are low or they are heavier than you, dropping to the knee turns the throw into one that needs no lift at all."
   },

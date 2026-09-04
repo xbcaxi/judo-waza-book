@@ -7,6 +7,8 @@
   "trigger": "steps-over",
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "Stepping the attacked foot over the minor inner reap plants it beside your partner's standing leg. Reaping that leg from the outside takes them backwards."
   },

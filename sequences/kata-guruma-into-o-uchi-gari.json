@@ -7,6 +7,8 @@
   "trigger": "pulls-back",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who sits back from the shoulder wheel has loaded the rear leg. Coming up out of the crouch and reaping that leg from the inside takes them backwards."
   },

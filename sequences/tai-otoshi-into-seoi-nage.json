@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the owner's own practice, as first written"
+  },
   "about": {
     "en": "Posting against the body drop pulls your partner's chest down and forward over your shoulder line. That is the shoulder throw's opening, and the entry is only half a step away."
   },

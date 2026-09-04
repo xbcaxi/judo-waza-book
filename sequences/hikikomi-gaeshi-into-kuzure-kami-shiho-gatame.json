@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "Rolling through the pulling-in reversal with one of your partner's arms still hooked leaves you above their head with that arm trapped. Keeping it and taking the belt with the other hand is the broken upper four-quarters."
   },

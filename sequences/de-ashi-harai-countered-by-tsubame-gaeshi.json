@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": "tsubame-gaeshi",
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration _cCAytbmk3g on the record"
+  },
   "about": {
     "en": "The swallow counter, and the reason De-ashi-barai is taught with a warning. You withdraw the foot they are sweeping and sweep theirs on the same line while it is still travelling."
   },

@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the owner's own practice, as first written"
+  },
   "about": {
     "en": "Lifting a foot clear of the minor outer reap moves your partner's weight backwards over a leg they cannot step back with. Tani-otoshi bars that leg and drops them over it."
   },

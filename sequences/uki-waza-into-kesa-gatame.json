@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "Stopping the roll of the floating throw at your partner's side, with the sleeve still in hand, leaves you sitting by their head. An arm round the neck from there is the scarf hold."
   },

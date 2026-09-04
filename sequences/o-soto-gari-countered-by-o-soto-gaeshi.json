@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": "o-soto-gaeshi",
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration _cCAytbmk3g on the record"
+  },
   "about": {
     "en": "The direct answer to a major outer reap: the reaping leg is off the mat and carrying no weight, so reaping it in turn takes their only remaining support."
   },

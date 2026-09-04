@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration W8nSWPiHjeQ on the record"
+  },
   "about": {
     "en": "The inner reap sends them backwards on the same side you are about to attack from outside. O-soto-gake takes the leg they have just planted to stop themselves."
   },

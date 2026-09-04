@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the owner's own practice, as first written"
+  },
   "about": {
     "en": "Pulling hard away from an outside hook brings your partner's weight forward. Seoi-otoshi meets it: you drop under the arm and let them fall over your extended leg."
   },

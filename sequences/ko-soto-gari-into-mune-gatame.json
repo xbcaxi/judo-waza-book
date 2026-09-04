@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration RMV_km5k6N4 on the record"
+  },
   "about": {
     "en": "The small outer reap drops your partner at your feet with you already facing their chest; kneeling straight into Mune-gatame wastes none of it."
   },

@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": "same",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "When the sole finds the shin rather than the ankle, sliding it up to the knee and wheeling with the same pull is the knee wheel; only the contact point changes."
   },

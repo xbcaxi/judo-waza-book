@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration _cCAytbmk3g on the record"
+  },
   "about": {
     "en": "The stalled lift becomes a drop: keeping the same arm and the same turn, sinking to one or both knees pulls your partner over the top as Seoi-otoshi."
   },

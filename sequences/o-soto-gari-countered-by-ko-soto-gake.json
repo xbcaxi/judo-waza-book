@@ -7,6 +7,8 @@
   "trigger": "lifts-leg",
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "Lifting the attacked leg over the major outer reap and hooking your partner's standing heel from the outside takes them backwards over the leg the reap depended on."
   },

@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration uP8UMRHXRBw on the record"
+  },
   "about": {
     "en": "Tai-otoshi turns your partner over an extended leg and lands them on their side, facing away. Following the turn brings you straight across their body into the side four quarters hold."
   },

@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration PjcYRX1FH1Q on the record"
+  },
   "about": {
     "en": "Slipping the reap leaves the attacker square-on and committed forward; turning in under the gripping arm converts their commitment into the shoulder throw."
   },

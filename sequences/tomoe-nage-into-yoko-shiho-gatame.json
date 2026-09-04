@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "When the circle throw rolls you through to your partner's side rather than over the top, an arm under the neck and one between the legs as you land is the side four-quarters."
   },

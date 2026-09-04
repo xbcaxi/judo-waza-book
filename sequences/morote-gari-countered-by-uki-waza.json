@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner shooting for both legs is driving forward and down. Sliding a leg out to the side and dropping with them takes them past you into the floating throw. Taking the legs draws a shido in contest."
   },

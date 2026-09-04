@@ -7,6 +7,8 @@
   "trigger": "pushes-forward",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who drives forward against the minor outer reap has their weight coming onto you. Turning in and sweeping the thigh takes them over the hip in the direction they pushed."
   },

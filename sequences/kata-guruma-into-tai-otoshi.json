@@ -7,6 +7,8 @@
   "trigger": "pulls-back",
   "direction": "same",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who resists the shoulder wheel by hanging back stays leaning over you. Coming up, stepping the leg across their shin and pulling through is the body drop."
   },

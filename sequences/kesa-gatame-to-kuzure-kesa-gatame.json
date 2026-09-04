@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who works their arm free from beneath the scarf hold has left a gap under your armpit. Threading your arm under their far shoulder instead closes it, and the broken scarf hold is often harder to escape than the classical one."
   },

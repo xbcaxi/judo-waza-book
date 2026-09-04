@@ -63,17 +63,17 @@ def imp(con, path):
 def approved(con):
     rows = con.execute(
         """
-        SELECT e.slug,e.src,e.dst,e.type,e.file,c.video_id,c.start_s,v.channel_name,v.title
+        SELECT e.slug,e.src,e.dst,e.type,e.file,c.video_id,c.start_s,v.channel_name,v.title,c.reviewer
         FROM candidates c JOIN edges e ON e.slug=c.edge_slug
         JOIN videos v ON v.video_id=c.video_id
         WHERE c.status='approved' AND c.method<>'existing'
         """
     ).fetchall()
     out = {}
-    for slug, src, dst, etype, file, vid, start, ch, title in rows:
+    for slug, src, dst, etype, file, vid, start, ch, title, reviewer in rows:
         out.setdefault(slug, {"from": src, "to": dst, "type": etype, "file": file, "videos": []})
         out[slug]["videos"].append(
-            {"youtube_id": vid, "start_s": start, "channel": ch, "title": title}
+            {"youtube_id": vid, "start_s": start, "channel": ch, "title": title, "reviewer": reviewer or ""}
         )
     path = os.path.join(HERE, "approved.json")
     with open(path, "w", encoding="utf-8") as f:

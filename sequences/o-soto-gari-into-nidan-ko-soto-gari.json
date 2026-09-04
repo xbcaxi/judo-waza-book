@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration d3V9m0B4oMM on the record"
+  },
   "about": {
     "en": "When the major outer reap is defended and your partner is retreating, the two-stage minor outer reap follows them: you chase the withdrawing foot rather than the planted one."
   },

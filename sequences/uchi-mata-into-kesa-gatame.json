@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "import check",
+    "against": "MEXT 2013 school judo guidebook, record mext-2013/1333611_10/p012"
+  },
   "about": {
     "en": "The inner thigh throw lands your partner on their back ahead of you with the sleeve still held. Stepping in and sitting beside the head with that arm across your hip is the scarf hold."
   },

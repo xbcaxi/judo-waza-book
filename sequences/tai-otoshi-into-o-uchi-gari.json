@@ -7,6 +7,8 @@
   "trigger": "steps-over",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who steps over the body drop's outstretched leg, or sits back from it, has weight on the rear leg. Reaping it from the inside takes them backwards."
   },

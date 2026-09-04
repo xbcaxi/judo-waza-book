@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration ujrI7-1eHGw on the record"
+  },
   "about": {
     "en": "The extended blocking leg of a Tai-otoshi carries no weight. Hooking behind it while your partner is committed to the turn drops them backwards over their own block."
   },

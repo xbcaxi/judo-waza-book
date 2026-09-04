@@ -7,6 +7,8 @@
   "trigger": "steps-around",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who steps round the body drop has planted a foot outside you with their weight on it. Reaping that leg from the outside takes them backwards."
   },

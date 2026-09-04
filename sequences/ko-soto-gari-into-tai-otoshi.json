@@ -7,6 +7,8 @@
   "trigger": "pushes-forward",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who leans forward to save the reaped heel is committed over their front foot. Turning in and putting the leg across their shin takes them forward."
   },

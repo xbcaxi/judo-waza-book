@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the owner's own practice, as first written"
+  },
   "about": {
     "en": "Some partners answer the inner reap by driving forward into you. Yoko-tomoe-nage uses that drive: you go down and sideways deliberately, and they travel over the top."
   },

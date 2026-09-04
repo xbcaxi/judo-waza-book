@@ -7,6 +7,8 @@
   "trigger": "weight-shifts",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who stiffens against the lifted sleeve and settles onto the near heel is reaped from the inside, and the held sleeve stops them stepping out of it."
   },

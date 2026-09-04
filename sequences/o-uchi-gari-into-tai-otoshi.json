@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration _cCAytbmk3g on the record"
+  },
   "about": {
     "en": "The classic back-then-front pair. The inner reap makes your partner post their weight backwards to survive; the instant that defence lands, their weight is perfectly placed for the body drop the other way."
   },

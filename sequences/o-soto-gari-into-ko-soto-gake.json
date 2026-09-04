@@ -7,6 +7,8 @@
   "trigger": "over-commits",
   "direction": "same",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who turns too far away from the major outer reap has their heel nearest you. Hooking it from the outside takes them backwards over it."
   },

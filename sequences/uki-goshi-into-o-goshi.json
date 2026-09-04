@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": "same",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "If the floating hip does not get far enough across, driving the hips deeper and lifting is the major hip throw, from the same turn."
   },

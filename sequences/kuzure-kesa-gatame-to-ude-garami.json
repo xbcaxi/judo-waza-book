@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration 0Ux5wWA3WZg on the record"
+  },
   "about": {
     "en": "The broken scarf hold leaves your partner's far arm free, and the usual thing they do with it is push. Ude-garami folds that arm back on itself. Age limits apply to joint locks; learn this only under instruction."
   },

@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "When the corner reversal is rolled straight over the top, you finish astride your partner. Settling the chest down with the arms controlled is the lengthways hold."
   },

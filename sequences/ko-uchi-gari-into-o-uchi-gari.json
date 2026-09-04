@@ -7,6 +7,8 @@
   "trigger": "lifts-leg",
   "direction": "same",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who lifts or draws back the heel from the minor inner reap is standing on the other leg. Reaping that leg from the inside takes it while the first foot is still in the air."
   },

@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the owner's own practice, as first written"
+  },
   "about": {
     "en": "A defended Harai-goshi leaves your partner leaning back and heavy on their right leg. O-soto-gake attacks the outside of exactly that leg, in the direction they have already chosen to lean."
   },

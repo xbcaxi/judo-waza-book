@@ -7,6 +7,8 @@
   "trigger": "pulls-back",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who pulls the foot back from the minor inner reap leans forward to balance. Turning in and sweeping the thigh from between the legs takes them over in the direction of the lean."
   },

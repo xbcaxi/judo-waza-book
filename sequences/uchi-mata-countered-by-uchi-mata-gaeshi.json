@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": "uchi-mata-gaeshi",
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "import check",
+    "against": "the technique record uchi-mata-gaeshi, whose page carries the demonstration"
+  },
   "about": {
     "en": "As the sweeping leg rises between yours, your partner is on one leg with their back turning to you. Catching the sweeping leg on your thigh and reaping the standing one is the inner thigh counter, the named answer."
   },

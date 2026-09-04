@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration UFPxPaBBzYA on the record"
+  },
   "about": {
     "en": "The double sweep lands your partner on their back side-on to you, a step from the chest hold."
   },

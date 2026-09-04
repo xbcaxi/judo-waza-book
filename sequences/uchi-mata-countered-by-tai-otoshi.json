@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the owner's own practice, as first written"
+  },
   "about": {
     "en": "When your partner commits to Uchi-mata their lifting leg is off the mat and everything rests on one foot. Blocking that foot and turning them is the standard answer."
   },

@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": "same",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "When the leg wheel stalls against your partner's thigh, dropping the blocking leg lower across the shin turns the same rotation into the body drop, and the pull does not change."
   },

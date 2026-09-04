@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who lifts and sweeps at your foot has drawn you towards them. Stepping the foot past the sweep and turning in to sweep their thigh uses the pull they made."
   },

@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": "same",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "If the double foot sweep catches only one foot, sweeping the leading foot on its own as it moves is the advancing foot sweep, with the same timing."
   },

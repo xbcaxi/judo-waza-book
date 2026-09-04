@@ -7,6 +7,8 @@
   "trigger": "pulls-back",
   "direction": "opposite",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who sits back to stop the leg wheel has put their weight on the rear leg. Reaping that leg from the inside sends them the way they were already leaning."
   },

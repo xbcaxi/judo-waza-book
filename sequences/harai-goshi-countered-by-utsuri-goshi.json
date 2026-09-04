@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the owner's own practice, as first written"
+  },
   "about": {
     "en": "Utsuri-goshi answers a hip throw by accepting it and then taking it over. You absorb the entry, lift them off your own hip and transfer them to the other side."
   },

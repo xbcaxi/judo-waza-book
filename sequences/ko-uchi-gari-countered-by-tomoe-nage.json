@@ -7,6 +7,8 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner driving forward through the minor inner reap is pushing into you. Sitting back under them with a foot on the belt turns the drive into the circle throw."
   },

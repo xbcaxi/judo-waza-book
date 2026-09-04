@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration 5a0i-6W9FuY on the record"
+  },
   "about": {
     "en": "Hooking and reaping attack the same leg on the same line. If your partner hops free of the hook, the leg is momentarily unweighted and can be reaped as it lands."
   },

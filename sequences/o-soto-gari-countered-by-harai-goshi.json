@@ -7,6 +7,8 @@
   "trigger": "steps-over",
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner reaping from the outside is on one leg beside you. Stepping the reaped leg through past them and turning in to sweep the thigh takes them forward over the leg they are standing on."
   },

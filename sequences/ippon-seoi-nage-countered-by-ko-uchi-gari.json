@@ -7,6 +7,8 @@
   "trigger": "blocks-hip",
   "direction": null,
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "Blocking the turn of the one-arm shoulder throw leaves your partner's near heel in front of you with weight on it. Reaping it from the inside takes them down backwards."
   },

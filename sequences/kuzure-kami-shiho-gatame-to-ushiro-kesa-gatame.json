@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration nDS4ouwl-bo on the record"
+  },
   "about": {
     "en": "Turning away from the broken upper four quarters hold is the standard escape attempt, and it hands you the reverse scarf hold. You follow the turn rather than fighting it."
   },

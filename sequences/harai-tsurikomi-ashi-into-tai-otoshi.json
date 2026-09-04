@@ -7,6 +7,8 @@
   "trigger": "pulls-back",
   "direction": "same",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who checks the lifting sweep by pulling the foot back leaves their weight forward. Turning in and putting the leg across their shin takes them over it."
   },

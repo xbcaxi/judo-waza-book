@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": null,
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "project owner",
+    "against": "the demonstration SHta4IbAU-E on the record"
+  },
   "about": {
     "en": "The lifting hip throw is answered the way utsuri-goshi answers every hip attack: you sink beneath the entry as the lapel hand drives up, wrap the waist and lift, and switch your own hips underneath before they come down. One throw becomes the other in the transfer."
   },

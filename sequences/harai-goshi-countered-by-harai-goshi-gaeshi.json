@@ -7,6 +7,12 @@
   "trigger": null,
   "direction": null,
   "resolvesTo": "harai-goshi-gaeshi",
+  "status": "reviewed",
+  "reviewed": {
+    "on": "2026-09-04",
+    "by": "import check",
+    "against": "the technique record harai-goshi-gaeshi, whose page carries the demonstration"
+  },
   "about": {
     "en": "As the sweeping leg comes across, your partner is standing on one leg with their back to you. Hooking the sweeping leg and reaping the supporting one is the sweeping hip counter, the named answer."
   },

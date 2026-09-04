@@ -7,6 +7,8 @@
   "trigger": "pulls-back",
   "direction": "same",
   "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
   "about": {
     "en": "A partner who hangs back from the lifting-pulling hip throw stays leaning forward once it stops. Stepping across their shin and pulling through is the body drop."
   },
