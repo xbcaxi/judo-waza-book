@@ -20,17 +20,16 @@ which let the entry be written the same day. Hiza-soto-muso and
 Mae-hiza-ura-nage were identified by the owner on 2026-09-01 and left the
 inbox the same day: the first as a technique of its own (the outer knee
 twist-down, from sumo's soto-muso), the second as a named variation on
-ura-nage. They are
-kept because each one is waiting on a decision or a piece of coverage, not
-because nobody looked at them.
+ura-nage.
 
 THE KATA COLLECTION EXISTS NOW, and the fourteen recordings that were waiting
 for it have gone into `kata/`, along with thirty more from the Kodokan's own
 channel that this file was listing as unlinked. Forty-four of the hundred and
-thirty Kodokan videos here are now on a kata record.
+thirty Kodokan videos this file once listed are now on a kata record, which is
+why `kodokan-unlinked.json` holds eighty-six.
 
-`video-candidates.json` holds the full list with a URL for each. Nothing here
-is published on the site.
+`video-candidates.json` held the full list with a URL for each and is empty
+now that every link has attached. Nothing here is published on the site.
 
 The reference has also been checked against the IJF Academy's
 *Classification of Judo and 100 Kodokan Techniques* course: twenty of that
@@ -38,11 +37,11 @@ course's 134 videos cover a subject with no video here, and the full check,
 including where our meanings and markings disagree with the Kodokan's, is
 kept in the project's private working notes.
 
-`kodokan-unlinked.json` is the 130 videos on the Kodokan's own YouTube
+`kodokan-unlinked.json` is the 86 videos on the Kodokan's own YouTube
 channel that this reference does not link, out of the 242 it holds. Two of
-them fill gaps the IJF course exposed; the rest are kata, champion
-demonstrations and teaching material waiting on coverage that has not started
-yet. Titles and durations only, no descriptions.
+them fill gaps the IJF course exposed; the rest are champion demonstrations
+and teaching material waiting on coverage that has not started yet. Titles and
+durations only, no descriptions.
 
 `rfejyda-kata-videos.json` HELD nine kata videos linked from the Spanish
 federation's dan programme, and is gone: every one is on a kata record. What
@@ -64,28 +63,31 @@ Kodokan has published the kata this reference would want, the Spanish
 federation already points its candidates at them, and the only thing missing
 is somewhere here to put them.
 
-## The 11, and what each waits for
+## The 11, and where each went
 
 **14 kata recordings** waited for kata coverage to begin and no longer do.
 Akita's Itsutsu-no-kata, Ju-no-kata, Kaeshi-kata and Nage-waza-ura-no-kata,
 the Kodokan's seven-part Kodomo-no-kata with its trailer and recorded seminar,
 and the Kodokan's Seiryoku-Zenyo-Kokumin-Taiiku are all on kata records now.
 
-**11 clips wait on a technique the book does not document**, and none of the
-names has an IJF reference page or a Kodokan demonstration to vouch for it -
-the test that admitted the last twenty-two:
+**11 clips waited on a technique the book did not document**, none of the names
+having an IJF reference page or a Kodokan demonstration to vouch for it, which
+is the test that admitted the last twenty-two. All eleven left on 2026-09-01
+when the owner supplied what the references here could not:
 
-- Te-guruma (twice: a demonstration, and countering O-soto-gari)
-- Daki-age - a real Kodokan name, the prohibited lifting counter, so it
-  would join the banned list rather than the syllabus
-- Kata-soto-ashi-dori, Kata-uchi-ashi-dori - leg grabs
-- Kubi-nage, Mae-hiza-ura-nage, Hiza-soto-muso - descriptive or obscure
-- Tsubame-gaeshi (countering Okuri-ashi-barai) - a recognised counter,
-  strong candidate
-- Utsuri-goshi (countering Tsuri-komi-goshi) - a Kodokan koshi-waza,
-  strong candidate
-- Uchi-mata-sukashi (Mike Swain's chapter) - a recognised counter, strong
-  candidate
+- Te-guruma (twice: a demonstration, and countering O-soto-gari) - a technique
+  record, and the counter as a sequence.
+- Daki-age - a real Kodokan name, the prohibited lifting counter, so it joined
+  the banned list rather than the syllabus.
+- Kata-soto-ashi-dori, Kata-uchi-ashi-dori - leg grabs, and named variations on
+  kuchiki-taoshi.
+- Kubi-nage - a named variation on koshi-guruma.
+- Mae-hiza-ura-nage - a named variation on ura-nage.
+- Hiza-soto-muso - a technique record of its own.
+- Tsubame-gaeshi (countering Okuri-ashi-barai) - a sequence.
+- Utsuri-goshi (countering Tsuri-komi-goshi) - a sequence.
+- Uchi-mata-sukashi (Mike Swain's chapter) - joined the sequence that already
+  existed for it.
 
 ## Where the other 944 went
 
