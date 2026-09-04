@@ -122,6 +122,7 @@ const shape = {
   countries: result.shape.countries,
   first_score: result.shape.first_score,
   response: result.shape.response,
+  shido_response: result.shape.shido_response,
   trailing: result.shape.trailing,
   examples: result.shape.examples,
 };
@@ -129,4 +130,5 @@ await writeFile(options['out-shape'], JSON.stringify(shape, null, 2) + '\n');
 console.log(`Wrote ${path.relative(root, options['out-shape'])}: `
   + `${shape.rounds.length} round rows, ${shape.conversion.length} conversion rows, `
   + `${shape.outcomes.length} outcome rows, ${shape.penalties.length} penalty rows, `
-  + `${shape.countries.length} country rows, ${shape.examples.length} clip(s).`);
+  + `${shape.countries.length} country rows, ${shape.shido_response.length} shido-response rows, `
+  + `${shape.examples.length} clip(s).`);

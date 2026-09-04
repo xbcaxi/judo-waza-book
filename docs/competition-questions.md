@@ -37,26 +37,38 @@ the site now answers. Add to it rather than keeping questions in your head.
 
 - What does each country score with far more often than the sport does.
 
-## Open
+## Answered in part
 
 **What techniques are scored after an opponent receives a shido?**
 
-Added 29 August 2026. Reference supplied by the owner and not yet read, since
-it sits behind an institutional login:
-`https://www.nature.com/articles/s41598-026-46709-1`
+Added 29 August 2026, built 4 September 2026 as the `shido_response` table in
+`ijf-contest-shape.json`: what was scored within a minute of a plain shido, by
+technique and division, against how many shidos in that division had contest
+left to run after them. 12,001 scores follow a shido inside the window, out of
+54,103 shidos that had time to be followed, and seoi-nage, o-uchi-gari and
+uchi-mata lead it.
 
-Buildable. The aggregation keeps penalties and scores in separate tables with
-no per-contest link between them, so it cannot be answered from the committed
-data today. The extractor holds both event streams for a contest, and the
-`response` table already measures "was this score answered within thirty
-seconds", so the same shape applies: a table of techniques scored within N
-seconds of a shido, split by whether the scorer or the penalised athlete threw.
+THE HALF THAT IS NOT ANSWERED is who was penalised. The IJF names an athlete on
+a shido event, but `extract.mjs` had already found those names disagreeing with
+the athlete the IJF's own third-shido marker names, so reading them as "the
+offender" would be a plausible-sounding error. The table records the split it
+can defend instead: 4,866 of those scores came from the athlete the shido names
+and 7,135 from the other one. That is the measurement that would settle what
+the field means, and it leans the way it would if the named athlete were the
+offender, since an athlete who has just been penalised is the one under
+pressure. Leaning is not knowing. Two ways to close it: read a set of contests
+against their footage, or ask the IJF what `actors[0]` on a shido event is.
 
-Worth splitting the question when it is built:
+Still not built, and each one needs the attribution question closed first:
 
 - What does the penalised athlete score with, having just been warned.
 - What does their opponent score with, against someone carrying a shido.
 - Does the answer change with the third shido, when the contest is about to end.
+  The third shido ends the contest, so this one is about the two that came
+  before it rather than about the marker.
+
+The reference the owner supplied sits behind an institutional login and has
+still not been read: `https://www.nature.com/articles/s41598-026-46709-1`.
 
 ## Asked and not supportable
 

@@ -280,10 +280,12 @@ test('penalties come out attributed and timed; a cancelled one does not', () => 
   /* `reason` is the IJF's own code for what was done, which is what makes a
    * penalty coachable: the kind says what it cost, the reason says why. */
   assert.deepEqual(penalties, [
-    { kind: 'shido', actorId: 11, minute: '2', reason: 'shido' },
-    { kind: 'shido', actorId: 22, minute: '3', reason: 'non-combativity' },
-    { kind: 'hansoku-make', actorId: 11, minute: '4', reason: 'hansoku-make' },
-    { kind: 'shido', actorId: null, minute: 'unknown', reason: 'shido' },
+    { kind: 'shido', actorId: 11, minute: '2', seconds: 70, reason: 'shido' },
+    { kind: 'shido', actorId: 22, minute: '3', seconds: 140, reason: 'non-combativity' },
+    { kind: 'hansoku-make', actorId: 11, minute: '4', seconds: 180, reason: 'hansoku-make' },
+    /* No clock at all, so nothing can be measured from it: the minute is
+     * unknown and so is the second. */
+    { kind: 'shido', actorId: null, minute: 'unknown', seconds: null, reason: 'shido' },
   ]);
 });
 
@@ -294,7 +296,7 @@ test('the third-shido marker is read as an accumulation, not a shido', () => {
   const { penalties } = extractScoringEvents({
     events: [{ time_sc: '300.00', is_gs: '1', tags: [tag('HSK', 'HSK (3rd shido)', 'hsk')], actors: [{ id_person: 7 }] }],
   });
-  assert.deepEqual(penalties, [{ kind: 'third-shido', actorId: 7, minute: 'gs', reason: 'hsk' }]);
+  assert.deepEqual(penalties, [{ kind: 'third-shido', actorId: 7, minute: 'gs', seconds: 300, reason: 'hsk' }]);
 });
 
 /* The live timeline logs only the first two shidos as shido events and the
