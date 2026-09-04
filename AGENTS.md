@@ -101,13 +101,19 @@ one-word typo, a single field, and anything you were about to decide was too
 small to be worth branching for. There is no size below which this stops
 applying.
 
-Three names, and nothing else:
+Two names, and nothing else:
 
 - `feature/<slug>` for new content or a new capability.
 - `fix/<slug>` for a correction to something already here.
-- `claude/<slug>` for work an assistant started, which is what Claude Code
-  names its own branches. It was not listed here until September 2026 and the
-  branches were arriving anyway.
+
+The name says what the change is, never who or what made it. An assistant
+picks from the same two, and `fix/<slug>` covers most of what one is asked to
+do here. Left to itself Claude Code names its branches `claude/<slug>`, and a
+session started from the phone will do that unless it is told not to, which is
+what this paragraph is for: it is read before the branch is cut. `claude/<slug>`
+was briefly listed here as a third name in September 2026, on the grounds that
+the branches were arriving anyway. That was backwards. One that arrives now is
+renamed rather than merged.
 
 Push the branch rather than leaving it local. A branch that exists on one
 machine is a branch nobody else can see, which defeats both reasons for the
