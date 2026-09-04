@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "hane-goshi",
+    "utsuri-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "When the springing hip throw comes in, sinking beneath it and lifting your partner clear puts them across your own hip on the way down. Shifting the hip through and throwing from there is the hip shift."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

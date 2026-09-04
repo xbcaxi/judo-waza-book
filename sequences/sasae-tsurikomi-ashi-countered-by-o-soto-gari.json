@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "sasae-tsurikomi-ashi",
+    "o-soto-gari"
+  ],
+  "trigger": "steps-over",
+  "direction": null,
+  "about": {
+    "en": "A partner propping your ankle is standing on one leg. Stepping over the prop and reaping that leg from the outside sends them backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

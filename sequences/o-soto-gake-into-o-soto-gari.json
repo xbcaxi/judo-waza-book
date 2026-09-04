@@ -4,6 +4,8 @@
     "o-soto-gake",
     "o-soto-gari"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Hooking and reaping attack the same leg on the same line. If your partner hops free of the hook, the leg is momentarily unweighted and can be reaped as it lands."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The hooked leg hops free and is reaped the moment it lands."
     }
-  }
+  },
+  "source": null
 }

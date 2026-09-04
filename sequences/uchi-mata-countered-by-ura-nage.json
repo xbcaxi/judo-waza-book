@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "uchi-mata",
+    "ura-nage"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner turning in for the inner thigh throw before your balance is broken has offered their back. Wrapping the waist, dropping the hips and throwing yourself backwards takes them over your shoulder."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

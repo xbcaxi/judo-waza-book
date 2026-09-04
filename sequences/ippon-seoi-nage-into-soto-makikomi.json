@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ippon-seoi-nage",
+    "soto-makikomi"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "A partner who blocks the one-arm shoulder throw by hanging on your back can be wrapped instead: letting the arm over your shoulder become a wrap and turning down through them is the outer wrap-around, on the same side."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

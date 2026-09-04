@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ko-soto-gari",
+    "harai-goshi"
+  ],
+  "trigger": "pushes-forward",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who drives forward against the minor outer reap has their weight coming onto you. Turning in and sweeping the thigh takes them over the hip in the direction they pushed."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

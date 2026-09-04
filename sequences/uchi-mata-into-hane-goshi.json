@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "uchi-mata",
+    "hane-goshi"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "If the sweeping leg is blocked at the thigh, bending the knee and springing your partner up off it is the springing hip throw, from the same entry."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

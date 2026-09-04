@@ -4,6 +4,8 @@
     "kuzure-kesa-gatame",
     "ude-garami"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The broken scarf hold leaves your partner's far arm free, and the usual thing they do with it is push. Ude-garami folds that arm back on itself. Age limits apply to joint locks; learn this only under instruction."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The free arm pushes out of the hold and is folded back on itself."
     }
-  }
+  },
+  "source": null
 }

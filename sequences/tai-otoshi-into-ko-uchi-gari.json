@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "tai-otoshi",
+    "ko-uchi-gari"
+  ],
+  "trigger": "weight-shifts",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who braces against the body drop with their weight on the near heel is reaped from the inside as you turn back out."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

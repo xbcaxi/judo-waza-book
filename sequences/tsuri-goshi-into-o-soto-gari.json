@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "tsuri-goshi",
+    "o-soto-gari"
+  ],
+  "trigger": "steps-around",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who steps round the lifting hip throw has planted a foot outside you. Reaping that leg from the outside with the belt grip takes them backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

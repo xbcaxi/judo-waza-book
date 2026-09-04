@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "ushiro-goshi",
+    "kesa-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The rear hip throw drops your partner on their back at your feet with your arms round their waist. Kneeling beside the head and sliding an arm up round the neck is the scarf hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

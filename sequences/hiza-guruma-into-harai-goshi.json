@@ -4,6 +4,8 @@
     "hiza-guruma",
     "harai-goshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The blocked wheel makes your partner stiffen upright and press forward off the blocking foot; stepping through into Harai-goshi takes that forward pressure across your thigh."
   },
@@ -43,5 +45,6 @@
     "cue": {
       "en": "The blocked wheel makes them push forward, and the attacker turns in to sweep the thigh."
     }
-  }
+  },
+  "source": null
 }

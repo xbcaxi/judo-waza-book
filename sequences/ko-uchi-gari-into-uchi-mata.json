@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ko-uchi-gari",
+    "uchi-mata"
+  ],
+  "trigger": "pulls-back",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who pulls the foot back from the minor inner reap leans forward to balance. Turning in and sweeping the thigh from between the legs takes them over in the direction of the lean."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

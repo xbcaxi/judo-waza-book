@@ -552,15 +552,31 @@ validator checks:
 {
   "kind": "combination",
   "techniques": ["o-uchi-gari", "tai-otoshi"],
+  "trigger": "pulls-back",
+  "direction": "opposite",
   "about": { "en": "One or two sentences: why this pair works." },
   "described": { "en": ["First step of the whole sequence.", "Second step.", "The landing, always last."] },
   "receiving": { "en": "The reaction the first technique draws out, the moment it changes, and how to land." },
   "viNotes": { "en": "How the sequence reads from contact, and what changes in VI judo." },
-  "videos": []
+  "videos": [],
+  "resolver": null,
+  "source": { "sourceId": "judo-sequences-2026" }
 }
 ```
 
-A sequence carries the same seven fields in that order, whether or not
+`trigger` is the reaction of uke that makes the second technique possible,
+from the fixed list in `reference/judo-sequences-2026.json` (`pulls-back`,
+`pushes-forward`, `lifts-leg`, `steps-around`, `steps-over`, `blocks-hip`,
+`bends-forward`, `stiff-arms`, `weight-shifts`, `over-commits`), or null where
+the pair does not turn on one reaction. `direction` says whether the second
+technique throws the same way as the first (`same`, a continuation), the
+opposite way (`opposite`, a change of direction) or across it (`lateral`), and
+is recorded as the physical fact because sources draw renraku-waza and
+renzoku-waza differently. `source` names the catalogue or published document
+the relationship was read from by the `sourceId` of a record in `reference/`;
+null where the pair was written from practice.
+
+A sequence carries the same eleven fields in that order, whether or not
 anyone has written them yet, exactly as a technique carries its twenty-five:
 `described`, `receiving` and `viNotes` are `null` when unwritten, never
 missing, and they follow the same conventions as they do on a technique

@@ -1,0 +1,21 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "uchi-mata",
+    "kesa-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The inner thigh throw lands your partner on their back ahead of you with the sleeve still held. Stepping in and sitting beside the head with that arm across your hip is the scarf hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "mext-2013",
+    "recordId": "mext-2013/1333611_10/p012"
+  }
+}

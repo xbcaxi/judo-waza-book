@@ -4,6 +4,8 @@
     "uchi-mata",
     "tai-otoshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "When your partner commits to Uchi-mata their lifting leg is off the mat and everything rests on one foot. Blocking that foot and turning them is the standard answer."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "The high lifting attack is blocked at its one standing foot and turned forward over a straight leg."
     }
-  }
+  },
+  "source": null
 }

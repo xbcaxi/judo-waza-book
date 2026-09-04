@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "de-ashi-harai",
+    "tai-otoshi"
+  ],
+  "trigger": "pulls-back",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who pulls the foot back from the sweep leans forward to keep their balance. Turning in and putting your leg across their shin takes them over it with the lean."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

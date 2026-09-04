@@ -1,0 +1,107 @@
+{
+  "source": "judo-sequences-2026",
+  "note": "Edges from the owner's sequences catalogue that the sequence record cannot hold, because one end is a position, a movement or a grip rather than a technique. Kept here so the gap is a decision somebody wrote down. A position node on the sequence schema would let most of them in; the turnover and escape skills already cover the standard cases of 6.1 and 6.7.",
+  "sections": [
+    {
+      "section": "5.2 Uke capitalises on a failed attack",
+      "shape": "failed technique -> position -> technique",
+      "edges": [
+        "failed drop seoi-nage or seoi-otoshi -> uke takes the back -> sankaku-jime, koshi-jime, okuri-eri-jime, rolling juji-gatame, kuzure-kesa-gatame from the side",
+        "failed tomoe-nage or sumi-gaeshi -> uke stays on top -> pass -> yoko-shiho-gatame, tate-shiho-gatame, kami-shiho-gatame",
+        "failed kata-guruma or any low entry -> uke sprawls -> turtle attacks",
+        "failed uchi-mata or harai-goshi with tori on one leg -> uke rides down -> ushiro-kesa-gatame, kuzure-kesa-gatame",
+        "failed o-uchi-gari or ko-uchi-gari with tori on the floor -> uke on top -> tate-shiho-gatame, mune-gatame",
+        "tori pulled down from the grip -> uke passes -> osaekomi"
+      ]
+    },
+    {
+      "section": "5.3 Standing submissions",
+      "shape": "rule, not an edge",
+      "edges": [
+        "waki-gatame from standing: recorded on the technique's contest field",
+        "standing shime-waza (okuri-eri-jime, hadaka-jime): permitted only when continued to the ground without delay"
+      ]
+    },
+    {
+      "section": "6.1 Attacking the turtle",
+      "shape": "position (turtle) -> technique; the turnover skills cover the hold-down cases",
+      "edges": [
+        "turtle -> turnover -> kesa-gatame (arm hook and roll)",
+        "turtle -> turnover -> kuzure-kami-shiho-gatame (belt or leg pull)",
+        "turtle -> turnover -> yoko-shiho-gatame",
+        "turtle -> turnover -> tate-shiho-gatame (after taking the back)",
+        "turtle -> rolling juji-gatame",
+        "turtle -> sankaku-jime (side entry), sankaku-gatame",
+        "turtle -> okuri-eri-jime, kata-ha-jime, hadaka-jime, koshi-jime, sode-guruma-jime (from behind)",
+        "turtle -> ude-garami (from the side)",
+        "turtle -> juji-gatame (from the front, arm pulled through)",
+        "turtle -> tawara-gaeshi (uke rises from the turtle)"
+      ]
+    },
+    {
+      "section": "6.2 From the bottom (guard, do-osae, half guard)",
+      "shape": "position (guard) -> technique",
+      "edges": [
+        "guard -> juji-gatame",
+        "guard -> sankaku-jime -> juji-gatame -> sankaku-gatame",
+        "guard -> ude-garami",
+        "guard -> ashi-sankaku-garami (no technique record; the omoplata)",
+        "guard -> tsukkomi-jime, kata-te-jime, gyaku-juji-jime, nami-juji-jime",
+        "guard -> sweep -> tate-shiho-gatame",
+        "guard -> sweep -> kesa-gatame",
+        "guard -> hikikomi-gaeshi from ne-waza",
+        "do-jime: banned, recorded on the technique"
+      ]
+    },
+    {
+      "section": "6.3 From the top (in guard)",
+      "shape": "position (in guard) -> technique",
+      "edges": [
+        "in guard -> pass -> yoko-shiho-gatame, kata-gatame, tate-shiho-gatame, kami-shiho-gatame",
+        "in guard -> stack -> osaekomi (against juji-gatame or sankaku attempts)",
+        "ashi-garami and leg locks: banned, recorded on the technique"
+      ]
+    },
+    {
+      "section": "6.7 Escape to attack",
+      "shape": "escape (a skill) -> technique; the escape skills exist and could carry a follow-up field",
+      "edges": [
+        "kesa-gatame escape (bridge and roll) -> kesa-gatame reversal",
+        "kesa-gatame escape (leg trap) -> top position or ashi-gatame threat",
+        "yoko-shiho-gatame escape (bridge) -> mune-gatame or kesa-gatame reversal",
+        "yoko-shiho-gatame escape (turn to turtle) -> stand, or sumi-gaeshi from the turtle",
+        "kami-shiho-gatame escape (sit up and turn) -> juji-gatame",
+        "tate-shiho-gatame escape (bridge and roll) -> top position -> pass",
+        "juji-gatame escape (stack) -> tate-shiho-gatame or yoko-shiho-gatame",
+        "sankaku-jime escape (stack, posture) -> pass -> yoko-shiho-gatame",
+        "okuri-eri-jime escape (turn in) -> kesa-gatame",
+        "turtle escape (sit through) -> guard"
+      ]
+    },
+    {
+      "section": "7 Grip entries",
+      "shape": "grip-set -> technique; belongs to the kumi-kata model, not to sequences",
+      "edges": [
+        "sleeve and lapel -> most forward throws",
+        "high collar or cross grip -> ippon-seoi-nage, koshi-guruma, o-soto-gari",
+        "double sleeve -> sode-tsurikomi-goshi, sode yoko-tomoe-nage",
+        "belt grip -> tsuri-goshi, ura-nage, uki-waza",
+        "back or over-the-shoulder grip -> tsuri-goshi, o-soto-gari, harai-goshi",
+        "two-on-one sleeve -> ippon-seoi-nage, sumi-gaeshi",
+        "pistol grip -> ippon-seoi-nage, sode-tsurikomi-goshi"
+      ]
+    },
+    {
+      "section": "Names with no technique record",
+      "shape": "variant names the catalogue uses that resolve to nothing yet",
+      "edges": [
+        "ken-ken uchi-mata (the hopping continuation of uchi-mata)",
+        "sode yoko-tomoe (yoko-tomoe-nage from a double-sleeve grip)",
+        "yoko-kata-guruma and drop kata-guruma",
+        "kata-gatame-jime (the shoulder hold applied as a strangle)",
+        "ashi-sankaku-garami (the omoplata)",
+        "ouchi-gake and kouchi-gake driven through to osaekomi: the hooks exist; the drive-through is a transition already recorded"
+      ]
+    }
+  ]
+}

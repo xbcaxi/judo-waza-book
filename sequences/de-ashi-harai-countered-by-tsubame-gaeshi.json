@@ -4,6 +4,8 @@
     "de-ashi-harai",
     "tsubame-gaeshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The swallow counter, and the reason De-ashi-barai is taught with a warning. You withdraw the foot they are sweeping and sweep theirs on the same line while it is still travelling."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The sweep is slipped and swept back on the same line, one quick exchange of feet."
     }
-  }
+  },
+  "source": null
 }

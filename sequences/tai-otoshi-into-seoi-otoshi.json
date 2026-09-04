@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "tai-otoshi",
+    "seoi-otoshi"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "If the body drop stalls, dropping the knee to the mat under your partner and pulling through is the dropping shoulder throw, in the same direction."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

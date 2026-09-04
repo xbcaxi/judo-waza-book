@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "tomoe-nage",
+    "tate-shiho-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "Rolled all the way through, the circle throw brings you over the top to land astride your partner. Settling the chest down is the lengthways hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

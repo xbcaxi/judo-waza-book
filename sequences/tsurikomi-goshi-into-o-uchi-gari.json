@@ -1,0 +1,21 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "tsurikomi-goshi",
+    "o-uchi-gari"
+  ],
+  "trigger": "blocks-hip",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who drops their hips to stop the lifting-pulling hip throw has their weight back on the rear leg. Reaping it from the inside sends them backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "mext-2013",
+    "recordId": "mext-2013/1333611_10/p009"
+  }
+}

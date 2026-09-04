@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "seoi-nage",
+    "kuzure-kesa-gatame"
+  ],
+  "trigger": "steps-around",
+  "direction": null,
+  "about": {
+    "en": "A partner who drops to the knees for the shoulder throw and fails is kneeling in front of you. Stepping round to their side and dropping onto them with an arm under the far shoulder is the broken scarf hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -4,6 +4,8 @@
     "ippon-seoi-nage",
     "kami-shiho-gatame"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "A shoulder throw finishes with you standing above their head, which is exactly where the upper four quarters hold begins. The link is one step and a drop of the hips."
   },
@@ -41,5 +43,6 @@
     "cue": {
       "en": "The shoulder throw ends with the attacker above their head, dropping straight onto the hold."
     }
-  }
+  },
+  "source": null
 }

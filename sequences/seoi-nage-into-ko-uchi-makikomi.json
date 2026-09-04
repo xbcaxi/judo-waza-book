@@ -4,6 +4,8 @@
     "seoi-nage",
     "ko-uchi-makikomi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Same reaction as the reaping combination, finished by wrapping: when your partner defends the shoulder throw by sitting back, their near heel can be taken inward, and because their arm is still held from the first attack you drop through the reap rather than stand over it."
   },
@@ -22,5 +24,6 @@
     "cue": {
       "en": "The shoulder throw is answered by sitting back, and the near heel is reaped inward and wrapped as the attacker drops onto it."
     }
-  }
+  },
+  "source": null
 }

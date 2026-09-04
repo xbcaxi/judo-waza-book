@@ -1,0 +1,20 @@
+{
+  "kind": "chain",
+  "techniques": [
+    "kami-shiho-gatame",
+    "yoko-shiho-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner who bridges and turns hard to one side out of the upper four-quarters gives you their side. Walking round with the far arm still controlled lands you across the chest in the side four-quarters before the turn is complete."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "tai-otoshi",
+    "o-uchi-gari"
+  ],
+  "trigger": "steps-over",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who steps over the body drop's outstretched leg, or sits back from it, has weight on the rear leg. Reaping it from the inside takes them backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "okuri-ashi-harai",
+    "harai-goshi"
+  ],
+  "trigger": null,
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who braces against the double foot sweep has stopped moving sideways and is leaning towards you. Turning in and sweeping the thigh takes them over the hip."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "kata-guruma",
+    "ura-nage"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner who drops to lift you for the shoulder wheel has their head at your hip and their back exposed. Wrapping the waist over their shoulders and throwing yourself backwards takes them over you."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

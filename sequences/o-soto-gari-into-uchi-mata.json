@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "o-soto-gari",
+    "uchi-mata"
+  ],
+  "trigger": "pulls-back",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who pulls the leg back from the major outer reap has their weight coming forward. Turning in and sweeping the thigh from between the legs takes them over the way they moved."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

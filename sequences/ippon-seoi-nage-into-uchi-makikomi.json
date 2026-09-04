@@ -4,6 +4,8 @@
     "ippon-seoi-nage",
     "uchi-makikomi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "When the shoulder throw stalls with their arm still trapped high, winding inwards turns the stall into the throw: you keep the arm, add your body weight and roll through instead of lifting."
   },
@@ -42,5 +44,6 @@
     "cue": {
       "en": "The stalled shoulder throw turns into a wind, the trapped arm kept as both roll through."
     }
-  }
+  },
+  "source": null
 }

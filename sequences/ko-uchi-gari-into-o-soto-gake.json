@@ -4,6 +4,8 @@
     "ko-uchi-gari",
     "o-soto-gake"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The inner reap sends them backwards on the same side you are about to attack from outside. O-soto-gake takes the leg they have just planted to stop themselves."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The inside flick sends them back, and the leg they plant is hooked out."
     }
-  }
+  },
+  "source": null
 }

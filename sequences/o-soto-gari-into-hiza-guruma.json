@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "o-soto-gari",
+    "hiza-guruma"
+  ],
+  "trigger": "steps-around",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who steps round the major outer reap has their weight coming forward onto a bent front leg. Propping that knee and wheeling them over it uses the step."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

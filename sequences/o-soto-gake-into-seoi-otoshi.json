@@ -4,6 +4,8 @@
     "o-soto-gake",
     "seoi-otoshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Pulling hard away from an outside hook brings your partner's weight forward. Seoi-otoshi meets it: you drop under the arm and let them fall over your extended leg."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "They pull away from the hook behind their leg, and the attacker drops under the arm to pull them over the top."
     }
-  }
+  },
+  "source": null
 }

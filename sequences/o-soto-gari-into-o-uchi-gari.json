@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "o-soto-gari",
+    "o-uchi-gari"
+  ],
+  "trigger": "weight-shifts",
+  "direction": "same",
+  "about": {
+    "en": "A partner who lifts the reaped leg and shifts their weight to the other one is standing on that leg alone. Reaping it from the inside takes it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -4,6 +4,8 @@
     "o-uchi-gari",
     "ippon-seoi-nage"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Answering the inner reap, your partner pulls the attacked leg back and their weight comes forward over their toes, which is the moment the shoulder throw wants."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The inside reap is pulled away from, weight comes forward, and they go over a shoulder."
     }
-  }
+  },
+  "source": null
 }

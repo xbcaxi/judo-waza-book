@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "ko-uchi-gake",
+    "mune-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The minor inner hook drives your partner down backwards with you on top of them. Squaring your chest onto theirs as you land is the chest hold, with no turn needed."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

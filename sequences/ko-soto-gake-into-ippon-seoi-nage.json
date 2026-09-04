@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ko-soto-gake",
+    "ippon-seoi-nage"
+  ],
+  "trigger": "pushes-forward",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who leans in hard to resist the minor outer hook has their weight coming forward onto you. Turning in under the arm takes them over the shoulder in the direction they pushed."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

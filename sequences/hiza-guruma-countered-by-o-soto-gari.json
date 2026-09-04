@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "hiza-guruma",
+    "o-soto-gari"
+  ],
+  "trigger": "steps-over",
+  "direction": null,
+  "about": {
+    "en": "A partner propping your knee is standing on one leg. Stepping over the propping foot and reaping that supporting leg from the outside takes them backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

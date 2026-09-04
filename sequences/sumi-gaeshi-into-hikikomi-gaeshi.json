@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "sumi-gaeshi",
+    "hikikomi-gaeshi"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "When the corner reversal stalls with your partner braced, letting the arm go over their shoulder to the belt and rolling is the pulling-in reversal, in the same direction."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

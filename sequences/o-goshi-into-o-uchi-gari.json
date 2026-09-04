@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "o-goshi",
+    "o-uchi-gari"
+  ],
+  "trigger": "blocks-hip",
+  "direction": "opposite",
+  "about": {
+    "en": "The junior's first combination. A partner who blocks the major hip throw by pushing your hip away has stopped the turn with their weight back. Reaping the near leg from the inside sends them backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

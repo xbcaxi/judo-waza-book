@@ -4,6 +4,8 @@
     "o-uchi-gari",
     "o-soto-gari"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Saving the leg from the inner reap loads the other one, and the loaded leg is reaped from the outside."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The reap inside one leg loads the other, which is reaped from the outside."
     }
-  }
+  },
+  "source": null
 }

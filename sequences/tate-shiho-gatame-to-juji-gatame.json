@@ -4,6 +4,8 @@
     "tate-shiho-gatame",
     "juji-gatame"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The commonest ne-waza chain in contest: they defend the lengthwise hold by pushing with an arm, and you swing a leg over to take it. Age limits apply to joint locks; learn this only under instruction."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "A push out of the hold astride offers an arm; a leg swings over the head and the arm is pulled straight."
     }
-  }
+  },
+  "source": null
 }

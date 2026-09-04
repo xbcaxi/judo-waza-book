@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "uchi-mata",
+    "yoko-shiho-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "When the inner thigh throw lands your partner across your front, dropping onto the chest with an arm under the neck and one between the legs is the side four-quarters."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

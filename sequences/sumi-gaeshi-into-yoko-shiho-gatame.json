@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "sumi-gaeshi",
+    "yoko-shiho-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "Rolling through the corner reversal, you come up across your partner's chest. An arm under the neck and one through the legs as you land is the side four-quarters."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

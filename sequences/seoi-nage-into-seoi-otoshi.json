@@ -4,6 +4,8 @@
     "seoi-nage",
     "seoi-otoshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Same entry, different finish. When the lift will not come because their hips are low or they are heavier than you, dropping to the knee turns the throw into one that needs no lift at all."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "The same shoulder entry, but the attacker drops to a knee and pulls them over instead of lifting."
     }
-  }
+  },
+  "source": null
 }

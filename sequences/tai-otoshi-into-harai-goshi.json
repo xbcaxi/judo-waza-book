@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "tai-otoshi",
+    "harai-goshi"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "When the body drop stalls with your partner's shin against your leg, lifting that leg into a sweep of the thigh is the sweeping hip throw, from the same turn."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

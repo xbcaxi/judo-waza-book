@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "harai-goshi",
+    "tani-otoshi"
+  ],
+  "trigger": "steps-around",
+  "direction": null,
+  "about": {
+    "en": "A partner who turns in for the sweeping hip throw can be stepped round: sliding your leg behind both of theirs and dropping backwards takes them down over it into the valley drop."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

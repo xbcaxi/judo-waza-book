@@ -4,6 +4,8 @@
     "ko-uchi-gari",
     "harai-tsurikomi-ashi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Withdrawing the reaped foot and sweeping the ankle they are standing on answers the minor inner reap on the same beat, before their weight has finished transferring."
   },
@@ -43,5 +45,6 @@
     "cue": {
       "en": "The attacked foot is drawn back, and the attacker's standing ankle is swept on the same beat."
     }
-  }
+  },
+  "source": null
 }

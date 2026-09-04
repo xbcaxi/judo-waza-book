@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "okuri-ashi-harai",
+    "yoko-otoshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner sweeping both feet is driving you sideways. Dropping to that side with a leg across their front takes them over it, in the direction they were sweeping."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "uchi-mata",
+    "tani-otoshi"
+  ],
+  "trigger": "steps-around",
+  "direction": null,
+  "about": {
+    "en": "Stepping round the sweeping leg of the inner thigh throw puts your leg behind your partner's standing one. Dropping backwards from there is the valley drop."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

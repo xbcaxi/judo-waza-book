@@ -4,6 +4,8 @@
     "o-goshi",
     "uki-goshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Both are hip throws off the same entry, and the difference is how much lift you ask for. If your partner drops their weight and kills the full lift, the shallower floating hip turns them instead."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "A full hip throw that will not lift becomes a shallower turn over the hip."
     }
-  }
+  },
+  "source": null
 }

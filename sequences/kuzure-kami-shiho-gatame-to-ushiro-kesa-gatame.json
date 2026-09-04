@@ -4,6 +4,8 @@
     "kuzure-kami-shiho-gatame",
     "ushiro-kesa-gatame"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Turning away from the broken upper four quarters hold is the standard escape attempt, and it hands you the reverse scarf hold. You follow the turn rather than fighting it."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The escape turn is followed, and the hold reappears at their shoulder facing the other way."
     }
-  }
+  },
+  "source": null
 }

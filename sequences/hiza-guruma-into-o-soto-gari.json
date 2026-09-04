@@ -4,6 +4,8 @@
     "hiza-guruma",
     "o-soto-gari"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Front then back. The knee wheel draws their balance forward; when they brace back against it, their weight settles over their heels and the major outer reap arrives on the same side with the balance-breaking already done."
   },
@@ -43,5 +45,6 @@
     "cue": {
       "en": "Tipped forward over a blocking foot, they brace back, and the braced leg is reaped."
     }
-  }
+  },
+  "source": null
 }

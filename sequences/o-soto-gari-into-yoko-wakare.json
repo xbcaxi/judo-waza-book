@@ -4,6 +4,8 @@
     "o-soto-gari",
     "yoko-wakare"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "A partner who resists the major outer reap by leaning hard into you has committed their weight forward. Yoko-wakare takes the support away sideways and lets that commitment finish the throw."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "They lean hard into the reap, and the attacker drops sideways underneath to let them fall over."
     }
-  }
+  },
+  "source": null
 }

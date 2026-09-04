@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "uchi-mata",
+    "yoko-otoshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner turned in for the inner thigh throw can be taken sideways: dropping to your side with a leg across their standing leg takes them over it into the side drop."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

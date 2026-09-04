@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "tsuri-goshi",
+    "o-uchi-gari"
+  ],
+  "trigger": "blocks-hip",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who blocks the lifting hip throw by pushing the hip away has their weight back. Reaping the near leg from the inside, belt still held, takes them backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -19,6 +19,45 @@
         "minLength": 1
       }
     },
+    "trigger": {
+      "anyOf": [
+        {
+          "type": "string",
+          "enum": [
+            "pulls-back",
+            "pushes-forward",
+            "lifts-leg",
+            "steps-around",
+            "steps-over",
+            "blocks-hip",
+            "bends-forward",
+            "stiff-arms",
+            "weight-shifts",
+            "over-commits"
+          ]
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "The reaction of uke that makes the second technique possible, from the fixed list in reference/judo-sequences-2026.json. Null where the catalogue does not say or the pair does not turn on one reaction."
+    },
+    "direction": {
+      "anyOf": [
+        {
+          "type": "string",
+          "enum": [
+            "same",
+            "opposite",
+            "lateral"
+          ]
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Whether the second technique throws the same way as the first (a continuation, renzoku-waza), the opposite way (a change of direction, renraku-waza) or across it. Recorded as the physical fact because sources draw the two words differently. Null where unstated."
+    },
     "about": {
       "$ref": "#/definitions/localisedText"
     },
@@ -80,17 +119,31 @@
         }
       ],
       "description": "Observable facts for the technique resolver: the one-line cue that names the sequence to a spectator. Null where nobody has tagged the sequence yet."
+    },
+    "source": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/sourceRef"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Where the relationship was read from: a record in reference/ by sourceId, with the record id or page where the document has one. Null where the pair was written from practice rather than a document."
     }
   },
   "required": [
     "kind",
     "techniques",
+    "trigger",
+    "direction",
     "about",
     "described",
     "receiving",
     "viNotes",
     "videos",
-    "resolver"
+    "resolver",
+    "source"
   ],
   "additionalProperties": false,
   "definitions": {
@@ -198,8 +251,28 @@
         "id",
         "title"
       ]
+    },
+    "sourceRef": {
+      "type": "object",
+      "properties": {
+        "sourceId": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        },
+        "recordId": {
+          "type": "string",
+          "minLength": 1
+        },
+        "note": {
+          "$ref": "#/definitions/localisedText"
+        }
+      },
+      "required": [
+        "sourceId"
+      ],
+      "additionalProperties": false
     }
   },
   "title": "sequence",
-  "description": "One combination (renraku-waza) or counter (kaeshi-waza) relating existing techniques. Like a technique record, every field is present in every file, in the order listed here: a field nobody has written yet is null, never absent, so that a gap is visible to a reader and countable by the validator."
+  "description": "One combination (renraku-waza or renzoku-waza), counter (kaeshi-waza), transition (throw into groundwork) or chain (groundwork into groundwork) relating existing techniques. Like a technique record, every field is present in every file, in the order listed here: a field nobody has written yet is null, never absent, so that a gap is visible to a reader and countable by the validator."
 }

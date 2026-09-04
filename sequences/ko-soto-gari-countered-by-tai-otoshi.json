@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ko-soto-gari",
+    "tai-otoshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "When the minor outer reap misses, your partner's reaping leg is out and their weight is on the front foot. Turning in and putting your leg across that shin takes them over it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

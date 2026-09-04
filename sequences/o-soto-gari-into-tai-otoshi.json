@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "o-soto-gari",
+    "tai-otoshi"
+  ],
+  "trigger": "pulls-back",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who pulls the leg back from the major outer reap leans forward to do it. Turning in and putting the leg across their shin takes them forward over it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "uki-goshi",
+    "yoko-guruma"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner turned in for the floating hip throw can be wheeled: wrapping the waist and throwing yourself down to the side takes them over your body."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

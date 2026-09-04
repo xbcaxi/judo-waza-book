@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ashi-guruma",
+    "tai-otoshi"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "When the leg wheel stalls against your partner's thigh, dropping the blocking leg lower across the shin turns the same rotation into the body drop, and the pull does not change."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

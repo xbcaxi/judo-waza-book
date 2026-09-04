@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "okuri-ashi-harai",
+    "yoko-otoshi"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "When the double foot sweep moves your partner sideways but does not take them down, dropping to your side with a leg across their front is the side drop, in the same direction."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

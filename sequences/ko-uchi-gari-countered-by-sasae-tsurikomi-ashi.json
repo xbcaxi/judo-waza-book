@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ko-uchi-gari",
+    "sasae-tsurikomi-ashi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner reaping your heel from the inside has their weight over the standing foot. Propping that ankle and wheeling them forward over it is the propping ankle throw."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

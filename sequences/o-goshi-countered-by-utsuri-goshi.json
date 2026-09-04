@@ -4,6 +4,8 @@
     "o-goshi",
     "utsuri-goshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The changing hip throw is the counter that turns a hip attack into your own: absorb the entry by dropping lower than the attacker, lift them clear, and switch your hips beneath them as they come down. One throw becomes another in mid-air."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "The hip entry is absorbed from below, lifted, and set down over the defender's own hip instead."
     }
-  }
+  },
+  "source": null
 }

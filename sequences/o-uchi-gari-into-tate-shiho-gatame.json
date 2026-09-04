@@ -4,6 +4,8 @@
     "o-uchi-gari",
     "tate-shiho-gatame"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The inner reap puts your partner flat on their back with you already between their legs, which is the one throw that leads straight into the lengthwise hold."
   },
@@ -41,5 +43,6 @@
     "cue": {
       "en": "The inside reap puts them flat on their back with the attacker landing astride."
     }
-  }
+  },
+  "source": null
 }

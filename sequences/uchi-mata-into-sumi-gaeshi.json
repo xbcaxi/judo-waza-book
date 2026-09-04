@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "uchi-mata",
+    "sumi-gaeshi"
+  ],
+  "trigger": "bends-forward",
+  "direction": "same",
+  "about": {
+    "en": "A partner who bends forward over you to stop the inner thigh throw has their weight above you. Sitting back under them and lifting with the instep is the corner reversal."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

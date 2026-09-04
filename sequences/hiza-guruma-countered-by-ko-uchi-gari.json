@@ -4,6 +4,8 @@
     "hiza-guruma",
     "ko-uchi-gari"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The wheel needs your weight on the blocked leg; lifting it over the blocking foot leaves the attacker balanced on one heel, and the small inner reap takes it."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The foot blocking the knee is lifted over, and the blocker's standing heel is flicked away."
     }
-  }
+  },
+  "source": null
 }

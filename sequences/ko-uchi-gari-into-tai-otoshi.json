@@ -4,6 +4,8 @@
     "ko-uchi-gari",
     "tai-otoshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "When the reap is answered by a backward step, the weight that returns forward can be sent over an extended leg instead. Tai-otoshi blocks rather than lifts, so it works even when they are heavy."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The inside flick is stepped away from, and they are tripped forward over a straight leg."
     }
-  }
+  },
+  "source": null
 }

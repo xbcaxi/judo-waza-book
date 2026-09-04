@@ -4,6 +4,8 @@
     "kata-juji-jime",
     "hiza-gatame"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "A strangle attempted from underneath has to extend an arm to reach the collar. Hiza-gatame takes that arm. Practise it slowly and only under supervision, and never apply it to the point of pain."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "The arm reaching in to strangle is caught and pressed straight under a knee."
     }
-  }
+  },
+  "source": null
 }

@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "seoi-otoshi",
+    "juji-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner stuck on their knees after the dropping shoulder throw still has your sleeve, and their arm with it. Rolling over the shoulder with that arm hugged to you takes the cross armlock. Joint locks carry age limits; learn it under instruction."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

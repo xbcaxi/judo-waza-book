@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "tai-otoshi",
+    "juji-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "After the body drop the arm you pulled is straight along your side. Stepping over your partner's head with it hugged to your chest and dropping back is the cross armlock. Joint locks carry age limits; learn it under instruction."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

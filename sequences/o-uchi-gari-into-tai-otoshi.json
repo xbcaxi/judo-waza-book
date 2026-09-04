@@ -4,6 +4,8 @@
     "o-uchi-gari",
     "tai-otoshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The classic back-then-front pair. The inner reap makes your partner post their weight backwards to survive; the instant that defence lands, their weight is perfectly placed for the body drop the other way."
   },
@@ -35,5 +37,6 @@
     "cue": {
       "en": "An inside reap backwards, then they are spun forward and tripped over a straight leg."
     }
-  }
+  },
+  "source": null
 }

@@ -1,0 +1,21 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "o-uchi-gari",
+    "tai-otoshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "When the major inner reap misses, your partner's reaping leg is between yours and their weight is forward. Turning in and putting your leg across their standing shin takes them over it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "mext-2013",
+    "recordId": "mext-2013/1333611_10/p010"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "tomoe-nage",
+    "o-uchi-gari"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner sitting back for the circle throw has one foot coming up to your belt and their weight going down. Hooking the leg that is still on the mat from the inside before the foot lands takes them the rest of the way, on your terms."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

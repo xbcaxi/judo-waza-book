@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ko-uchi-gari",
+    "sasae-tsurikomi-ashi"
+  ],
+  "trigger": "steps-over",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who steps forward through the minor inner reap has weight arriving on the front foot. Propping that ankle and wheeling them over it uses the step."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

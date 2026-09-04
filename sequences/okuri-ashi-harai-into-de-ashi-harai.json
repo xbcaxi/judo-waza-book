@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "okuri-ashi-harai",
+    "de-ashi-harai"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "If the double foot sweep catches only one foot, sweeping the leading foot on its own as it moves is the advancing foot sweep, with the same timing."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

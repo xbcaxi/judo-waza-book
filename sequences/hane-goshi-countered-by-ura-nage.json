@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "hane-goshi",
+    "ura-nage"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner who turns in for the springing hip throw and does not get you moving has their back against your chest. Wrapping the waist, dropping your hips and throwing yourself backwards takes them over your shoulder."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

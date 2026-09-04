@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "kuchiki-taoshi",
+    "sumi-gaeshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner who drops for your leg has bent forward under you. Sitting back and lifting with the instep is the corner reversal, taken as they reach. The leg catch draws a shido in contest."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

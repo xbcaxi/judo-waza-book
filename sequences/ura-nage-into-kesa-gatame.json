@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "ura-nage",
+    "kesa-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The rear throw lands your partner over your shoulder onto their back beside you. Turning towards their head with the sleeve pulled across your body and an arm round the neck is the scarf hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -4,6 +4,8 @@
     "hiza-guruma",
     "okuri-ashi-harai"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Sliding sideways off the wheel puts the attacker's feet together in motion, which is precisely what the double sweep punishes."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "Sliding off the wheel puts the attacker's feet together, and both are swept sideways."
     }
-  }
+  },
+  "source": null
 }

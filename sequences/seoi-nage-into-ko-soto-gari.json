@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "seoi-nage",
+    "ko-soto-gari"
+  ],
+  "trigger": "steps-around",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who steps round the shoulder throw has a foot beside yours with their weight on the heel. Reaping it from the outside takes them backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ko-soto-gari",
+    "harai-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner who reaps your heel is leaning towards you to do it. Pulling them on through and turning in to sweep the thigh uses the lean."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

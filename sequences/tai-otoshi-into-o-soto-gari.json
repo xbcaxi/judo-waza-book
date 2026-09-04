@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "tai-otoshi",
+    "o-soto-gari"
+  ],
+  "trigger": "steps-around",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who steps round the body drop has planted a foot outside you with their weight on it. Reaping that leg from the outside takes them backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

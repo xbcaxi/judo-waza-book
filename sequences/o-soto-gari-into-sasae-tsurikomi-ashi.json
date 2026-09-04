@@ -4,6 +4,8 @@
     "o-soto-gari",
     "sasae-tsurikomi-ashi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Defending the outer reap, your partner drags the attacked leg back and drives forward; the propping foot catches that drive at the ankle and wheels them over it."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "They drag the leg clear of the reap and drive forward onto a foot propped at the ankle."
     }
-  }
+  },
+  "source": null
 }

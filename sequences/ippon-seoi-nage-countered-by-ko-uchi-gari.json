@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ippon-seoi-nage",
+    "ko-uchi-gari"
+  ],
+  "trigger": "blocks-hip",
+  "direction": null,
+  "about": {
+    "en": "Blocking the turn of the one-arm shoulder throw leaves your partner's near heel in front of you with weight on it. Reaping it from the inside takes them down backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

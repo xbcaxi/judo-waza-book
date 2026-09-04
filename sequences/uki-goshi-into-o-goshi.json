@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "uki-goshi",
+    "o-goshi"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "If the floating hip does not get far enough across, driving the hips deeper and lifting is the major hip throw, from the same turn."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "morote-gari",
+    "tawara-gaeshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner who shoots for both legs arrives bent double with their head at your hip. Wrapping both arms round the waist and lifting them over your head is the rice-bag reversal. Taking the legs draws a shido in contest, so this is a dojo pair."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

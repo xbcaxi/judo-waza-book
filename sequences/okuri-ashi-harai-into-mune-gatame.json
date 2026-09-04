@@ -4,6 +4,8 @@
     "okuri-ashi-harai",
     "mune-gatame"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The double sweep lands your partner on their back side-on to you, a step from the chest hold."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "Both feet swept together, and the attacker kneels straight onto their chest."
     }
-  }
+  },
+  "source": null
 }

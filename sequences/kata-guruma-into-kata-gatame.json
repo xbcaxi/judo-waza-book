@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "kata-guruma",
+    "kata-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "Coming off the shoulder wheel, the arm you held across your shoulders is beside your partner's head. Pushing it across their neck and clamping it with your head as you settle is the shoulder hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

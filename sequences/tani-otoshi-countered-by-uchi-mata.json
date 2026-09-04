@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "tani-otoshi",
+    "uchi-mata"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner sliding a leg behind yours for the valley drop is standing on one leg for a moment before they commit. Turning in and sweeping the standing thigh before the drop takes them over it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

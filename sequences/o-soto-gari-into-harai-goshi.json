@@ -4,6 +4,8 @@
     "o-soto-gari",
     "harai-goshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "When the reap is pulled clear and your partner surges forward, turning in and sweeping the thigh accepts the gift."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The reap is pulled clear, they surge forward, and the attacker turns in to sweep the thigh."
     }
-  }
+  },
+  "source": null
 }

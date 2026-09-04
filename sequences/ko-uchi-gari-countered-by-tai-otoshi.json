@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ko-uchi-gari",
+    "tai-otoshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "When the minor inner reap misses, your partner's reaping leg is extended between yours and their weight is forward. Turning in and putting your leg across their standing shin takes them over it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

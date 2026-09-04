@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ashi-guruma",
+    "o-uchi-gari"
+  ],
+  "trigger": "pulls-back",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who sits back to stop the leg wheel has put their weight on the rear leg. Reaping that leg from the inside sends them the way they were already leaning."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

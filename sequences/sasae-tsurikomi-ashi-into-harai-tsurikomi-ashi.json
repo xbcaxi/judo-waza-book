@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "sasae-tsurikomi-ashi",
+    "harai-tsurikomi-ashi"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "If your partner's foot slides past the prop, sweeping it on through with the same lifting pull is the lifting-pulling foot sweep."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

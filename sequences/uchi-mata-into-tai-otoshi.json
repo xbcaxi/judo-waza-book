@@ -1,0 +1,21 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "uchi-mata",
+    "tai-otoshi"
+  ],
+  "trigger": "pulls-back",
+  "direction": "same",
+  "about": {
+    "en": "A partner who pulls off the sweeping leg by planting the other foot stays leaning forward. Dropping the sweeping leg across their shin turns the throw into the body drop."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "mext-2013",
+    "recordId": "mext-2013/1333611_10/p008"
+  }
+}

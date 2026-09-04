@@ -4,6 +4,8 @@
     "ko-soto-gari",
     "mune-gatame"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The small outer reap drops your partner at your feet with you already facing their chest; kneeling straight into Mune-gatame wastes none of it."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The heel clip drops them at the attacker's feet, who kneels straight onto their chest."
     }
-  }
+  },
+  "source": null
 }

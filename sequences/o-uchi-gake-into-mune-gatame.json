@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "o-uchi-gake",
+    "mune-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The major inner hook lands you on your partner's chest. Squaring up and spreading the legs as you land is the chest hold, taken from the fall itself."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "sasae-tsurikomi-ashi",
+    "o-soto-gari"
+  ],
+  "trigger": "steps-over",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who steps over the propping foot has planted that leg forward with their weight on it. Reaping it from the outside takes them backwards over the step."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

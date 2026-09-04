@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "hiza-guruma",
+    "harai-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner who props your knee has pulled you towards them to do it. Stepping past the prop and turning in to sweep the thigh uses their pull."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

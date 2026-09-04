@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "sode-tsurikomi-goshi",
+    "seoi-otoshi"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "When the sleeve-lifting hip throw stalls at the top, dropping to the knees under the lifted sleeve turns it into the dropping shoulder throw."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "uki-waza",
+    "yoko-shiho-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The floating throw rolls you through beside your partner as they land. Coming up across their chest with an arm under the neck and one between the legs is the side four-quarters."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

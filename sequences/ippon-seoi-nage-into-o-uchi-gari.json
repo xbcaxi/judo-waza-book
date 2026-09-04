@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ippon-seoi-nage",
+    "o-uchi-gari"
+  ],
+  "trigger": "pulls-back",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who bends the knees and sits back to stop the one-arm shoulder throw has planted the rear leg. Reaping it from the inside as you turn back out sends them the way they were pulling."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

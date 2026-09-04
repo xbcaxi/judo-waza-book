@@ -4,6 +4,8 @@
     "harai-goshi",
     "soto-makikomi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "When the hip is in but the arm never comes over, winding into Soto-makikomi finishes the same entry. Your body becomes the lever instead of your hip, so the throw survives a partner who is heavier or better braced."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The hip attack becomes a wind: the arm is wrapped and both roll over together."
     }
-  }
+  },
+  "source": null
 }

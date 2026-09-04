@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "seoi-otoshi",
+    "kesa-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The dropping shoulder throw leaves you kneeling at your partner's head with the sleeve held. Sitting through with the arm pinned across you and your other arm round the neck is the scarf hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

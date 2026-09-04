@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "uchi-mata",
+    "harai-goshi"
+  ],
+  "trigger": "steps-around",
+  "direction": "same",
+  "about": {
+    "en": "When your partner steps round the sweeping leg and the thigh is no longer between their legs, sweeping across the front of both thighs instead is the sweeping hip throw, mid-throw."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

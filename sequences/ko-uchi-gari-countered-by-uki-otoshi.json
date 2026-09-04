@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ko-uchi-gari",
+    "uki-otoshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner who reaps and drives has their weight coming forward onto the standing leg. Dropping to the knee and pulling them past you is the floating drop, taken with their own momentum."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

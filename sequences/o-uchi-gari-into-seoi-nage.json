@@ -1,0 +1,21 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "o-uchi-gari",
+    "seoi-nage"
+  ],
+  "trigger": "pulls-back",
+  "direction": "opposite",
+  "about": {
+    "en": "The back-then-front pair every club drills. A partner who steps back from the major inner reap pushes forward to recover; turning in under the arms takes them over the shoulder with that push."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "mext-2013",
+    "recordId": "mext-2013/1333611_10/p009"
+  }
+}

@@ -4,6 +4,8 @@
     "ko-uchi-gari",
     "seoi-nage"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The small inner reap draws your partner's foot back and settles their weight forward and low, creating the opening for the shoulder throw."
   },
@@ -48,5 +50,6 @@
     "cue": {
       "en": "The small inside flick brings them forward and low, straight onto the shoulder throw."
     }
-  }
+  },
+  "source": null
 }

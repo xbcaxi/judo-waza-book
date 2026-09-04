@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "tomoe-nage",
+    "yoko-shiho-gatame"
+  ],
+  "trigger": "steps-around",
+  "direction": null,
+  "about": {
+    "en": "A partner who sits back for the circle throw with the foot not yet on your belt is on the mat in front of you. Stepping round the foot and dropping onto the chest with an arm under the neck and one through the legs is the side four-quarters."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

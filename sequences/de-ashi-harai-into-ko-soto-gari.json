@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "de-ashi-harai",
+    "ko-soto-gari"
+  ],
+  "trigger": "weight-shifts",
+  "direction": "same",
+  "about": {
+    "en": "A partner who lifts the foot away from the advancing sweep puts all their weight on the other leg. Reaping that heel from the outside takes the leg they are standing on."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

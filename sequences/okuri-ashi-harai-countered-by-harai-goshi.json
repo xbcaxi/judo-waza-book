@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "okuri-ashi-harai",
+    "harai-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner sweeping both feet has pulled you sideways towards them. Stepping over the sweep and turning in to sweep the thigh uses the pull."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

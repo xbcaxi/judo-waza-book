@@ -4,6 +4,8 @@
     "o-uchi-gari",
     "seoi-nage"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Slipping the reap leaves the attacker square-on and committed forward; turning in under the gripping arm converts their commitment into the shoulder throw."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The reap is slipped, and its owner is spun in under the arm and carried over a shoulder."
     }
-  }
+  },
+  "source": null
 }

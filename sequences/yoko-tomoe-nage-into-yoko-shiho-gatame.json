@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "yoko-tomoe-nage",
+    "yoko-shiho-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The side circle throw rolls your partner past you and you come up at their side. Dropping the chest onto theirs with an arm under the neck and one between the legs is the side four-quarters."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

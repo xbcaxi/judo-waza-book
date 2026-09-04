@@ -4,6 +4,8 @@
     "ko-soto-gake",
     "tai-otoshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The hooking leg commits the attacker close and square; turning in and dropping the blocking leg across their shin turns their hook into your body drop."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The heel hook is answered with a turn: the hooker is tripped forward over a straight leg."
     }
-  }
+  },
+  "source": null
 }

@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "o-uchi-gari",
+    "hikikomi-gaeshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner leaning over you to drive the major inner reap has their shoulder within reach. Reaching over it to the belt and rolling back is the pulling-in reversal."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

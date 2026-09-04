@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "o-uchi-gari",
+    "ko-soto-gari"
+  ],
+  "trigger": "steps-around",
+  "direction": "same",
+  "about": {
+    "en": "A partner who steps round the major inner reap has put the foot down beside you with weight on the heel. Reaping that heel from the outside takes it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

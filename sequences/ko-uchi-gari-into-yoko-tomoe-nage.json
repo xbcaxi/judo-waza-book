@@ -4,6 +4,8 @@
     "ko-uchi-gari",
     "yoko-tomoe-nage"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Some partners answer the inner reap by driving forward into you. Yoko-tomoe-nage uses that drive: you go down and sideways deliberately, and they travel over the top."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "They drive into the inside flick, and the attacker drops sideways, a foot in the stomach sending them over."
     }
-  }
+  },
+  "source": null
 }

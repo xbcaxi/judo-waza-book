@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "hane-goshi",
+    "ushiro-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner turning in for the springing hip throw has their back to you for a moment. Sinking your hips below theirs, wrapping the waist and lifting takes the whole attack off the floor and drops it behind you."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -4,6 +4,8 @@
     "ko-soto-gari",
     "tani-otoshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Lifting a foot clear of the minor outer reap moves your partner's weight backwards over a leg they cannot step back with. Tani-otoshi bars that leg and drops them over it."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "They lift a foot clear of the clip, and a leg bars behind them as both drop backwards."
     }
-  }
+  },
+  "source": null
 }

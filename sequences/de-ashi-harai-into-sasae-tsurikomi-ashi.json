@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "de-ashi-harai",
+    "sasae-tsurikomi-ashi"
+  ],
+  "trigger": "pulls-back",
+  "direction": "opposite",
+  "about": {
+    "en": "When the foot sweep misses and your partner draws the foot back, their weight rocks forward onto the other leg. Propping that ankle and wheeling them over it uses the rock."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

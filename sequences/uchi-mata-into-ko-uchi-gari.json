@@ -4,6 +4,8 @@
     "uchi-mata",
     "ko-uchi-gari"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The usual answer to Uchi-mata is to widen the stance and settle the weight back. Both of those things make the near foot easy to reap from the inside."
   },
@@ -43,5 +45,6 @@
     "cue": {
       "en": "The high lifting throw makes them widen and settle back, and the near foot is flicked from the inside."
     }
-  }
+  },
+  "source": null
 }

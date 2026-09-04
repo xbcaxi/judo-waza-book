@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "harai-goshi",
+    "yoko-guruma"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "When the sweeping hip throw stalls with your partner turned in, wrapping their waist and throwing yourself down to the side wheels them over your body. The fall is yours as well; commit to it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

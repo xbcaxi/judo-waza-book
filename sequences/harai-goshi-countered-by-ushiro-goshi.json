@@ -4,6 +4,8 @@
     "harai-goshi",
     "ushiro-goshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The classical answer to the sweeping hip throw: as the attack turns in, the defender sinks their hips below it, wraps the waist, and lifts the whole attack off the floor. Timing is everything; a beat late and the sweep has already bitten."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The hip attack is caught from behind, lifted clean off the floor and dropped."
     }
-  }
+  },
+  "source": null
 }

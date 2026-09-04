@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "o-uchi-gari",
+    "mune-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "Following the major inner reap down lands you on your partner's chest. Squaring the shoulders and settling is the chest hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "uchi-mata",
+    "kuzure-kesa-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner thrown high by the inner thigh throw lands a little further out, with the far shoulder the nearer one. Sitting in with an arm under it is the broken scarf hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

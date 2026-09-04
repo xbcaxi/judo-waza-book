@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "o-goshi",
+    "ko-uchi-gari"
+  ],
+  "trigger": "blocks-hip",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who stiffens the arm and blocks the hip has their weight on the near heel. Reaping it from the inside with a small step takes the leg they are braced on."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "uchi-mata",
+    "ko-soto-gake"
+  ],
+  "trigger": "steps-around",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who circles away from the sweeping leg puts a heel down close beside your foot. Hooking it from the outside takes them backwards over it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

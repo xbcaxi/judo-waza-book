@@ -4,6 +4,8 @@
     "ippon-seoi-nage",
     "tani-otoshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "A defended shoulder throw invites your partner to press into your back; sliding a leg behind their heels and dropping to the side takes them backwards into the valley."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The blocked shoulder throw becomes a sit-down drop: a leg slides behind their heels and both go back."
     }
-  }
+  },
+  "source": null
 }

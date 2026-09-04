@@ -4,6 +4,8 @@
     "ko-uchi-gari",
     "ippon-seoi-nage"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Stepping back from the inner reap brings your partner's weight forward onto their front foot. That is the moment the shoulder throw wants."
   },
@@ -50,5 +52,6 @@
     "cue": {
       "en": "A flick inside the foot brings them forward, and they are spun under the arm and carried over a shoulder."
     }
-  }
+  },
+  "source": null
 }

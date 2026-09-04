@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "tsuri-goshi",
+    "ushiro-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner turning in with a belt grip for the lifting hip throw has their back to you as they turn. Sinking below the hips, wrapping the waist and lifting takes the attack off the floor."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

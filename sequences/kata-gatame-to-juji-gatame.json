@@ -1,0 +1,20 @@
+{
+  "kind": "chain",
+  "techniques": [
+    "kata-gatame",
+    "juji-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The shoulder hold already has the arm across your partner's own throat. When they straighten it to push your head away, that straight arm is beside your hip; stepping over the head and sitting back finishes it with the cross armlock. Joint locks carry age limits; learn it under instruction."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

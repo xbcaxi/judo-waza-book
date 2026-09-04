@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "sasae-tsurikomi-ashi",
+    "o-uchi-gari"
+  ],
+  "trigger": "pulls-back",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who pulls the foot back from the prop has their weight going onto the other leg. Reaping that leg from the inside takes it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

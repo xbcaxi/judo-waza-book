@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "tani-otoshi",
+    "ushiro-kesa-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "Landing from the valley drop you are behind your partner facing their feet. Sitting through with the near arm gathered and your weight on the shoulder is the rear scarf hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

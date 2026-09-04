@@ -4,6 +4,8 @@
     "o-uchi-gari",
     "sode-tsurikomi-goshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The same slipped reap answered with the sleeve lift: the attacker's reaching arm is carried high and their forward weight goes over the hip."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The reap is slipped, the reaching sleeve is carried high, and its owner goes over the hip."
     }
-  }
+  },
+  "source": null
 }

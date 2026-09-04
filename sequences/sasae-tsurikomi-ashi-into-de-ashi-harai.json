@@ -4,6 +4,8 @@
     "sasae-tsurikomi-ashi",
     "de-ashi-harai"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Both are ashi-waza on a moving partner. If they step over the prop, the same foot is advancing and unweighted, which is precisely what De-ashi-barai sweeps."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "They step over the propping foot and the advancing foot is swept as it travels."
     }
-  }
+  },
+  "source": null
 }

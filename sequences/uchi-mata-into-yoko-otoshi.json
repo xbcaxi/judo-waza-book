@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "uchi-mata",
+    "yoko-otoshi"
+  ],
+  "trigger": "pulls-back",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who braces backwards against the inner thigh throw is leaning away from you. Dropping to your side with a leg across their front takes them the way they leaned."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

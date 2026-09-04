@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ippon-seoi-nage",
+    "ushiro-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner who turns in for the one-arm shoulder throw with the arm not yet trapped has offered their back. Sinking below their hips, wrapping the waist and lifting takes the attack off the floor."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

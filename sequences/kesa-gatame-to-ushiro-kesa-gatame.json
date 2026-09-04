@@ -1,0 +1,20 @@
+{
+  "kind": "chain",
+  "techniques": [
+    "kesa-gatame",
+    "ushiro-kesa-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "When your partner turns in towards you to escape the scarf hold, their head comes past your hip. Swinging your legs round to face the other way keeps their head trapped and takes the rear scarf hold, with the turn they made doing the work."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

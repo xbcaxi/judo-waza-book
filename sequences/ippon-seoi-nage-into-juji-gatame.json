@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "ippon-seoi-nage",
+    "juji-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "After the one-arm shoulder throw the arm you threw with is straight along your chest. Stepping over your partner's head and sitting back with it hugged to you is the cross armlock, taken from the landing. Joint locks carry age limits; learn it under instruction."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

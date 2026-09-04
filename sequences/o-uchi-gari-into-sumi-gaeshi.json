@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "o-uchi-gari",
+    "sumi-gaeshi"
+  ],
+  "trigger": "bends-forward",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who bends forward and pushes to stop the major inner reap is leaning over you. Sitting back under them and lifting with the instep is the corner reversal."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

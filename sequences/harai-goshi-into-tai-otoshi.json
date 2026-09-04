@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "harai-goshi",
+    "tai-otoshi"
+  ],
+  "trigger": "pulls-back",
+  "direction": "same",
+  "about": {
+    "en": "A partner who sits back from the sweeping hip throw stays leaning forward once the sweep stops. Dropping the sweeping leg to the mat across their shin turns the same rotation into the body drop."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

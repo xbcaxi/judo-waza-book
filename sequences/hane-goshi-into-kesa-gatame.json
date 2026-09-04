@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "hane-goshi",
+    "kesa-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The springing hip throw sets your partner down along your leading side, sleeve in hand. Sitting through beside their head with that arm trapped against you and the other round the neck is the scarf hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

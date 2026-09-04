@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ko-soto-gari",
+    "o-uchi-gari"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner reaping your heel from the outside stands on the leg nearest you. Reaping that leg from the inside takes them backwards first."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

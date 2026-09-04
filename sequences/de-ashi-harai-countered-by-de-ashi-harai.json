@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "de-ashi-harai",
+    "de-ashi-harai"
+  ],
+  "trigger": "over-commits",
+  "direction": null,
+  "about": {
+    "en": "The mirror counter. A partner whose foot sweep misses has their sweeping foot in the air and their weight on the other one; sweeping that supporting foot as it takes the weight is the same throw sent back."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

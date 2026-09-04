@@ -4,6 +4,8 @@
     "tai-otoshi",
     "seoi-nage"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Posting against the body drop pulls your partner's chest down and forward over your shoulder line. That is the shoulder throw's opening, and the entry is only half a step away."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "They post against the trip, chest coming forward, and are carried over the shoulder instead."
     }
-  }
+  },
+  "source": null
 }

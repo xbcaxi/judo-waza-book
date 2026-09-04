@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "morote-gari",
+    "uki-waza"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner shooting for both legs is driving forward and down. Sliding a leg out to the side and dropping with them takes them past you into the floating throw. Taking the legs draws a shido in contest."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

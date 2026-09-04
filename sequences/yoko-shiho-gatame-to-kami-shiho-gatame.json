@@ -1,0 +1,20 @@
+{
+  "kind": "chain",
+  "techniques": [
+    "yoko-shiho-gatame",
+    "kami-shiho-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner who turns away beneath the side four-quarters has given you the top of their head. Walking round past it with the belt controlled lands in the upper four-quarters, and the hold never breaks on the way."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

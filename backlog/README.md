@@ -119,3 +119,22 @@ inventing the reason.
 Two of the fourteen are not sequences at all. Escaping uke's hold into a hold
 of your own is a skill in this reference, filed under the hold it gets out of,
 so those two carry no proposed slug and say `belongsIn: skills`.
+
+EIGHT OF THE FOURTEEN LEFT ON 2026-09-04, when the owner's sequences catalogue
+was imported and named the same pairs. Each became a sequence record with an
+`about` written from the judo and a `source` citing the MEXT record id, so the
+book's page is one click from the entry. Six remain, four of them pairs the
+catalogue does not list and two the skills already cover.
+
+## The sequences catalogue's edges that have nowhere to go
+
+`judo-sequences-unmodelled.json` holds what the owner's 2026 sequences
+catalogue (`reference/judo-sequences-2026.json`) describes and a sequence
+record cannot hold: edges that start or end at a position (the turtle, the
+guard, on top in the guard), at a movement (a sprawl, a pass, a step round)
+or at a grip, and a few variant names with no technique record. Three
+hundred and ninety-seven technique-to-technique edges from the same catalogue
+went straight into `sequences/`; these are the remainder, by section, so
+that adding a position node to the schema one day is a matter of reading one
+file rather than the catalogue again.
+

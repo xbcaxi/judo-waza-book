@@ -4,6 +4,8 @@
     "o-uchi-gari",
     "ko-soto-gake"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The inner reap moves your partner's weight backwards and outwards onto the far leg. Ko-soto-gake hooks exactly that leg from the outside while their weight is still travelling."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "The inside reap misses, and the far heel is hooked from outside while they are still stepping."
     }
-  }
+  },
+  "source": null
 }

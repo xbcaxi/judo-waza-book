@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "o-guruma",
+    "tai-otoshi"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "When the major wheel stalls at your partner's thigh, dropping the leg lower across their shin turns the same rotation into the body drop."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

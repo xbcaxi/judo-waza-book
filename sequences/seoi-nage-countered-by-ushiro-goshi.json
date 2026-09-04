@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "seoi-nage",
+    "ushiro-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner turning in for the shoulder throw with your balance intact has offered their back. Sinking below the hips, wrapping the waist and lifting takes the attack off the floor."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

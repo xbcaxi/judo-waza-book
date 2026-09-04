@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ko-uchi-gari",
+    "ko-uchi-gaeshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "As your partner reaps your heel from the inside, lifting the attacked foot clear and reaping their reaping leg with it is the minor inner counter, the named answer."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

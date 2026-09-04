@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "sode-tsurikomi-goshi",
+    "ushiro-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner lifting your sleeve high to turn in has their back to you as they do it. Sinking below the hips, wrapping the waist and lifting takes the attack off the floor."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

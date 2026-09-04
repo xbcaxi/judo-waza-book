@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "o-uchi-gari",
+    "uchi-mata"
+  ],
+  "trigger": "lifts-leg",
+  "direction": null,
+  "about": {
+    "en": "A partner reaping from the inside has put their leg between yours. Lifting it with the inside of your thigh and turning in is the inner thigh throw, on the leg they gave you."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

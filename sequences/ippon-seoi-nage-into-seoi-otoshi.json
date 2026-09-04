@@ -4,6 +4,8 @@
     "ippon-seoi-nage",
     "seoi-otoshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The stalled lift becomes a drop: keeping the same arm and the same turn, sinking to one or both knees pulls your partner over the top as Seoi-otoshi."
   },
@@ -43,5 +45,6 @@
     "cue": {
       "en": "The stalled shoulder throw drops: the attacker sinks to the knees and pulls them over the top."
     }
-  }
+  },
+  "source": null
 }

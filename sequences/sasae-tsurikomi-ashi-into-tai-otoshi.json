@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "sasae-tsurikomi-ashi",
+    "tai-otoshi"
+  ],
+  "trigger": "pulls-back",
+  "direction": "same",
+  "about": {
+    "en": "A partner who resists the propping ankle throw by stepping back stays leaning over the prop. Dropping the propping leg to the mat across their shin turns the wheel into the body drop."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

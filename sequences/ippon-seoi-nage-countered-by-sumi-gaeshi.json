@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ippon-seoi-nage",
+    "sumi-gaeshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner who drops low for the one-arm shoulder throw has bent forward under you. Sitting back under them and lifting with the instep is the corner reversal, taken as they load."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

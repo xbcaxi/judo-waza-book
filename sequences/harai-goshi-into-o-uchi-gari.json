@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "harai-goshi",
+    "o-uchi-gari"
+  ],
+  "trigger": "pulls-back",
+  "direction": "opposite",
+  "about": {
+    "en": "The classical back-then-front pair reversed: a partner who sits back to stop the sweeping hip throw has loaded the rear leg. Reaping it from the inside sends them the way they were leaning."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

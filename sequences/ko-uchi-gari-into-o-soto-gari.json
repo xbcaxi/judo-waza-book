@@ -4,6 +4,8 @@
     "ko-uchi-gari",
     "o-soto-gari"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "One of the first combinations most syllabuses teach: the failed inner reap makes your partner load the very leg the major outer reap takes away."
   },
@@ -48,5 +50,6 @@
     "cue": {
       "en": "A small flick inside the foot, then the leg it made them stand on is reaped away."
     }
-  }
+  },
+  "source": null
 }

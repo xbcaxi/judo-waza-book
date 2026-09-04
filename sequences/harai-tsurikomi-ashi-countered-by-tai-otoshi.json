@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "harai-tsurikomi-ashi",
+    "tai-otoshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "When the lifting sweep misses, your partner's sweeping leg is extended and their weight is coming towards you. Turning in and putting your leg across their standing shin takes them over it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -4,6 +4,8 @@
     "sode-tsurikomi-goshi",
     "harai-goshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The high sleeve lift stays exactly where it is; only the legs change, from the blocked hip entry to the sweeping thigh."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The sleeve stays held high; the blocked hip entry becomes a sweep of the thigh."
     }
-  }
+  },
+  "source": null
 }

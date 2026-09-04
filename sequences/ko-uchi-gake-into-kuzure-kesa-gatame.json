@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "ko-uchi-gake",
+    "kuzure-kesa-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "Landing on your partner from the minor inner hook, you are at their hip with their sleeve in hand. Sliding to the side with an arm under the far shoulder is the broken scarf hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

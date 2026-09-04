@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "seoi-otoshi",
+    "kuzure-kesa-gatame"
+  ],
+  "trigger": "steps-around",
+  "direction": null,
+  "about": {
+    "en": "A partner who drops for the dropping shoulder throw and does not turn you is kneeling in front of you. Stepping round to their side and dropping onto them with an arm under the far shoulder is the broken scarf hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

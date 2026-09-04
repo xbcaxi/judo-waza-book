@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "uchi-mata",
+    "uchi-mata-makikomi"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "When your partner braces against the inner thigh throw, letting go of the lapel and wrapping the arm over their shoulder as you sweep is the inner thigh wrap-around, in the same direction."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

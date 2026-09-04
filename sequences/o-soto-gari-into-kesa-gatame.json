@@ -1,0 +1,21 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "o-soto-gari",
+    "kesa-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The major outer reap lands your partner beside your reaping leg with the sleeve still in your hand. Dropping onto them with that arm pulled across your hip and your other arm round the neck is the scarf hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "mext-2013",
+    "recordId": "mext-2013/1333611_10/p012"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "sode-tsurikomi-goshi",
+    "tai-otoshi"
+  ],
+  "trigger": "pulls-back",
+  "direction": "same",
+  "about": {
+    "en": "A partner hanging back from the lifted sleeve stays leaning forward once the lift stops. Stepping the leg across their shin and pulling the sleeve through is the body drop."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

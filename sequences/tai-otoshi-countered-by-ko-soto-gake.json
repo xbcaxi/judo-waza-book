@@ -4,6 +4,8 @@
     "tai-otoshi",
     "ko-soto-gake"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The extended blocking leg of a Tai-otoshi carries no weight. Hooking behind it while your partner is committed to the turn drops them backwards over their own block."
   },
@@ -48,5 +50,6 @@
     "cue": {
       "en": "The extended blocking leg is hooked from behind, and the tripper drops backwards over their own block."
     }
-  }
+  },
+  "source": null
 }

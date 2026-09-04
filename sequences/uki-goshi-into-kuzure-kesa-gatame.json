@@ -4,6 +4,8 @@
     "uki-goshi",
     "kuzure-kesa-gatame"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The floating hip turns your partner around your hip rather than over it, so they land close beside you and slightly on their side: the broken scarf hold takes that position as it is."
   },
@@ -48,5 +50,6 @@
     "cue": {
       "en": "Turned around the hip to land close beside the attacker, who settles straight into the hold."
     }
-  }
+  },
+  "source": null
 }

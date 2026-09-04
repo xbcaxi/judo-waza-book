@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "tsurikomi-goshi",
+    "ura-nage"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "When the lifting-pulling hip throw stalls with your partner in front of you, wrapping the waist, dropping the hips and throwing yourself backwards takes them over your shoulder."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

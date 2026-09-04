@@ -4,6 +4,8 @@
     "o-soto-gari",
     "o-soto-gaeshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The direct answer to a major outer reap: the reaping leg is off the mat and carrying no weight, so reaping it in turn takes their only remaining support."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The big backwards reap is answered with the same reap, and the first attacker is the one who falls."
     }
-  }
+  },
+  "source": null
 }

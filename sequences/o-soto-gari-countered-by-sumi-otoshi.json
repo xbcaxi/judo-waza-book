@@ -4,6 +4,8 @@
     "o-soto-gari",
     "sumi-otoshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The reaping entry arrives on one leg; stepping the target leg clear and tipping to the rear corner with the hands alone drops the attacker into the space behind them."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The reap arrives on one leg, is stepped clear of, and hands alone tip its owner into the rear corner."
     }
-  }
+  },
+  "source": null
 }

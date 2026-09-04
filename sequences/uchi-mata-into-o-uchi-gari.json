@@ -1,0 +1,21 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "uchi-mata",
+    "o-uchi-gari"
+  ],
+  "trigger": "bends-forward",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who drops the hips and bends forward to stop the inner thigh throw has the rear leg planted beneath them. Bringing the sweeping leg down and reaping that leg from the inside takes them backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "mext-2013",
+    "recordId": "mext-2013/1333611_10/p009"
+  }
+}

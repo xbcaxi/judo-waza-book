@@ -4,6 +4,8 @@
     "harai-goshi",
     "o-soto-gake"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "A defended Harai-goshi leaves your partner leaning back and heavy on their right leg. O-soto-gake attacks the outside of exactly that leg, in the direction they have already chosen to lean."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "The sweeping hip attack is leant away from, and the escaping leg is hooked out backwards."
     }
-  }
+  },
+  "source": null
 }

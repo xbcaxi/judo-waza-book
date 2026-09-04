@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "harai-goshi",
+    "kesa-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The sweeping hip throw finishes with your partner on their back at your feet and their sleeve pulled through. Dropping beside their head with the arm pinned across your body takes the scarf hold from the landing."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "seoi-nage",
+    "tomoe-nage"
+  ],
+  "trigger": "pushes-forward",
+  "direction": "same",
+  "about": {
+    "en": "A partner who pushes into your back to stop the shoulder throw is driving forward. Sitting back under them with a foot on the belt turns the push into the circle throw."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

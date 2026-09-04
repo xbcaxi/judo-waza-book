@@ -4,6 +4,8 @@
     "ko-soto-gari",
     "uchi-mata"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Their minor outer reap turns their hips towards you and leaves them briefly on one leg with the other lifted. Uchi-mata attacks that gap before the foot lands."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The clip at the heel leaves its owner on one leg, and a rising thigh lifts them over."
     }
-  }
+  },
+  "source": null
 }

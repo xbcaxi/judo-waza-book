@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "tsurikomi-goshi",
+    "seoi-nage"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "If the lifting-pulling hip throw stalls at the hip, dropping lower and turning the lifted lapel over the shoulder is the shoulder throw, in the same direction."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

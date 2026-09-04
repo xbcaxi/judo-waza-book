@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "harai-tsurikomi-ashi",
+    "o-soto-gari"
+  ],
+  "trigger": "steps-over",
+  "direction": null,
+  "about": {
+    "en": "A partner sweeping at your foot with the lifting-pulling sweep is standing on one leg. Stepping over the sweep and reaping that leg from the outside sends them backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

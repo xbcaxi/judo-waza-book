@@ -4,6 +4,8 @@
     "o-uchi-gari",
     "ko-uchi-gari"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Two reaps on opposite legs, and the second is set up entirely by the first. Escaping the major inner reap puts weight onto the other foot, which the minor inner reap then takes."
   },
@@ -69,5 +71,6 @@
     "cue": {
       "en": "A reap inside one leg, then a flick inside the other as the weight moves across."
     }
-  }
+  },
+  "source": null
 }

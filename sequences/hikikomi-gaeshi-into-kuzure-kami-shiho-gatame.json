@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "hikikomi-gaeshi",
+    "kuzure-kami-shiho-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "Rolling through the pulling-in reversal with one of your partner's arms still hooked leaves you above their head with that arm trapped. Keeping it and taking the belt with the other hand is the broken upper four-quarters."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

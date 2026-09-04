@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "o-soto-gari",
+    "sasae-tsurikomi-ashi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner reaping from the outside leans into you to drive it. Propping the ankle of their standing leg and wheeling them forward over it uses the lean."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

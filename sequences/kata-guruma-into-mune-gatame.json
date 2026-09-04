@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "kata-guruma",
+    "mune-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner set down from the shoulder wheel lands square in front of you. Dropping the chest onto theirs with both arms controlled is the chest hold, and there is no distance to cover."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -577,7 +577,7 @@ for (const k of skills) {
  * leaving the field out, and the three written-for-the-ear fields sit in the
  * same order as they do on a technique. JSON Schema enforces the field SET;
  * only code can see the ORDER. */
-const sequenceFields = ['kind', 'techniques', 'about', 'described', 'receiving', 'viNotes', 'videos', 'resolver'];
+const sequenceFields = ['kind', 'techniques', 'trigger', 'direction', 'about', 'described', 'receiving', 'viNotes', 'videos', 'resolver', 'source'];
 
 /* Sequences: schema, naming, and every referenced technique must exist. */
 for (const q of sequences) {
@@ -1041,6 +1041,14 @@ for (const t of techniques) {
   const cited = t.data.contest?.sourceId;
   if (cited && !rulebookIds.has(cited)) {
     problems.push(`techniques/${t.name}: contest cites rulebook "${cited}", which no reference/ record declares`);
+  }
+}
+/* A sequence's source is the same kind of pointer, to the catalogue or the
+ * published document the relationship was read from. */
+for (const q of sequences) {
+  const cited = q.data.source?.sourceId;
+  if (cited && !rulebookIds.has(cited)) {
+    problems.push(`sequences/${q.name}: source cites "${cited}", which no reference/ record declares`);
   }
 }
 

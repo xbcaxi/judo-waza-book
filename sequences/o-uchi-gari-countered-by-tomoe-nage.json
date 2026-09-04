@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "o-uchi-gari",
+    "tomoe-nage"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner pushing forward through the major inner reap is driving into you. Sitting back under them with a foot on the belt turns the drive into the circle throw."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

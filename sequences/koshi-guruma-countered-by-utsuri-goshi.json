@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "koshi-guruma",
+    "utsuri-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "Lifting a partner clear of the hip wheel as they turn in puts them across your own hip on the way down. Shifting the hip through and throwing is the hip shift."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

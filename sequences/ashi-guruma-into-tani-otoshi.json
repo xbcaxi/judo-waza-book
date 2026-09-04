@@ -4,6 +4,8 @@
     "ashi-guruma",
     "tani-otoshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Ashi-guruma turns your partner forward over an extended leg. Stepping around the block to escape it puts them behind their own feet, and Tani-otoshi drops them there."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "A forward wheel over a straight leg that suddenly becomes a sit-down drop behind their heels."
     }
-  }
+  },
+  "source": null
 }

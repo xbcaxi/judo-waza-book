@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "harai-goshi",
+    "hane-goshi"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "If the sweep is blocked at the hip, bending the sweeping knee and springing your partner up off it is the springing hip throw, from the same entry."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "o-goshi",
+    "harai-goshi"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "When the major hip throw stalls with your partner braced against the hip, sweeping the thigh with the leg carries on in the same direction as the sweeping hip throw."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

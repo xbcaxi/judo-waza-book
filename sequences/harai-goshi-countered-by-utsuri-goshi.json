@@ -4,6 +4,8 @@
     "harai-goshi",
     "utsuri-goshi"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Utsuri-goshi answers a hip throw by accepting it and then taking it over. You absorb the entry, lift them off your own hip and transfer them to the other side."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "The hip attack is absorbed, lifted, and switched onto the defender's own hip in mid-air."
     }
-  }
+  },
+  "source": null
 }

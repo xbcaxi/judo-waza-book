@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "tsurikomi-goshi",
+    "o-uchi-gari"
+  ],
+  "trigger": "blocks-hip",
+  "direction": null,
+  "about": {
+    "en": "A hand on the hip stops the lifting-pulling hip throw with your partner's near leg between yours. Reaping it from the inside takes them backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

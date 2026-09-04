@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ko-uchi-gari",
+    "hiza-guruma"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner reaping your heel from the inside is standing on the other leg with the knee bent. Propping that knee and wheeling them over it takes the supporting leg."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

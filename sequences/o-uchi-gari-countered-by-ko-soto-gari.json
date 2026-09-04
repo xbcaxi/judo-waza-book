@@ -4,6 +4,8 @@
     "o-uchi-gari",
     "ko-soto-gari"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Escaping the inner reap loads your partner's outside foot. Reaping the outside of that foot answers on the opposite line, while they are still turned in from their own attack."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "The inside reap is escaped, and the reaper's outside heel is clipped away while they are still turned in."
     }
-  }
+  },
+  "source": null
 }

@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "kata-guruma",
+    "o-uchi-gari"
+  ],
+  "trigger": "pulls-back",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who sits back from the shoulder wheel has loaded the rear leg. Coming up out of the crouch and reaping that leg from the inside takes them backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

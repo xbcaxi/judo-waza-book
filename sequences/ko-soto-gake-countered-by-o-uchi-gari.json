@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ko-soto-gake",
+    "o-uchi-gari"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner who hooks your heel has their own weight on the leg nearest you. Reaping that leg from the inside sends them backwards before the hook bites."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

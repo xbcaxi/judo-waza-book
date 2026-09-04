@@ -1,0 +1,20 @@
+{
+  "kind": "chain",
+  "techniques": [
+    "yoko-shiho-gatame",
+    "mune-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The side four-quarters becomes the chest hold when your partner starts to bridge: bringing your chest square onto theirs and spreading the legs settles the weight where the bridge is trying to lift it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

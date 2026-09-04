@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "uchi-mata",
+    "utsuri-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "Lifting a partner clear of the inner thigh throw as they turn in puts them across your own hip. Shifting the hip through and throwing is the hip shift."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

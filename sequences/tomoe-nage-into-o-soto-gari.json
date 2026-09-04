@@ -4,6 +4,8 @@
     "tomoe-nage",
     "o-soto-gari"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "A stalled circle throw stands both of you back up with your partner leaning away from it; regaining your feet and reaping the braced leg finishes what the sacrifice began."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The circle throw stalls, both stand back up, and the braced leg is reaped backwards."
     }
-  }
+  },
+  "source": null
 }

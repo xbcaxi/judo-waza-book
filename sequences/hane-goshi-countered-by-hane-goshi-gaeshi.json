@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "hane-goshi",
+    "hane-goshi-gaeshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "As your partner turns in for the springing hip throw, the leg they spring with is off the mat and the leg they stand on is committed. Reaping the standing leg from the outside as the spring begins is the springing hip counter, the named answer."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

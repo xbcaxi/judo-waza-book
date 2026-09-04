@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "o-soto-gari",
+    "yoko-guruma"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner driving through the major outer reap is committed towards you. Wrapping the waist and throwing yourself down to the side wheels them over your body."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

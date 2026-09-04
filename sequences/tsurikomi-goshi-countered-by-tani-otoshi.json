@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "tsurikomi-goshi",
+    "tani-otoshi"
+  ],
+  "trigger": "steps-around",
+  "direction": null,
+  "about": {
+    "en": "Stepping round a partner turned in for the lifting-pulling hip throw puts your leg behind both of theirs. Dropping backwards from there is the valley drop."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

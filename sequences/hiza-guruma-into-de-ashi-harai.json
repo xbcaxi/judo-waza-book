@@ -4,6 +4,8 @@
     "hiza-guruma",
     "de-ashi-harai"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Escaping the wheel means stepping around it, and a stepping foot is exactly what De-ashi-harai wants: sweep it as it travels."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "They step around the blocking foot and the stepping foot is swept mid-stride."
     }
-  }
+  },
+  "source": null
 }

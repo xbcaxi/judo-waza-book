@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "yoko-guruma",
+    "uchi-mata"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner wrapping your waist to throw themselves into the side wheel is on one leg as they step in. Turning in and sweeping that thigh before they commit takes them over it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

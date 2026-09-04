@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "harai-tsurikomi-ashi",
+    "tai-otoshi"
+  ],
+  "trigger": "pulls-back",
+  "direction": "same",
+  "about": {
+    "en": "A partner who checks the lifting sweep by pulling the foot back leaves their weight forward. Turning in and putting the leg across their shin takes them over it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

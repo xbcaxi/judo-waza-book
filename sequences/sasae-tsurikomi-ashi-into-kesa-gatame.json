@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "sasae-tsurikomi-ashi",
+    "kesa-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The propping ankle throw wheels your partner over onto their back beside you with the sleeve held. Sitting down beside their head with the arm pulled across your body is the scarf hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

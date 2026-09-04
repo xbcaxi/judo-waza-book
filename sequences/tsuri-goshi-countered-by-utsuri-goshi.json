@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "tsuri-goshi",
+    "utsuri-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "Lifting a partner clear of the lifting hip throw as they turn in puts them across your own hip. Shifting the hip through and throwing is the hip shift."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

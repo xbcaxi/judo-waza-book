@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "o-soto-gari",
+    "tai-otoshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "When the major outer reap misses, your partner's reaping leg is out and their weight is forward. Turning in and putting your leg across their standing shin takes them over it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "harai-tsurikomi-ashi",
+    "o-uchi-gari"
+  ],
+  "trigger": "pulls-back",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who pulls the foot back from the lifting-pulling sweep is sitting back over the other leg. Reaping that leg from the inside sends them the way they went."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

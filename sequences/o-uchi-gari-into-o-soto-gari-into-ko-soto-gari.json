@@ -5,6 +5,8 @@
     "o-soto-gari",
     "ko-soto-gari"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Three reaps in a row, each fed by the escape from the last: inside, then outside, then the small outside reap as the retreating heel finally runs out of mat."
   },
@@ -37,5 +39,6 @@
     "cue": {
       "en": "Three reaps in a row, inside then outside then a clip at the heel, each chasing the last escape."
     }
-  }
+  },
+  "source": null
 }

@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "kuchiki-taoshi",
+    "uki-waza"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner dropping for your leg is driving forward and down. Sliding a leg out to the side and dropping with them takes them past you into the floating throw. The leg catch draws a shido in contest."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

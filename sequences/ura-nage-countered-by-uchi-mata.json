@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ura-nage",
+    "uchi-mata"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner wrapping your waist for the rear throw has to drop their hips before they can lift, and for that moment their weight is on one leg close behind you. Turning in and sweeping that thigh before the lift takes them over it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

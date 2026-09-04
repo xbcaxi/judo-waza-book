@@ -4,6 +4,8 @@
     "hiza-guruma",
     "ashi-guruma"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Both are wheels around a blocked leg; only the height of the block changes. If your partner lifts their foot over the block at the knee, the same turning action works with the block raised to the thigh."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "A wheel over a foot at the knee, lifted over, becomes the same wheel over a higher straight leg."
     }
-  }
+  },
+  "source": null
 }

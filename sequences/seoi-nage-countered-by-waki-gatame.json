@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "seoi-nage",
+    "waki-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The arm your partner pulls for the shoulder throw can be trapped under your armpit as they turn. Applied standing, this draws a shido where uke can escape and hansoku-make where they cannot, so it belongs in the dojo and on the ground. Joint locks carry age limits; learn it under instruction."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

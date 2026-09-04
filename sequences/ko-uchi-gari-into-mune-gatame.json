@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "ko-uchi-gari",
+    "mune-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The minor inner reap drops your partner straight back with you following in. Dropping the chest onto theirs as they land is the chest hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

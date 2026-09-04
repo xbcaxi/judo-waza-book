@@ -4,6 +4,8 @@
     "koshi-guruma",
     "ura-nage"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "A hip wheel entered high and loose leaves your partner's waist available and their weight above yours. Ura-nage drops beneath it and throws them backwards over your own shoulder."
   },
@@ -28,5 +30,6 @@
     "cue": {
       "en": "The high hip attack is caught around the waist, and the defender arches backwards to carry them over."
     }
-  }
+  },
+  "source": null
 }

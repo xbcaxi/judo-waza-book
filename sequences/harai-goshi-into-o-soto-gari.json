@@ -4,6 +4,8 @@
     "harai-goshi",
     "o-soto-gari"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The classic renraku-waza pair, and the one the syllabuses name: Harai-goshi turns them forward, and the moment they lean away from it their weight is on the back heel that O-soto-gari reaps."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "A hip and thigh attack forwards, then the leg they braced back on is reaped away."
     }
-  }
+  },
+  "source": null
 }

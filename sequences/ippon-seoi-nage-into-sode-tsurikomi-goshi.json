@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ippon-seoi-nage",
+    "sode-tsurikomi-goshi"
+  ],
+  "trigger": "stiff-arms",
+  "direction": "same",
+  "about": {
+    "en": "A partner who straightens the arm you are trying to shoulder has given you a rigid lever. Lifting that sleeve high and turning in under it is the sleeve-lifting hip throw."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

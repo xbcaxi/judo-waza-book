@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "harai-goshi",
+    "uchi-mata"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "When the sweeping leg meets your partner's thigh and stalls, lifting it between their legs instead makes the inner thigh throw. The entry and the pull are the same; only where the leg goes changes."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

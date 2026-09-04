@@ -4,6 +4,8 @@
     "tai-otoshi",
     "uchi-mata"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Stepping over the blocking leg opens your partner's stance. Uchi-mata attacks the inside of exactly the gap they have just made."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "They step over the blocking leg, and a leg rises into the gap they have just opened to lift them."
     }
-  }
+  },
+  "source": null
 }

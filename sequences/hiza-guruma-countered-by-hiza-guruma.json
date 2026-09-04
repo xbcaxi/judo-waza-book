@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "hiza-guruma",
+    "hiza-guruma"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "The mirror counter. A partner propping your knee is standing on one bent leg; propping that knee and wheeling them over it is the same throw sent back."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

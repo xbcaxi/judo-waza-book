@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "o-soto-gari",
+    "ko-soto-gake"
+  ],
+  "trigger": "over-commits",
+  "direction": "same",
+  "about": {
+    "en": "A partner who turns too far away from the major outer reap has their heel nearest you. Hooking it from the outside takes them backwards over it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

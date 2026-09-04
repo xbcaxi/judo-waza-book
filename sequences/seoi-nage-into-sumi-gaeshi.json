@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "seoi-nage",
+    "sumi-gaeshi"
+  ],
+  "trigger": "bends-forward",
+  "direction": "same",
+  "about": {
+    "en": "A partner who bends forward over your back to stop the shoulder throw has their weight above you. Sitting back under them and lifting with the instep is the corner reversal."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

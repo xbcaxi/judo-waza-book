@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ko-soto-gari",
+    "sasae-tsurikomi-ashi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner reaping your heel is on one supporting leg with their weight coming forward. Propping that ankle and wheeling them over it answers the reap directly."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

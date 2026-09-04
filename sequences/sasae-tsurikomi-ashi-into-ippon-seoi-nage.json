@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "sasae-tsurikomi-ashi",
+    "ippon-seoi-nage"
+  ],
+  "trigger": "pulls-back",
+  "direction": "same",
+  "about": {
+    "en": "A partner who steps back from the propping ankle throw stays leaning forward. Turning in under the arm takes them over the shoulder in the same direction."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

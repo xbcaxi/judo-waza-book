@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "de-ashi-harai",
+    "okuri-ashi-harai"
+  ],
+  "trigger": null,
+  "direction": "same",
+  "about": {
+    "en": "If the advancing foot sweep catches the foot a moment late, your partner's second foot arrives beside the first. Sweeping both together, with the same pull, is the double foot sweep."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ko-soto-gari",
+    "o-uchi-gari"
+  ],
+  "trigger": "lifts-leg",
+  "direction": "same",
+  "about": {
+    "en": "A partner who lifts the heel away from the minor outer reap is standing on one leg. Reaping that leg from the inside takes it before the other foot lands."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

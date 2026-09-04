@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "uki-goshi",
+    "kata-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "After the floating hip throw your partner's near arm is loose. Pushing it across the neck and clamping it with your head as you settle is the shoulder hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

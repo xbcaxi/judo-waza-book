@@ -4,6 +4,8 @@
     "uchi-mata",
     "ko-soto-gake"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "As the inner thigh swings up, everything rests on the attacker's standing heel, and hooking it from outside takes the whole throw down backwards."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "Everything rests on the lifter's standing heel, and hooking it drops the whole attack backwards."
     }
-  }
+  },
+  "source": null
 }

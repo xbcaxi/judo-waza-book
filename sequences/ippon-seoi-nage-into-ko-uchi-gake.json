@@ -4,6 +4,8 @@
     "ippon-seoi-nage",
     "ko-uchi-gake"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The shoulder throw threatens forward, so your partner sits back to defend. That leaves their near leg light and their weight behind it, which is all Ko-uchi-gake needs."
   },
@@ -42,5 +44,6 @@
     "cue": {
       "en": "They sit back against the shoulder throw and the near leg is hooked out from the inside."
     }
-  }
+  },
+  "source": null
 }

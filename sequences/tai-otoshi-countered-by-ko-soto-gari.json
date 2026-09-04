@@ -4,6 +4,8 @@
     "tai-otoshi",
     "ko-soto-gari"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The same opening answered by reaping instead of hooking. Whether you hook or reap depends on how much room their supporting foot has, and the syllabuses list both."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "The trip is answered with a clip behind the supporting heel, and the tripper goes down backwards."
     }
-  }
+  },
+  "source": null
 }

@@ -1,0 +1,20 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "hane-goshi",
+    "o-soto-gari"
+  ],
+  "trigger": "steps-around",
+  "direction": "opposite",
+  "about": {
+    "en": "A partner who steps round the springing leg has put a foot down beside you with their weight on it. Reaping that leg from the outside finishes them backwards."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

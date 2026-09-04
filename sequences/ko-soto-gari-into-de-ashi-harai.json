@@ -4,6 +4,8 @@
     "ko-soto-gari",
     "de-ashi-harai"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "The small outer reap chases your partner into a step, and the stepping foot is swept as it advances."
   },
@@ -36,5 +38,6 @@
     "cue": {
       "en": "A clip at the heel chases them into a step, and the stepping foot is swept."
     }
-  }
+  },
+  "source": null
 }

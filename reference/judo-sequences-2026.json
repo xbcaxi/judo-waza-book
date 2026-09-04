@@ -1,0 +1,26 @@
+{
+  "sourceId": "judo-sequences-2026",
+  "titleEn": "Judo Sequences: Combinations, Counters and Transitions",
+  "publisherEn": "The project owner's relationship catalogue for this repository",
+  "edition": "2026-09",
+  "landingPage": null,
+  "readOn": "2026-09-04",
+  "readFrom": "judosequences.md, a working catalogue of edges between techniques: type, trigger, direction and legality, compiled from standard syllabus material and coaching practice",
+  "rights": "Written for this project and published under the repository licence. It names no third-party text and reproduces none.",
+  "note": {
+    "en": "The catalogue lists which technique follows, answers or continues which, and the reaction of uke that makes the second possible. It is the source for the trigger and direction fields on a sequence and for the edges imported in September 2026. It does not narrate the movement: the described, receiving and viNotes fields on those sequences are written from the pair, not transcribed from here."
+  },
+  "taxonomy": {
+    "triggers": [
+      "pulls-back", "pushes-forward", "lifts-leg", "steps-around", "steps-over",
+      "blocks-hip", "bends-forward", "stiff-arms", "weight-shifts", "over-commits"
+    ],
+    "directions": ["same", "opposite", "lateral"],
+    "contested": {
+      "en": "Renraku-waza (a change of direction) against renzoku-waza (a continuation in the same direction) is drawn differently by different sources, and some treat renzoku as the umbrella term. The catalogue marks continuations explicitly and leaves the rest unlabelled; this repository records the physical fact as direction rather than choosing a word."
+    }
+  },
+  "notIncluded": {
+    "en": "Edges that start or end at a position rather than a technique: attacking the turtle, passing or sweeping from the guard, sprawling on a low entry, escapes that end in an attack, and the grip-entry layer. The sequence shape has no position node, so these are recorded in backlog/ until it does."
+  }
+}

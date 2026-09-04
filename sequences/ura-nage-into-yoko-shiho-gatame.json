@@ -1,0 +1,20 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "ura-nage",
+    "yoko-shiho-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "Rolling onto your front after the rear throw brings you across your partner's chest. An arm under the neck and one through the legs is the side four-quarters."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}

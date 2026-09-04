@@ -4,6 +4,8 @@
     "tai-otoshi",
     "yoko-shiho-gatame"
   ],
+  "trigger": null,
+  "direction": null,
   "about": {
     "en": "Tai-otoshi turns your partner over an extended leg and lands them on their side, facing away. Following the turn brings you straight across their body into the side four quarters hold."
   },
@@ -41,5 +43,6 @@
     "cue": {
       "en": "Tripped over the straight leg onto their side, and the attacker follows down across their body."
     }
-  }
+  },
+  "source": null
 }

@@ -1,0 +1,20 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "o-uchi-gari",
+    "uki-waza"
+  ],
+  "trigger": null,
+  "direction": null,
+  "about": {
+    "en": "A partner driving the major inner reap is leaning into you. Sliding a leg out to the side and dropping with them takes them past you into the floating throw."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "judo-sequences-2026"
+  }
+}
