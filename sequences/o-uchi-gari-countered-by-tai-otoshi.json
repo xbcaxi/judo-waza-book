@@ -16,9 +16,22 @@
   "about": {
     "en": "When the major inner reap misses, your partner's reaping leg is between yours and their weight is forward. Turning in and putting your leg across their standing shin takes them over it."
   },
-  "described": null,
-  "receiving": null,
-  "viNotes": null,
+  "described": {
+    "en": [
+      "Their reaping leg comes inside yours and misses, leaving it between your legs with their weight forward.",
+      "Take your grips down and forward so the lean they already have becomes an off-balance onto their right foot.",
+      "Step your left foot back and across behind you and turn side-on to them without making back contact.",
+      "Extend your right leg across the front of their standing shin, foot planted outside the ankle, knee bent.",
+      "Pull the sleeve hard past your left hip and drive the lapel hand across their chest, rotating your trunk to the left.",
+      "They turn over the barred shin and land in front of you and to your left. Guide the sleeve down as they go."
+    ]
+  },
+  "receiving": {
+    "en": "Your reap misses and you are left leaning forward with one leg between theirs, which is the shape a body drop is looking for. The bar across your shin is not carrying your weight, so what turns you over is their arms and trunk rather than their leg. Expect to travel forwards and to your own left. Keep hold, keep your head up off the mat, and slap early. Recovering the reaping foot to the floor before their hands turn you is the only defence worth having."
+  },
+  "viNotes": {
+    "en": "The miss is the cue, and it is felt as your leg passing through empty space rather than meeting a thigh. Their weight staying forward on your grips is the second half of it. From there Tai-otoshi is a hand throw, so the whole thing is available through the jacket: no back contact means the sleeve and lapel are your only information, and they are enough."
+  },
   "videos": [],
   "resolver": null,
   "source": {

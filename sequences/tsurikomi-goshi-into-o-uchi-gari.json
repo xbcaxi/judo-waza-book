@@ -16,9 +16,22 @@
   "about": {
     "en": "A partner who drops their hips to stop the lifting-pulling hip throw has their weight back on the rear leg. Reaping it from the inside sends them backwards."
   },
-  "described": null,
-  "receiving": null,
-  "viNotes": null,
+  "described": {
+    "en": [
+      "Draw them up with the lapel hand high and turn in for Tsurikomi-goshi, hips low.",
+      "Feel them block by dropping their own hips and settling their weight onto the rear left leg.",
+      "Come out of the turn rather than forcing the hip throw, keeping the lapel hand high so they stay drawn up.",
+      "Step your left foot in beside them and bring your right foot between their feet.",
+      "Curl your right calf inside their left leg at the knee and reap it out in a circle, the way their toes point.",
+      "Drive both hands down and back towards their left rear corner; they fall backwards and you keep the sleeve."
+    ]
+  },
+  "receiving": {
+    "en": "Blocking a hip throw by dropping your hips is correct, and it puts your weight back onto the rear leg, which is the leg that goes. The change of direction is what catches people: the pull was upwards and forwards, and it becomes downwards and backwards without a pause. Keep hold of their sleeve, tuck your chin, and slap as your back meets the mat. Blocking with your hips while keeping your feet under you, rather than settling back onto one leg, is the difference."
+  },
+  "viNotes": {
+    "en": "Your hands read the block before anything else: their weight comes back through the jacket and the hip you were turning onto stops arriving. Keep the lapel hand high through the change, because it holds their chest up while your leg takes the one that is loaded. The reap is leg against leg at the knee, so it needs no sight at all."
+  },
   "videos": [],
   "resolver": null,
   "source": {

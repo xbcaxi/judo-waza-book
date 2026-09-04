@@ -16,9 +16,22 @@
   "about": {
     "en": "The lifting hip throw is answered the way utsuri-goshi answers every hip attack: you sink beneath the entry as the lapel hand drives up, wrap the waist and lift, and switch your own hips underneath before they come down. One throw becomes the other in the transfer."
   },
-  "described": null,
-  "receiving": null,
-  "viNotes": null,
+  "described": {
+    "en": [
+      "Their lapel hand drives up under your chin and their back turns in for Tsurikomi-goshi.",
+      "Bend your knees and sink your hips below theirs before their hip can settle across your front.",
+      "Wrap your right arm round their waist and clamp their back to your chest.",
+      "Straighten your legs and swing your hips, lifting them clear of the mat.",
+      "While they hang there, pull them across the front of your body as you turn, bringing your right hip underneath them.",
+      "Bow forward as they come down onto that hip and rotate them over; guide them to their back with hand and arm."
+    ]
+  },
+  "receiving": {
+    "en": "You are attacking, and the high lifting grip that draws them up is also what keeps your own hips high, which is where this counter lives. The lift comes from below and your feet leave the mat before the throw has bitten. You will be carried across their body and set down on the other side, so hold your position rather than twisting, keep your chin on your chest, and slap as you land. Entering with your hips genuinely lower than theirs is what makes you too heavy to switch."
+  },
+  "viNotes": {
+    "en": "The counter is decided by hip height and that is a felt measurement, not a seen one: as their back arrives, drop until your hips are under theirs. From there the whole technique is body to body, which makes it one of the more readable counters without sight. Both of you should know the direction of travel, since the person lifted has no way of finding the mat until they arrive."
+  },
   "videos": [
     {
       "provider": "akita",

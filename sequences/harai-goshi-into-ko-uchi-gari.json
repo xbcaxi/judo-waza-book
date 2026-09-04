@@ -12,9 +12,22 @@
   "about": {
     "en": "A partner who stiffens against the sweep and shifts their weight to the far leg has left the near heel light. Reaping it from the inside takes them backwards."
   },
-  "described": null,
-  "receiving": null,
-  "viNotes": null,
+  "described": {
+    "en": [
+      "Turn in for Harai-goshi and start to sweep up the outside of their right thigh.",
+      "Feel them stiffen against the sweep and shift their weight to the far leg, which leaves the near right heel light.",
+      "Bring your sweeping leg back to the mat and step in close to them.",
+      "Sweep the light heel from the inside with your sole, in the direction their toes point.",
+      "Drive both hands down and back towards their right rear corner, your body following the push.",
+      "They fall backwards to the swept side. Keep the sleeve in hand and lift it as they land."
+    ]
+  },
+  "receiving": {
+    "en": "Stiffening against a sweeping hip throw usually means moving your weight off the leg being swept, and the heel you take it off becomes the easiest thing on the mat to reap. The attack arrives low and immediately, with the hands driving you back the way you have just leaned. Sit into the fall, keep your chin down and slap. Defending by lowering your hips and keeping both feet loaded, rather than by unloading one, is the honest answer to the first throw."
+  },
+  "viNotes": {
+    "en": "The change of weight is felt through your hip and both hands, which is all the warning the second attack needs. Put your own leg down before reaching for the reap, because the sweep needs your base back underneath you. The reap itself is sole on heel, and the hands finish it, so the whole pair is available by touch."
+  },
   "videos": [],
   "resolver": null,
   "source": {

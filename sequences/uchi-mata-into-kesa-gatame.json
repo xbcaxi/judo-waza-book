@@ -16,9 +16,22 @@
   "about": {
     "en": "The inner thigh throw lands your partner on their back ahead of you with the sleeve still held. Stepping in and sitting beside the head with that arm across your hip is the scarf hold."
   },
-  "described": null,
-  "receiving": null,
-  "viNotes": null,
+  "described": {
+    "en": [
+      "Sweep the inner thigh with Uchi-mata, head and chest driving down and round to your left.",
+      "They land on their back ahead of you with their right arm still held in your left hand.",
+      "Stay on the supporting leg and pull that sleeve up and across, so the arm cannot return to their body.",
+      "Step in beside them and sit down close against their right side, facing their head.",
+      "Take your right arm round the back of their neck and grip cloth at their left shoulder.",
+      "Trap the held arm high under your left armpit, spread your legs along the mat, and settle your chest onto theirs."
+    ]
+  },
+  "receiving": {
+    "en": "You come over the sweeping leg and land ahead of the thrower with one arm still held, which is the arm that would normally get you onto your side. Take the fall properly first: chin down, free arm slapping, and no reaching back with the trapped arm. Then work immediately, because the hold arrives while you are still settling. Turn your knees towards them and get the near elbow down to your hip before their chest lands on yours."
+  },
+  "viNotes": {
+    "en": "The sleeve you kept through the throw is how you find them afterwards without looking: follow it down to the shoulder, then sit in against the ribs. Sit through side-on with both legs spread rather than kneeling, since the position is held with weight and contact, which is information you have. Keep your chest touching so their bridging tells you where to move."
+  },
   "videos": [],
   "resolver": null,
   "source": {

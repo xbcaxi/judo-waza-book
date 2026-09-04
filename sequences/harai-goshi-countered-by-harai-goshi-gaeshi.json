@@ -16,9 +16,22 @@
   "about": {
     "en": "As the sweeping leg comes across, your partner is standing on one leg with their back to you. Hooking the sweeping leg and reaping the supporting one is the sweeping hip counter, the named answer."
   },
-  "described": null,
-  "receiving": null,
-  "viNotes": null,
+  "described": {
+    "en": [
+      "Their back arrives against your chest and their right leg swings backwards along the outside of your right thigh.",
+      "Bend your knees and take your hips away from theirs, so the sweep has nothing to lift.",
+      "Catch the sweeping leg against your own and hook it with your right leg while it is still travelling.",
+      "Lift the trapped leg upwards. Everything they have is already on the other one.",
+      "Pull their collar down and across with your left hand so their head finishes the turn they started.",
+      "They roll over the standing leg and land on their back beside you. Keep the sleeve for the landing."
+    ]
+  },
+  "receiving": {
+    "en": "You are attacking, and your sweeping leg is caught in the air by a partner whose hips have gone somewhere you cannot reach. Once the leg is hooked and lifted you have no way of putting a foot down, so the roll happens over your standing leg and lands you on your back beside them. Turn into the fall rather than fighting to stay upright on one leg, keep your chin tucked, and slap with the free arm. Sweeping into a partner who has already lowered their weight is what invites this, so feel for their hips before the leg goes."
+  },
+  "viNotes": {
+    "en": "The cue is your own thigh: their sweeping leg brushes it from low to high, and the counter takes that leg on the way up. Trap it against your own leg as soon as you feel it, because searching for it afterwards is what turns the counter into a scramble. Because both of you finish on the mat, agree which way you are working and know where the edge is before you start."
+  },
   "videos": [],
   "resolver": null,
   "source": {

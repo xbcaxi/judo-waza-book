@@ -16,9 +16,22 @@
   "about": {
     "en": "Same reaction as the reaping combination, finished by wrapping: when your partner defends the shoulder throw by sitting back, their near heel can be taken inward, and because their arm is still held from the first attack you drop through the reap rather than stand over it."
   },
-  "described": null,
-  "receiving": null,
-  "viNotes": null,
+  "described": {
+    "en": [
+      "Turn in for Seoi-nage with their right arm folded over your right shoulder and their chest onto your back.",
+      "Feel them sit back and stiffen to stop the throw, which puts their weight onto the near right heel.",
+      "Keep the arm trapped against your chest and shoulder rather than releasing it.",
+      "Reap that right heel inwards with the sole of your right foot, in the direction their toes point.",
+      "Turn into them and drop your weight forward and down over the leg you have just taken, rolling onto your right side.",
+      "They land on their back with the arm still held; carry the roll on into a hold."
+    ]
+  },
+  "receiving": {
+    "en": "Sitting back is the right answer to a shoulder throw and it is what sets this up: your weight goes onto the near heel and your arm is still theirs. When the heel goes there is nothing to step onto, and because they come down with you the fall is heavier than a standing reap. Keep the trapped arm relaxed and long, turn your head away from the arm, and slap with your free hand as your back lands. Do not try to post on the held arm."
+  },
+  "viNotes": {
+    "en": "The reaction you are reading is a change of pressure rather than a picture: their chest lifting off your back and their weight settling behind them. Keep the arm clamped so you know exactly where their body is when you drop, since this finish puts you both on the mat. Say beforehand that you are working a sacrifice finish, so nobody is surprised by the landing."
+  },
   "videos": [
     {
       "provider": "efficient-judo",

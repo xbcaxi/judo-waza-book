@@ -16,9 +16,22 @@
   "about": {
     "en": "As your partner turns in for the springing hip throw, the leg they spring with is off the mat and the leg they stand on is committed. Reaping the standing leg from the outside as the spring begins is the springing hip counter, the named answer."
   },
-  "described": null,
-  "receiving": null,
-  "viNotes": null,
+  "described": {
+    "en": [
+      "Their back turns into your chest and their right leg folds across the front of your thighs: Hane-goshi is on its way.",
+      "Sit your hips back and bend your knees so the bent leg has nothing above it to lift.",
+      "Wait for that leg to rise. While it is rising it carries none of their weight and their standing left leg carries all of it.",
+      "Take your right leg round the outside of the springing leg and hook it upwards as it comes.",
+      "Pull their left collar down and across with your left hand so their head travels the way their hips had already started to turn.",
+      "They come over their own standing leg and land on their back in front of you. Keep the sleeve and lift it as they land."
+    ]
+  },
+  "receiving": {
+    "en": "You are the one attacking here. Your spring meets a partner who has already dropped below it, so the bent leg lifts into space and your hip never arrives under theirs. The fall then goes the way you were turning, forward and over your own standing leg, and it comes quickly because your hook is doing the lifting for them. Keep your chin on your chest, let your gripped arm stay long rather than reaching back for the mat, and slap hard with the free arm as your back lands. Springing only once their weight is genuinely on you is what keeps this counter off you."
+  },
+  "viNotes": {
+    "en": "This is a counter made entirely through contact, so nothing in it needs sight. Their bent leg settling against the front of your thigh tells you the spring is loaded before it moves, and the moment that pressure lightens is the moment the leg is free to be hooked. Keep your chest against their back throughout: it is what tells you which way their head is going when you pull the collar down."
+  },
   "videos": [],
   "resolver": null,
   "source": {
