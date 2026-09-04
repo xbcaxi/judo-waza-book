@@ -123,7 +123,7 @@
     "source": {
       "anyOf": [
         {
-          "$ref": "#/definitions/sourceRef"
+          "$ref": "#/definitions/referencePointer"
         },
         {
           "type": "null"
@@ -252,7 +252,7 @@
         "title"
       ]
     },
-    "sourceRef": {
+    "referencePointer": {
       "type": "object",
       "properties": {
         "sourceId": {
@@ -264,7 +264,11 @@
           "minLength": 1
         },
         "note": {
-          "$ref": "#/definitions/localisedText"
+          "allOf": [
+            {
+              "$ref": "#/definitions/localisedText"
+            }
+          ]
         }
       },
       "required": [
@@ -274,5 +278,5 @@
     }
   },
   "title": "sequence",
-  "description": "One combination (renraku-waza or renzoku-waza), counter (kaeshi-waza), transition (throw into groundwork) or chain (groundwork into groundwork) relating existing techniques. Like a technique record, every field is present in every file, in the order listed here: a field nobody has written yet is null, never absent, so that a gap is visible to a reader and countable by the validator."
+  "description": "One combination (renraku-waza) or counter (kaeshi-waza) relating existing techniques. Like a technique record, every field is present in every file, in the order listed here: a field nobody has written yet is null, never absent, so that a gap is visible to a reader and countable by the validator."
 }
