@@ -1369,10 +1369,11 @@ for (const field of ['described', 'receiving', 'viNotes']) {
   if (missing > 0) {
     console.log(`  ${field.padEnd(10)} unwritten on ${missing} of ${sequences.length} sequences`);
   }
-  {
-    const drafts = sequences.filter((q) => q.data.status === 'draft').length;
-    if (drafts > 0) console.log(`  ${'status'.padEnd(10)} ${drafts} of ${sequences.length} sequences are drafts awaiting review, and have no page until then`);
-  }
+}
+/* Drafts: recorded, not yet confirmed by a person, and without a page. */
+{
+  const drafts = sequences.filter((q) => q.data.status === 'draft').length;
+  if (drafts > 0) console.log(`  ${'status'.padEnd(10)} ${drafts} of ${sequences.length} sequences are drafts awaiting review, and have no page until then`);
 }
 const uncountered = throwsHere.filter((t) => !countered.has(t.slug)).length;
 if (uncountered > 0) {
