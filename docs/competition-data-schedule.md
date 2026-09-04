@@ -45,6 +45,15 @@ run.
 
 The guard passes on real data. Its failing path has not been exercised.
 
+## Done 2026-09-04
+
+`schedule:` at five days (`0 3 */5 * *`), and the crawl step fills in the
+current year and the 350 ms delay itself, because a scheduled run carries no
+inputs and the defaults declared on `workflow_dispatch` do not apply to it.
+
 ## Remaining
 
-Add `schedule:` at five days, scoped to the current year.
+Nothing until the first scheduled run reports. Two things to read when it
+does: whether a five-day cadence really keeps the cache alive across the
+26th-to-1st gap, and whether crawling the current year alone picks up
+competitions the IJF back-dates into an earlier one.
