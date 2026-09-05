@@ -35,6 +35,19 @@
         "minLength": 1
       }
     },
+    "leadsTo": {
+      "default": [],
+      "description": "The technique the skill finishes in, where it finishes in one. Validator-checked against techniques.",
+      "allOf": [
+        {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]*$"
+          }
+        }
+      ]
+    },
     "grips": {
       "default": [],
       "description": "For a kumi-kata skill, the grip-sets in grips/ it takes or breaks, so a grip page can list the plans that reach it.",
