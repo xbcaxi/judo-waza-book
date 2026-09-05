@@ -769,7 +769,7 @@ for (const e of exams) {
   for (const e of exams) {
     const route = e.data.route;
     if (!route) continue;
-    const key = `${e.data.organisation} ${route.id}`;
+    const key = `${e.data.organisation}\u0000${route.id}`;
     const label = route.label?.en;
     const seen = labels.get(key);
     if (seen === undefined) labels.set(key, { label, from: e.name });
@@ -1326,9 +1326,16 @@ if (problems.length > 0) {
  * a gap for a visually impaired reader. New techniques may reasonably land
  * before their narration; this keeps the gap visible until it closes. */
 const required = new Set(schemes.flatMap((s) => s.data.grades.flatMap((g) => g.techniqueSlugs)));
-// Banned techniques are exempt: they are documented for recognition only and
-// deliberately carry no step-by-step, even when a kata requires them.
-const undescribed = techniques.filter((t) => required.has(t.slug) && !t.data.described && !t.data.banned).map((t) => t.slug);
+/* Techniques banned OUTRIGHT are exempt: they are documented for recognition
+ * only and deliberately carry no step-by-step, even when a kata requires them.
+ * One barred in competition is not exempt, because it is still taught,
+ * demonstrated and examined.
+ *
+ * `banned` is an enum ("no", "in-competition", "yes") and was once a boolean.
+ * Every one of those strings is truthy, so `!t.data.banned` was false for
+ * every technique in the book and this warning could not fire at all. Compare
+ * against the value, here and in the three counts below. */
+const undescribed = techniques.filter((t) => required.has(t.slug) && !t.data.described && t.data.banned !== 'yes').map((t) => t.slug);
 if (undescribed.length > 0) {
   console.warn(`Warning: ${undescribed.length} technique(s) required by a grading lack a described narration:\n- ${undescribed.join('\n- ')}`);
 }
@@ -1344,14 +1351,14 @@ if (undescribed.length > 0) {
 const countered = new Set(sequences.filter((q) => q.data.kind === 'counter')
   .map((q) => q.data.techniques[0]));
 const inSequence = new Set(sequences.flatMap((q) => q.data.techniques));
-const throwsHere = techniques.filter((t) => t.data.category === 'nage-waza' && !t.data.banned);
+const throwsHere = techniques.filter((t) => t.data.category === 'nage-waza' && t.data.banned !== 'yes');
 /* `ijfAnimation` is deliberately NOT counted here. A null there means the IJF
  * publishes no animation of the technique, which is nobody's to fill; a gap
  * is something a contributor could write, and that is not one. */
 const gaps = [
   ['nameKana', techniques.filter((t) => !t.data.nameKana).length],
-  ['described', techniques.filter((t) => !t.data.described && !t.data.banned).length],
-  ['receiving', techniques.filter((t) => !t.data.receiving && !t.data.banned).length],
+  ['described', techniques.filter((t) => !t.data.described && t.data.banned !== 'yes').length],
+  ['receiving', techniques.filter((t) => !t.data.receiving && t.data.banned !== 'yes').length],
   ['image', techniques.filter((t) => !t.data.image).length],
   ['viNotes', techniques.filter((t) => !t.data.viNotes).length],
   ['links', techniques.filter((t) => t.data.links.length === 0).length],
