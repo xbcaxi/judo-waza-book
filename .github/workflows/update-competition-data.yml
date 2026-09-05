@@ -5,16 +5,27 @@ name: Update competition data
 # because a first full fetch from 2016 takes hours nobody should spend watching
 # a terminal.
 #
-# SCHEDULING THIS IS PLANNED AND NOT YET DONE. Monthly is the one interval that
-# cannot work: GitHub evicts a cache after seven days unused, so a monthly run
-# would always start from an empty cache and re-fetch 33,000 unchanged
-# contests. See docs/competition-data-schedule.md for what it takes.
+# SCHEDULED EVERY FIVE DAYS, and the interval is set by the cache rather than
+# by the judo. GitHub evicts an Actions cache after seven days unused, and the
+# raw response cache is 1.5 GB across 112,043 files, too large to commit or to
+# park on a branch. A monthly run would therefore always start cold: about
+# 36,000 requests at 350 ms, three and a half hours. Five days keeps the cache
+# warm, and a warm run asks the IJF only for competitions it has not seen.
 #
-# Manual trigger only, deliberately. The API's field names have now been
-# verified against real responses (see tools/ijf-results/README.md), but a
-# wide crawl WILL still surface IJF technique names the map does not carry -
-# that is the map working, not failing. Once a supervised full run comes back
-# clean, a monthly `schedule:` block is the obvious next step.
+# Cron cannot say "every five days", so `*/5` means the 1st, 6th, 11th, 16th,
+# 21st and 26th. Every gap is five days except the last of the month, which is
+# three to six depending on its length. Six is still inside the window; two
+# runs missed in a row is not, and the cost of that is one slow cold crawl
+# rather than lost data, because the cache is only ever an accelerator.
+#
+# A scheduled run crawls THE CURRENT YEAR, which is where new competitions
+# appear: about fifty of them, twenty minutes. Aggregation reads the whole
+# cache, so the published files still cover 2016 to date. Use the manual
+# trigger with an earlier `from_year` for a full fetch.
+#
+# A wide crawl WILL still surface IJF technique names the map does not carry -
+# that is the map working, not failing. The API's field names are verified
+# against real responses (see tools/ijf-results/README.md).
 #
 # The raw response cache is carried between runs by actions/cache, so a
 # crawl that hits the 6-hour job limit resumes where it stopped: re-run the
@@ -24,6 +35,9 @@ name: Update competition data
 # `ijf-data-refresh` branch for a human to open a pull request from - data
 # lands on main by review, like every other contribution.
 on:
+  schedule:
+    # 03:00 UTC on the 1st, 6th, 11th, 16th, 21st and 26th.
+    - cron: "0 3 */5 * *"
   workflow_dispatch:
     inputs:
       from_year:
@@ -80,7 +94,14 @@ jobs:
         timeout-minutes: 300
         shell: bash
         run: |
-          args=(--from-year "${{ inputs.from_year }}" --delay "${{ inputs.delay }}")
+          # A scheduled run carries no inputs at all, so the defaults declared
+          # above do not apply to it: without these two lines the crawl would
+          # be handed an empty --from-year and an empty --delay every fifth
+          # day. The current year is the scheduled scope; the manual trigger
+          # still wins wherever somebody typed something.
+          FROM_YEAR="${{ inputs.from_year }}"
+          DELAY="${{ inputs.delay }}"
+          args=(--from-year "${FROM_YEAR:-$(date -u +%Y)}" --delay "${DELAY:-350}")
           if [ -n "${{ inputs.max }}" ]; then args+=(--max "${{ inputs.max }}"); fi
           node tools/ijf-results/crawl.mjs "${args[@]}" 2>&1 | tee crawl.log
 
