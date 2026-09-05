@@ -1066,6 +1066,21 @@ if (ijfTiers && !validateTiers(ijfTiers)) report('competition-stats/ijf-competit
 if (ijfFrequency && !validateFrequency(ijfFrequency)) report('competition-stats/ijf-technique-frequency.json', validateFrequency);
 if (ijfShape && !validateContestShape(ijfShape)) report('competition-stats/ijf-contest-shape.json', validateContestShape);
 
+/* The osaekomi clock is one list on the rulebook record, read by the glossary,
+ * the hold-down pages and the clock, so it is checked once: ascending seconds,
+ * ending in ippon, which is the mark that ends the contest. */
+for (const entry of await loadDir('reference')) {
+  const scoring = entry.data.osaekomiScoring;
+  if (!scoring) continue;
+  const marks = scoring.marks ?? [];
+  const ascending = marks.every((mark, at) => at === 0 || mark.seconds > marks[at - 1].seconds);
+  if (marks.length === 0 || !ascending) {
+    problems.push(`reference/${entry.name}: osaekomiScoring.marks must list rising seconds`);
+  } else if (marks[marks.length - 1].score !== 'ippon') {
+    problems.push(`reference/${entry.name}: osaekomiScoring.marks must end in ippon, the mark that ends the contest`);
+  }
+}
+
 /* A technique's `contest` cites the rulebook it came from by the `sourceId` of
  * a record in reference/, not by name, so that the edition is pinned and a new
  * cycle is one file to replace. A citation pointing at nothing is worse than no
