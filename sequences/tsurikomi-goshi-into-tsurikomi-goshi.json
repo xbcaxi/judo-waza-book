@@ -1,0 +1,24 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "tsurikomi-goshi",
+    "tsurikomi-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner who blocks the first lifting-pulling hip throw by sinking has to come back up to stand, and coming up is the lift the throw wants. Re-entering on that rise with the lapel hand still high is the same throw a second time."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p028"
+  }
+}

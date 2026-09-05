@@ -1,0 +1,24 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "o-soto-gari",
+    "o-soto-gari"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner who pulls the leg clear of the first outer reap has to put it down again, and their weight follows it to the mat. Reaping a second time as the foot settles takes the leg the recovery has just loaded."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p028"
+  }
+}

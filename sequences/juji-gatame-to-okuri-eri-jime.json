@@ -1,0 +1,24 @@
+{
+  "kind": "chain",
+  "techniques": [
+    "juji-gatame",
+    "okuri-eri-jime"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner who rolls onto their knees to save the arm from the cross armlock has turned their back to you. Keeping the arm as they come up and sliding one hand deep into the far lapel from behind is the sliding lapel strangle."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p034"
+  }
+}

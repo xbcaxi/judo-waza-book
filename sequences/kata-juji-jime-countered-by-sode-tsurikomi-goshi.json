@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "kata-juji-jime",
+    "sode-tsurikomi-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner who reaches across for the half cross strangle standing has one arm crossed high in front of them. Taking that sleeve high and turning in underneath it is the sleeve lifting hip throw."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p040"
+  }
+}

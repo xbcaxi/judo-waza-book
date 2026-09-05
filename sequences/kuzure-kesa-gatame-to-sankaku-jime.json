@@ -1,0 +1,24 @@
+{
+  "kind": "chain",
+  "techniques": [
+    "kuzure-kesa-gatame",
+    "sankaku-jime"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner who bridges and turns in to escape the modified scarf hold brings their head and one arm together beneath your chest. Swinging the near leg over the neck and locking it behind your other knee encloses both in the triangle."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p032"
+  }
+}

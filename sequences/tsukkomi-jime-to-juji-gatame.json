@@ -1,0 +1,24 @@
+{
+  "kind": "chain",
+  "techniques": [
+    "tsukkomi-jime",
+    "juji-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner defending the thrusting strangle grabs the driving arm with both hands, which straightens their own. Keeping that arm and stepping over the head with it drawn across your hips turns the defence into the cross armlock."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p033"
+  }
+}

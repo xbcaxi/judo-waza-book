@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "juji-gatame",
+    "kuzure-yoko-shiho-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner attacking the cross armlock lies on their back with their legs across your body and the arm not yet straight. Keeping the elbow bent and stacking your weight over them lets you step round the legs and settle chest to chest at their side, a modified side four-quarter hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p043"
+  }
+}

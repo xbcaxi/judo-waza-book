@@ -1,0 +1,24 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "o-soto-gari",
+    "juji-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "The outer reap lands your partner on their back with the sleeve still in your hand and that arm pointing up at you. Stepping across the head and sitting down beside the shoulder with the arm across your hips is the cross armlock."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p030"
+  }
+}

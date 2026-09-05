@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ude-garami",
+    "ude-garami"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner applying the entangled armlock has their own arm bent through yours to make the figure-four. Turning towards them and taking that bent arm in the same figure-four from the other side reverses the lock."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p043"
+  }
+}

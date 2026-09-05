@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "kesa-gatame",
+    "kuzure-kesa-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner holding you in the scarf hold who is bridged and rolled comes over onto their back beside you, with your arm already beneath their near shoulder. Sitting through against their side without releasing it is the modified scarf hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p041"
+  }
+}

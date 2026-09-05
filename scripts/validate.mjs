@@ -1154,6 +1154,32 @@ if (kodokanRef) {
   }
 }
 
+/* Bongard's aide-memoire is an index of what a 2006 booklet illustrates, kept
+ * so that a name or a pairing can be cited to it as existing. Every slug it
+ * points at has to exist, or the citation points at nothing. */
+let bongardRef = null;
+try {
+  bongardRef = await loadJson(path.join(root, 'reference/bongard-aide-memoire-2006.json'));
+} catch (error) {
+  problems.push(`reference/bongard-aide-memoire-2006.json: cannot load (${error.message})`);
+}
+if (bongardRef) {
+  const REF = 'reference/bongard-aide-memoire-2006.json';
+  for (const row of [...bongardRef.techniques, ...bongardRef.names, ...bongardRef.escapes]) {
+    if (row.technique !== null && !slugs.has(row.technique)) {
+      problems.push(`${REF}: "${row.printed}" points at unknown technique "${row.technique}"`);
+    }
+  }
+  for (const row of bongardRef.sequences) {
+    for (const slug of row.techniques) {
+      if (!slugs.has(slug)) problems.push(`${REF}: "${row.printed}" names unknown technique "${slug}"`);
+    }
+    if (row.sequence !== null && !sequenceIds.has(row.sequence)) {
+      problems.push(`${REF}: "${row.printed}" points at sequences/${row.sequence}.json, which does not exist`);
+    }
+  }
+}
+
 if (ijfMap) {
   for (const [ijfName, slug] of Object.entries(ijfMap)) {
     if (!slugs.has(slug)) {

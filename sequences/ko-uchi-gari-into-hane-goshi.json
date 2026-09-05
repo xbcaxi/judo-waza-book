@@ -1,0 +1,24 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "ko-uchi-gari",
+    "hane-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner who lifts the near foot clear of the minor inner reap has their weight on the other leg and their chest coming forward to keep their balance. Turning in and setting the bent leg across that loaded thigh springs them over it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p024"
+  }
+}

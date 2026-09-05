@@ -126,6 +126,24 @@ was imported and named the same pairs. Each became a sequence record with an
 book's page is one click from the entry. Six remain, four of them pairs the
 catalogue does not list and two the skills already cover.
 
+## Bongard's aide-mémoire, and what it draws that the book lacks
+
+`reference/bongard-aide-memoire-2006.json` indexes a 2006 French booklet page by
+page. Every one of the 53 standing and 29 groundwork techniques it draws already
+has a record, and every standing one already has a video. What it added on
+2026-09-05 is eight printed names that were unrecorded (now aliases and
+variations), thirty-two pairings that had no sequence record (now drafts, each
+citing its page), and three pairings that no sequence kind can hold: a standing
+strangle or armlock that becomes a throw, which the booklet itself marks as in
+principle forbidden. Those three are in `judo-sequences-unmodelled.json`.
+
+What waits: the booklet draws twenty escapes from hold-downs across eleven
+holds where this book holds eight, twelve escapes from strangles and thirteen
+from armlocks where this book holds none, and twenty-three unnamed ground
+entries. None is named or narrated, so none can become a skill from the index
+alone; the record carries them by page and count as the target list for the
+groundwork the book is short of.
+
 ## The sequences catalogue's edges that have nowhere to go
 
 `judo-sequences-unmodelled.json` holds what the owner's 2026 sequences

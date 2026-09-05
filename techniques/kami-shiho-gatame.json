@@ -123,5 +123,14 @@
       "kuzure-kami-shiho-gatame"
     ]
   },
-  "variations": []
+  "variations": [
+    {
+      "name": "Sankaku-kami-shiho-gatame",
+      "aliases": [],
+      "about": {
+        "en": "The upper four-quarter hold with uke's head and one arm enclosed in a triangle of the legs. Bongard's aide-memoire lists it with sankaku-jime and sankaku-gatame as sharing the kami-shiho-gatame base."
+      },
+      "videos": []
+    }
+  ]
 }

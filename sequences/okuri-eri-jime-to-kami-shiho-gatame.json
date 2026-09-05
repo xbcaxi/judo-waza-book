@@ -1,0 +1,24 @@
+{
+  "kind": "chain",
+  "techniques": [
+    "okuri-eri-jime",
+    "kami-shiho-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner who tucks the chin and rolls to escape the sliding lapel strangle from behind finishes on their back with their head beneath your chest. Sliding the hands from the lapels to the belt under both shoulders is the upper four-quarter hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p033"
+  }
+}

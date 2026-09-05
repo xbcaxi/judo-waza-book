@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ude-gatame",
+    "o-uchi-gari"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner who catches your reaching arm for a standing straight armlock has stepped in close with their weight forward on the trapped arm. Reaping their near leg from the inside sends them backwards before the lock can close."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p040"
+  }
+}

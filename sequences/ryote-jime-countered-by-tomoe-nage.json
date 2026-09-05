@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ryote-jime",
+    "tomoe-nage"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner who grips both collars to strangle standing has their weight forward and both hands committed to your lapels. Dropping beneath them with a foot on the abdomen throws them over in a circle with their own grips still on you."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p040"
+  }
+}

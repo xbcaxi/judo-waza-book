@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "hane-goshi",
+    "harai-tsurikomi-ashi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "As they step in to turn for the springing hip throw, the entering foot is advancing and their hands have drawn you up. Sweeping that foot away before it plants, while lifting with both hands, is the sweeping drawing ankle throw against the turn."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p037"
+  }
+}

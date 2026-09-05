@@ -109,3 +109,21 @@ that a generated one cannot.
 Coverage is uneven by nature. Wiktionary has a full entry for 道場 and none for
 崩上四方固, so most rows carry a blank, which is the honest answer.
 
+## bongard-aide-memoire-2006.json
+
+Daniel Bongard's *Judo aide-mémoire*, version 3.3 of May 2006: a French A5
+booklet of 128 pages that draws every technique, combination, counter, escape
+and ground entry it covers as a strip of frames, with the names the Fédération
+Suisse de Judo and the Kodokan use.
+
+This is an INDEX, not a transcription. It records what the booklet illustrates,
+page by page, mapped to this book's slugs, so that a name or a pairing can be
+cited to it as existing. None of the drawings is reproduced and nothing in the
+record says how a technique is done. A sequence cited to it carries an `about`
+written from this book's own technique records; the booklet supplies the
+pairing and the page. The names it prints that the Kodokan does not use are
+recorded on the technique each maps to, and the mapping is in the record's
+`names` list. Twenty-three unnamed ground entries and the escapes from every
+hold, strangle and armlock are inventoried by page and count, because they are
+what the booklet has and this book does not yet. `npm run validate` checks that
+every slug the record points at exists.
