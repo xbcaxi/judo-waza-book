@@ -657,8 +657,8 @@ for (const g of guides) {
     problems.push(`guides/${g.name}: filename must be lowercase with hyphens`);
   }
   (g.data.sections ?? []).forEach((section, index) => {
-    if (!section.prose && !section.steps) {
-      problems.push(`guides/${g.name}: section ${index + 1} has neither prose nor steps`);
+    if (!section.prose && !section.steps && !section.checklist) {
+      problems.push(`guides/${g.name}: section ${index + 1} has neither prose, steps nor a checklist`);
     }
   });
 }
@@ -700,6 +700,16 @@ function checkItem(where, item) {
       problems.push(`${where}: item "${item.text}" references unknown kata "${id}"`);
     }
   }
+}
+
+/* A checklist line points at the same things a syllabus item does, so it is
+ * checked the same way. */
+for (const g of guides) {
+  (g.data.sections ?? []).forEach((section, index) => {
+    for (const item of section.checklist ?? []) {
+      checkItem(`guides/${g.name} section ${index + 1}`, { ...item, text: item.text?.en ?? '' });
+    }
+  });
 }
 
 /* Exams: schema, naming, and every resolved technique reference must exist.
@@ -1101,6 +1111,22 @@ for (const k of skills) {
     problems.push(`skills/${k.name}: source cites "${cited}", which no reference/ record declares`);
   }
 }
+/* A guide restating a rule cites the rulebook the same way, as a whole and
+ * line by line. */
+for (const g of guides) {
+  const cited = g.data.source?.sourceId;
+  if (cited && !rulebookIds.has(cited)) {
+    problems.push(`guides/${g.name}: source cites "${cited}", which no reference/ record declares`);
+  }
+  (g.data.sections ?? []).forEach((section, index) => {
+    for (const item of section.checklist ?? []) {
+      const line = item.source?.sourceId;
+      if (line && !rulebookIds.has(line)) {
+        problems.push(`guides/${g.name} section ${index + 1}: a checklist line cites "${line}", which no reference/ record declares`);
+      }
+    }
+  });
+}
 
 /* The Kodokan's published definitions, kept so that a name in this book can be
  * checked against the Kodokan's own without opening the PDF. The book leads
@@ -1288,7 +1314,7 @@ if (ijfShape && ijfTiers) {
  * transcribed federation text, video titles and link titles are untouched.
  * The allowlist is for genuine acronyms and initialisms, never for emphasis. */
 const PROSE_KEYS = new Set(['about', 'described', 'receiving', 'viNotes', 'keyPoints',
-  'bannedNote', 'meaning', 'summary', 'statusNote', 'prose', 'steps', 'note']);
+  'bannedNote', 'meaning', 'summary', 'statusNote', 'prose', 'steps', 'checklist', 'note']);
 const CAPS_ALLOWED = new Set(['IJF', 'BJA', 'BJC', 'BJJ', 'BSJA', 'MEXT', 'RNC',
   'IPA', 'IBSA', 'RFEJYDA', 'USA', 'NGB', 'EJU', 'AJA', 'UKS', 'JSON']);
 function sweepCaps(node, where, inProse) {

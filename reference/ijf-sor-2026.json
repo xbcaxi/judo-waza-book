@@ -13,6 +13,34 @@
   },
   "articlesCited": [
     {
+      "article": "4",
+      "titleEn": "Gestures",
+      "note": {
+        "en": "The referee's signals for every score, penalty and command, held for three to five seconds so the table can read them."
+      }
+    },
+    {
+      "article": "8",
+      "titleEn": "Technique Coinciding with the Time Signal",
+      "note": {
+        "en": "A technique started in the last second counts; one applied after the signal does not; a hold-down started in regular time runs on past the signal until it scores or is broken."
+      }
+    },
+    {
+      "article": "9",
+      "titleEn": "Start of the Contest",
+      "note": {
+        "en": "Where the referee and the athletes stand, the bow, which is not compulsory, and the rule that athletes do not shake hands before the start."
+      }
+    },
+    {
+      "article": "13",
+      "titleEn": "End of the Contest",
+      "note": {
+        "en": "What ends a contest and what wins it; golden score with no time limit and no rest, scores and shido carried over, won by any score, a third shido or hansoku-make, and a hold-down in golden score ending it at five seconds; the step back, the bow and leaving by the side of the mat with the judogi on."
+      }
+    },
+    {
       "article": "14",
       "titleEn": "Ippon",
       "note": {
@@ -31,6 +59,20 @@
       "titleEn": "Osaekomi-waza",
       "note": {
         "en": "When a hold-down counts, and the rule that it is never valid around the head and neck alone without control of at least one arm."
+      }
+    },
+    {
+      "article": "18.1",
+      "titleEn": "Shido (Slight Infringements Group)",
+      "note": {
+        "en": "What a shido is given for: lack of combativity, an illegal move that is not dangerous, untidy attire or hair. Two are warnings and the third is hansoku-make; a shido never scores for the other athlete."
+      }
+    },
+    {
+      "article": "18.1.1",
+      "titleEn": "Shido for a Lack of Combativity",
+      "note": {
+        "en": "Defensive posture, false attacks, forty-five seconds without an attack once conventional grips are taken, and stepping out of the area on purpose."
       }
     },
     {

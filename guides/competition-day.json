@@ -1,0 +1,406 @@
+{
+  "category": "competition-day",
+  "title": {
+    "en": "Competition day"
+  },
+  "summary": {
+    "en": "One page for the morning of a competition: what to pack, the weigh-in, the judogi check, the shido ladder and the clock, each line ticked off as you go. The rules page carries the reasoning; this carries the order of the day."
+  },
+  "source": {
+    "sourceId": "ijf-sor-2026",
+    "articles": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "13",
+      "15",
+      "17",
+      "18.1",
+      "18.1.1",
+      "18.1.2",
+      "18.2.1",
+      "18.2.2"
+    ]
+  },
+  "sections": [
+    {
+      "prose": {
+        "en": "Read it the night before and once more at the venue. Every line that restates a rule names the article it rests on. The lines that do not are practice, and your event's own information sheet outranks them where the two differ."
+      }
+    },
+    {
+      "heading": {
+        "en": "The night before"
+      },
+      "checklist": [
+        {
+          "text": {
+            "en": "Two judogi where the event uses both colours, or one and a spare belt where it does not. Pack them washed and dry; a damp judogi weighs more on the scale and fails the check."
+          }
+        },
+        {
+          "text": {
+            "en": "Licence or membership card, and whatever the entry confirmation says to bring."
+          }
+        },
+        {
+          "text": {
+            "en": "Your weigh-in time and place, your mat and your contest number if the draw is out."
+          }
+        },
+        {
+          "text": {
+            "en": "Water, the food you will eat after the scale, tape, and something warm for the waiting."
+          }
+        },
+        {
+          "text": {
+            "en": "Step on your own scale in what you will weigh in wearing. The weight you entered is the weight you have to make."
+          }
+        },
+        {
+          "text": {
+            "en": "Sleep. The weight comes off in the days before, not in the sauna the morning of."
+          }
+        }
+      ]
+    },
+    {
+      "heading": {
+        "en": "Weigh-in"
+      },
+      "prose": {
+        "en": "The window, whether a second attempt is allowed, what may be worn on the scale and any tolerance are set by the federation and the event rather than by the refereeing rules, so read the event information for them. Nothing in this section restates a rule."
+      },
+      "checklist": [
+        {
+          "text": {
+            "en": "Find the weigh-in room as soon as you arrive. The window closes whether or not you are in the queue."
+          }
+        },
+        {
+          "text": {
+            "en": "Take your licence or entry confirmation to the scale."
+          }
+        },
+        {
+          "text": {
+            "en": "Weigh in for the category you entered. A different weight is a withdrawal, or a move the organiser has to agree to."
+          }
+        },
+        {
+          "text": {
+            "en": "Eat and drink after the scale, not before it, and start early: a contest fought on an empty stomach is a contest half fought."
+          }
+        }
+      ]
+    },
+    {
+      "heading": {
+        "en": "Judogi check"
+      },
+      "prose": {
+        "en": "The control officials measure the judogi rather than judge it: sleeve and trouser length, the overlap of the jacket, the belt. The measurements are in the IJF's judogi rules and your federation's own. Check yours against them at home, on the body, with the arms out in front."
+      },
+      "checklist": [
+        {
+          "text": {
+            "en": "Sleeves and trousers checked the way the officials check them: arms out in front for the sleeves, standing for the trousers. A judogi that has shrunk in the wash fails on both."
+          },
+          "guides": [
+            "bowing-and-the-judogi"
+          ]
+        },
+        {
+          "text": {
+            "en": "Backnumber sewn on where the event uses them, and only the badges the event allows."
+          }
+        },
+        {
+          "text": {
+            "en": "Undershirt as the event's judogi rules require. They differ for men and women and between federations."
+          }
+        },
+        {
+          "text": {
+            "en": "Nails short, hair tied with a soft band, nothing hard or metallic anywhere on you. Untidy attire or hair draws a shido on the mat."
+          },
+          "terms": [
+            "shido"
+          ],
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "18.1"
+            ]
+          }
+        },
+        {
+          "text": {
+            "en": "Belt tied so it stays tied: wrapped twice, knotted flat, both ends the same length."
+          },
+          "guides": [
+            "tying-your-belt"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": {
+        "en": "Before your contest"
+      },
+      "checklist": [
+        {
+          "text": {
+            "en": "Warm up before your mat is called, not after. The rest between contests is ten minutes at an IJF event and often less at a local one."
+          },
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "6"
+            ]
+          }
+        },
+        {
+          "text": {
+            "en": "Know which mat you are on and where its table is. The referee calls you to the edge of the contest area."
+          }
+        },
+        {
+          "text": {
+            "en": "Walk on at the same time as your opponent. The bow is yours to make and not compulsory; shaking hands before the start is not allowed."
+          },
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "9"
+            ]
+          }
+        },
+        {
+          "text": {
+            "en": "Listen for the referee's words and watch the signals: hajime, matte, osaekomi, toketa, sore-made."
+          },
+          "terms": [
+            "hajime",
+            "matte",
+            "osaekomi",
+            "toketa"
+          ],
+          "guides": [
+            "referee-commands-and-signals"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": {
+        "en": "The shido ladder"
+      },
+      "prose": {
+        "en": "Two shido are warnings. The third is hansoku-make, the contest is lost, and you may stay in the competition where the format allows. A shido never scores for the other athlete. Direct hansoku-make is kept for the dangerous acts and ends the contest at once."
+      },
+      "checklist": [
+        {
+          "text": {
+            "en": "Attack. Once conventional grips are taken and the exchange is progressing, forty-five seconds without an attack is a shido."
+          },
+          "terms": [
+            "shido",
+            "kumi-kata"
+          ],
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "18.1.1"
+            ]
+          }
+        },
+        {
+          "text": {
+            "en": "No false attacks. An attack with no grip, no breaking of balance or no realistic chance of throwing is penalised as no attack at all."
+          },
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "18.1.1"
+            ]
+          }
+        },
+        {
+          "text": {
+            "en": "Stay in. Stepping out of the contest area on purpose, with no attack in progress, is a shido."
+          },
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "18.1.1"
+            ]
+          }
+        },
+        {
+          "text": {
+            "en": "Keep the grip conventional. No gripping the leg or the trousers standing, no breaking a grip with two hands, no covering the lapel to refuse the grip."
+          },
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "18.1.2"
+            ]
+          }
+        },
+        {
+          "text": {
+            "en": "Fix your judogi and your hair between matte and hajime without being told twice."
+          },
+          "terms": [
+            "matte",
+            "hajime"
+          ],
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "18.1"
+            ]
+          }
+        },
+        {
+          "text": {
+            "en": "Never kawazu-gake, kani-basami, do-jime or ashi-garami, and never dive head first into a throw. Each is a direct hansoku-make."
+          },
+          "techniques": [
+            "kawazu-gake",
+            "kani-basami",
+            "do-jime",
+            "ashi-garami"
+          ],
+          "terms": [
+            "hansoku-make"
+          ],
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "18.2.1",
+              "18.2.2"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "heading": {
+        "en": "The clock"
+      },
+      "checklist": [
+        {
+          "text": {
+            "en": "Four minutes of contest time for seniors, juniors and cadets, and the clock stops for every matte."
+          },
+          "terms": [
+            "matte"
+          ],
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "6"
+            ]
+          }
+        },
+        {
+          "text": {
+            "en": "Osaekomi: yuko at five seconds, waza-ari at ten, ippon at twenty, and the contest ends."
+          },
+          "terms": [
+            "osaekomi",
+            "yuko",
+            "waza-ari",
+            "ippon"
+          ],
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "7",
+              "15"
+            ]
+          }
+        },
+        {
+          "text": {
+            "en": "A hold started in regular time runs on past the buzzer until it scores or is broken."
+          },
+          "terms": [
+            "toketa"
+          ],
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "8"
+            ]
+          }
+        },
+        {
+          "text": {
+            "en": "Level at the end of regular time is golden score at once: no rest and no time limit, every score and shido carried over. The first score of any kind wins it, and a hold ends it at five seconds on a yuko."
+          },
+          "terms": [
+            "golden-score"
+          ],
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "13"
+            ]
+          }
+        },
+        {
+          "text": {
+            "en": "Golden score also ends on a third shido or a direct hansoku-make."
+          },
+          "terms": [
+            "hansoku-make"
+          ],
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "13"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "heading": {
+        "en": "After"
+      },
+      "checklist": [
+        {
+          "text": {
+            "en": "Take one step back, bow, and leave by the side of the mat with your judogi on and your belt tied."
+          },
+          "source": {
+            "sourceId": "ijf-sor-2026",
+            "articles": [
+              "13"
+            ]
+          }
+        },
+        {
+          "text": {
+            "en": "Check the draw for your next contest and the repechage before you sit down."
+          }
+        },
+        {
+          "text": {
+            "en": "Eat, drink and warm down, and tell your coach about any knock before it stiffens."
+          }
+        },
+        {
+          "text": {
+            "en": "Two-day event: tomorrow's weigh-in starts tonight."
+          }
+        }
+      ]
+    }
+  ]
+}
