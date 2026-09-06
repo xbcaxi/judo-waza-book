@@ -10,7 +10,8 @@
       "enum": [
         "essentials",
         "refereeing",
-        "rules"
+        "rules",
+        "competition-day"
       ]
     },
     "summary": {
@@ -22,6 +23,16 @@
       "items": {
         "$ref": "#/definitions/video"
       }
+    },
+    "source": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/ruleCitation"
+        },
+        {
+          "type": "null"
+        }
+      ]
     },
     "sections": {
       "minItems": 1,
@@ -49,6 +60,13 @@
                 "$ref": "#/definitions/localisedSteps"
               }
             ]
+          },
+          "checklist": {
+            "minItems": 1,
+            "type": "array",
+            "items": {
+              "$ref": "#/definitions/checklistItem"
+            }
           }
         }
       }
@@ -141,6 +159,28 @@
         "title"
       ]
     },
+    "ruleCitation": {
+      "type": "object",
+      "properties": {
+        "sourceId": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        },
+        "articles": {
+          "minItems": 1,
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "required": [
+        "sourceId",
+        "articles"
+      ],
+      "additionalProperties": false
+    },
     "localisedSteps": {
       "type": "object",
       "properties": {
@@ -165,8 +205,51 @@
         }
       },
       "description": "Ordered movement steps per language (at least two); \"en\" required."
+    },
+    "checklistItem": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "$ref": "#/definitions/localisedText"
+        },
+        "techniques": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "terms": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "guides": {
+          "default": [],
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "source": {
+          "allOf": [
+            {
+              "$ref": "#/definitions/ruleCitation"
+            }
+          ]
+        }
+      },
+      "required": [
+        "text"
+      ],
+      "additionalProperties": false
     }
   },
   "title": "guide",
-  "description": "One guide: essentials (belt tying, etiquette), refereeing (commands and signals), or rules."
+  "description": "One guide: essentials (belt tying, etiquette), refereeing (commands and signals), rules, or a competition-day checklist."
 }
