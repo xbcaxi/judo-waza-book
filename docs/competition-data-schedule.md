@@ -1,7 +1,8 @@
 # Scheduled competition data updates
 
-`.github/workflows/update-competition-data.yml` is manual only. This is what
-running it on a schedule needs.
+`.github/workflows/update-competition-data.yml` runs on a schedule as of
+2026-09-05, and by hand whenever asked. This is why the schedule is what it
+is, and what the first live runs still have to prove.
 
 ## Not monthly
 
@@ -15,14 +16,24 @@ The cache is too large to commit or to keep on a branch.
 
 ## Five days, current year
 
-Five days keeps the cache inside the eviction window with room for a skipped
-run.
+Five days keeps the cache inside the seven-day eviction window.
 
-Set `--from-year` to the current year on scheduled runs. New competitions only
+Cron cannot express it, so `0 3 */5 * *` is the 1st, 6th, 11th, 16th, 21st and
+26th at 03:00 UTC. Every gap is five days except the month's last, which is
+three to six depending on the month's length. Six is still inside the window.
+There is NOT room for a skipped run, which an earlier draft of this note
+claimed: two missed runs in a row is eleven days and a cold cache. The cost of
+that is one slow crawl, not lost data, because the cache only ever accelerates
+a fetch the IJF would serve again.
+
+`--from-year` is the current year on scheduled runs. New competitions only
 appear there, so it is about fifty competitions and twenty minutes. Aggregation
 reads the whole cache, so the output still covers 2016 to date.
 
-Keep `workflow_dispatch` and its `from_year` input for full fetches.
+A scheduled event carries no inputs, so the `workflow_dispatch` defaults do not
+apply to it and the crawl step supplies its own: the current year and 350 ms.
+The manual trigger still wins wherever somebody typed something, which is how a
+full fetch from 2016 is asked for.
 
 ## Moving the cache path or key
 
@@ -48,15 +59,11 @@ rule lives in `tools/ijf-results/lib/shrink.mjs` with tests over both paths,
 including the 70,372-rows-to-7 shape the incident had, and the workflow runs
 it as `tools/ijf-results/shrink-check.mjs`.
 
-## Done 2026-09-04
-
-`schedule:` at five days (`0 3 */5 * *`), and the crawl step fills in the
-current year and the 350 ms delay itself, because a scheduled run carries no
-inputs and the defaults declared on `workflow_dispatch` do not apply to it.
-
 ## Remaining
 
-Nothing until the first scheduled run reports. Two things to read when it
-does: whether a five-day cadence really keeps the cache alive across the
-26th-to-1st gap, and whether crawling the current year alone picks up
-competitions the IJF back-dates into an earlier one.
+Watch the first scheduled runs. Three things are still unproven in Actions: no
+crawl cache has ever been saved there, so the first run is a cold fetch of the
+current year and the second is the first warm one; the shrink guard's failing
+path has never fired there, only in its tests; and nothing yet says whether a scheduled run that opens
+the `ijf-data-refresh` branch is noticed by anyone, since it waits for a human
+to raise the pull request.
