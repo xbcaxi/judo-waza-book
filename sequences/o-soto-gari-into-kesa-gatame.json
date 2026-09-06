@@ -16,9 +16,22 @@
   "about": {
     "en": "The major outer reap lands your partner beside your reaping leg with the sleeve still in your hand. Dropping onto them with that arm pulled across your hip and your other arm round the neck is the scarf hold."
   },
-  "described": null,
-  "receiving": null,
-  "viNotes": null,
+  "described": {
+    "en": [
+      "Reap the supporting leg with O-soto-gari and let your chest drive forward and down as the leg goes back.",
+      "They land on their back beside your reaping leg, and your left hand still has the sleeve.",
+      "Keep pulling that sleeve up and across your body as you step in, so their right arm cannot come back to defend.",
+      "Sit down close against their right side, facing their head, your hip against their ribs.",
+      "Take your right arm round the back of their neck and grip cloth at their left shoulder.",
+      "Trap the held arm high under your left armpit, spread your legs wide along the mat, and settle your chest onto theirs."
+    ]
+  },
+  "receiving": {
+    "en": "The reap takes your supporting leg and you land on your back with your right arm still held above you, which is the arm you would want for defending. Slap and breathe out on the landing rather than reaching for the mat with the trapped arm. As they sit in, get your near elbow down towards your own hip and your knees turned towards them before their chest settles, because a hold entered from a throw arrives faster than one entered from the knees."
+  },
+  "viNotes": {
+    "en": "The throw hands you the position: their body is on the mat along the line of your reaping leg, and the sleeve in your hand is the thread back to it. Follow that arm down rather than searching for their shoulders. Once you are sitting in, keep your chest in contact and let their movement tell you where to settle, which is how the hold is held anyway."
+  },
   "videos": [],
   "resolver": null,
   "source": {

@@ -16,9 +16,22 @@
   "about": {
     "en": "As the sweeping leg rises between yours, your partner is on one leg with their back turning to you. Catching the sweeping leg on your thigh and reaping the standing one is the inner thigh counter, the named answer."
   },
-  "described": null,
-  "receiving": null,
-  "viNotes": null,
+  "described": {
+    "en": [
+      "Their right leg swings up between your thighs and their back turns into your chest.",
+      "Drop your weight and widen your stance so the lifting leg cannot find your hips.",
+      "Catch the lifting leg with your right hand under the thigh, or hook their standing left leg with your own left leg.",
+      "Pull their collar down and across with your left hand so their head carries on round.",
+      "They roll over their own standing leg.",
+      "They land on their back beside you; keep the sleeve for control."
+    ]
+  },
+  "receiving": {
+    "en": "You are attacking. Your sweeping leg goes up into a space that has widened, so the lift finds nothing, and everything you have is on the standing leg with your back already turning. What follows is your own rotation completed for you. Do not try to put the sweeping leg back down: turn with the throw, chin tucked, and slap with the free arm as your back arrives. A sweep that starts before their weight is on you is the one that gets returned."
+  },
+  "viNotes": {
+    "en": "The cue is their leg between your thighs, and the answer is to widen and lower rather than to step away, both of which are done by feel. Once you have the thigh or their standing leg, the collar hand does the steering, so keep it. This counter finishes with them travelling in the direction they were already turning, so make sure you both know which way that is before you drill it."
+  },
   "videos": [],
   "resolver": null,
   "source": {

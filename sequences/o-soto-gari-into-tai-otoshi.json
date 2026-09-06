@@ -12,9 +12,22 @@
   "about": {
     "en": "A partner who pulls the leg back from the major outer reap leans forward to do it. Turning in and putting the leg across their shin takes them forward over it."
   },
-  "described": null,
-  "receiving": null,
-  "viNotes": null,
+  "described": {
+    "en": [
+      "Step beside their right foot and reap with O-soto-gari, hands tipping them over the right heel.",
+      "Feel them pull the reaped leg back and lean forward to get it, so their weight stays over the front foot.",
+      "Take the grips forward with the lean rather than continuing to drive them backwards.",
+      "Step your left foot back and across, turning side-on without back contact.",
+      "Extend your right leg across the front of their right shin, foot planted outside the ankle, knee bent.",
+      "Pull the sleeve past your left hip and rotate your trunk left; they turn over the bar and land in front of you."
+    ]
+  },
+  "receiving": {
+    "en": "Pulling the leg clear of the reap works, but you have to lean forward to do it, and that lean is what the body drop uses. The direction changes from backwards to forwards while your weight is still moving. Expect to travel forward and to your own left over a leg that is barring your shin. Keep hold, get your head up, slap early. Bringing your hips back under you as you recover the leg is the part most people miss."
+  },
+  "viNotes": {
+    "en": "The reap and the drop are opposite directions through the same grips, so your hands carry the whole story: their weight coming forward off your reap is the signal to turn in. The bar is placed by feel against their shin, and it carries no weight, so no measuring is needed. Because there is no back contact in this throw, keep the sleeve short so you know where they are."
+  },
   "videos": [],
   "resolver": null,
   "source": {

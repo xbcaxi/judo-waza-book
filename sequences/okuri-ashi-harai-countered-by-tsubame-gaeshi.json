@@ -16,9 +16,22 @@
   "about": {
     "en": "The double sweep asks both of your feet to travel together, which is exactly the moment the swallow counter wants. You withdraw the foot they are sweeping and sweep their sweeping leg on the same line while it is still in the air. The book records the same answer to de-ashi-harai; here the timing is finer, because both of your feet were already moving when the attack came."
   },
-  "described": null,
-  "receiving": null,
-  "viNotes": null,
+  "described": {
+    "en": [
+      "You are moving sideways with them and both of your feet are travelling; their sole arrives against your trailing ankle.",
+      "Curl that foot up and back so their sweep passes underneath it, knee bending, everything else staying where it is.",
+      "Their sweeping leg is now in the air and carrying nothing, and both of you are still sliding the same way.",
+      "Sweep their sweeping foot on the same line with your sole, before it can land.",
+      "Steer with both hands in the direction of travel so their body follows the foot.",
+      "They land on their side beside you. Hold the sleeve up firmly, because this fall arrives fast."
+    ]
+  },
+  "receiving": {
+    "en": "You are attacking, and the timing that makes the sliding sweep work is the timing that makes this counter work against you. Your sole meets an ankle that has lifted over it, so your leg carries on with nothing on it, and their sweep takes it further and faster than you sent it. The landing is low and on your side. Keep your grips, tuck your chin, and slap with the free arm. Sweeping when their weight is genuinely between feet rather than on the beat of the step is what keeps the swallow away."
+  },
+  "viNotes": {
+    "en": "This is a rhythm counter and rhythm is not a visual thing: the sideways travel through both hands, then their sole on your ankle, is the whole cue. Withdraw the foot upwards over the sweep rather than backwards, because backwards takes it out of range for the answer. Both of you are moving across the mat, so know which way the edge is before you start."
+  },
   "videos": [
     {
       "provider": "akita",
