@@ -1263,6 +1263,10 @@
               "text": "Escape Kesa-gatame to any Osaekomi-waza",
               "techniques": [
                 "kesa-gatame"
+              ],
+              "skills": [
+                "kesa-gatame-escape-bridge-and-roll",
+                "kesa-gatame-escape-leg-trap"
               ]
             }
           ]

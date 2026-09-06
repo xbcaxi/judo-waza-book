@@ -13,6 +13,20 @@
   },
   "articlesCited": [
     {
+      "article": "6",
+      "titleEn": "Duration of the Contest",
+      "note": {
+        "en": "Four minutes of real contest time for seniors, juniors and cadets, and ten minutes' rest between contests."
+      }
+    },
+    {
+      "article": "7",
+      "titleEn": "Osaekomi Time",
+      "note": {
+        "en": "The hold-down clock: ippon at twenty seconds, waza-ari from ten, yuko from five. Article 15 restates the same marks under each score."
+      }
+    },
+    {
       "article": "14",
       "titleEn": "Ippon",
       "note": {
@@ -61,5 +75,26 @@
         "en": "The techniques given a direct hansoku-make by name, the sankaku restrictions, and lifting an opponent off the mat to force them back down."
       }
     }
-  ]
+  ],
+  "osaekomiScoring": {
+    "article": "7",
+    "readOn": "2026-09-05",
+    "marks": [
+      {
+        "seconds": 5,
+        "score": "yuko"
+      },
+      {
+        "seconds": 10,
+        "score": "waza-ari"
+      },
+      {
+        "seconds": 20,
+        "score": "ippon"
+      }
+    ],
+    "note": {
+      "en": "The seconds after Osaekomi is called at which each score is reached, as Article 7 states them and Article 15 repeats them. Structured so that a hold-down page, the glossary and a clock read one list rather than each restating it."
+    }
+  }
 }
