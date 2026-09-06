@@ -133,58 +133,13 @@ jobs:
 
       # Does the aggregation still describe as much judo as the committed copy?
       #
-      # A SMALLER FILE THAT STILL VALIDATES is the one failure worth stopping
-      # for, and the schema cannot catch it: a half-restored cache produces a
-      # perfectly well-formed dataset covering a fraction of the sport, and
-      # publishing it would quietly replace good data with less of it. It has
-      # already happened once locally, when a test fixture overwrote the real
-      # shape file with 7 rows in place of 70,372.
-      #
-      # Growth is unbounded and fine. A drop of more than a tenth in any table
-      # means something went wrong upstream, so the run stops and says which
-      # table and by how much, rather than opening a pull request nobody would
-      # read closely enough.
+      # A smaller file that still validates is the one failure the schema
+      # cannot catch, so it is checked here. The rule and the reasons are in
+      # tools/ijf-results/lib/shrink.mjs, where they are tested; this step is
+      # the run.
       - name: Check the aggregation did not shrink
         if: steps.aggregate.outcome == 'success'
-        shell: bash
-        run: |
-          node - <<'CHECK'
-          import { execSync } from 'node:child_process';
-          import { readFile } from 'node:fs/promises';
-
-          const files = [
-            'competition-stats/ijf-technique-frequency.json',
-            'competition-stats/ijf-contest-shape.json',
-          ];
-          const TOLERANCE = 0.9;
-          const problems = [];
-
-          for (const file of files) {
-            const now = JSON.parse(await readFile(file, 'utf8'));
-            let before;
-            try {
-              before = JSON.parse(execSync(`git show HEAD:${file}`, { encoding: 'utf8', maxBuffer: 1 << 30 }));
-            } catch {
-              console.log(`${file}: nothing committed to compare against, so nothing to check.`);
-              continue;
-            }
-            for (const [table, rows] of Object.entries(before)) {
-              if (!Array.isArray(rows) || rows.length === 0) continue;
-              const after = Array.isArray(now[table]) ? now[table].length : 0;
-              if (after < rows.length * TOLERANCE) {
-                problems.push(`${file} ${table}: ${rows.length} rows -> ${after}`);
-              }
-            }
-          }
-
-          if (problems.length > 0) {
-            console.error('The aggregation is materially smaller than what is committed:');
-            for (const line of problems) console.error(`  ${line}`);
-            console.error('\nThat is what a part-restored cache looks like. Nothing has been published.');
-            process.exit(1);
-          }
-          console.log('No table lost more than a tenth of its rows.');
-          CHECK
+        run: node tools/ijf-results/shrink-check.mjs
 
       - name: Publish to the ijf-data-refresh branch
         if: steps.aggregate.outcome == 'success'
