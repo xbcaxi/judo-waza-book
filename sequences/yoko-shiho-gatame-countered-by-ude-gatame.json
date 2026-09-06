@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "yoko-shiho-gatame",
+    "ude-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner holding you from the side reaches across your body to control the collar, and that arm passes within reach of both your hands. Trapping the wrist at your shoulder and pressing the elbow with both hands straightens it into the armlock."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p041"
+  }
+}

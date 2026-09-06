@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "kami-shiho-gatame",
+    "sankaku-jime"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner holding you from above the head has their head between your chest and your legs. Bridging to make space, swinging one leg over their neck and locking it behind the other knee encloses the head and the near arm in the triangle."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p041"
+  }
+}

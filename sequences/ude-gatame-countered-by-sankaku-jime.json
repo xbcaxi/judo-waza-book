@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ude-gatame",
+    "sankaku-jime"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner pressing your straight arm with both hands has their head close and both arms committed. Bending the elbow to break the lock and swinging a leg over their neck into the figure-four encloses the head and the arm in the triangle."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p043"
+  }
+}

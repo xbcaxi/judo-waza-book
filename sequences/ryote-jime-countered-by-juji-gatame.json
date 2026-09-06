@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ryote-jime",
+    "juji-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner driving both fists into your collar for the two-hand strangle has both arms straight in front of you. Taking one of them, swinging a leg over the head and extending the arm across your hips is the cross armlock."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p042"
+  }
+}

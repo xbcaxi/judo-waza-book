@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ippon-seoi-nage",
+    "hadaka-jime"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "As they turn their back in for the one-armed shoulder throw, their neck arrives in front of your free arm. Sinking the hips so the throw cannot lift and bringing the forearm across the front of the neck from behind is the naked strangle."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p039"
+  }
+}

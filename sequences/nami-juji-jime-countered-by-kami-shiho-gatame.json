@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "nami-juji-jime",
+    "kami-shiho-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner applying the cross strangle from beneath has both hands committed to your collar and their head below yours. Driving forward over the head and taking the belt under both shoulders passes the arms and settles the upper four-quarter hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p042"
+  }
+}

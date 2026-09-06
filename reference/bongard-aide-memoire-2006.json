@@ -1,0 +1,1550 @@
+{
+  "sourceId": "bongard-aide-memoire-2006",
+  "titleFr": "Judo aide-mémoire",
+  "titleEn": "Judo aide-memoire",
+  "author": "Daniel Bongard",
+  "credits": "Marc Decroux (4th dan) and Jean-Marc Edder (5th dan) are credited by the author",
+  "edition": "Version 3.3",
+  "published": "2006-05",
+  "pages": 128,
+  "format": "A5 booklet, French; technique names follow the Federation Suisse de Judo and the Kodokan",
+  "readOn": "2026-09-05",
+  "readFrom": "The project owner's page-by-page index of what the booklet illustrates, mapped to this book's slugs. The booklet itself was not transcribed.",
+  "rights": "Third-party. The drawings are the author's and none is reproduced here; this record is an index of what the booklet illustrates, by printed page, so that a technique, a name or a sequence can be cited to it as existing. Page numbers are the printed ones.",
+  "note": {
+    "en": "An index, not a transcription, so it proves that a technique or a pairing is illustrated and nothing more. A sequence cited to it carries an about written from this book's own technique records; the booklet supplies the pairing and the page. Where it prints a name the Kodokan does not use, the name is recorded on the technique it maps to and the mapping is in this file."
+  },
+  "structure": {
+    "en": "Standing techniques pp 4-21; combinations pp 22-34; counters pp 35-43; hold-downs pp 44-48 and their escapes pp 49-54; strangles pp 55-65 and escapes pp 66-69; armlocks pp 70-79 and escapes pp 80-84; ground entries pp 85-94; annexes on grades and classification pp 95-102, glossary pp 103-118, competition and refereeing under the 2006 rules pp 119-123, history pp 124-127."
+  },
+  "names": [
+    {
+      "printed": "Sode-seoi-nage",
+      "page": 10,
+      "technique": "seoi-nage",
+      "recordedAs": "variation"
+    },
+    {
+      "printed": "Eri-seoi-nage",
+      "page": 10,
+      "technique": "seoi-nage",
+      "recordedAs": "variation"
+    },
+    {
+      "printed": "Ryo-ashi-dori",
+      "page": 9,
+      "technique": "morote-gari",
+      "recordedAs": "alias"
+    },
+    {
+      "printed": "Kata-ashi-dori",
+      "page": 12,
+      "technique": "kuchiki-taoshi",
+      "recordedAs": "alias"
+    },
+    {
+      "printed": "Goshi-guruma",
+      "page": 13,
+      "technique": "koshi-guruma",
+      "recordedAs": "alias"
+    },
+    {
+      "printed": "Ko-tsuri-goshi",
+      "page": 14,
+      "technique": "tsuri-goshi",
+      "recordedAs": "variation"
+    },
+    {
+      "printed": "O-tsuri-goshi",
+      "page": 14,
+      "technique": "tsuri-goshi",
+      "recordedAs": "variation"
+    },
+    {
+      "printed": "Kani-waza",
+      "page": 17,
+      "technique": "kani-basami",
+      "recordedAs": "alias"
+    },
+    {
+      "printed": "Kashira-gesa-gatame",
+      "page": 45,
+      "technique": "kuzure-kesa-gatame",
+      "recordedAs": "variation"
+    },
+    {
+      "printed": "Sankaku-kami-shiho-gatame",
+      "page": 47,
+      "technique": "kami-shiho-gatame",
+      "recordedAs": "variation"
+    },
+    {
+      "printed": "Ashi-gatame-jime",
+      "page": 61,
+      "technique": "sankaku-jime",
+      "recordedAs": "alias"
+    },
+    {
+      "printed": "Hikkomi-gaeshi",
+      "page": 91,
+      "technique": "hikikomi-gaeshi",
+      "recordedAs": "already an alias spelling"
+    }
+  ],
+  "techniques": [
+    {
+      "printed": "ASHI-GURUMA",
+      "page": 4,
+      "group": "Ashi-waza",
+      "frames": 3,
+      "technique": "ashi-guruma"
+    },
+    {
+      "printed": "DE-ASHI-BARAI",
+      "page": 4,
+      "group": "Ashi-waza",
+      "frames": 3,
+      "technique": "de-ashi-harai"
+    },
+    {
+      "printed": "HARAI-TSURI-KOMI-ASHI",
+      "page": 4,
+      "group": "Ashi-waza",
+      "frames": 3,
+      "technique": "harai-tsurikomi-ashi"
+    },
+    {
+      "printed": "HIZA-GURUMA",
+      "page": 5,
+      "group": "Ashi-waza",
+      "frames": 3,
+      "technique": "hiza-guruma"
+    },
+    {
+      "printed": "KO-SOTO-GAKE",
+      "page": 5,
+      "group": "Ashi-waza",
+      "frames": 3,
+      "technique": "ko-soto-gake"
+    },
+    {
+      "printed": "KO-SOTO-GARI",
+      "page": 5,
+      "group": "Ashi-waza",
+      "frames": 4,
+      "technique": "ko-soto-gari"
+    },
+    {
+      "printed": "KO-UCHI-GARI",
+      "page": 6,
+      "group": "Ashi-waza",
+      "frames": 3,
+      "technique": "ko-uchi-gari"
+    },
+    {
+      "printed": "OKURI-ASHI-BARAI",
+      "page": 6,
+      "group": "Ashi-waza",
+      "frames": 3,
+      "technique": "okuri-ashi-harai"
+    },
+    {
+      "printed": "O-SOTO-GARI",
+      "page": 6,
+      "group": "Ashi-waza",
+      "frames": 3,
+      "technique": "o-soto-gari"
+    },
+    {
+      "printed": "O-SOTO-GURUMA",
+      "page": 7,
+      "group": "Ashi-waza",
+      "frames": 3,
+      "technique": "o-soto-guruma"
+    },
+    {
+      "printed": "O-SOTO-OTOSHI",
+      "page": 7,
+      "group": "Ashi-waza",
+      "frames": 3,
+      "technique": "o-soto-otoshi"
+    },
+    {
+      "printed": "O-UCHI-GARI",
+      "page": 7,
+      "group": "Ashi-waza",
+      "frames": 3,
+      "technique": "o-uchi-gari"
+    },
+    {
+      "printed": "SASAE-TSURI-KOMI-ASHI",
+      "page": 8,
+      "group": "Ashi-waza",
+      "frames": 3,
+      "technique": "sasae-tsurikomi-ashi"
+    },
+    {
+      "printed": "UCHI-MATA",
+      "page": 8,
+      "group": "Ashi-waza",
+      "frames": 7,
+      "technique": "uchi-mata"
+    },
+    {
+      "printed": "O-GURUMA",
+      "page": 8,
+      "group": "Ashi-waza",
+      "frames": 3,
+      "technique": "o-guruma"
+    },
+    {
+      "printed": "KATA-GURUMA",
+      "page": 9,
+      "group": "Te-waza",
+      "frames": 4,
+      "technique": "kata-guruma"
+    },
+    {
+      "printed": "MOROTE-GARI (Ryo-ashi-dori)",
+      "page": 9,
+      "group": "Te-waza",
+      "frames": 3,
+      "technique": "morote-gari"
+    },
+    {
+      "printed": "IPPON-SEOI-NAGE",
+      "page": 9,
+      "group": "Te-waza",
+      "frames": 4,
+      "technique": "ippon-seoi-nage"
+    },
+    {
+      "printed": "SODE-SEOI-NAGE",
+      "page": 10,
+      "group": "Te-waza",
+      "frames": 1,
+      "technique": "seoi-nage"
+    },
+    {
+      "printed": "ERI-SEOI-NAGE",
+      "page": 10,
+      "group": "Te-waza",
+      "frames": 1,
+      "technique": "seoi-nage"
+    },
+    {
+      "printed": "MOROTE-SEOI-NAGE",
+      "page": 10,
+      "group": "Te-waza",
+      "frames": 1,
+      "technique": "seoi-nage"
+    },
+    {
+      "printed": "SEOI-OTOSHI",
+      "page": 10,
+      "group": "Te-waza",
+      "frames": 1,
+      "technique": "seoi-otoshi"
+    },
+    {
+      "printed": "SUKUI-NAGE",
+      "page": 10,
+      "group": "Te-waza",
+      "frames": 4,
+      "technique": "sukui-nage"
+    },
+    {
+      "printed": "SUKUI-NAGE (Te-Guruma)",
+      "page": 10,
+      "group": "Te-waza",
+      "frames": 4,
+      "technique": "te-guruma"
+    },
+    {
+      "printed": "SUMI-OTOSHI",
+      "page": 11,
+      "group": "Te-waza",
+      "frames": 3,
+      "technique": "sumi-otoshi"
+    },
+    {
+      "printed": "TAI-OTOSHI",
+      "page": 11,
+      "group": "Te-waza",
+      "frames": 3,
+      "technique": "tai-otoshi"
+    },
+    {
+      "printed": "UKI-OTOSHI",
+      "page": 11,
+      "group": "Te-waza",
+      "frames": 3,
+      "technique": "uki-otoshi"
+    },
+    {
+      "printed": "KUCHIKI-DAOSHI (par Kawaguchi)",
+      "page": 12,
+      "group": "Te-waza",
+      "frames": 4,
+      "technique": "kuchiki-taoshi"
+    },
+    {
+      "printed": "KIBISU-GAESHI (par Osawa)",
+      "page": 12,
+      "group": "Te-waza",
+      "frames": 3,
+      "technique": "kibisu-gaeshi"
+    },
+    {
+      "printed": "KATA-ASHI-DORI (selon Kawaishi)",
+      "page": 12,
+      "group": "Te-waza",
+      "frames": 1,
+      "technique": "kuchiki-taoshi"
+    },
+    {
+      "printed": "KO-UCHI-MAKKOMI (par Okano)",
+      "page": 12,
+      "group": "Te-waza",
+      "frames": 1,
+      "technique": "ko-uchi-makikomi"
+    },
+    {
+      "printed": "HANE-GOSHI",
+      "page": 13,
+      "group": "Koshi-waza",
+      "frames": 3,
+      "technique": "hane-goshi"
+    },
+    {
+      "printed": "HARAI-GOSHI",
+      "page": 13,
+      "group": "Koshi-waza",
+      "frames": 3,
+      "technique": "harai-goshi"
+    },
+    {
+      "printed": "GOSHI-GURUMA (Kubi-nage)",
+      "page": 13,
+      "group": "Koshi-waza",
+      "frames": 3,
+      "technique": "koshi-guruma"
+    },
+    {
+      "printed": "UKI-GOSHI",
+      "page": 14,
+      "group": "Koshi-waza",
+      "frames": 3,
+      "technique": "uki-goshi"
+    },
+    {
+      "printed": "O-GOSHI",
+      "page": 14,
+      "group": "Koshi-waza",
+      "frames": 3,
+      "technique": "o-goshi"
+    },
+    {
+      "printed": "KO-TSURI-GOSHI",
+      "page": 14,
+      "group": "Koshi-waza",
+      "frames": 1,
+      "technique": "tsuri-goshi"
+    },
+    {
+      "printed": "O-TSURI-GOSHI",
+      "page": 14,
+      "group": "Koshi-waza",
+      "frames": 1,
+      "technique": "tsuri-goshi"
+    },
+    {
+      "printed": "TSURI-KOMI-GOSHI",
+      "page": 15,
+      "group": "Koshi-waza",
+      "frames": 4,
+      "technique": "tsurikomi-goshi"
+    },
+    {
+      "printed": "SODE-TSURI-KOMI-GOSHI",
+      "page": 15,
+      "group": "Koshi-waza",
+      "frames": 4,
+      "technique": "sode-tsurikomi-goshi"
+    },
+    {
+      "printed": "USHIRO-GOSHI",
+      "page": 16,
+      "group": "Koshi-waza",
+      "frames": 3,
+      "technique": "ushiro-goshi"
+    },
+    {
+      "printed": "UTSURI-GOSHI",
+      "page": 16,
+      "group": "Koshi-waza",
+      "frames": 3,
+      "technique": "utsuri-goshi"
+    },
+    {
+      "printed": "YAMA-ARASHI",
+      "page": 16,
+      "group": "Koshi-waza",
+      "frames": 3,
+      "technique": "yama-arashi"
+    },
+    {
+      "printed": "HANE-MAKI-KOMI",
+      "page": 17,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "hane-makikomi"
+    },
+    {
+      "printed": "KANI-BASAMI (Kani-waza)",
+      "page": 17,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "kani-basami"
+    },
+    {
+      "printed": "O-SOTO-MAKI-KOMI",
+      "page": 17,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "o-soto-makikomi"
+    },
+    {
+      "printed": "SOTO-MAKI-KOMI",
+      "page": 18,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "soto-makikomi"
+    },
+    {
+      "printed": "SUMI-GAESHI",
+      "page": 18,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "sumi-gaeshi"
+    },
+    {
+      "printed": "TANI-OTOSHI",
+      "page": 18,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "tani-otoshi"
+    },
+    {
+      "printed": "TAWARA-GAESHI",
+      "page": 19,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "tawara-gaeshi"
+    },
+    {
+      "printed": "TOMOE-NAGE",
+      "page": 19,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "tomoe-nage"
+    },
+    {
+      "printed": "UCHI-MAKI-KOMI",
+      "page": 19,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "uchi-makikomi"
+    },
+    {
+      "printed": "UKI-WAZA",
+      "page": 20,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "uki-waza"
+    },
+    {
+      "printed": "URA-NAGE",
+      "page": 20,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "ura-nage"
+    },
+    {
+      "printed": "YOKO-GAKE",
+      "page": 20,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "yoko-gake"
+    },
+    {
+      "printed": "YOKO-GURUMA",
+      "page": 21,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "yoko-guruma"
+    },
+    {
+      "printed": "YOKO-OTOSHI",
+      "page": 21,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "yoko-otoshi"
+    },
+    {
+      "printed": "YOKO-WAKARE",
+      "page": 21,
+      "group": "Sutemi-waza",
+      "frames": 3,
+      "technique": "yoko-wakare"
+    },
+    {
+      "printed": "HON-GESA-GATAME",
+      "page": 44,
+      "group": "Osaekomi-waza",
+      "drawn": "front and rear views, then a second base with variants A, B, C",
+      "technique": "kesa-gatame"
+    },
+    {
+      "printed": "KATA-GATAME",
+      "page": 45,
+      "group": "Osaekomi-waza",
+      "drawn": "base, detail, one variation",
+      "technique": "kata-gatame"
+    },
+    {
+      "printed": "KUZURE-GESA-GATAME",
+      "page": 45,
+      "group": "Osaekomi-waza",
+      "drawn": "variations Kashira-, Makura-, Ushiro- (front and rear)",
+      "technique": "kuzure-kesa-gatame"
+    },
+    {
+      "printed": "YOKO-SHIHO-GATAME",
+      "page": 46,
+      "group": "Osaekomi-waza",
+      "drawn": "front, rear, alternative leg position",
+      "technique": "yoko-shiho-gatame"
+    },
+    {
+      "printed": "KUZURE-YOKO-SHIHO-GATAME",
+      "page": 46,
+      "group": "Osaekomi-waza",
+      "drawn": "variants A, B, C, D",
+      "technique": "kuzure-yoko-shiho-gatame"
+    },
+    {
+      "printed": "KAMI-SHIHO-GATAME",
+      "page": 47,
+      "group": "Osaekomi-waza",
+      "drawn": "base, detail, four variants; noted as the base for sankaku-kami-shiho-gatame, sankaku-jime and ude-garami or sankaku-gatame",
+      "technique": "kami-shiho-gatame"
+    },
+    {
+      "printed": "TATE-SHIHO-GATAME",
+      "page": 48,
+      "group": "Osaekomi-waza",
+      "drawn": "side view, view from below, uke's foot position when bridging, variants with details from below",
+      "technique": "tate-shiho-gatame"
+    },
+    {
+      "printed": "NAMI-JUJI-JIME",
+      "page": 55,
+      "group": "Shime-waza",
+      "drawn": "base and variations 1, 2",
+      "technique": "nami-juji-jime"
+    },
+    {
+      "printed": "GYAKU-JUJI-JIME",
+      "page": 56,
+      "group": "Shime-waza",
+      "drawn": "base and variations 1, 2",
+      "technique": "gyaku-juji-jime"
+    },
+    {
+      "printed": "KATA-JUJI-JIME",
+      "page": 57,
+      "group": "Shime-waza",
+      "drawn": "base and variations 1 to 5 over two pages",
+      "technique": "kata-juji-jime"
+    },
+    {
+      "printed": "KATA-TE-JIME",
+      "page": 59,
+      "group": "Shime-waza",
+      "drawn": "base and variations 1, 2; notes that with the collar cloth it becomes okuri-eri-jime",
+      "technique": "kata-te-jime"
+    },
+    {
+      "printed": "TSUKKOMI-JIME",
+      "page": 59,
+      "group": "Shime-waza",
+      "drawn": "base",
+      "technique": "tsukkomi-jime"
+    },
+    {
+      "printed": "RYO-TE-JIME (Morote-jime)",
+      "page": 60,
+      "group": "Shime-waza",
+      "drawn": "tori above and tori below; taking it to the ground noted as forbidden",
+      "technique": "ryote-jime"
+    },
+    {
+      "printed": "SANKAKU-JIME / ASHI-GATAME-JIME",
+      "page": 61,
+      "group": "Shime-waza",
+      "drawn": "base and variations 1 to 6 over two pages",
+      "technique": "sankaku-jime"
+    },
+    {
+      "printed": "HADAKA-JIME",
+      "page": 63,
+      "group": "Shime-waza",
+      "drawn": "base, details, variations 1, 2, 3",
+      "technique": "hadaka-jime"
+    },
+    {
+      "printed": "OKURI-ERI-JIME",
+      "page": 64,
+      "group": "Shime-waza",
+      "drawn": "base, two details, variations 1, 2",
+      "technique": "okuri-eri-jime"
+    },
+    {
+      "printed": "KATA-HA-JIME",
+      "page": 65,
+      "group": "Shime-waza",
+      "drawn": "base, variations 1, 2, 3, details A, B, C",
+      "technique": "kata-ha-jime"
+    },
+    {
+      "printed": "UDE-GARAMI",
+      "page": 70,
+      "group": "Kansetsu-waza",
+      "drawn": "base and variations 1 to 7 over two pages",
+      "technique": "ude-garami"
+    },
+    {
+      "printed": "Ude-Ishigi-JUJI-GATAME",
+      "page": 72,
+      "group": "Kansetsu-waza",
+      "drawn": "base and variations 1 to 6 over two pages",
+      "technique": "juji-gatame"
+    },
+    {
+      "printed": "Ude-Ishigi-UDE-GATAME",
+      "page": 74,
+      "group": "Kansetsu-waza",
+      "drawn": "base and variations 1 to 6 over two pages",
+      "technique": "ude-gatame"
+    },
+    {
+      "printed": "Ude-Ishigi-HIZA-GATAME",
+      "page": 76,
+      "group": "Kansetsu-waza",
+      "drawn": "base and variations 1, 2, 3",
+      "technique": "hiza-gatame"
+    },
+    {
+      "printed": "Ude-Ishigi-HARA-GATAME",
+      "page": 77,
+      "group": "Kansetsu-waza",
+      "drawn": "base and variations 1, 2, 3",
+      "technique": "hara-gatame"
+    },
+    {
+      "printed": "Ude-Ishigi-WAKI-GATAME",
+      "page": 78,
+      "group": "Kansetsu-waza",
+      "drawn": "base and variations 1 to 5 over two pages, the last three standing entries",
+      "technique": "waki-gatame"
+    }
+  ],
+  "sequences": [
+    {
+      "printed": "O-UCHI-GARI + TAI-OTOSHI",
+      "page": 22,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "o-uchi-gari",
+        "tai-otoshi"
+      ],
+      "sequence": "o-uchi-gari-into-tai-otoshi"
+    },
+    {
+      "printed": "O-UCHI-GARI + HARAI-GOSHI",
+      "page": 22,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "o-uchi-gari",
+        "harai-goshi"
+      ],
+      "sequence": "o-uchi-gari-into-harai-goshi"
+    },
+    {
+      "printed": "O-SOTO-GARI + HIZA-GURUMA",
+      "page": 22,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "o-soto-gari",
+        "hiza-guruma"
+      ],
+      "sequence": "o-soto-gari-into-hiza-guruma"
+    },
+    {
+      "printed": "TAI-OTOSHI + O-UCHI-GARI",
+      "page": 23,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "tai-otoshi",
+        "o-uchi-gari"
+      ],
+      "sequence": "tai-otoshi-into-o-uchi-gari"
+    },
+    {
+      "printed": "HIZA-GURUMA + O-SOTO-GARI",
+      "page": 23,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "hiza-guruma",
+        "o-soto-gari"
+      ],
+      "sequence": "hiza-guruma-into-o-soto-gari"
+    },
+    {
+      "printed": "UCHI-MATA + O-UCHI-GARI",
+      "page": 23,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "uchi-mata",
+        "o-uchi-gari"
+      ],
+      "sequence": "uchi-mata-into-o-uchi-gari"
+    },
+    {
+      "printed": "KO-UCHI-GARI + IPPON-SEOI-NAGE",
+      "page": 24,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "ko-uchi-gari",
+        "ippon-seoi-nage"
+      ],
+      "sequence": "ko-uchi-gari-into-ippon-seoi-nage"
+    },
+    {
+      "printed": "KO-UCHI-GARI + HANE-GOSHI",
+      "page": 24,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "ko-uchi-gari",
+        "hane-goshi"
+      ],
+      "sequence": "ko-uchi-gari-into-hane-goshi"
+    },
+    {
+      "printed": "O-UCHI-GARI + UCHI-MATA",
+      "page": 24,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "o-uchi-gari",
+        "uchi-mata"
+      ],
+      "sequence": "o-uchi-gari-into-uchi-mata"
+    },
+    {
+      "printed": "IPPON-SEOI-NAGE + KO-UCHI-GARI",
+      "page": 25,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "ippon-seoi-nage",
+        "ko-uchi-gari"
+      ],
+      "sequence": "ippon-seoi-nage-into-ko-uchi-gari"
+    },
+    {
+      "printed": "TSURI-KOMI-GOSHI + O-UCHI-GARI",
+      "page": 25,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "tsurikomi-goshi",
+        "o-uchi-gari"
+      ],
+      "sequence": "tsurikomi-goshi-into-o-uchi-gari"
+    },
+    {
+      "printed": "HANE-GOSHI + O-UCHI-GARI",
+      "page": 25,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "hane-goshi",
+        "o-uchi-gari"
+      ],
+      "sequence": "hane-goshi-into-o-uchi-gari"
+    },
+    {
+      "printed": "KO-UCHI-GARI + O-UCHI-GARI",
+      "page": 26,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "ko-uchi-gari",
+        "o-uchi-gari"
+      ],
+      "sequence": "ko-uchi-gari-into-o-uchi-gari"
+    },
+    {
+      "printed": "O-UCHI-GARI + KO-UCHI-GARI",
+      "page": 26,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "o-uchi-gari",
+        "ko-uchi-gari"
+      ],
+      "sequence": "o-uchi-gari-into-ko-uchi-gari"
+    },
+    {
+      "printed": "KO-UCHI-GARI + O-UCHI-GARI (second form)",
+      "page": 26,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "ko-uchi-gari",
+        "o-uchi-gari"
+      ],
+      "sequence": "ko-uchi-gari-into-o-uchi-gari"
+    },
+    {
+      "printed": "TSURI-KOMI-GOSHI + SODE-TSURI-KOMI-GOSHI",
+      "page": 27,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "tsurikomi-goshi",
+        "sode-tsurikomi-goshi"
+      ],
+      "sequence": "tsurikomi-goshi-into-sode-tsurikomi-goshi"
+    },
+    {
+      "printed": "HIZA-GURUMA + SASAE-TSURI-KOMI-ASHI",
+      "page": 27,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "hiza-guruma",
+        "sasae-tsurikomi-ashi"
+      ],
+      "sequence": "hiza-guruma-into-sasae-tsurikomi-ashi"
+    },
+    {
+      "printed": "SASAE-TSURI-KOMI-ASHI + UCHI-MATA",
+      "page": 27,
+      "family": "Projection into projection",
+      "kind": "combination",
+      "techniques": [
+        "sasae-tsurikomi-ashi",
+        "uchi-mata"
+      ],
+      "sequence": "sasae-tsurikomi-ashi-into-uchi-mata"
+    },
+    {
+      "printed": "TSURI-KOMI-GOSHI + TSURI-KOMI-GOSHI",
+      "page": 28,
+      "family": "Same technique repeated (renzoku)",
+      "kind": "combination",
+      "techniques": [
+        "tsurikomi-goshi",
+        "tsurikomi-goshi"
+      ],
+      "sequence": "tsurikomi-goshi-into-tsurikomi-goshi"
+    },
+    {
+      "printed": "O-SOTO-GARI + O-SOTO-GARI",
+      "page": 28,
+      "family": "Same technique repeated (renzoku)",
+      "kind": "combination",
+      "techniques": [
+        "o-soto-gari",
+        "o-soto-gari"
+      ],
+      "sequence": "o-soto-gari-into-o-soto-gari"
+    },
+    {
+      "printed": "HIZA-GURUMA + HIZA-GURUMA",
+      "page": 28,
+      "family": "Same technique repeated (renzoku)",
+      "kind": "combination",
+      "techniques": [
+        "hiza-guruma",
+        "hiza-guruma"
+      ],
+      "sequence": "hiza-guruma-into-hiza-guruma"
+    },
+    {
+      "printed": "SASAE-TSURI-KOMI-ASHI + TAI-OTOSHI",
+      "page": 29,
+      "family": "Same technique repeated (renzoku)",
+      "kind": "combination",
+      "techniques": [
+        "sasae-tsurikomi-ashi",
+        "tai-otoshi"
+      ],
+      "sequence": "sasae-tsurikomi-ashi-into-tai-otoshi"
+    },
+    {
+      "printed": "HIZA-GURUMA + HARAI-GOSHI",
+      "page": 29,
+      "family": "Same technique repeated (renzoku)",
+      "kind": "combination",
+      "techniques": [
+        "hiza-guruma",
+        "harai-goshi"
+      ],
+      "sequence": "hiza-guruma-into-harai-goshi"
+    },
+    {
+      "printed": "IPPON-SEOI-NAGE + SEOI-OTOSHI",
+      "page": 29,
+      "family": "Same technique repeated (renzoku)",
+      "kind": "combination",
+      "techniques": [
+        "ippon-seoi-nage",
+        "seoi-otoshi"
+      ],
+      "sequence": "ippon-seoi-nage-into-seoi-otoshi"
+    },
+    {
+      "printed": "O-SOTO-GARI + HON-GESA-GATAME",
+      "page": 30,
+      "family": "Projection into control",
+      "kind": "transition",
+      "techniques": [
+        "o-soto-gari",
+        "kesa-gatame"
+      ],
+      "sequence": "o-soto-gari-into-kesa-gatame"
+    },
+    {
+      "printed": "O-SOTO-GARI + JUJI-GATAME",
+      "page": 30,
+      "family": "Projection into control",
+      "kind": "transition",
+      "techniques": [
+        "o-soto-gari",
+        "juji-gatame"
+      ],
+      "sequence": "o-soto-gari-into-juji-gatame"
+    },
+    {
+      "printed": "O-UCHI-GARI + TSUKKOMI-JIME",
+      "page": 30,
+      "family": "Projection into control",
+      "kind": "transition",
+      "techniques": [
+        "o-uchi-gari",
+        "tsukkomi-jime"
+      ],
+      "sequence": "o-uchi-gari-into-tsukkomi-jime"
+    },
+    {
+      "printed": "RYO-TE-JIME + TOMOE-NAGE",
+      "page": 31,
+      "family": "Control into projection",
+      "kind": null,
+      "techniques": [
+        "ryote-jime",
+        "tomoe-nage"
+      ],
+      "sequence": null,
+      "note": "Marked \"interdites en principe\" in the booklet. No sequence kind holds a control that becomes a throw; kept in backlog/judo-sequences-unmodelled.json."
+    },
+    {
+      "printed": "UDE-GATAME + O-UCHI-GARI",
+      "page": 31,
+      "family": "Control into projection",
+      "kind": null,
+      "techniques": [
+        "ude-gatame",
+        "o-uchi-gari"
+      ],
+      "sequence": null,
+      "note": "Marked \"interdites en principe\" in the booklet. No sequence kind holds a control that becomes a throw; kept in backlog/judo-sequences-unmodelled.json."
+    },
+    {
+      "printed": "UDE-GARAMI + SASAE-TSURI-KOMI-ASHI",
+      "page": 31,
+      "family": "Control into projection",
+      "kind": null,
+      "techniques": [
+        "ude-garami",
+        "sasae-tsurikomi-ashi"
+      ],
+      "sequence": null,
+      "note": "Marked \"interdites en principe\" in the booklet. No sequence kind holds a control that becomes a throw; kept in backlog/judo-sequences-unmodelled.json."
+    },
+    {
+      "printed": "HON-GESA-GATAME + KATA-GATAME",
+      "page": 32,
+      "family": "Control into control",
+      "kind": "chain",
+      "techniques": [
+        "kesa-gatame",
+        "kata-gatame"
+      ],
+      "sequence": "kesa-gatame-to-kata-gatame"
+    },
+    {
+      "printed": "KUZURE-GESA-GATAME + ASHI-GATAME-JIME",
+      "page": 32,
+      "family": "Control into control",
+      "kind": "chain",
+      "techniques": [
+        "kuzure-kesa-gatame",
+        "sankaku-jime"
+      ],
+      "sequence": "kuzure-kesa-gatame-to-sankaku-jime"
+    },
+    {
+      "printed": "YOKO-SHIHO-GATAME + Ude-Ishigi-UDE-GATAME",
+      "page": 32,
+      "family": "Control into control",
+      "kind": "chain",
+      "techniques": [
+        "yoko-shiho-gatame",
+        "ude-gatame"
+      ],
+      "sequence": "yoko-shiho-gatame-to-ude-gatame"
+    },
+    {
+      "printed": "TSUKKOMI-JIME + Ude-Ishigi-JUJI-GATAME",
+      "page": 33,
+      "family": "Control into control",
+      "kind": "chain",
+      "techniques": [
+        "tsukkomi-jime",
+        "juji-gatame"
+      ],
+      "sequence": "tsukkomi-jime-to-juji-gatame"
+    },
+    {
+      "printed": "OKURI-ERI-JIME + KAMI-SHIHO-GATAME",
+      "page": 33,
+      "family": "Control into control",
+      "kind": "chain",
+      "techniques": [
+        "okuri-eri-jime",
+        "kami-shiho-gatame"
+      ],
+      "sequence": "okuri-eri-jime-to-kami-shiho-gatame"
+    },
+    {
+      "printed": "OKURI-ERI-JIME + KATA-HA-JIME",
+      "page": 33,
+      "family": "Control into control",
+      "kind": "chain",
+      "techniques": [
+        "okuri-eri-jime",
+        "kata-ha-jime"
+      ],
+      "sequence": "okuri-eri-jime-to-kata-ha-jime"
+    },
+    {
+      "printed": "Ude-Ishigi-UDE-GATAME + KUZURE-GESA-GATAME",
+      "page": 34,
+      "family": "Control into control",
+      "kind": "chain",
+      "techniques": [
+        "ude-gatame",
+        "kuzure-kesa-gatame"
+      ],
+      "sequence": "ude-gatame-to-kuzure-kesa-gatame"
+    },
+    {
+      "printed": "UDE-GARAMI + Ude-Ishigi-WAKI-GATAME",
+      "page": 34,
+      "family": "Control into control",
+      "kind": "chain",
+      "techniques": [
+        "ude-garami",
+        "waki-gatame"
+      ],
+      "sequence": "ude-garami-to-waki-gatame"
+    },
+    {
+      "printed": "Ude-Ishigi-JUJI-GATAME + OKURI-ERI-JIME",
+      "page": 34,
+      "family": "Control into control",
+      "kind": "chain",
+      "techniques": [
+        "juji-gatame",
+        "okuri-eri-jime"
+      ],
+      "sequence": "juji-gatame-to-okuri-eri-jime"
+    },
+    {
+      "printed": "SASAE-TSURI-KOMI-ASHI + SASAE-TSURI-KOMI-ASHI",
+      "page": 35,
+      "family": "Standing counters (gaeshi-waza)",
+      "kind": "counter",
+      "techniques": [
+        "sasae-tsurikomi-ashi",
+        "sasae-tsurikomi-ashi"
+      ],
+      "sequence": "sasae-tsurikomi-ashi-countered-by-sasae-tsurikomi-ashi"
+    },
+    {
+      "printed": "DE-ASHI-BARAI + TSUBAME-GAESHI",
+      "page": 35,
+      "family": "Standing counters (gaeshi-waza)",
+      "kind": "counter",
+      "techniques": [
+        "de-ashi-harai",
+        "tsubame-gaeshi"
+      ],
+      "sequence": "de-ashi-harai-countered-by-tsubame-gaeshi"
+    },
+    {
+      "printed": "O-SOTO-GARI + O-SOTO-GARI-GAESHI",
+      "page": 35,
+      "family": "Standing counters (gaeshi-waza)",
+      "kind": "counter",
+      "techniques": [
+        "o-soto-gari",
+        "o-soto-gaeshi"
+      ],
+      "sequence": "o-soto-gari-countered-by-o-soto-gaeshi"
+    },
+    {
+      "printed": "O-UCHI-GARI + O-UCHI-GARI-GAESHI (Ko-soto-gake)",
+      "page": 36,
+      "family": "Standing counters (gaeshi-waza)",
+      "kind": "counter",
+      "techniques": [
+        "o-uchi-gari",
+        "o-uchi-gaeshi"
+      ],
+      "sequence": "o-uchi-gari-countered-by-o-uchi-gaeshi"
+    },
+    {
+      "printed": "KO-SOTO-GAKE + UCHI-MATA",
+      "page": 36,
+      "family": "Standing counters (gaeshi-waza)",
+      "kind": "counter",
+      "techniques": [
+        "ko-soto-gake",
+        "uchi-mata"
+      ],
+      "sequence": "ko-soto-gake-countered-by-uchi-mata"
+    },
+    {
+      "printed": "UCHI-MATA + UCHI-MATA-SUKASHI (Sumi-otoshi)",
+      "page": 36,
+      "family": "Standing counters (gaeshi-waza)",
+      "kind": "counter",
+      "techniques": [
+        "uchi-mata",
+        "uchi-mata-sukashi"
+      ],
+      "sequence": "uchi-mata-countered-by-uchi-mata-sukashi"
+    },
+    {
+      "printed": "HIZA-GURUMA + O-UCHI-GARI",
+      "page": 37,
+      "family": "Standing counters (gaeshi-waza)",
+      "kind": "counter",
+      "techniques": [
+        "hiza-guruma",
+        "o-uchi-gari"
+      ],
+      "sequence": "hiza-guruma-countered-by-o-uchi-gari"
+    },
+    {
+      "printed": "KO-UCHI-GARI + SASAE-TSURI-KOMI-ASHI",
+      "page": 37,
+      "family": "Standing counters (gaeshi-waza)",
+      "kind": "counter",
+      "techniques": [
+        "ko-uchi-gari",
+        "sasae-tsurikomi-ashi"
+      ],
+      "sequence": "ko-uchi-gari-countered-by-sasae-tsurikomi-ashi"
+    },
+    {
+      "printed": "HANE-GOSHI + HARAI-TSURI-KOMI-ASHI",
+      "page": 37,
+      "family": "Standing counters (gaeshi-waza)",
+      "kind": "counter",
+      "techniques": [
+        "hane-goshi",
+        "harai-tsurikomi-ashi"
+      ],
+      "sequence": "hane-goshi-countered-by-harai-tsurikomi-ashi"
+    },
+    {
+      "printed": "O-UCHI-GARI + UKI-WAZA",
+      "page": 38,
+      "family": "Standing counters (gaeshi-waza)",
+      "kind": "counter",
+      "techniques": [
+        "o-uchi-gari",
+        "uki-waza"
+      ],
+      "sequence": "o-uchi-gari-countered-by-uki-waza"
+    },
+    {
+      "printed": "DE-ASHI-BARAI + O-SOTO-GARI",
+      "page": 38,
+      "family": "Standing counters (gaeshi-waza)",
+      "kind": "counter",
+      "techniques": [
+        "de-ashi-harai",
+        "o-soto-gari"
+      ],
+      "sequence": "de-ashi-harai-countered-by-o-soto-gari"
+    },
+    {
+      "printed": "UCHI-MATA + SUKUI-NAGE (Te-guruma)",
+      "page": 38,
+      "family": "Standing counters (gaeshi-waza)",
+      "kind": "counter",
+      "techniques": [
+        "uchi-mata",
+        "sukui-nage"
+      ],
+      "sequence": "uchi-mata-countered-by-sukui-nage"
+    },
+    {
+      "printed": "IPPON-SEOI-NAGE + HADAKA-JIME",
+      "page": 39,
+      "family": "Throw countered by a control",
+      "kind": "counter",
+      "techniques": [
+        "ippon-seoi-nage",
+        "hadaka-jime"
+      ],
+      "sequence": "ippon-seoi-nage-countered-by-hadaka-jime"
+    },
+    {
+      "printed": "TOMOE-NAGE + HON-GESA-GATAME",
+      "page": 39,
+      "family": "Throw countered by a control",
+      "kind": "counter",
+      "techniques": [
+        "tomoe-nage",
+        "kesa-gatame"
+      ],
+      "sequence": "tomoe-nage-countered-by-kesa-gatame"
+    },
+    {
+      "printed": "KO-UCHI-GARI + Ude-Ishigi-HIZA-GATAME",
+      "page": 39,
+      "family": "Throw countered by a control",
+      "kind": "counter",
+      "techniques": [
+        "ko-uchi-gari",
+        "hiza-gatame"
+      ],
+      "sequence": "ko-uchi-gari-countered-by-hiza-gatame"
+    },
+    {
+      "printed": "RYO-TE-JIME + TOMOE-NAGE",
+      "page": 40,
+      "family": "Control countered by a throw",
+      "kind": "counter",
+      "techniques": [
+        "ryote-jime",
+        "tomoe-nage"
+      ],
+      "sequence": "ryote-jime-countered-by-tomoe-nage"
+    },
+    {
+      "printed": "KATA-JUJI-JIME + SODE-TSURI-KOMI-GOSHI",
+      "page": 40,
+      "family": "Control countered by a throw",
+      "kind": "counter",
+      "techniques": [
+        "kata-juji-jime",
+        "sode-tsurikomi-goshi"
+      ],
+      "sequence": "kata-juji-jime-countered-by-sode-tsurikomi-goshi"
+    },
+    {
+      "printed": "Ude-Ishigi-UDE-GATAME + O-UCHI-GARI",
+      "page": 40,
+      "family": "Control countered by a throw",
+      "kind": "counter",
+      "techniques": [
+        "ude-gatame",
+        "o-uchi-gari"
+      ],
+      "sequence": "ude-gatame-countered-by-o-uchi-gari"
+    },
+    {
+      "printed": "HON-GESA-GATAME + KUZURE-GESA-GATAME",
+      "page": 41,
+      "family": "Control countered by a control",
+      "kind": "counter",
+      "techniques": [
+        "kesa-gatame",
+        "kuzure-kesa-gatame"
+      ],
+      "sequence": "kesa-gatame-countered-by-kuzure-kesa-gatame"
+    },
+    {
+      "printed": "KAMI-SHIHO-GATAME + ASHI-GATAME-JIME",
+      "page": 41,
+      "family": "Control countered by a control",
+      "kind": "counter",
+      "techniques": [
+        "kami-shiho-gatame",
+        "sankaku-jime"
+      ],
+      "sequence": "kami-shiho-gatame-countered-by-sankaku-jime"
+    },
+    {
+      "printed": "YOKO-SHIHO-GATAME + Ude-Ishigi-UDE-GATAME",
+      "page": 41,
+      "family": "Control countered by a control",
+      "kind": "counter",
+      "techniques": [
+        "yoko-shiho-gatame",
+        "ude-gatame"
+      ],
+      "sequence": "yoko-shiho-gatame-countered-by-ude-gatame"
+    },
+    {
+      "printed": "KATA-TE-JIME + Ude-Ishigi-WAKI-GATAME",
+      "page": 42,
+      "family": "Control countered by a control",
+      "kind": "counter",
+      "techniques": [
+        "kata-te-jime",
+        "waki-gatame"
+      ],
+      "sequence": "kata-te-jime-countered-by-waki-gatame"
+    },
+    {
+      "printed": "JUJI-JIME + KAMI-SHIHO-GATAME",
+      "page": 42,
+      "family": "Control countered by a control",
+      "kind": "counter",
+      "techniques": [
+        "nami-juji-jime",
+        "kami-shiho-gatame"
+      ],
+      "sequence": "nami-juji-jime-countered-by-kami-shiho-gatame"
+    },
+    {
+      "printed": "RYO-TE-JIME + Ude-Ishigi-JUJI-GATAME",
+      "page": 42,
+      "family": "Control countered by a control",
+      "kind": "counter",
+      "techniques": [
+        "ryote-jime",
+        "juji-gatame"
+      ],
+      "sequence": "ryote-jime-countered-by-juji-gatame"
+    },
+    {
+      "printed": "UDE-GARAMI + UDE-GARAMI",
+      "page": 43,
+      "family": "Control countered by a control",
+      "kind": "counter",
+      "techniques": [
+        "ude-garami",
+        "ude-garami"
+      ],
+      "sequence": "ude-garami-countered-by-ude-garami"
+    },
+    {
+      "printed": "Ude-Ishigi-JUJI-GATAME + KUZURE-YOKO-SHIHO-GATAME",
+      "page": 43,
+      "family": "Control countered by a control",
+      "kind": "counter",
+      "techniques": [
+        "juji-gatame",
+        "kuzure-yoko-shiho-gatame"
+      ],
+      "sequence": "juji-gatame-countered-by-kuzure-yoko-shiho-gatame"
+    },
+    {
+      "printed": "Ude-Ishigi-UDE-GATAME + ASHI-GATAME-JIME",
+      "page": 43,
+      "family": "Control countered by a control",
+      "kind": "counter",
+      "techniques": [
+        "ude-gatame",
+        "sankaku-jime"
+      ],
+      "sequence": "ude-gatame-countered-by-sankaku-jime"
+    }
+  ],
+  "escapes": [
+    {
+      "printed": "HON-GESA-GATAME",
+      "page": 49,
+      "technique": "kesa-gatame",
+      "count": 2
+    },
+    {
+      "printed": "KUZURE-GESA-GATAME",
+      "page": 50,
+      "technique": "kuzure-kesa-gatame",
+      "count": 2
+    },
+    {
+      "printed": "KATA-GATAME",
+      "page": 51,
+      "technique": "kata-gatame",
+      "count": 2
+    },
+    {
+      "printed": "MAKURA-GESA-GATAME",
+      "page": 51,
+      "technique": "makura-kesa-gatame",
+      "count": 1
+    },
+    {
+      "printed": "USHIRO-GESA-GATAME",
+      "page": 51,
+      "technique": "ushiro-kesa-gatame",
+      "count": 1
+    },
+    {
+      "printed": "YOKO-SHIHO-GATAME",
+      "page": 52,
+      "technique": "yoko-shiho-gatame",
+      "count": 2
+    },
+    {
+      "printed": "KUZURE-YOKO-SHIHO-GATAME",
+      "page": 52,
+      "technique": "kuzure-yoko-shiho-gatame",
+      "count": 2
+    },
+    {
+      "printed": "KAMI-SHIHO-GATAME",
+      "page": 53,
+      "technique": "kami-shiho-gatame",
+      "count": 3
+    },
+    {
+      "printed": "KUZURE-KAMI-SHIHO-GATAME",
+      "page": 53,
+      "technique": "kuzure-kami-shiho-gatame",
+      "count": 2
+    },
+    {
+      "printed": "TATE-SHIHO-GATAME",
+      "page": 54,
+      "technique": "tate-shiho-gatame",
+      "count": 2
+    },
+    {
+      "printed": "KUZURE-TATE-SHIHO-GATAME",
+      "page": 54,
+      "technique": "kuzure-tate-shiho-gatame",
+      "count": 1
+    },
+    {
+      "printed": "JUJI-JIME",
+      "page": 66,
+      "technique": "nami-juji-jime",
+      "count": 6
+    },
+    {
+      "printed": "KATA-TE-JIME",
+      "page": 68,
+      "technique": "kata-te-jime",
+      "count": 1
+    },
+    {
+      "printed": "RYO-TE-JIME",
+      "page": 68,
+      "technique": "ryote-jime",
+      "count": 1
+    },
+    {
+      "printed": "ASHI-GATAME-JIME",
+      "page": 69,
+      "technique": "sankaku-jime",
+      "count": 1
+    },
+    {
+      "printed": "HADAKA-JIME / OKURI-ERI-JIME",
+      "page": 69,
+      "technique": "hadaka-jime",
+      "count": 1
+    },
+    {
+      "printed": "KATA-HA-JIME",
+      "page": 69,
+      "technique": "kata-ha-jime",
+      "count": 1
+    },
+    {
+      "printed": "UDE-GARAMI",
+      "page": 80,
+      "technique": "ude-garami",
+      "count": 2
+    },
+    {
+      "printed": "Ude-Ishigi-HIZA-GATAME",
+      "page": 80,
+      "technique": "hiza-gatame",
+      "count": 2
+    },
+    {
+      "printed": "Ude-Ishigi-JUJI-GATAME",
+      "page": 81,
+      "technique": "juji-gatame",
+      "count": 4
+    },
+    {
+      "printed": "Ude-Ishigi-UDE-GATAME",
+      "page": 82,
+      "technique": "ude-gatame",
+      "count": 3
+    },
+    {
+      "printed": "Ude-Ishigi-HARA-GATAME",
+      "page": 83,
+      "technique": "hara-gatame",
+      "count": 2
+    },
+    {
+      "printed": "Ude-Ishigi-WAKI-GATAME",
+      "page": 83,
+      "technique": "waki-gatame",
+      "count": 2
+    },
+    {
+      "printed": "Degagements de jambes (leg escapes, guard passing)",
+      "page": 84,
+      "technique": null,
+      "count": 3
+    }
+  ],
+  "entries": {
+    "pages": "85-94",
+    "count": 23,
+    "named": [
+      "hikikomi-gaeshi"
+    ],
+    "note": {
+      "en": "Twenty-three numbered sequences of four drawings each, unlabelled: turnovers from the turtle, guard passes, and entries to hold-downs, armlocks and strangles from standing or against a partner on all fours. Only 12a to 12c (Hikkomi-gaeshi) and one turnover (\"Retournement ude-garami + osae-waza\", p 90) are named."
+    }
+  }
+}

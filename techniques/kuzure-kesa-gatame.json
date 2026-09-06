@@ -117,5 +117,16 @@
       "ushiro-kesa-gatame"
     ]
   },
-  "variations": []
+  "variations": [
+    {
+      "name": "Kashira-kesa-gatame",
+      "aliases": [
+        "Kashira-gesa-gatame"
+      ],
+      "about": {
+        "en": "A head-side form of the modified scarf hold, drawn in Bongard's aide-memoire with the makura and ushiro forms as the three variations of kuzure-kesa-gatame. Not a Kodokan name."
+      },
+      "videos": []
+    }
+  ]
 }

@@ -1,0 +1,24 @@
+{
+  "kind": "chain",
+  "techniques": [
+    "ude-gatame",
+    "kuzure-kesa-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner who bends the elbow out of the straight armlock has folded that arm against your chest. Keeping it there, sitting in against their side and threading the other arm under the far shoulder is the modified scarf hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p034"
+  }
+}

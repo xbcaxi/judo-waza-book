@@ -257,6 +257,22 @@
         "en": "The spin runs the other way: gripping one side of the jacket, tori turns outwards past uke's shoulder instead of inwards under it, dropping beneath the arm to throw over the back. Popularised on the international circuit by Korean athletes, and scored as seoi-nage."
       },
       "videos": []
+    },
+    {
+      "name": "Sode-seoi-nage",
+      "aliases": [],
+      "about": {
+        "en": "The shoulder throw with the throwing hand on the sleeve rather than the lapel. Bongard's aide-memoire draws it beside the lapel and two-handed forms as one of four grips for the same throw."
+      },
+      "videos": []
+    },
+    {
+      "name": "Eri-seoi-nage",
+      "aliases": [],
+      "about": {
+        "en": "The shoulder throw with the throwing hand on the lapel, which is the form the classification describes. Named as such in Bongard's aide-memoire to set it apart from the sleeve and one-armed forms."
+      },
+      "videos": []
     }
   ]
 }

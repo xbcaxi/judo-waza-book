@@ -1,0 +1,24 @@
+{
+  "kind": "combination",
+  "techniques": [
+    "tsurikomi-goshi",
+    "sode-tsurikomi-goshi"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner who stiffens the sleeve-side arm against the lifting-pulling hip throw has handed you a lever. Letting go of the lapel and swinging that sleeve high across as the hips re-enter is the sleeve form of the same throw, which works against the stiff arm rather than despite it."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p027"
+  }
+}

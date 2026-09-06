@@ -1,0 +1,24 @@
+{
+  "kind": "transition",
+  "techniques": [
+    "o-uchi-gari",
+    "tsukkomi-jime"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "The inner reap sends your partner backwards with both of your hands still on the lapels, and you follow them down between their legs. Driving the near lapel across the throat while the far hand holds deep is the thrusting strangle, taken from the grips the throw began with."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p030"
+  }
+}

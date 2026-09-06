@@ -1,0 +1,24 @@
+{
+  "kind": "chain",
+  "techniques": [
+    "kesa-gatame",
+    "kata-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner escaping the scarf hold works the near arm free and pushes it at your head. Shrugging that arm across their own neck and pinning it there with your head and shoulder is the shoulder hold."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p032"
+  }
+}

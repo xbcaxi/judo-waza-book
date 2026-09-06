@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "de-ashi-harai",
+    "o-soto-gari"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "As their sweeping foot travels at your advancing ankle, their weight is on the other leg and their chest has come in close. Stepping the attacked foot down beside that supporting leg and reaping it from the outside takes it while the sweep is still in the air."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p038"
+  }
+}

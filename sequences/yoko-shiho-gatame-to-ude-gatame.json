@@ -1,0 +1,24 @@
+{
+  "kind": "chain",
+  "techniques": [
+    "yoko-shiho-gatame",
+    "ude-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner who pushes at your neck or shoulder to lift the side four-quarter hold has straightened an arm across your body. Trapping the wrist at your shoulder and pressing the elbow with both hands is the straight armlock."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p032"
+  }
+}

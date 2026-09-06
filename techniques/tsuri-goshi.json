@@ -143,5 +143,22 @@
       "o-goshi"
     ]
   },
-  "variations": []
+  "variations": [
+    {
+      "name": "Ko-tsuri-goshi",
+      "aliases": [],
+      "about": {
+        "en": "The minor form: the belt hand passes under uke's arm to take the belt. Drawn in Bongard's aide-memoire beside the major form."
+      },
+      "videos": []
+    },
+    {
+      "name": "O-tsuri-goshi",
+      "aliases": [],
+      "about": {
+        "en": "The major form: the belt hand passes over uke's arm and shoulder to take the belt. Drawn in Bongard's aide-memoire beside the minor form."
+      },
+      "videos": []
+    }
+  ]
 }

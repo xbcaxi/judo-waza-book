@@ -1,0 +1,24 @@
+{
+  "kind": "counter",
+  "techniques": [
+    "ko-uchi-gari",
+    "hiza-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "As their sole comes in for the minor inner reap, their weight and their reaching arm are forward. Sitting back into the space, trapping that extended arm and pressing the elbow with your knee is the knee armlock."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p039"
+  }
+}

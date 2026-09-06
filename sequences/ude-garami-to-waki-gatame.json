@@ -1,0 +1,24 @@
+{
+  "kind": "chain",
+  "techniques": [
+    "ude-garami",
+    "waki-gatame"
+  ],
+  "trigger": null,
+  "direction": null,
+  "resolvesTo": null,
+  "status": "draft",
+  "reviewed": null,
+  "about": {
+    "en": "A partner who straightens the arm to escape the entangled armlock has handed you a straight arm. Clamping it under your armpit and levering the elbow with the whole body is the armpit armlock."
+  },
+  "described": null,
+  "receiving": null,
+  "viNotes": null,
+  "videos": [],
+  "resolver": null,
+  "source": {
+    "sourceId": "bongard-aide-memoire-2006",
+    "recordId": "bongard-aide-memoire-2006/p034"
+  }
+}
