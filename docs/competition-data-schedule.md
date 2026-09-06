@@ -48,6 +48,15 @@ rule lives in `tools/ijf-results/lib/shrink.mjs` with tests over both paths,
 including the 70,372-rows-to-7 shape the incident had, and the workflow runs
 it as `tools/ijf-results/shrink-check.mjs`.
 
+## Done 2026-09-04
+
+`schedule:` at five days (`0 3 */5 * *`), and the crawl step fills in the
+current year and the 350 ms delay itself, because a scheduled run carries no
+inputs and the defaults declared on `workflow_dispatch` do not apply to it.
+
 ## Remaining
 
-Add `schedule:` at five days, scoped to the current year.
+Nothing until the first scheduled run reports. Two things to read when it
+does: whether a five-day cadence really keeps the cache alive across the
+26th-to-1st gap, and whether crawling the current year alone picks up
+competitions the IJF back-dates into an earlier one.

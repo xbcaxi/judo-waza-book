@@ -5,16 +5,18 @@ name: Update competition data
 # because a first full fetch from 2016 takes hours nobody should spend watching
 # a terminal.
 #
-# SCHEDULING THIS IS PLANNED AND NOT YET DONE. Monthly is the one interval that
-# cannot work: GitHub evicts a cache after seven days unused, so a monthly run
-# would always start from an empty cache and re-fetch 33,000 unchanged
-# contests. See docs/competition-data-schedule.md for what it takes.
+# It runs every five days and by hand. Monthly is the one interval that cannot
+# work: GitHub evicts a cache after seven days unused, so a monthly run would
+# always start from an empty cache and re-fetch 33,000 unchanged contests. Five
+# days keeps the cache warm with room for a skipped run.
 #
-# Manual trigger only, deliberately. The API's field names have now been
-# verified against real responses (see tools/ijf-results/README.md), but a
-# wide crawl WILL still surface IJF technique names the map does not carry -
-# that is the map working, not failing. Once a supervised full run comes back
-# clean, a monthly `schedule:` block is the obvious next step.
+# A scheduled run crawls the current year only, which is where new competitions
+# appear; aggregation reads the whole cache, so the output still covers 2016 to
+# date. A full fetch is `workflow_dispatch` with from_year set.
+#
+# A wide crawl WILL surface IJF technique names the map does not carry - that
+# is the map working, not failing. Nothing publishes to main either way: the
+# run pushes a branch for a person to open a pull request from.
 #
 # The raw response cache is carried between runs by actions/cache, so a
 # crawl that hits the 6-hour job limit resumes where it stopped: re-run the
@@ -24,6 +26,10 @@ name: Update competition data
 # `ijf-data-refresh` branch for a human to open a pull request from - data
 # lands on main by review, like every other contribution.
 on:
+  # Day-of-month stepping, so the longest real gap is the six days from the
+  # 26th to the 1st, still inside the cache's seven-day eviction window.
+  schedule:
+    - cron: "0 3 */5 * *"
   workflow_dispatch:
     inputs:
       from_year:
@@ -80,7 +86,13 @@ jobs:
         timeout-minutes: 300
         shell: bash
         run: |
-          args=(--from-year "${{ inputs.from_year }}" --delay "${{ inputs.delay }}")
+          # A scheduled run carries no inputs, so the defaults declared above
+          # do not apply and each one is filled in here instead.
+          from_year="${{ inputs.from_year }}"
+          if [ -z "$from_year" ]; then from_year="$(date -u +%Y)"; fi
+          delay="${{ inputs.delay }}"
+          if [ -z "$delay" ]; then delay=350; fi
+          args=(--from-year "$from_year" --delay "$delay")
           if [ -n "${{ inputs.max }}" ]; then args+=(--max "${{ inputs.max }}"); fi
           node tools/ijf-results/crawl.mjs "${args[@]}" 2>&1 | tee crawl.log
 
