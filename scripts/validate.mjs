@@ -1420,7 +1420,7 @@ if (ijfFrequency) {
 if (ijfShape) {
   const shapeRows = ['rounds', 'conversion', 'outcomes', 'penalties', 'countries', 'first_score',
     'response', 'trailing'].reduce((total, key) => total + (ijfShape[key] ?? []).length, 0);
-  console.log(`IJF contest shape: ${shapeRows} rows across eight tables, and ${(ijfShape.examples ?? []).length} `
+  console.log(`IJF contest shape: ${shapeRows} rows across nine tables, and ${(ijfShape.examples ?? []).length} `
     + 'contest clips. Answers the questions about the contest rather than the score: where in the draw it '
     + 'was won, which techniques end contests, what athletes are penalised for.');
 }

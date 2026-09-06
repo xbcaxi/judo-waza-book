@@ -40,12 +40,20 @@ const outcomeKey = (r) => sliceOf(r);
 const exampleKey = (r) => [r.technique ?? UNMAPPED, r.sex, r.weight, r.contest, r.seconds].join('|');
 const responseKey = (r) => [sliceOf(r), r.technique ?? UNMAPPED].join('|');
 const trailingKey = (r) => [sliceOf(r), r.minute, r.technique ?? UNMAPPED].join('|');
+const shidoKey = (r) => [sliceOf(r), r.technique ?? UNMAPPED].join('|');
 
 /* An answer within half a minute of the contest restarting is a different
  * event from one three minutes later. Thirty seconds is a judgement, not a
  * rule the IJF sets, and it is here rather than buried so it can be argued
  * with. */
 export const FAST_ANSWER_SECONDS = 30;
+
+/* A shido stops the contest, both athletes are called back to their marks and
+ * the referee restarts from standing, so the exchange that follows it takes
+ * longer to arrive than an answer to a throw does. A minute is this project's
+ * judgement of how long "off the back of that shido" lasts, not an IJF
+ * definition, and it is here rather than buried so it can be argued with. */
+export const SHIDO_WINDOW_SECONDS = 60;
 
 /* Only the closing minute and golden score are recorded for the trailing
  * question, because that IS the question: what works when you are behind and
@@ -194,6 +202,8 @@ export class ContestShape {
     this.durations = new Map();
     this.response = new Map();
     this.trailing = new Map();
+    this.shidoResponse = new Map();
+    this.shidoTotals = new Map();
     this.unattributedScores = 0;
   }
 
@@ -330,6 +340,31 @@ export class ContestShape {
         (row) => { row.count += 1; });
     }
 
+    /* What gets scored off the back of a shido.
+     *
+     * A shido is the one thing in judo that hands the initiative to a person
+     * rather than being taken, and the question is what happens in the next
+     * exchange. Only plain shidos are read: the third-shido marker and a
+     * direct hansoku-make END the contest, so nothing is scored after them.
+     *
+     * WHO WAS PENALISED IS NOT ASSERTED HERE, and that is deliberate. The IJF
+     * puts an athlete on a shido event, but extract.mjs has already found
+     * those names disagreeing with the athlete its own third-shido marker
+     * names, so reading them as "the offender" would be a plausible-sounding
+     * error rather than a finding. What is recorded instead is whether the
+     * score came from the athlete the shido names or from the other one, so
+     * the split is a measurement of what that field means and the question of
+     * which athlete benefits stays open until it says. */
+    const shidos = penalties
+      .filter((penalty) => penalty.kind === 'shido' && penalty.seconds !== null)
+      .sort((a, b) => a.seconds - b.seconds);
+    /* The denominator, and it has to exclude a shido nothing could follow:
+     * one given as the contest ends leaves no exchange to measure. */
+    const openShidos = shidos.filter((penalty) => seconds === null || penalty.seconds < seconds);
+    if (openShidos.length > 0) {
+      this.shidoTotals.set(sliceOf(slice), (this.shidoTotals.get(sliceOf(slice)) ?? 0) + openShidos.length);
+    }
+
     /* Waza-ari on the board, per athlete, walked forward through the contest
      * so that each score knows what the scoreboard said the moment before it
      * landed. */
@@ -369,6 +404,25 @@ export class ContestShape {
         }), {
           sex: slice.sex, age: slice.age, year: slice.year, country: event.country, technique, count: 0,
         }, (row) => { row.count += 1; });
+      }
+
+      /* The score is attributed to the shido it followed, if any: the most
+       * recent one still inside the window. */
+      if (event.seconds !== null) {
+        const shido = [...openShidos].reverse().find((penalty) => penalty.seconds <= event.seconds
+          && event.seconds - penalty.seconds <= SHIDO_WINDOW_SECONDS);
+        if (shido) {
+          const named = shido.actorId !== null && event.actorId !== null
+            ? String(shido.actorId) === String(event.actorId) : null;
+          tally(this.shidoResponse, shidoKey({ ...slice, technique }),
+            { ...slice, technique, scored: 0, by_named_athlete: 0, by_other_athlete: 0, unattributed: 0 },
+            (row) => {
+              row.scored += 1;
+              if (named === null) row.unattributed += 1;
+              else if (named) row.by_named_athlete += 1;
+              else row.by_other_athlete += 1;
+            });
+        }
       }
 
       /* What it costs to score. Not a counter-attack rate: judo restarts from
@@ -432,6 +486,13 @@ export class ContestShape {
       ...row,
       seconds_p50: median(this.durations.get(outcomeKey(row)) ?? []),
     }));
+    /* The denominator is a property of the slice, not of the technique, and
+     * it is stamped onto every row so a row means something read on its own:
+     * of the shidos given in this division, this technique answered so many. */
+    const shidoResponse = [...this.shidoResponse.values()].map((row) => ({
+      ...row,
+      shidos: this.shidoTotals.get(sliceOf(row)) ?? 0,
+    }));
     return {
       rounds: [...this.rounds.values()].sort(compareBy(roundKey)),
       conversion: [...this.conversion.values()].sort(compareBy(conversionKey)),
@@ -441,6 +502,7 @@ export class ContestShape {
       first_score: [...this.firstScore.values()].sort(compareBy(firstScoreKey)),
       response: [...this.response.values()].sort(compareBy(responseKey)),
       trailing: [...this.trailing.values()].sort(compareBy(trailingKey)),
+      shido_response: shidoResponse.sort(compareBy(shidoKey)),
       examples: [...this.exampleSlots.values()].flat().sort(compareBy(exampleKey)),
       unattributedScores: this.unattributedScores,
     };

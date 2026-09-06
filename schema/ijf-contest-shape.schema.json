@@ -183,6 +183,29 @@
       }
     },
 
+    "shido_response": {
+      "description": "What gets scored in the minute after a shido, by technique. Only plain shidos are read: the third-shido marker and a direct hansoku-make end the contest, so nothing follows them. `shidos` is how many shidos in this division had contest left to run after them, which is the denominator every row is read against. WHO WAS PENALISED IS NOT ASSERTED. The IJF names an athlete on a shido event, but those names disagree with the athlete its own third-shido marker names, so `by_named_athlete` counts scores by the athlete the shido names and `by_other_athlete` counts scores by the other: the split measures what that field means, and the question of whether the penalised athlete or the opponent benefits stays open until it says. The 60-second window is this project's judgement, not an IJF definition.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "sex": { "$ref": "#/definitions/sex" },
+          "weight": { "$ref": "#/definitions/weight" },
+          "tier": { "$ref": "#/definitions/tier" },
+          "age": { "$ref": "#/definitions/age" },
+          "year": { "$ref": "#/definitions/year" },
+          "technique": { "$ref": "#/definitions/technique" },
+          "scored": { "type": "integer", "minimum": 0 },
+          "by_named_athlete": { "type": "integer", "minimum": 0 },
+          "by_other_athlete": { "type": "integer", "minimum": 0 },
+          "unattributed": { "type": "integer", "minimum": 0 },
+          "shidos": { "type": "integer", "minimum": 0 }
+        },
+        "required": ["sex", "weight", "tier", "age", "year", "technique", "scored", "by_named_athlete", "by_other_athlete", "unattributed", "shidos"],
+        "additionalProperties": false
+      }
+    },
+
     "trailing": {
       "description": "What scores in the closing minute and in golden score, by what the scoreboard said the moment before it landed. Only minute 4 and golden score are recorded, because that is the question: what works when you are behind and running out of contest. State is read from waza-ari on the board, which is the only score that accumulates.",
       "type": "array",
@@ -238,7 +261,7 @@
       }
     }
   },
-  "required": ["generated", "source", "coverage", "rounds", "conversion", "outcomes", "penalties", "countries", "first_score", "response", "trailing", "examples"],
+  "required": ["generated", "source", "coverage", "rounds", "conversion", "outcomes", "penalties", "countries", "first_score", "response", "shido_response", "trailing", "examples"],
   "additionalProperties": false,
 
   "definitions": {

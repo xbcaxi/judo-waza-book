@@ -205,7 +205,7 @@ function penaltyKind(group) {
 
 /* One contest's timeline to its scoring events and its penalties:
  * { events: [{ ijfName, score, side, minute }],
- *   penalties: [{ kind, actorId, minute }], untallied }.
+ *   penalties: [{ kind, actorId, minute, seconds }], untallied }.
  *
  * Per event: only tagged events carry technique data. Tags named "Cancel
  * ..." are dropped first, because a cancellation is not always an
@@ -255,6 +255,10 @@ export function extractScoringEvents(contest) {
           kind: penaltyKind(group),
           actorId: event.actors?.[0]?.id_person ?? null,
           minute,
+          /* The contest clock, so a score can be measured against the penalty
+           * before it. The minute alone cannot do that: a shido at 1:05 and a
+           * throw at 1:58 are both "minute 2". */
+          seconds: clockSeconds(event.time_sc),
           /* WHY the penalty was given, which the IJF tags individually
            * ("Escape-With-Head", "False-Attack", "Non-Combativity"). The
            * kind says what it cost; this says what was done. Kept as the
