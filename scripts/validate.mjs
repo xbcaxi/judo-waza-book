@@ -570,6 +570,14 @@ for (const k of skills) {
   for (const grip of k.data.grips ?? []) {
     if (!gripIds.has(grip)) problems.push(`skills/${k.name}: unknown grip "${grip}"`);
   }
+  /* The technique a skill finishes in is one end of the skill, so it has to
+   * be among the techniques the skill names as well as existing. */
+  for (const slug of k.data.leadsTo ?? []) {
+    if (!slugs.has(slug)) problems.push(`skills/${k.name}: leadsTo names unknown technique "${slug}"`);
+    else if (!(k.data.techniques ?? []).includes(slug)) {
+      problems.push(`skills/${k.name}: leadsTo "${slug}" is not among the skill's techniques`);
+    }
+  }
   /* WEBP OR SVG, and skills are the only collection that may use either.
    *
    * Every other illustration here is a photographed or drawn sequence, and
