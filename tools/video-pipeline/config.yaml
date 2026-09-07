@@ -7,32 +7,51 @@
 db: candidates.sqlite
 
 # Channels to index in full via playlistItems.list (1 unit per 50 videos).
-# Either channel_id or handle; index_channels.py resolves a handle and prints
-# the id to paste back. `trust` weights a channel's candidates in scoring.
-# Names should match video-providers/ where a provider exists, so an approved
-# video lands under the right provider.
+# EVERY ONE IS A CHANNEL ID, resolved and checked against YouTube on
+# 2026-09-07. Handles were what this list held, and three of the six were
+# wrong in a way nothing would have reported: a handle that does not resolve
+# prints one line and the channel is skipped, and a handle that resolves to
+# the wrong channel is not detectable at all. An id is stable, so keep them.
+#
+# `trust` weights a channel's candidates in scoring. Names should match
+# video-providers/ where a provider exists, so an approved video lands under
+# the right provider: Kodokan and Efficient Judo do, and the rest are indexed
+# for their material without a provider of their own.
 channels:
   - name: Kodokan
     channel_id: UCtF6tu7GuZYkZzht5MIv8UQ
     trust: 1.0
-  - name: IJF Academy
-    handle: "@IJFAcademy"
-    trust: 0.9
   - name: Efficient Judo
-    handle: "@EfficientJudo"
+    channel_id: UC1CsWk5MTssfFt6rb7CXKKA   # @EfficientJudo
     trust: 0.7
   - name: Judo Encyclopedia
-    handle: "@JudoEncyclopedia"
+    channel_id: UCpl8LiBc8KkNKhaQUvwcQGw   # @JudoEncyclopedia
     trust: 0.6
   - name: Judo Fanatics
-    handle: "@JudoFanatics"
+    channel_id: UCPu7I6loSKoRu0Bt3pyiMOQ   # @JudoFanatics
     trust: 0.7
+  # @ShintaroHigashi is not his handle and resolves to nothing; the channel is
+  # @shigashi84, which is also what video-channels/shintoro-higashi.json holds
+  # as its legacy /user/ URL.
   - name: Shintaro Higashi
-    handle: "@ShintaroHigashi"
+    channel_id: UC70qwffU7qQvTVm26wziD8A   # @shigashi84
     trust: 0.7
+  # Two channels answer to this name. @FightingFilms is "fightingfilms";
+  # @fighting_films is the one video-channels/fighting-films.json registers,
+  # so an approved video from it matches a channel the site already lists.
   - name: Fighting Films
-    handle: "@FightingFilms"
+    channel_id: UCRy4vIVSC-S75fKSLegr7nA   # @fighting_films
     trust: 0.6
+
+# NOT HERE, AND DELIBERATELY: "IJF Academy" was listed as @IJFAcademy, which
+# is a football academy in Dubai. The IJF Academy has no judo channel of its
+# own; the federation's judo material is on @judo, "International Judo
+# Federation" (UCeYa3QaP2n7I8SpGSqD-kUQ), which
+# video-channels/international-judo-federation.json already registers. Add it
+# here if its uploads are worth indexing technique by technique; it was left
+# out rather than swapped in silently, because indexing a federation's whole
+# feed of contest footage is a different decision from indexing a teaching
+# channel.
 
 # search.list costs 100 units and the default quota is 10,000 a day.
 search_daily_budget: 90
