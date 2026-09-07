@@ -230,16 +230,39 @@ class YouTube:
         return cur[0] if cur else 0
 
     def get(self, endpoint, cost, **params):
-        params["key"] = self.key
+        """One API call, with the key in a HEADER rather than the query string.
+
+        THE KEY MUST NEVER BE IN A URL. requests puts the full URL into every
+        exception it raises, so a query-string key ends up in any traceback:
+        in a terminal, in a pasted error, in a CI log, in an issue. It
+        happened on 2026-09-07, when a transient SSL failure printed the key
+        to the console and the key had to be rotated. Google accepts
+        X-goog-api-key for exactly this, and the URL is then safe to print.
+
+        Transport failures retry too. Only HTTP statuses used to, so one
+        dropped connection ended a run of ninety searches partway through
+        with the quota already spent.
+        """
+        headers = {"X-goog-api-key": self.key}
+        last_error = None
         for attempt in range(3):
-            r = requests.get(f"{API}/{endpoint}", params=params, timeout=30)
+            try:
+                r = requests.get(f"{API}/{endpoint}", params=params, headers=headers, timeout=30)
+            except requests.RequestException as error:
+                # Reported without the exception object: its string carries the
+                # request URL, and a future edit that puts the key back into
+                # params would leak it here again.
+                last_error = f"{type(error).__name__} calling {endpoint}"
+                time.sleep(2 * (attempt + 1))
+                continue
             if r.status_code == 200:
                 self._spend(cost)
                 return r.json()
             if r.status_code == 403 and "quota" in r.text.lower():
                 raise SystemExit("Daily quota exhausted; run again tomorrow")
+            last_error = f"HTTP {r.status_code} from {endpoint}: {r.text[:200]}"
             time.sleep(2 * (attempt + 1))
-        r.raise_for_status()
+        raise RuntimeError(f"{endpoint} failed three times. Last: {last_error}")
 
     def resolve_handle(self, handle):
         j = self.get("channels", 1, part="id,snippet,contentDetails", forHandle=handle)
