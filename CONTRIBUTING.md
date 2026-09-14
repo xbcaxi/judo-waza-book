@@ -852,9 +852,10 @@ reference has carried about competition was once correct.
 A national body, affiliate or club can say its own piece on a technique -
 what its examiners look for, how it teaches the entry, its local safety
 rules, what it calls things - or on an examination it owns, without
-touching the canonical record. Readers see it only when they opt into that
-organisation's view on the site, badged as the organisation's voice;
-nothing changes for anyone else.
+touching the canonical record. The text is public, but the site shows it
+only to a reader who has chosen that organisation, in their profile or
+through a club link, badged as the organisation's voice; nothing changes
+for anyone else.
 
 First the organisation, once, in `organisations/<slug>.json`:
 
@@ -876,8 +877,9 @@ British Judo Association), a club may name its national body or its
 affiliate, and a national body stands alone. The kinds are structural, not
 display wording - the BJA calls its affiliates the home nations, and the
 site shows whatever the organisation itself says. The chain is what everything
-derives from - a reader's country comes from the top of it, and opting into
-an organisation stacks the perspectives along it. `schemes` and `exams`
+derives from - a reader's country comes from the top of it. Choosing an
+organisation shows that organisation's perspectives and no others: a club's
+members who want its national body's as well choose both. `schemes` and `exams`
 list what the organisation owns; ownership means it published the document
 transcribed here, and the validator checks each claim against the scheme's
 or exam's own `organisation` string, both ways round - an exam whose
