@@ -1,0 +1,13 @@
+{
+  "name": "USA Judo",
+  "kind": "national-body",
+  "country": "US",
+  "homepage": "https://www.usajudo.com/",
+  "about": {
+    "en": "The national governing body for judo in the United States, recognised by the International Judo Federation and the United States Olympic and Paralympic Committee. It works through state member organisations, which process recommendations for its dan ranks. Its junior rank program guidelines and its dan promotion recommendation procedures, dated July 2025, are transcribed in this reference."
+  },
+  "schemes": [
+    "usa-judo-junior-kyu",
+    "usa-judo-dan"
+  ]
+}
