@@ -14,7 +14,7 @@
   "source": {
     "title": "Junior Rank Examination (USJA Rank Examination for all Junior Ranks)",
     "note": {
-      "en": "Item wording is as printed, including the paper's own slips (\"Kouch-Gari\", \"Boot Sweep\", \"Trust Choke\", \"Juji hashigi juji gatame\", \"principal of maximum efficiency\"). Question and vocabulary numbers are dropped and the order kept. Two-column lists (Japanese and English) are rendered as the Japanese name with the English in brackets. Each technical list prints a guide row of the number required at each rank; it is flattened into one item giving this rank's column heading and number. A list whose number is 0 for a rank is left out of that rank. The eligibility table has a second column with no heading between the rank and the time in grade; its row is transcribed as printed. The required score table is flattened in the same way. The paper numbers its lists 4-1, 4-4, 4-5, 4-5, 4-6, 4-7, 4-8, 4-9, 4-11 and 4-12: Bogyo and Renraku-waza are both printed as 4-5, and there is no 4-2, 4-3 or 4-10. The vocabulary section prints no stop line for Junior 11th Degree, going from the 10th Degree line after item 100 to the 12th Degree line after item 119; the 11th Degree grade here carries the vocabulary to item 100 and the reader should check with the examiner. The required score for Junior 11th degree is printed as 97. The Technical Demonstration Instructions box prints an unlabelled guide row (0, 0, 1, 2, 3, 4, 4, 4, 4, 4, 4, 4) that matches none of the lists; it is not transcribed as a requirement. The instructions say a candidate should be asked for each technique in both Japanese and English, that all required techniques must pass, and that an examiner may petition the Promotion Board to waive any requirement for an exceptional student, which needs a two-thirds vote of the entire board. Do-jime and Ashi garami are documented in this reference for recognition only, because they are prohibited outright. Belt colours come from the promotion page, which numbers junior ranks 00 (white) to 12; ranks 01 to 12 are read here as JR1 to JR12, which the page does not state in those words."
+      "en": "Item wording is as printed, including the paper's own slips (\"Kouch-Gari\", \"Boot Sweep\", \"Trust Choke\", \"Juji hashigi juji gatame\", \"principal of maximum efficiency\"). Question and vocabulary numbers are dropped and the order kept. Two-column lists (Japanese and English) are rendered as the Japanese name with the English in brackets. Each technical list prints a guide row of the number required at each rank; it is flattened into one item giving this rank's column heading and number. The escape and entry counts (Fusegi and Hairi-waza) cover several sections each, so unlike the other lists they are not recorded as a number to choose from one list. A list whose number is 0 for a rank is left out of that rank. The eligibility table has a second column with no heading between the rank and the time in grade; its row is transcribed as printed. The required score table is flattened in the same way. The paper numbers its lists 4-1, 4-4, 4-5, 4-5, 4-6, 4-7, 4-8, 4-9, 4-11 and 4-12: Bogyo and Renraku-waza are both printed as 4-5, and there is no 4-2, 4-3 or 4-10. The vocabulary section prints no stop line for Junior 11th Degree, going from the 10th Degree line after item 100 to the 12th Degree line after item 119; the 11th Degree grade here carries the vocabulary to item 100 and the reader should check with the examiner. The required score for Junior 11th degree is printed as 97. The Technical Demonstration Instructions box prints an unlabelled guide row (0, 0, 1, 2, 3, 4, 4, 4, 4, 4, 4, 4) that matches none of the lists; it is not transcribed as a requirement. The instructions say a candidate should be asked for each technique in both Japanese and English, that all required techniques must pass, and that an examiner may petition the Promotion Board to waive any requirement for an exceptional student, which needs a two-thirds vote of the entire board. Do-jime and Ashi garami are documented in this reference for recognition only, because they are prohibited outright. Belt colours come from the promotion page, which numbers junior ranks 00 (white) to 12; ranks 01 to 12 are read here as JR1 to JR12, which the page does not state in those words. The grappling list 4-7 names ten pinning techniques, yet the paper sets 11 at JR11 and 12 at JR12; both numbers are kept as printed, and a reader's count stops at the ten the list holds."
     }
   },
   "grades": [
@@ -203,6 +203,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques, list 4-1"
           },
+          "choose": 2,
           "items": [
             {
               "text": "JR1: 2"
@@ -454,6 +455,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-4"
           },
+          "choose": 1,
           "items": [
             {
               "text": "JR1: 1"
@@ -540,6 +542,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-5"
           },
+          "choose": 1,
           "items": [
             {
               "text": "JR1: 1"
@@ -593,6 +596,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-6"
           },
+          "choose": 1,
           "items": [
             {
               "text": "JR1: 1"
@@ -649,6 +653,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-7"
           },
+          "choose": 2,
           "items": [
             {
               "text": "JR1: 2"
@@ -1259,6 +1264,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques, list 4-1"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR2: 4"
@@ -1510,6 +1516,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-4"
           },
+          "choose": 2,
           "items": [
             {
               "text": "JR2: 2"
@@ -1596,6 +1603,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-5"
           },
+          "choose": 2,
           "items": [
             {
               "text": "JR2: 2"
@@ -1649,6 +1657,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-6"
           },
+          "choose": 2,
           "items": [
             {
               "text": "JR2: 2"
@@ -1705,6 +1714,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-7"
           },
+          "choose": 3,
           "items": [
             {
               "text": "JR2: 3"
@@ -2409,6 +2419,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques, list 4-1"
           },
+          "choose": 6,
           "items": [
             {
               "text": "JR3: 6"
@@ -2660,6 +2671,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-4"
           },
+          "choose": 2,
           "items": [
             {
               "text": "JR3: 2"
@@ -2746,6 +2758,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-5"
           },
+          "choose": 1,
           "items": [
             {
               "text": "JR3: 1"
@@ -2781,6 +2794,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-5"
           },
+          "choose": 3,
           "items": [
             {
               "text": "JR3: 3"
@@ -2834,6 +2848,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-6"
           },
+          "choose": 3,
           "items": [
             {
               "text": "JR3: 3"
@@ -2890,6 +2905,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-7"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR3: 4"
@@ -3243,6 +3259,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-11"
           },
+          "choose": 1,
           "items": [
             {
               "text": "JR3: 1"
@@ -3329,6 +3346,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-12"
           },
+          "choose": 1,
           "items": [
             {
               "text": "JR3: 1"
@@ -3808,6 +3826,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques, list 4-1"
           },
+          "choose": 8,
           "items": [
             {
               "text": "JR4: 8"
@@ -4059,6 +4078,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-4"
           },
+          "choose": 3,
           "items": [
             {
               "text": "JR4: 3"
@@ -4145,6 +4165,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-5"
           },
+          "choose": 2,
           "items": [
             {
               "text": "JR4: 2"
@@ -4180,6 +4201,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-5"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR4: 4"
@@ -4233,6 +4255,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-6"
           },
+          "choose": 3,
           "items": [
             {
               "text": "JR4: 3"
@@ -4289,6 +4312,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-7"
           },
+          "choose": 5,
           "items": [
             {
               "text": "JR4: 5"
@@ -4642,6 +4666,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-11"
           },
+          "choose": 2,
           "items": [
             {
               "text": "JR4: 2"
@@ -4728,6 +4753,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-12"
           },
+          "choose": 2,
           "items": [
             {
               "text": "JR4: 2"
@@ -5257,6 +5283,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques, list 4-1"
           },
+          "choose": 10,
           "items": [
             {
               "text": "JR5: 10"
@@ -5508,6 +5535,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-4"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR5: 4"
@@ -5594,6 +5622,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-5"
           },
+          "choose": 3,
           "items": [
             {
               "text": "JR5: 3"
@@ -5629,6 +5658,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-5"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR5: 4"
@@ -5682,6 +5712,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-6"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR5: 4"
@@ -5738,6 +5769,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-7"
           },
+          "choose": 6,
           "items": [
             {
               "text": "JR5: 6"
@@ -6091,6 +6123,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-11"
           },
+          "choose": 3,
           "items": [
             {
               "text": "JR5: 3"
@@ -6177,6 +6210,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-12"
           },
+          "choose": 3,
           "items": [
             {
               "text": "JR5: 3"
@@ -6780,6 +6814,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques, list 4-1"
           },
+          "choose": 12,
           "items": [
             {
               "text": "JR6: 12"
@@ -7031,6 +7066,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-4"
           },
+          "choose": 5,
           "items": [
             {
               "text": "JR6: 5"
@@ -7117,6 +7153,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-5"
           },
+          "choose": 3,
           "items": [
             {
               "text": "JR6: 3"
@@ -7152,6 +7189,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-5"
           },
+          "choose": 5,
           "items": [
             {
               "text": "JR6: 5"
@@ -7205,6 +7243,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-6"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR6: 4"
@@ -7261,6 +7300,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-7"
           },
+          "choose": 6,
           "items": [
             {
               "text": "JR6: 6"
@@ -7614,6 +7654,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-11"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR6: 4"
@@ -7700,6 +7741,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-12"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR6: 4"
@@ -8360,6 +8402,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques, list 4-1"
           },
+          "choose": 14,
           "items": [
             {
               "text": "JR7: 14"
@@ -8611,6 +8654,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-4"
           },
+          "choose": 5,
           "items": [
             {
               "text": "JR7: 5"
@@ -8697,6 +8741,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-5"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR7: 4"
@@ -8732,6 +8777,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-5"
           },
+          "choose": 5,
           "items": [
             {
               "text": "JR7: 5"
@@ -8785,6 +8831,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-6"
           },
+          "choose": 5,
           "items": [
             {
               "text": "JR7: 5"
@@ -8841,6 +8888,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-7"
           },
+          "choose": 7,
           "items": [
             {
               "text": "JR7: 7"
@@ -9194,6 +9242,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-11"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR7: 4"
@@ -9280,6 +9329,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-12"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR7: 4"
@@ -10000,6 +10050,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques, list 4-1"
           },
+          "choose": 16,
           "items": [
             {
               "text": "JR8: 16"
@@ -10251,6 +10302,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-4"
           },
+          "choose": 6,
           "items": [
             {
               "text": "JR8: 6"
@@ -10337,6 +10389,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-5"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR8: 4"
@@ -10372,6 +10425,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-5"
           },
+          "choose": 6,
           "items": [
             {
               "text": "JR8: 6"
@@ -10425,6 +10479,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-6"
           },
+          "choose": 5,
           "items": [
             {
               "text": "JR8: 5"
@@ -10481,6 +10536,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-7"
           },
+          "choose": 8,
           "items": [
             {
               "text": "JR8: 8"
@@ -10834,6 +10890,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-11"
           },
+          "choose": 6,
           "items": [
             {
               "text": "JR8: 6"
@@ -10920,6 +10977,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-12"
           },
+          "choose": 5,
           "items": [
             {
               "text": "JR8: 5"
@@ -11700,6 +11758,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques, list 4-1"
           },
+          "choose": 18,
           "items": [
             {
               "text": "JR9: 18"
@@ -11951,6 +12010,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-4"
           },
+          "choose": 6,
           "items": [
             {
               "text": "JR9: 6"
@@ -12037,6 +12097,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-5"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR9: 4"
@@ -12072,6 +12133,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-5"
           },
+          "choose": 6,
           "items": [
             {
               "text": "JR9: 6"
@@ -12125,6 +12187,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-6"
           },
+          "choose": 6,
           "items": [
             {
               "text": "JR9: 6"
@@ -12181,6 +12244,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-7"
           },
+          "choose": 9,
           "items": [
             {
               "text": "JR9: 9"
@@ -12534,6 +12598,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-11"
           },
+          "choose": 7,
           "items": [
             {
               "text": "JR9: 7"
@@ -12620,6 +12685,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-12"
           },
+          "choose": 6,
           "items": [
             {
               "text": "JR9: 6"
@@ -13445,6 +13511,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques, list 4-1"
           },
+          "choose": 20,
           "items": [
             {
               "text": "JR10: 20"
@@ -13696,6 +13763,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-4"
           },
+          "choose": 7,
           "items": [
             {
               "text": "JR10: 7"
@@ -13782,6 +13850,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-5"
           },
+          "choose": 4,
           "items": [
             {
               "text": "JR10: 4"
@@ -13817,6 +13886,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-5"
           },
+          "choose": 7,
           "items": [
             {
               "text": "JR10: 7"
@@ -13870,6 +13940,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-6"
           },
+          "choose": 6,
           "items": [
             {
               "text": "JR10: 6"
@@ -13926,6 +13997,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-7"
           },
+          "choose": 10,
           "items": [
             {
               "text": "JR10: 10"
@@ -14279,6 +14351,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-11"
           },
+          "choose": 8,
           "items": [
             {
               "text": "JR10: 8"
@@ -14365,6 +14438,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-12"
           },
+          "choose": 6,
           "items": [
             {
               "text": "JR10: 6"
@@ -15193,6 +15267,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques, list 4-1"
           },
+          "choose": 22,
           "items": [
             {
               "text": "JR11: 22"
@@ -15444,6 +15519,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-4"
           },
+          "choose": 8,
           "items": [
             {
               "text": "JR11: 8"
@@ -15530,6 +15606,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-5"
           },
+          "choose": 5,
           "items": [
             {
               "text": "JR11: 5"
@@ -15565,6 +15642,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-5"
           },
+          "choose": 7,
           "items": [
             {
               "text": "JR11: 7"
@@ -15618,6 +15696,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-6"
           },
+          "choose": 7,
           "items": [
             {
               "text": "JR11: 7"
@@ -15674,6 +15753,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-7"
           },
+          "choose": 11,
           "items": [
             {
               "text": "JR11: 11"
@@ -16027,6 +16107,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-11"
           },
+          "choose": 9,
           "items": [
             {
               "text": "JR11: 9"
@@ -16113,6 +16194,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-12"
           },
+          "choose": 7,
           "items": [
             {
               "text": "JR11: 7"
@@ -17019,6 +17101,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques, list 4-1"
           },
+          "choose": 24,
           "items": [
             {
               "text": "JR12: 24"
@@ -17270,6 +17353,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-4"
           },
+          "choose": 8,
           "items": [
             {
               "text": "JR12: 8"
@@ -17356,6 +17440,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-5"
           },
+          "choose": 5,
           "items": [
             {
               "text": "JR12: 5"
@@ -17391,6 +17476,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-5"
           },
+          "choose": 8,
           "items": [
             {
               "text": "JR12: 8"
@@ -17444,6 +17530,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-6"
           },
+          "choose": 7,
           "items": [
             {
               "text": "JR12: 7"
@@ -17500,6 +17587,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-7"
           },
+          "choose": 12,
           "items": [
             {
               "text": "JR12: 12"
@@ -17853,6 +17941,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-11"
           },
+          "choose": 10,
           "items": [
             {
               "text": "JR12: 10"
@@ -17939,6 +18028,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-12"
           },
+          "choose": 8,
           "items": [
             {
               "text": "JR12: 8"
