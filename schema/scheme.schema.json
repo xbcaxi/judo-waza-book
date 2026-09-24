@@ -145,6 +145,16 @@
                 "title": {
                   "$ref": "#/definitions/localisedText"
                 },
+                "choose": {
+                  "description": "How many items the candidate chooses from this section. The items are the pool to choose from, and techniqueSlugs still lists every slug they resolve. At most the number of items in the section. Absent means every item is required.",
+                  "allOf": [
+                    {
+                      "type": "integer",
+                      "exclusiveMinimum": 0,
+                      "maximum": 9007199254740991
+                    }
+                  ]
+                },
                 "items": {
                   "minItems": 1,
                   "type": "array",

@@ -11,6 +11,7 @@
  *      sequence carries its own seven fields the same way.
  *   3. Cross-file integrity, which JSON Schema cannot see: every slug in a
  *      grade's techniqueSlugs exists; grade slugs are unique within a scheme;
+ *      a syllabus section's `choose` is no more than the items it lists;
  *      at most one video per technique is `recommended`; every glossary
  *      term a syllabus item names exists; a reference link is
  *      an http(s) url and listed once; a video pasted as a URL is answered
@@ -826,6 +827,11 @@ for (const s of schemes) {
         problems.push(`grading-schemes/${s.name}: grade "${grade.slug}" has two syllabus sections called "${section.slug}"`);
       }
       sectionsSeen.add(section.slug);
+      /* `choose` is how many of the section's items the candidate picks, so
+       * it cannot exceed the items listed. */
+      if (section.choose !== undefined && section.choose > (section.items ?? []).length) {
+        problems.push(`grading-schemes/${s.name}: grade "${grade.slug}" section "${section.slug}" sets choose ${section.choose} but lists ${(section.items ?? []).length} item(s)`);
+      }
       for (const item of section.items ?? []) {
         checkItem(`grading-schemes/${s.name} grade "${grade.slug}"`, item);
         for (const slug of item.techniques ?? []) {
