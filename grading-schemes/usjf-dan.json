@@ -1,0 +1,2096 @@
+{
+  "name": {
+    "en": "Dan grades (USJF)"
+  },
+  "organisation": "United States Judo Federation",
+  "country": "US",
+  "order": 10,
+  "description": {
+    "en": "The United States Judo Federation's dan grades, from Shodan to Judan. Each Yudanshakai examines within its own promotion authority; each grade sets a minimum age, a time in grade that depends on competitor status and promotion points, techniques, kata and service requirements."
+  },
+  "source": {
+    "title": "Rank Requirement Recommendations Handbook, Section VI",
+    "date": "1 May 2021",
+    "note": {
+      "en": "Transcribed from Section VI of the federation's Rank Requirement Recommendations Handbook (5/1/21), which is the authority. Item text is as printed, including the source's own slips (\"certificatio\" at Sandan, the doubled \"Nomination for Judan:\", and the Judan paragraph that says \"Candidates for Kudan may be considered\"). Where a line prints a list of techniques, each technique is one item and the separating commas are dropped. The competitor class grid (classes A to D) is rendered as one item per class; its age column agrees with the per-rank text. The Shodan text gives \"Batsugun or 15 points - 6 months\", while the handbook's minimum time in grade grid gives 15 pts 6 months and Batsu-gun 20 pts 0 months. The Kata Cumulative Requirements grid agrees with the per-rank kata text. The ranking table prints Rokudan to Hachidan as Red/White, shown here as red with a white stripe, and Kudan and Judan as Red. The Shodan batsu-gun criteria, the dojo Shodan procedure (steps A to C; steps D and E are the Board of Examiners' voting procedure) and the membership and background check rules from the Promotional Application pages are transcribed on the grades they apply to. Scheme-wide rules (promotion points, kata competition points, time in grade reductions for contribution, fees, Kudan and Judan meeting procedure beyond the grade text) are not transcribed. Kani-basami and Kawazu-gake at Yodan are printed as illegal techniques the candidate must know about, and are documented in this reference as prohibited. The 2008 Shodan study guide is linked as an older companion; it gives time in grade as Ikkyu as 3 years non-competitor, 2 years, \"1 Months\", 9 months and 6 months (the handbook gives 2 years, 1 year, 9 months, 6 months and 0 months)."
+    }
+  },
+  "beltNote": {
+    "en": "Rokudan to Hachidan wear a red and white belt, shown here as red with a white stripe."
+  },
+  "grades": [
+    {
+      "slug": "1st-dan",
+      "label": {
+        "en": "Shodan (1st Dan)"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "yoko-otoshi",
+        "ashi-guruma",
+        "tsuri-goshi",
+        "harai-tsurikomi-ashi",
+        "morote-gari",
+        "kuchiki-taoshi",
+        "kibisu-gaeshi",
+        "tsukkomi-jime",
+        "ryote-jime"
+      ],
+      "syllabus": [
+        {
+          "slug": "age-and-time-in-grade",
+          "title": {
+            "en": "Minimum age and time in grade"
+          },
+          "items": [
+            {
+              "text": "Minimal Age: 14-16",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in Grade: Time in grade as Ikkyu",
+              "techniques": []
+            },
+            {
+              "text": "Non-competitor - 2 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 5 points - 1 year",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 10 points - 9 months",
+              "techniques": []
+            },
+            {
+              "text": "Batsugun or 15 points - 6 months",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "competitor-classes",
+          "title": {
+            "en": "Minimum time in grade by competitor class"
+          },
+          "items": [
+            {
+              "text": "Class A: None",
+              "techniques": []
+            },
+            {
+              "text": "Class B: None",
+              "techniques": []
+            },
+            {
+              "text": "Class C: None",
+              "techniques": []
+            },
+            {
+              "text": "Class D: Points earned",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-requirements",
+          "title": {
+            "en": "General requirements"
+          },
+          "items": [
+            {
+              "text": "Improved knowledge and increased proficiency in all lower rank requirements.",
+              "techniques": []
+            },
+            {
+              "text": "Terminology for all lower ranks.",
+              "techniques": []
+            },
+            {
+              "text": "Assistant Teacher (suggested), Teacher or Coaches Certification (suggested).",
+              "techniques": []
+            },
+            {
+              "text": "Good moral character and maturity.",
+              "techniques": []
+            },
+            {
+              "text": "CDC Heads Up and Safe Sport are required.",
+              "techniques": []
+            },
+            {
+              "text": "Safe Sport and Background Check are not required for those 17 years old and under.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "nage-waza",
+          "title": {
+            "en": "Nage waza"
+          },
+          "items": [
+            {
+              "text": "Yoko Otoshi",
+              "techniques": [
+                "yoko-otoshi"
+              ]
+            },
+            {
+              "text": "Ashi Guruma",
+              "techniques": [
+                "ashi-guruma"
+              ]
+            },
+            {
+              "text": "O-Tsuri-goshi",
+              "techniques": [
+                "tsuri-goshi"
+              ]
+            },
+            {
+              "text": "Ko-Tsuri-goshi",
+              "techniques": [
+                "tsuri-goshi"
+              ]
+            },
+            {
+              "text": "Harai-tsuri-komi-ashi",
+              "techniques": [
+                "harai-tsurikomi-ashi"
+              ]
+            },
+            {
+              "text": "Morote-gari *",
+              "techniques": [
+                "morote-gari"
+              ]
+            },
+            {
+              "text": "Kuchiki- taoshi*",
+              "techniques": [
+                "kuchiki-taoshi"
+              ]
+            },
+            {
+              "text": "Kibisu-gaeshi*",
+              "techniques": [
+                "kibisu-gaeshi"
+              ]
+            },
+            {
+              "text": "Three throws from opposite side",
+              "techniques": []
+            },
+            {
+              "text": "Three combination techniques",
+              "techniques": []
+            },
+            {
+              "text": "Three counter techniques",
+              "techniques": []
+            },
+            {
+              "text": "(* this throw is presently an illegal technique in competition)",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osaekomi-waza",
+          "title": {
+            "en": "Osaekomi waza"
+          },
+          "items": [
+            {
+              "text": "Expect knowledge and increased proficiency in all lower rank requirements and additional escapes from all",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "Tsukkomi-jime",
+              "techniques": [
+                "tsukkomi-jime"
+              ]
+            },
+            {
+              "text": "Ryote-jime",
+              "techniques": [
+                "ryote-jime"
+              ]
+            },
+            {
+              "text": "defense against each",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "All Kansetsu-waza with improved understanding and ability",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Non- Competitor – Nage no kata (tori) all 5 sets",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata"
+              ]
+            },
+            {
+              "text": "Competitor – Nage no kata (uke) all 5 sets",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "tournament-experience",
+          "title": {
+            "en": "Tournament experience"
+          },
+          "items": [
+            {
+              "text": "Continued contest experience with expanded interpretation of the sport phase.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "additional-experience-non-competitor",
+          "title": {
+            "en": "Additional experience for non-competitors"
+          },
+          "items": [
+            {
+              "text": "Recommend the following -Referee – club or local, Coach – club/local level, Teacher – assist with beginners, Tournament official – timekeeper/scorekeeper local/ regional certification",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "national-batsu-gun",
+          "title": {
+            "en": "USJF National Competition Shodan Batsu-gun rank criteria"
+          },
+          "items": [
+            {
+              "text": "USJF /USJA Summer National Championships shiai competition of brown belt rank or higher may be promoted by Batsu- gun to the rank of Shodan with no kata requirement needing to be met.",
+              "techniques": []
+            },
+            {
+              "text": "1. Enter the USJF/USJA Summer National Championships in the shiai competition as a registered member of USJF; and",
+              "techniques": []
+            },
+            {
+              "text": "2. Hold any current brown belt rank (proof of rank will be required for this purpose); and",
+              "techniques": []
+            },
+            {
+              "text": "3. Be at least 14 years old as of the competition date; and",
+              "techniques": []
+            },
+            {
+              "text": "4. In any one individual competitive division, achieve one of the following records: a. Defeat no less than three (3) opponents each holding a current brown belt rank or higher with at least one win by Ippon; or b. Defeat no less than five (5) opponents of any rank by Ippon; or c. In any two (2) or more individual divisions at the same event, defeat five (5) or more opponents by Ippon, at least three (3) of whom hold brown belt rank or higher; and",
+              "techniques": []
+            },
+            {
+              "text": "5. Have the consent and approval of the youth’s Dojo Head Instructor and the youth’s Yudanshakai’s Board of Examiners Chairperson or the USJF Promotion Committee Chairperson approval must be obtained.",
+              "techniques": []
+            },
+            {
+              "text": "It is recommended that all Shodan candidates, except those promoted by Batsu-gun, take the USJF Teacher/Assistant Teachers or Coaching Certification.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "dojo-shodan",
+          "title": {
+            "en": "Dojo Shodan promotional procedure"
+          },
+          "items": [
+            {
+              "text": "A. Any USJF registered club can petition for a Shodan promotion in their club to their Yudanshakai. Must meet all Yudanshakai requirements for Shodan promotion.",
+              "techniques": []
+            },
+            {
+              "text": "B. Candidate must fill out a form 20, obtain the following certifications: SafeSport, CDC Heads Up, and a background check (if a candidate is a minor, SafeSport and background check are not required). If non- competitor, a USJF Coaching or Teachers Certification is needed. A written essay from the candidate covering the following: why the candidate thinks they should be promoted to Shodan: what service they can provide to Judo and qualities it takes to be a Shodan. The essay will be sent to the Yudanshakai Chair of the Board of Examiners",
+              "techniques": []
+            },
+            {
+              "text": "C. Examination will be conducted by three (3) USJF Sandans or higher.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "application",
+          "title": {
+            "en": "Promotion application"
+          },
+          "items": [
+            {
+              "text": "A Shodan applicant must show current membership plus one year prior membership.",
+              "techniques": []
+            },
+            {
+              "text": "All applicants for Shodan and above must undergo the USJF background/screening program per USJF documented procedure. (If candidate is a minor this is not needed.)",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Recommendation for Promotion, Form 20 (2021)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/06/20V6.0.0210614.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Senior Shodan Study Guide (April 2008)",
+          "url": "https://www.usjf.com/wp-content/uploads/2018/07/ShodanStudyGuide081008.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "2nd-dan",
+      "label": {
+        "en": "Nidan (2nd Dan)"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "sumi-gaeshi",
+        "soto-makikomi",
+        "tani-otoshi",
+        "o-guruma",
+        "sukui-nage",
+        "harai-makikomi",
+        "ashi-garami"
+      ],
+      "syllabus": [
+        {
+          "slug": "age-and-time-in-grade",
+          "title": {
+            "en": "Minimum age and time in grade"
+          },
+          "items": [
+            {
+              "text": "Minimal Age: 17-18",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in Grade: Time in grade as Shodan:",
+              "techniques": []
+            },
+            {
+              "text": "Non-competitor - 4 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 5 points - 3 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 10 pts - 2 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 15 pts - 1.5 years",
+              "techniques": []
+            },
+            {
+              "text": "Batsugun or 20 pts - 1 year",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "competitor-classes",
+          "title": {
+            "en": "Minimum time in grade by competitor class"
+          },
+          "items": [
+            {
+              "text": "Class A: ½ year",
+              "techniques": []
+            },
+            {
+              "text": "Class B: 1 year",
+              "techniques": []
+            },
+            {
+              "text": "Class C: 1 ½ year",
+              "techniques": []
+            },
+            {
+              "text": "Class D: Points earned",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-requirements",
+          "title": {
+            "en": "General requirements"
+          },
+          "items": [
+            {
+              "text": "Terminology required for lower ranks, increased proficiency in all lower rank requirements.",
+              "techniques": []
+            },
+            {
+              "text": "First Aid and CPR Certification, Safe Sport and CDC Heads Up Certification, Good moral character and maturity.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "nage-waza",
+          "title": {
+            "en": "Nage waza"
+          },
+          "items": [
+            {
+              "text": "Sumi Gaeshi",
+              "techniques": [
+                "sumi-gaeshi"
+              ]
+            },
+            {
+              "text": "Soto maki komi",
+              "techniques": [
+                "soto-makikomi"
+              ]
+            },
+            {
+              "text": "Tani Otoshi",
+              "techniques": [
+                "tani-otoshi"
+              ]
+            },
+            {
+              "text": "O Guruma",
+              "techniques": [
+                "o-guruma"
+              ]
+            },
+            {
+              "text": "Sukui nage",
+              "techniques": [
+                "sukui-nage"
+              ]
+            },
+            {
+              "text": "Harai maki komi",
+              "techniques": [
+                "harai-makikomi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "osaekomi-waza",
+          "title": {
+            "en": "Osaekomi waza"
+          },
+          "items": [
+            {
+              "text": "All Osae-komi-waza and escapes",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "All Shime-waza, defense against each",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "All Kansetsu-waza",
+              "techniques": []
+            },
+            {
+              "text": "Ashi-garami",
+              "techniques": [
+                "ashi-garami"
+              ]
+            },
+            {
+              "text": "defense against each",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Non-competitor - Katame no Kata (Tori).",
+              "techniques": [],
+              "kata": [
+                "katame-no-kata"
+              ]
+            },
+            {
+              "text": "Competitor - Nage no Kata (Tori) all 5 sets.",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "tournament-experience",
+          "title": {
+            "en": "Tournament experience"
+          },
+          "items": [
+            {
+              "text": "Continued contest experience with expanded interpretation of the sport phase.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "additional-experience-non-competitor",
+          "title": {
+            "en": "Additional experience for non-competitors"
+          },
+          "items": [
+            {
+              "text": "Recommend the following - Referee – club or local, Coach – Regional, Teacher, Tournament official – timekeeper/scorekeeper local/regional certification",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "application",
+          "title": {
+            "en": "Promotion application"
+          },
+          "items": [
+            {
+              "text": "For Nidan and above they must have current membership plus three years prior membership.",
+              "techniques": []
+            },
+            {
+              "text": "All applicants for Shodan and above must undergo the USJF background/screening program per USJF documented procedure. (If candidate is a minor this is not needed.)",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Recommendation for Promotion, Form 20 (2021)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/06/20V6.0.0210614.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "3rd-dan",
+      "label": {
+        "en": "Sandan (3rd Dan)"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "hane-makikomi",
+        "utsuri-goshi",
+        "uki-otoshi",
+        "o-soto-guruma",
+        "uki-waza",
+        "o-soto-makikomi",
+        "ashi-garami"
+      ],
+      "syllabus": [
+        {
+          "slug": "age-and-time-in-grade",
+          "title": {
+            "en": "Minimum age and time in grade"
+          },
+          "items": [
+            {
+              "text": "Minimal Age: 19-20",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in Grade:Time in grade as Nidan",
+              "techniques": []
+            },
+            {
+              "text": "Non-Competitor - 6 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 5 pts - 4 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 10 pts - 3 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 15 pts - 2.5 years",
+              "techniques": []
+            },
+            {
+              "text": "Batsugun or 20 pts - 1.5 years",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "competitor-classes",
+          "title": {
+            "en": "Minimum time in grade by competitor class"
+          },
+          "items": [
+            {
+              "text": "Class A: 1 year",
+              "techniques": []
+            },
+            {
+              "text": "Class B: 2 years",
+              "techniques": []
+            },
+            {
+              "text": "Class C: 2 ½ years",
+              "techniques": []
+            },
+            {
+              "text": "Class D: Points earned",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-requirements",
+          "title": {
+            "en": "General requirements"
+          },
+          "items": [
+            {
+              "text": "Terminology required for lower ranks, increased proficiency in all lower rank requirements.",
+              "techniques": []
+            },
+            {
+              "text": "First Aid, CPR, Safe Sport and CDC Heads Up Certification.",
+              "techniques": []
+            },
+            {
+              "text": "Excellent moral character and maturity.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "nage-waza",
+          "title": {
+            "en": "Nage waza"
+          },
+          "items": [
+            {
+              "text": "Hane maki komi",
+              "techniques": [
+                "hane-makikomi"
+              ]
+            },
+            {
+              "text": "Utsuri goshi",
+              "techniques": [
+                "utsuri-goshi"
+              ]
+            },
+            {
+              "text": "Uki Otoshi",
+              "techniques": [
+                "uki-otoshi"
+              ]
+            },
+            {
+              "text": "Osoto Guruma",
+              "techniques": [
+                "o-soto-guruma"
+              ]
+            },
+            {
+              "text": "Uki waza",
+              "techniques": [
+                "uki-waza"
+              ]
+            },
+            {
+              "text": "Osoto-makikomi",
+              "techniques": [
+                "o-soto-makikomi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "osaekomi-waza",
+          "title": {
+            "en": "Osaekomi waza"
+          },
+          "items": [
+            {
+              "text": "All Osae-komi-waza and escapes",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "All Shime-waza, Counters to all",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "All Kansetsu-waza",
+              "techniques": []
+            },
+            {
+              "text": "Ashi-garami",
+              "techniques": [
+                "ashi-garami"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Non- Competitor – Complete – Nage no Kata (Tori & Uke), Katame no Kata (Tori & Uke), Kime no Kata or Ju no Kata (Tori)",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata",
+                "katame-no-kata",
+                "kime-no-kata",
+                "ju-no-kata"
+              ]
+            },
+            {
+              "text": "Competitor – Complete – Nage no Kata (Tori & Uke), Katame no Kata (Tori)",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata",
+                "katame-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "tournament-experience",
+          "title": {
+            "en": "Tournament experience"
+          },
+          "items": [
+            {
+              "text": "Continued contest experience with expanded interpretation of the sport phase.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "additional-experience-non-competitor",
+          "title": {
+            "en": "Additional experience for non-competitors"
+          },
+          "items": [
+            {
+              "text": "Recommend the following - Referee – regional/national, Coach – Regional, Teacher, Tournament official – timekeeper/scorekeeper local/regional certificatio",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "application",
+          "title": {
+            "en": "Promotion application"
+          },
+          "items": [
+            {
+              "text": "For Nidan and above they must have current membership plus three years prior membership.",
+              "techniques": []
+            },
+            {
+              "text": "All applicants for Shodan and above must undergo the USJF background/screening program per USJF documented procedure. (If candidate is a minor this is not needed.)",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Recommendation for Promotion, Form 20 (2021)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/06/20V6.0.0210614.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "4th-dan",
+      "label": {
+        "en": "Yodan (4th Dan)"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "yoko-guruma",
+        "ushiro-goshi",
+        "ura-nage",
+        "sumi-otoshi",
+        "yoko-gake",
+        "yoko-wakare",
+        "daki-age",
+        "kani-basami",
+        "kawazu-gake"
+      ],
+      "syllabus": [
+        {
+          "slug": "age-and-time-in-grade",
+          "title": {
+            "en": "Minimum age and time in grade"
+          },
+          "items": [
+            {
+              "text": "Minimal Age: 21-22",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in Grade: Time in grade as Sandan",
+              "techniques": []
+            },
+            {
+              "text": "Non-competitor - 8 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 5 pts - 5.5 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 10 pts - 4 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 15 pts - 3 years",
+              "techniques": []
+            },
+            {
+              "text": "Batsugun or 20 pts - 2 years",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "competitor-classes",
+          "title": {
+            "en": "Minimum time in grade by competitor class"
+          },
+          "items": [
+            {
+              "text": "Class A: 1 ½ years",
+              "techniques": []
+            },
+            {
+              "text": "Class B: 3 ½ years",
+              "techniques": []
+            },
+            {
+              "text": "Class C: 4 years",
+              "techniques": []
+            },
+            {
+              "text": "Class D: Points earned",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-requirements",
+          "title": {
+            "en": "General requirements"
+          },
+          "items": [
+            {
+              "text": "Terminology required for lower ranks increased proficiency in all lower rank requirements.",
+              "techniques": []
+            },
+            {
+              "text": "First Aid, CPR, Safe Sport and CDC Heads Up Certification.",
+              "techniques": []
+            },
+            {
+              "text": "Excellent moral character and maturity",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "nage-waza",
+          "title": {
+            "en": "Nage waza"
+          },
+          "items": [
+            {
+              "text": "Yoko Guruma",
+              "techniques": [
+                "yoko-guruma"
+              ]
+            },
+            {
+              "text": "Ushiro goshi",
+              "techniques": [
+                "ushiro-goshi"
+              ]
+            },
+            {
+              "text": "Ura nage",
+              "techniques": [
+                "ura-nage"
+              ]
+            },
+            {
+              "text": "Sumi otoshi",
+              "techniques": [
+                "sumi-otoshi"
+              ]
+            },
+            {
+              "text": "Yoko gake",
+              "techniques": [
+                "yoko-gake"
+              ]
+            },
+            {
+              "text": "Yoko Wakare",
+              "techniques": [
+                "yoko-wakare"
+              ]
+            },
+            {
+              "text": "Daki age",
+              "techniques": [
+                "daki-age"
+              ]
+            },
+            {
+              "text": "Kani-basami*",
+              "techniques": [
+                "kani-basami"
+              ]
+            },
+            {
+              "text": "Kawazu-gake *",
+              "techniques": [
+                "kawazu-gake"
+              ]
+            },
+            {
+              "text": "(* illegal techniques – too dangerous to attempt but candidate must be aware of these techniques)",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osaekomi-waza",
+          "title": {
+            "en": "Osaekomi waza"
+          },
+          "items": [
+            {
+              "text": "All Osae-komi-waza and escapes",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "All Shime-waza, defense against each",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "All Kansetsu-waza, defense against each",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Non-competitor - Kime no Kata (Tori & Uke) or Kodokan Goshinjutsu (Tori & Uke), and Ju no Kata (Tori & Uke).",
+              "techniques": [],
+              "kata": [
+                "kime-no-kata",
+                "kodokan-goshin-jutsu",
+                "ju-no-kata"
+              ]
+            },
+            {
+              "text": "Competitor - Kime no Kata (Tori) or Kodokan Goshinjutsu (Tori).",
+              "techniques": [],
+              "kata": [
+                "kime-no-kata",
+                "kodokan-goshin-jutsu"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "tournament-experience",
+          "title": {
+            "en": "Tournament experience"
+          },
+          "items": [
+            {
+              "text": "Continued contest experience with expanded interpretation of the sport phase.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "additional-experience-non-competitor",
+          "title": {
+            "en": "Additional experience for non-competitors"
+          },
+          "items": [
+            {
+              "text": "Recommend the following - Referee – regional/national, Coach – Regional, Teacher/Instructor, Tournament official – timekeeper/scorekeeper regional certification",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "application",
+          "title": {
+            "en": "Promotion application"
+          },
+          "items": [
+            {
+              "text": "For Nidan and above they must have current membership plus three years prior membership.",
+              "techniques": []
+            },
+            {
+              "text": "All applicants for Shodan and above must undergo the USJF background/screening program per USJF documented procedure. (If candidate is a minor this is not needed.)",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Recommendation for Promotion, Form 20 (2021)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/06/20V6.0.0210614.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "5th-dan",
+      "label": {
+        "en": "Godan (5th Dan)"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "age-and-time-in-grade",
+          "title": {
+            "en": "Minimum age and time in grade"
+          },
+          "items": [
+            {
+              "text": "Minimal Age: 23-24",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in Grade: Time in grade as Yodan",
+              "techniques": []
+            },
+            {
+              "text": "Non-Competitor – 10 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 5 pts. – 6.5 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 10 pts. – 5 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 15 pts. – 4 years",
+              "techniques": []
+            },
+            {
+              "text": "Batsugun or 20 pts. – 3 years",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "competitor-classes",
+          "title": {
+            "en": "Minimum time in grade by competitor class"
+          },
+          "items": [
+            {
+              "text": "Class A: 3 years",
+              "techniques": []
+            },
+            {
+              "text": "Class B: 5 years",
+              "techniques": []
+            },
+            {
+              "text": "Class C: 6 years",
+              "techniques": []
+            },
+            {
+              "text": "Class D: Points earned",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-requirements",
+          "title": {
+            "en": "General requirements"
+          },
+          "items": [
+            {
+              "text": "Terminology required for lower ranks, increased proficiency in all lower rank requirements, Good understanding of and skill teaching certification",
+              "techniques": []
+            },
+            {
+              "text": "Major levels of refereeing and judging (shiai and/or kata).",
+              "techniques": []
+            },
+            {
+              "text": "First Aid, CPR, Safe Sport and CDC Heads Up Certification.",
+              "techniques": []
+            },
+            {
+              "text": "Outstanding moral character and maturity",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "nage-waza",
+          "title": {
+            "en": "Nage waza"
+          },
+          "items": [
+            {
+              "text": "Demonstrate knowledge of previous ranks.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osaekomi-waza",
+          "title": {
+            "en": "Osaekomi waza"
+          },
+          "items": [
+            {
+              "text": "All Osae-komi-waza and escapes",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "All Shime-waza, Counters to all",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "All Kansetsu-waza",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Competitor - Kime no kata – tori & uke, Kodokan Goshinjutsu - tori & uke",
+              "techniques": [],
+              "kata": [
+                "kime-no-kata",
+                "kodokan-goshin-jutsu"
+              ]
+            },
+            {
+              "text": "Non-competitor – Kime no kata – tori and uke, Kodokan Goshinjutsu – tori & uke, Ju no kata – tori & uke",
+              "techniques": [],
+              "kata": [
+                "kime-no-kata",
+                "kodokan-goshin-jutsu",
+                "ju-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "tournament-experience",
+          "title": {
+            "en": "Tournament experience"
+          },
+          "items": [
+            {
+              "text": "As noted above.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "additional-experience-non-competitor",
+          "title": {
+            "en": "Additional experience for non-competitors"
+          },
+          "items": [
+            {
+              "text": "Recommend the following - Referee – regional/national or higher, Coach – Regional/National, Teacher, Tournament official.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "application",
+          "title": {
+            "en": "Promotion application"
+          },
+          "items": [
+            {
+              "text": "For Nidan and above they must have current membership plus three years prior membership.",
+              "techniques": []
+            },
+            {
+              "text": "All applicants for Shodan and above must undergo the USJF background/screening program per USJF documented procedure. (If candidate is a minor this is not needed.)",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Recommendation for Promotion, Form 20 (2021)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/06/20V6.0.0210614.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "6th-dan",
+      "label": {
+        "en": "Rokudan (6th Dan)"
+      },
+      "beltColor": "red",
+      "beltStripe": "white",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "age-and-time-in-grade",
+          "title": {
+            "en": "Minimum age and time in grade"
+          },
+          "items": [
+            {
+              "text": "Minimal Age: 27",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in Grade: Time in grade as Godan",
+              "techniques": []
+            },
+            {
+              "text": "Non-Competitor – 12 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 5 pts. – 8 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 10 pts. – 6 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 15 pts. – 5 years",
+              "techniques": []
+            },
+            {
+              "text": "Batsugun or 20 pts. – 4 years",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "competitor-classes",
+          "title": {
+            "en": "Minimum time in grade by competitor class"
+          },
+          "items": [
+            {
+              "text": "Class A: 5 years",
+              "techniques": []
+            },
+            {
+              "text": "Class B: 7 year",
+              "techniques": []
+            },
+            {
+              "text": "Class C: 9 years",
+              "techniques": []
+            },
+            {
+              "text": "Class D: Points earned",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-requirements",
+          "title": {
+            "en": "General requirements"
+          },
+          "items": [
+            {
+              "text": "Unquestioned moral character and maturity.",
+              "techniques": []
+            },
+            {
+              "text": "Continued practice and involvement in judo, Terminology required for lower ranks, with increased proficiency in all lower rank requirements, Good understanding of and skill teaching certification.",
+              "techniques": []
+            },
+            {
+              "text": "Major levels of refereeing and judging (shiai and/or kata), First Aid, CPR, Safe Sport and CDC Heads Up Certification.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "nage-waza",
+          "title": {
+            "en": "Nage waza"
+          },
+          "items": [
+            {
+              "text": "Demonstrate knowledge of previous ranks.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osaekomi-waza",
+          "title": {
+            "en": "Osaekomi waza"
+          },
+          "items": [
+            {
+              "text": "All Osae-komi-waza and escapes",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "All Shime-waza, Counters to all",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "All Kansetsu-waza",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Non-competitor – Ju no Kata (Tori & Uke), Itsutsu no Kata (Tori & Uke).",
+              "techniques": [],
+              "kata": [
+                "ju-no-kata",
+                "itsutsu-no-kata"
+              ]
+            },
+            {
+              "text": "Competitor –Ju no kata (tori & uke), Itsutsu no kata (Tori)",
+              "techniques": [],
+              "kata": [
+                "ju-no-kata",
+                "itsutsu-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "tournament-and-referee",
+          "title": {
+            "en": "Tournament experience and referee"
+          },
+          "items": [
+            {
+              "text": "None but expect leadership in these areas",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "additional-requirements",
+          "title": {
+            "en": "Additional requirements"
+          },
+          "items": [
+            {
+              "text": "Demonstrative moral characters and skills such as:",
+              "techniques": []
+            },
+            {
+              "text": "Sharing of an historical and philosophic perspective of Judo",
+              "techniques": []
+            },
+            {
+              "text": "Increased expertise in one or more areas",
+              "techniques": []
+            },
+            {
+              "text": "Leadership in dojo, Yudanshakai, USJF and the community",
+              "techniques": []
+            },
+            {
+              "text": "Recognition by one’s peers",
+              "techniques": []
+            },
+            {
+              "text": "Direct participation in on-the-mat activities in uniform",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "application",
+          "title": {
+            "en": "Promotion application"
+          },
+          "items": [
+            {
+              "text": "For Nidan and above they must have current membership plus three years prior membership.",
+              "techniques": []
+            },
+            {
+              "text": "All applicants for Shodan and above must undergo the USJF background/screening program per USJF documented procedure. (If candidate is a minor this is not needed.)",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Recommendation for Promotion, Form 20 (2021)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/06/20V6.0.0210614.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "7th-dan",
+      "label": {
+        "en": "Shichidan (7th Dan)"
+      },
+      "beltColor": "red",
+      "beltStripe": "white",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "age-and-time-in-grade",
+          "title": {
+            "en": "Minimum age and time in grade"
+          },
+          "items": [
+            {
+              "text": "Minimal Age: 33",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in Grade: Time in grade as Rokudan",
+              "techniques": []
+            },
+            {
+              "text": "Non-competitor 15 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 5 points 10 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 10 points 8 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 15 points 6 years",
+              "techniques": []
+            },
+            {
+              "text": "Batsugun or 20 points 5 years",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-requirements",
+          "title": {
+            "en": "General requirements"
+          },
+          "items": [
+            {
+              "text": "Unquestioned moral character and maturity.",
+              "techniques": []
+            },
+            {
+              "text": "Continued practice and involvement in judo.",
+              "techniques": []
+            },
+            {
+              "text": "Terminology required for lower ranks, with increased proficiency in all lower rank requirements.",
+              "techniques": []
+            },
+            {
+              "text": "Good understanding of and skill with teaching.",
+              "techniques": []
+            },
+            {
+              "text": "First Aid, CPR, Safe Sport and CDC Heads Up Certification.",
+              "techniques": []
+            },
+            {
+              "text": "Major levels of refereeing and judging (shiai and/or kata).",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "nage-waza",
+          "title": {
+            "en": "Nage waza"
+          },
+          "items": [
+            {
+              "text": "Demonstrate knowledge of previous ranks",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Competitor: Itsutsu no Kata (tori & uke) and Koshiki no Kata (tori)",
+              "techniques": [],
+              "kata": [
+                "itsutsu-no-kata",
+                "koshiki-no-kata"
+              ]
+            },
+            {
+              "text": "Non-competitor: Complete: Itsutsu no Kata (tori & uke) and Koshiki no Kata (tori & uke)",
+              "techniques": [],
+              "kata": [
+                "itsutsu-no-kata",
+                "koshiki-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "additional-requirements",
+          "title": {
+            "en": "Additional requirements"
+          },
+          "items": [
+            {
+              "text": "Demonstrative moral characters and skills such as:",
+              "techniques": []
+            },
+            {
+              "text": "Invoking purpose and meaning to what we do",
+              "techniques": []
+            },
+            {
+              "text": "Providing higher and personalized motivation and inspiration",
+              "techniques": []
+            },
+            {
+              "text": "Regional, National, and International contribution and experiences",
+              "techniques": []
+            },
+            {
+              "text": "Developing all students to help achieve higher levels",
+              "techniques": []
+            },
+            {
+              "text": "Direct participation in on-the-mat activities in uniform",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "application",
+          "title": {
+            "en": "Promotion application"
+          },
+          "items": [
+            {
+              "text": "For Nidan and above they must have current membership plus three years prior membership.",
+              "techniques": []
+            },
+            {
+              "text": "All applicants for Shodan and above must undergo the USJF background/screening program per USJF documented procedure. (If candidate is a minor this is not needed.)",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Recommendation for Promotion, Form 20 (2021)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/06/20V6.0.0210614.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "8th-dan",
+      "label": {
+        "en": "Hachidan (8th Dan)"
+      },
+      "beltColor": "red",
+      "beltStripe": "white",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "age-and-time-in-grade",
+          "title": {
+            "en": "Minimum age and time in grade"
+          },
+          "items": [
+            {
+              "text": "Minimal Age: 42 years old",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in Grade: 19 years",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-requirements",
+          "title": {
+            "en": "General requirements"
+          },
+          "items": [
+            {
+              "text": "Unquestioned moral character and maturity.",
+              "techniques": []
+            },
+            {
+              "text": "Continued practice and involvement in judo.",
+              "techniques": []
+            },
+            {
+              "text": "Terminology required for lower ranks",
+              "techniques": []
+            },
+            {
+              "text": "With increased proficiency in all lower rank requirements",
+              "techniques": []
+            },
+            {
+              "text": "Good understanding of and skill teaching certification",
+              "techniques": []
+            },
+            {
+              "text": "Major levels of refereeing and judging (shiai and/or kata)",
+              "techniques": []
+            },
+            {
+              "text": "First Aid, CPR, Safe Sport and CDC Heads Up Certification",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "(Competitor) Koshiki no Kata (tori & uke)",
+              "techniques": [],
+              "kata": [
+                "koshiki-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "additional-requirements",
+          "title": {
+            "en": "Additional requirements"
+          },
+          "items": [
+            {
+              "text": "Demonstrative moral characters and skills such as:",
+              "techniques": []
+            },
+            {
+              "text": "Ability to inspire and organize",
+              "techniques": []
+            },
+            {
+              "text": "Recognition for a lifetime of Judo",
+              "techniques": []
+            },
+            {
+              "text": "Being a life coach",
+              "techniques": []
+            },
+            {
+              "text": "Being an extraordinary individual",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "application",
+          "title": {
+            "en": "Promotion application"
+          },
+          "items": [
+            {
+              "text": "For Nidan and above they must have current membership plus three years prior membership.",
+              "techniques": []
+            },
+            {
+              "text": "All applicants for Shodan and above must undergo the USJF background/screening program per USJF documented procedure. (If candidate is a minor this is not needed.)",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Recommendation for Promotion, Form 20 (2021)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/06/20V6.0.0210614.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "9th-dan",
+      "label": {
+        "en": "Kudan (9th Dan)"
+      },
+      "beltColor": "red",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "requirements",
+          "title": {
+            "en": "Requirements"
+          },
+          "items": [
+            {
+              "text": "Nomination for Kudan: Requires no less than 50% of Yudanshakais represented on the Promotion Committee at the time of nomination. Each Yudanshakai joining in a Kudan nomination shall have its action pre-approved by its Yudanshakai Board of Directors prior to submission.",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in grade: Candidates for Kudan shall have held USJF rank of Hachidan. No minimum time in grade is required",
+              "techniques": []
+            },
+            {
+              "text": "When Kudan Nomination may be considered: Candidates for Kudan may be considered by the Promotional Committee and Board of Examiners only at the annual (Spring) corporate meeting in even numbered years (i.e. 2022, 2024, etc.)",
+              "techniques": []
+            },
+            {
+              "text": "Approval or Tabling: A vote of 90% of both the Promotional Committee and the Board of Examiners shall be required for approval of Kudan rank. No Kudan application can be rejected. Any Kudan promotion not approved must be tabled. Tabled Kudan applications may be taken from the table for reconsideration at the next scheduled meeting according to the timing limitation set forth here in above; or may be withdrawn at any time by the Yudanshakai responsible for its original submission.",
+              "techniques": []
+            },
+            {
+              "text": "Consistent USJF Yudanshakai Loyalty: Absence of consistent LIFE-LONG loyalty can be considered one reason for tabling a candidate for Kudan application.",
+              "techniques": []
+            },
+            {
+              "text": "General Requirements: Unquestioned moral character and maturity, continued practice and involvement in judo. Mastery of the principles and philosophy of judo. Substantial contribution to judo and to society. Major levels of contributions to judo organizations. First Aid, CPR, Safe Sport and CDC Heads Up Certification. The USJF Promotional Committee makes the recommendation to the Board of Examiners.",
+              "techniques": []
+            },
+            {
+              "text": "Lifetime Achievements in Judo",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "application",
+          "title": {
+            "en": "Promotion application"
+          },
+          "items": [
+            {
+              "text": "For Nidan and above they must have current membership plus three years prior membership.",
+              "techniques": []
+            },
+            {
+              "text": "All applicants for Shodan and above must undergo the USJF background/screening program per USJF documented procedure. (If candidate is a minor this is not needed.)",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Recommendation for Promotion, Form 20 (2021)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/06/20V6.0.0210614.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "10th-dan",
+      "label": {
+        "en": "Judan (10th Dan)"
+      },
+      "beltColor": "red",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "requirements",
+          "title": {
+            "en": "Requirements"
+          },
+          "items": [
+            {
+              "text": "Nomination for Judan: Nomination for Judan: Requires the affirmative nominations of no less than 50% of Yudanshakais represented on the Promotion Committee at the time of nomination. Each Yudanshakai joining in a Judan nomination shall have its action pre-approved by its Yudanshakai Board of Directors to submission.",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in grade: Candidates for Judan shall have held USJF rank of Kudan for no less than 10 years. There shall be no Judan promotion awarded to any candidate not holding USJF Kudan rank.",
+              "techniques": []
+            },
+            {
+              "text": "When Judan Nomination may be considered: Candidates for Kudan may be considered by the Promotional Committee and Board of Examiners only at the annual (Spring) corporate meeting in even numbered years (i.e. 2022, 2024, etc.)",
+              "techniques": []
+            },
+            {
+              "text": "Approval or Tabling: A vote of 100% of both the Promotional Committee and the Board of Examiners shall be required for approval of Judan rank. No Judan application can be rejected. Any Judan promotion not approved must be tabled. Tabled Judan applications may be taken from the table for reconsideration at the later scheduled meetings according to the timing limitation set forth here in above; or may be withdrawn at any time by the Yudanshakai responsible for its original submission.",
+              "techniques": []
+            },
+            {
+              "text": "Lifelong USJF Yudanshakai Loyalty: Absence of consistent lifelong loyalty can be considered one reason for tabling a candidate for Judan",
+              "techniques": []
+            },
+            {
+              "text": "General Requirements: Criteria include multiple factors including e.g. highest level of lifetime achievements in judo, leadership achievements in judo, leadership contributions at all levels of USJF judo, long record of the highest level of competition, coaching, officiating successes, unimpeachable character. Major contributions in multiple areas of judo development, promotion, support, published Judo works, etc. First Aid, CPR, Safe Sport and CDC Heads Up Certification. The USJF Promotional Committee makes the recommendation to the Board of Examiners.",
+              "techniques": []
+            },
+            {
+              "text": "Lifetime Achievements in Judo",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "application",
+          "title": {
+            "en": "Promotion application"
+          },
+          "items": [
+            {
+              "text": "For Nidan and above they must have current membership plus three years prior membership.",
+              "techniques": []
+            },
+            {
+              "text": "All applicants for Shodan and above must undergo the USJF background/screening program per USJF documented procedure. (If candidate is a minor this is not needed.)",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Recommendation for Promotion, Form 20 (2021)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/06/20V6.0.0210614.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    }
+  ]
+}

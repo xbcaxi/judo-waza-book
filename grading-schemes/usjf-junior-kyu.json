@@ -1,0 +1,3069 @@
+{
+  "name": {
+    "en": "Junior kyu grades (USJF)"
+  },
+  "organisation": "United States Judo Federation",
+  "country": "US",
+  "order": 8,
+  "description": {
+    "en": "The United States Judo Federation's recommended junior pathway for judoka aged 16 and under: eleven kyu grades from white to purple belt, then Shodan. Each grade covers personal development, vocabulary, history, rules and technique, with shime waza and kansetsu waza added at the older ages."
+  },
+  "source": {
+    "title": "USJF Rank Requirements, Junior (chart)",
+    "date": "22 September 2023",
+    "note": {
+      "en": "The federation's junior pathway is set out in two documents: the junior section of the Rank Requirement Recommendations Handbook (5/1/21) and the newer junior rank requirements chart (9/22/23). Both describe the same eleven kyu grades and Shodan with the same belt colours, so they are one scheme, and the 2023 chart is transcribed as the current requirements. The chart is a grid of rows (personal development, general concepts, vocabulary, history, rules, tachi waza, osae waza, shime waza, kansetsu waza, kata) by rank; each non-empty cell becomes a section, each printed bullet an item, and an indented sub-list is joined to its heading after a colon, separated by commas. Cell headings are kept at the start of the item they introduce, or as an item of their own where a bulleted list follows. The line printed once above the tachi waza row, \"Judoka must be able to name, demonstrate and define each techique\", is repeated at the head of each grade's tachi waza section. Three cells in the Yonkyu column are cut off at the cell edge in the chart and are transcribed as far as they print (\"Expand physical fitness and\", \"Continued dojo level refere\", \"Continue to expand osae wa\"). The chart prints \"Age Appropriate if over 12\" and \"Age Appropriate for 14 and up\" in the Gokyu column only, although its shime waza and kansetsu waza content begins at Adv Sankyu. The chart gives no minimum ages or class counts, so those are kept from the handbook's junior section, in a section labelled as coming from it. The two documents differ throughout: the handbook's junior section allocates the techniques differently (for example O soto-gari, Deashi-barai and Ippon Seoi-nage at Jukyu, where the chart has o goshi and uki goshi), sets shime waza from 13 and kansetsu waza from 17 where the chart says 12 and 14, spells the 7th grade \"Nankyu\" where the ranking table has Nanakyu, and repeats the senior Shodan requirements for junior Shodan. Item text is as printed, including the chart's slips (\"compeition\", \"transitinal\", \"techique\", \"Enchanced\", \"philisophy\", \"cother\", \"hikkomi gaeshi\", resolved to Hikikomi-gaeshi). The chart names grades by the Mon system (Rokkyu, Advanced Rokkyu and so on); labels here give the handbook's rank name with the Mon name in brackets. The handbook's ranking table also lists a Traditional Junior column (White, Yellow, Orange, Green, Blue, Purple for Rokkyu to Ikkyu) with no requirements of its own, so it is not a separate scheme here. \"morote-jime\", \"sankaku gatame\" under osae waza and \"mawari ashi\" are left unresolved."
+    }
+  },
+  "beltMark": "stripe",
+  "beltNote": {
+    "en": "The handbook prints each in-between grade as a two-colour belt, for example White/Yellow, or under the Mon system as the lower colour with a stripe of the higher; either is allowed."
+  },
+  "grades": [
+    {
+      "slug": "11th-kyu",
+      "label": {
+        "en": "Juichikyu (Rokkyu)"
+      },
+      "beltColor": "white",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "personal-development",
+          "title": {
+            "en": "Personal development (moral character)"
+          },
+          "items": [
+            {
+              "text": "What is a good judoka?",
+              "techniques": []
+            },
+            {
+              "text": "How to be a good judoka?",
+              "techniques": []
+            },
+            {
+              "text": "Judo virtues include:",
+              "techniques": []
+            },
+            {
+              "text": "Knowledge: academic achievement, perseverance, courage, growth",
+              "techniques": []
+            },
+            {
+              "text": "Self-control: obedience, humility, honor, compassion",
+              "techniques": []
+            },
+            {
+              "text": "Integrity: honesty, courtesy, respect, sincerity, loyalty",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-concepts",
+          "title": {
+            "en": "General concepts (physical demonstration)"
+          },
+          "items": [
+            {
+              "text": "To learn and demonstrate that each judoka's main responsibility in club/class is to keep everyone you work/play with safe and to help everyone learn.",
+              "techniques": []
+            },
+            {
+              "text": "To tie my own obi.",
+              "techniques": [],
+              "terms": [
+                "obi"
+              ]
+            },
+            {
+              "text": "Ability to perform Ushiro Ukemi from a sitting, squatting, and standing position",
+              "techniques": [],
+              "skills": [
+                "ushiro-ukemi"
+              ]
+            },
+            {
+              "text": "Ability to perform Yoko Ukemi from a sitting and squatting position",
+              "techniques": [],
+              "skills": [
+                "yoko-ukemi"
+              ]
+            },
+            {
+              "text": "Ability to perform Zenpo Kaiten from a kneeling position",
+              "techniques": [],
+              "skills": [
+                "mae-mawari-ukemi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "vocabulary",
+          "title": {
+            "en": "Vocabulary and essential questions"
+          },
+          "items": [
+            {
+              "text": "What is a gi?",
+              "techniques": [],
+              "terms": [
+                "judogi"
+              ]
+            },
+            {
+              "text": "EQ: Why do we wear a uniform?",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "history-and-philosophy",
+          "title": {
+            "en": "History and philosophy"
+          },
+          "items": [
+            {
+              "text": "Why we learn judo.",
+              "techniques": []
+            },
+            {
+              "text": "What judo is and is not.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "rules",
+          "title": {
+            "en": "Rules"
+          },
+          "items": [
+            {
+              "text": "Specific rules of the dojo/class.",
+              "techniques": []
+            },
+            {
+              "text": "Basic expectations and guided protocols",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "tachi-waza",
+          "title": {
+            "en": "Tachi waza"
+          },
+          "items": [
+            {
+              "text": "Judoka must be able to name, demonstrate and define each techique, developing both sides",
+              "techniques": []
+            },
+            {
+              "text": "Uke kneels, Tori stands",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osae-waza",
+          "title": {
+            "en": "Osae waza"
+          },
+          "items": [
+            {
+              "text": "Concept of what constitutes a successful gatame",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "section-vii-age-and-classes",
+          "title": {
+            "en": "Minimum age and classes (Section VII, 2021)"
+          },
+          "items": [
+            {
+              "text": "Min age 4-5 years old",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Requirements Matrix (9/22/23)",
+          "url": "https://www.usjf.com/wp-content/uploads/2023/10/USJF-Rank-Requirements-Horizontal-Jr.-9_22_23.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Junior Rank Recommendations, Handbook Section VII (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Jr-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "10th-kyu",
+      "label": {
+        "en": "Jukyu (Adv. Rokkyu)"
+      },
+      "beltColor": "white",
+      "beltStripe": "yellow",
+      "techniqueSlugs": [
+        "o-goshi",
+        "uki-goshi",
+        "kesa-gatame",
+        "yoko-shiho-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "personal-development",
+          "title": {
+            "en": "Personal development (moral character)"
+          },
+          "items": [
+            {
+              "text": "Etiquette (reigi saho)",
+              "techniques": []
+            },
+            {
+              "text": "Expand understanding of virtues of judo",
+              "techniques": []
+            },
+            {
+              "text": "Expand physical fitness and adeptness",
+              "techniques": []
+            },
+            {
+              "text": "Maturing/developing character traits",
+              "techniques": []
+            },
+            {
+              "text": "Academic achievement",
+              "techniques": []
+            },
+            {
+              "text": "To be an active learner",
+              "techniques": []
+            },
+            {
+              "text": "To be an active participant",
+              "techniques": []
+            },
+            {
+              "text": "Family engagement",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-concepts",
+          "title": {
+            "en": "General concepts (physical demonstration)"
+          },
+          "items": [
+            {
+              "text": "Rei, Sensei, Hajime, & Mate",
+              "techniques": [],
+              "terms": [
+                "rei",
+                "sensei",
+                "hajime",
+                "matte"
+              ]
+            },
+            {
+              "text": "Ukemi: Ushiro, Yoko, Mae, Zenpo kaiten",
+              "techniques": [],
+              "skills": [
+                "ushiro-ukemi",
+                "yoko-ukemi",
+                "mae-ukemi",
+                "mae-mawari-ukemi"
+              ]
+            },
+            {
+              "text": "Basics: Ritzarei, zarei, tying obi, counting to 10 in Japanese, spell judo",
+              "techniques": [],
+              "terms": [
+                "ritsurei",
+                "zarei",
+                "obi"
+              ]
+            },
+            {
+              "text": "Shisei (shizentai & jigotai)",
+              "techniques": [],
+              "skills": [
+                "shisei"
+              ]
+            },
+            {
+              "text": "Three parts of a throw: Kuzushi, Tsukuri, Kake",
+              "techniques": [],
+              "terms": [
+                "kuzushi",
+                "tsukuri",
+                "kake"
+              ]
+            },
+            {
+              "text": "Begin learning the parts of a judo gi: Uwagi, Shitagi, Obi, & Zori",
+              "techniques": [],
+              "terms": [
+                "judogi",
+                "obi",
+                "zori"
+              ]
+            },
+            {
+              "text": "Uchikomi, sutegeiko, randori",
+              "techniques": [],
+              "terms": [
+                "uchikomi",
+                "randori"
+              ]
+            },
+            {
+              "text": "Transitional movements",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "vocabulary",
+          "title": {
+            "en": "Vocabulary and essential questions"
+          },
+          "items": [
+            {
+              "text": "Need to know: rei, sensei, hajime, mate, ukemi, judogi, obi, dojo",
+              "techniques": [],
+              "terms": [
+                "rei",
+                "sensei",
+                "hajime",
+                "matte",
+                "ukemi",
+                "judogi",
+                "obi",
+                "dojo"
+              ]
+            },
+            {
+              "text": "Like to know: ushiro, yoko, mae, zenpo kaiten",
+              "techniques": [],
+              "terms": [
+                "name-ushiro",
+                "name-yoko",
+                "name-mae"
+              ]
+            },
+            {
+              "text": "EQ: Tell about 2 things that are important when you do an ukemi.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "history-and-philosophy",
+          "title": {
+            "en": "History and philosophy"
+          },
+          "items": [
+            {
+              "text": "What does \"judo\" mean?",
+              "techniques": []
+            },
+            {
+              "text": "Name the founder of judo?",
+              "techniques": []
+            },
+            {
+              "text": "In what country was judo founded?",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "rules",
+          "title": {
+            "en": "Rules"
+          },
+          "items": [
+            {
+              "text": "Bowing protocols:",
+              "techniques": []
+            },
+            {
+              "text": "Bowing onto the mat",
+              "techniques": []
+            },
+            {
+              "text": "Group bowing at start and end of class",
+              "techniques": []
+            },
+            {
+              "text": "Bowing to each partner before and after practicing",
+              "techniques": []
+            },
+            {
+              "text": "Demonstrating respect for self and others",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "tachi-waza",
+          "title": {
+            "en": "Tachi waza"
+          },
+          "items": [
+            {
+              "text": "Judoka must be able to name, demonstrate and define each techique, developing both sides",
+              "techniques": []
+            },
+            {
+              "text": "o goshi",
+              "techniques": [
+                "o-goshi"
+              ]
+            },
+            {
+              "text": "uki goshi",
+              "techniques": [
+                "uki-goshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "osae-waza",
+          "title": {
+            "en": "Osae waza"
+          },
+          "items": [
+            {
+              "text": "kesa gatame: entries, variations, escapes, turnovers",
+              "techniques": [
+                "kesa-gatame"
+              ]
+            },
+            {
+              "text": "yoko shiho gatame: entries, variations, escapes, turnovers",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Begin introducing entries for a variety of uke positions: flat on stomach, kneeling, turtle, etc.",
+              "techniques": []
+            },
+            {
+              "text": "Transitions between osae waza techniques",
+              "techniques": []
+            },
+            {
+              "text": "Introductory transitions from kneeling position into osae waza techniques",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "section-vii-age-and-classes",
+          "title": {
+            "en": "Minimum age and classes (Section VII, 2021)"
+          },
+          "items": [
+            {
+              "text": "Min age 5-6 years old",
+              "techniques": []
+            },
+            {
+              "text": "Number of classes 20 or two months. TIG number of classes can be reduced for exceptional ability and or competitive record.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Requirements Matrix (9/22/23)",
+          "url": "https://www.usjf.com/wp-content/uploads/2023/10/USJF-Rank-Requirements-Horizontal-Jr.-9_22_23.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Junior Rank Recommendations, Handbook Section VII (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Jr-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "9th-kyu",
+      "label": {
+        "en": "Kyukyu (Gokyu)"
+      },
+      "beltColor": "yellow",
+      "techniqueSlugs": [
+        "koshi-guruma",
+        "ippon-seoi-nage",
+        "o-uchi-gari",
+        "kami-shiho-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "personal-development",
+          "title": {
+            "en": "Personal development (moral character)"
+          },
+          "items": [
+            {
+              "text": "Expanded virtues of judo",
+              "techniques": []
+            },
+            {
+              "text": "Expand physical fitness and adeptness",
+              "techniques": []
+            },
+            {
+              "text": "Maturing and expanding on demonstrable character traits",
+              "techniques": []
+            },
+            {
+              "text": "Increased participation",
+              "techniques": []
+            },
+            {
+              "text": "Academic achievement",
+              "techniques": []
+            },
+            {
+              "text": "Family engagement",
+              "techniques": []
+            },
+            {
+              "text": "Community involvement",
+              "techniques": []
+            },
+            {
+              "text": "Assist, with guidance, less experienced judoka",
+              "techniques": []
+            },
+            {
+              "text": "Openness to instruction from other judoka",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-concepts",
+          "title": {
+            "en": "General concepts (physical demonstration)"
+          },
+          "items": [
+            {
+              "text": "Basics",
+              "techniques": []
+            },
+            {
+              "text": "Shizentai: Hon, Migi, hidari",
+              "techniques": [],
+              "skills": [
+                "shisei"
+              ]
+            },
+            {
+              "text": "Shisei: Ayumi ashi, Tsugi ashi, Migi, Hidari, & Yoko, Suri ashi, Tai sabaki",
+              "techniques": [],
+              "skills": [
+                "shintai",
+                "tai-sabaki"
+              ]
+            },
+            {
+              "text": "90 degree turn , front and back, in one movement",
+              "techniques": []
+            },
+            {
+              "text": "180 degree turn in two movements",
+              "techniques": []
+            },
+            {
+              "text": "Expanded transitinal movements",
+              "techniques": []
+            },
+            {
+              "text": "Introduction to movements and techniques on both left and right sides",
+              "techniques": []
+            },
+            {
+              "text": "O, Ko, Soto, & Uchi",
+              "techniques": [],
+              "terms": [
+                "name-o",
+                "name-ko",
+                "name-soto",
+                "name-uchi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "vocabulary",
+          "title": {
+            "en": "Vocabulary and essential questions"
+          },
+          "items": [
+            {
+              "text": "Need to know: kuzushi, tsukuri, kake, mae, yoko, ushiro, zenpo kaiten",
+              "techniques": [],
+              "terms": [
+                "kuzushi",
+                "tsukuri",
+                "kake",
+                "name-mae",
+                "name-yoko",
+                "name-ushiro"
+              ]
+            },
+            {
+              "text": "Like to know: parts of judogi (uwagi, shitagi, obi, zori), name of technique and its meaning (example: o-goshi = major hip throw)",
+              "techniques": [],
+              "terms": [
+                "judogi",
+                "obi",
+                "zori"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "history-and-philosophy",
+          "title": {
+            "en": "History and philosophy"
+          },
+          "items": [
+            {
+              "text": "Purpose of judo/how judo began",
+              "techniques": []
+            },
+            {
+              "text": "Basic judo principles",
+              "techniques": []
+            },
+            {
+              "text": "Judo as your club/class",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "rules",
+          "title": {
+            "en": "Rules"
+          },
+          "items": [
+            {
+              "text": "Rules & refereeing: Basic compeition rules and etiquette.",
+              "techniques": []
+            },
+            {
+              "text": "Respect for referees.",
+              "techniques": []
+            },
+            {
+              "text": "Hajime, Matte, Ippon, Waza-ari, Osaekomi, Toketa,Shido & Hansoku Make, including basic signals",
+              "techniques": [],
+              "terms": [
+                "hajime",
+                "matte",
+                "ippon",
+                "waza-ari",
+                "osaekomi",
+                "toketa",
+                "shido",
+                "hansoku-make"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "tachi-waza",
+          "title": {
+            "en": "Tachi waza"
+          },
+          "items": [
+            {
+              "text": "Judoka must be able to name, demonstrate and define each techique, developing both sides",
+              "techniques": []
+            },
+            {
+              "text": "koshi guruma",
+              "techniques": [
+                "koshi-guruma"
+              ]
+            },
+            {
+              "text": "ippon seoi nage",
+              "techniques": [
+                "ippon-seoi-nage"
+              ]
+            },
+            {
+              "text": "ouchi gari",
+              "techniques": [
+                "o-uchi-gari"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "osae-waza",
+          "title": {
+            "en": "Osae waza"
+          },
+          "items": [
+            {
+              "text": "kami shiho gatame: variations, entries, escapes, turnovers",
+              "techniques": [
+                "kami-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Expand entry, escape and turnover repertoire",
+              "techniques": []
+            },
+            {
+              "text": "Previous transitions within and between techniques",
+              "techniques": []
+            },
+            {
+              "text": "Begin transitions from tachi waza into osae waza",
+              "techniques": []
+            },
+            {
+              "text": "Begin working from the guard",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "Age Appropriate if over 12",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "Age Appropriate for 14 and up",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "section-vii-age-and-classes",
+          "title": {
+            "en": "Minimum age and classes (Section VII, 2021)"
+          },
+          "items": [
+            {
+              "text": "Min age 5-6 years old",
+              "techniques": []
+            },
+            {
+              "text": "Number of classes 30 or 3 months. TIG number of classes can be reduced for exceptional ability and or competitive record.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Requirements Matrix (9/22/23)",
+          "url": "https://www.usjf.com/wp-content/uploads/2023/10/USJF-Rank-Requirements-Horizontal-Jr.-9_22_23.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Junior Rank Recommendations, Handbook Section VII (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Jr-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "8th-kyu",
+      "label": {
+        "en": "Hachikyu (Adv. Gokyu)"
+      },
+      "beltColor": "yellow",
+      "beltStripe": "orange",
+      "techniqueSlugs": [
+        "de-ashi-harai",
+        "seoi-nage",
+        "tate-shiho-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "personal-development",
+          "title": {
+            "en": "Personal development (moral character)"
+          },
+          "items": [
+            {
+              "text": "Expanded virtues of judo",
+              "techniques": []
+            },
+            {
+              "text": "Expand physical fitness and adeptness",
+              "techniques": []
+            },
+            {
+              "text": "Improved character traits",
+              "techniques": []
+            },
+            {
+              "text": "Increased participation",
+              "techniques": []
+            },
+            {
+              "text": "Academic achievement",
+              "techniques": []
+            },
+            {
+              "text": "Family engagement",
+              "techniques": []
+            },
+            {
+              "text": "Community involvement",
+              "techniques": []
+            },
+            {
+              "text": "Assist, with guidance, less experienced judoka",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-concepts",
+          "title": {
+            "en": "General concepts (physical demonstration)"
+          },
+          "items": [
+            {
+              "text": "Ebi Oyogi",
+              "techniques": []
+            },
+            {
+              "text": "Kata nuki",
+              "techniques": []
+            },
+            {
+              "text": "Fukuga zenshin",
+              "techniques": []
+            },
+            {
+              "text": "Expected knowledge of previous ranks",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "vocabulary",
+          "title": {
+            "en": "Vocabulary and essential questions"
+          },
+          "items": [
+            {
+              "text": "Need to know: goshi, ashi, te, hiza, nage, waza, hidari/migi",
+              "techniques": [],
+              "terms": [
+                "name-goshi",
+                "name-ashi",
+                "name-te",
+                "name-hiza",
+                "name-nage",
+                "waza",
+                "name-hidari-migi"
+              ]
+            },
+            {
+              "text": "Like to know: Prior \"like to know\".",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "history-and-philosophy",
+          "title": {
+            "en": "History and philosophy"
+          },
+          "items": [
+            {
+              "text": "Judo as a Yudanshakai.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "rules",
+          "title": {
+            "en": "Rules"
+          },
+          "items": [
+            {
+              "text": "Rules: Expanded rules of compeition: Waza ari awasete Ippon, Sono mama, Yoshi",
+              "techniques": [],
+              "terms": [
+                "waza-ari-awasete-ippon",
+                "sonomama",
+                "yoshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "tachi-waza",
+          "title": {
+            "en": "Tachi waza"
+          },
+          "items": [
+            {
+              "text": "Judoka must be able to name, demonstrate and define each techique, developing both sides",
+              "techniques": []
+            },
+            {
+              "text": "deashi barai",
+              "techniques": [
+                "de-ashi-harai"
+              ]
+            },
+            {
+              "text": "morote seoi nage",
+              "techniques": [
+                "seoi-nage"
+              ]
+            },
+            {
+              "text": "1 combination",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osae-waza",
+          "title": {
+            "en": "Osae waza"
+          },
+          "items": [
+            {
+              "text": "tate shiho gatame",
+              "techniques": [
+                "tate-shiho-gatame"
+              ]
+            },
+            {
+              "text": "variations",
+              "techniques": []
+            },
+            {
+              "text": "expand entry methods and transition repertoire",
+              "techniques": []
+            },
+            {
+              "text": "escapes and turnovers for all known techniques",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "section-vii-age-and-classes",
+          "title": {
+            "en": "Minimum age and classes (Section VII, 2021)"
+          },
+          "items": [
+            {
+              "text": "Min age 6-7 years old",
+              "techniques": []
+            },
+            {
+              "text": "Number of classes 35 or 3-4 months. TIG number of classes can be reduced for exceptional ability and or competitive record.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Requirements Matrix (9/22/23)",
+          "url": "https://www.usjf.com/wp-content/uploads/2023/10/USJF-Rank-Requirements-Horizontal-Jr.-9_22_23.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Junior Rank Recommendations, Handbook Section VII (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Jr-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "7th-kyu",
+      "label": {
+        "en": "Nanakyu (Yonkyu)"
+      },
+      "beltColor": "orange",
+      "techniqueSlugs": [
+        "o-soto-gari",
+        "tai-otoshi",
+        "hiza-guruma",
+        "ko-uchi-gari",
+        "harai-goshi",
+        "ushiro-kesa-gatame",
+        "ura-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "personal-development",
+          "title": {
+            "en": "Personal development (moral character)"
+          },
+          "items": [
+            {
+              "text": "Expanded virtues of judo",
+              "techniques": []
+            },
+            {
+              "text": "Expand physical fitness and",
+              "techniques": []
+            },
+            {
+              "text": "Improved character traits",
+              "techniques": []
+            },
+            {
+              "text": "Increased participation",
+              "techniques": []
+            },
+            {
+              "text": "Academic achievement",
+              "techniques": []
+            },
+            {
+              "text": "Family engagement",
+              "techniques": []
+            },
+            {
+              "text": "Community involvement",
+              "techniques": []
+            },
+            {
+              "text": "Continued dojo level refere",
+              "techniques": []
+            },
+            {
+              "text": "Assist with less experienced",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-concepts",
+          "title": {
+            "en": "General concepts (physical demonstration)"
+          },
+          "items": [
+            {
+              "text": "Expanded knowledge of previous ranks",
+              "techniques": []
+            },
+            {
+              "text": "Further development of concepts;",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "vocabulary",
+          "title": {
+            "en": "Vocabulary and essential questions"
+          },
+          "items": [
+            {
+              "text": "Need to know: tai sabaki, te waza, koshi waza, ashi waza, sutemi waza, kaeshi waza",
+              "techniques": [],
+              "skills": [
+                "tai-sabaki"
+              ],
+              "terms": [
+                "te-waza",
+                "koshi-waza",
+                "ashi-waza",
+                "sutemi-waza",
+                "kaeshi-waza"
+              ]
+            },
+            {
+              "text": "EQ: Why is proper ukemi important?",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "history-and-philosophy",
+          "title": {
+            "en": "History and philosophy"
+          },
+          "items": [
+            {
+              "text": "Judo as a national community",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "rules",
+          "title": {
+            "en": "Rules"
+          },
+          "items": [
+            {
+              "text": "Rules: Understanding of penalty situations",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "tachi-waza",
+          "title": {
+            "en": "Tachi waza"
+          },
+          "items": [
+            {
+              "text": "Judoka must be able to name, demonstrate and define each techique, developing both sides",
+              "techniques": []
+            },
+            {
+              "text": "osoto gari",
+              "techniques": [
+                "o-soto-gari"
+              ]
+            },
+            {
+              "text": "tai otoshi",
+              "techniques": [
+                "tai-otoshi"
+              ]
+            },
+            {
+              "text": "hiza guruma",
+              "techniques": [
+                "hiza-guruma"
+              ]
+            },
+            {
+              "text": "kouchi gari",
+              "techniques": [
+                "ko-uchi-gari"
+              ]
+            },
+            {
+              "text": "harai goshi",
+              "techniques": [
+                "harai-goshi"
+              ]
+            },
+            {
+              "text": "1 combination",
+              "techniques": []
+            },
+            {
+              "text": "1 counter",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osae-waza",
+          "title": {
+            "en": "Osae waza"
+          },
+          "items": [
+            {
+              "text": "ushiro kesa gatame: variations, entries, escapes, turnovers",
+              "techniques": [
+                "ushiro-kesa-gatame"
+              ]
+            },
+            {
+              "text": "ura gatame: variations, entries, escapes, turnovers",
+              "techniques": [
+                "ura-gatame"
+              ]
+            },
+            {
+              "text": "Continue to expand osae wa",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "section-vii-age-and-classes",
+          "title": {
+            "en": "Minimum age and classes (Section VII, 2021)"
+          },
+          "items": [
+            {
+              "text": "Min age 7-8 years old",
+              "techniques": []
+            },
+            {
+              "text": "Number of classes 40 or 4 months. TIG number of classes can be reduced for exceptional ability and or competitive record.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Requirements Matrix (9/22/23)",
+          "url": "https://www.usjf.com/wp-content/uploads/2023/10/USJF-Rank-Requirements-Horizontal-Jr.-9_22_23.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Junior Rank Recommendations, Handbook Section VII (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Jr-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "6th-kyu",
+      "label": {
+        "en": "Rokkyu (Adv. Yonkyu)"
+      },
+      "beltColor": "orange",
+      "beltStripe": "green",
+      "techniqueSlugs": [
+        "ko-soto-gari",
+        "o-soto-gaeshi",
+        "o-uchi-gaeshi",
+        "hane-goshi",
+        "ko-uchi-makikomi",
+        "kata-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "personal-development",
+          "title": {
+            "en": "Personal development (moral character)"
+          },
+          "items": [
+            {
+              "text": "Expanded virtues of judo",
+              "techniques": []
+            },
+            {
+              "text": "Expand physical fitness and adeptness",
+              "techniques": []
+            },
+            {
+              "text": "Improved character traits",
+              "techniques": []
+            },
+            {
+              "text": "Increased participation",
+              "techniques": []
+            },
+            {
+              "text": "Academic achievement",
+              "techniques": []
+            },
+            {
+              "text": "Family engagement",
+              "techniques": []
+            },
+            {
+              "text": "Community involvement",
+              "techniques": []
+            },
+            {
+              "text": "Continued dojo level refereeing and/or technical officiating",
+              "techniques": []
+            },
+            {
+              "text": "Assist with less experienced judoka",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-concepts",
+          "title": {
+            "en": "General concepts (physical demonstration)"
+          },
+          "items": [
+            {
+              "text": "Expanded knowledge of previous ranks",
+              "techniques": []
+            },
+            {
+              "text": "Further development of concepts;",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "vocabulary",
+          "title": {
+            "en": "Vocabulary and essential questions"
+          },
+          "items": [
+            {
+              "text": "Need to know: ayumi ashi, tsugi ashi",
+              "techniques": [],
+              "skills": [
+                "shintai"
+              ]
+            },
+            {
+              "text": "Like to know: mawari ashi",
+              "techniques": []
+            },
+            {
+              "text": "EQ: Why are there so many different ways to move in Judo?",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "history-and-philosophy",
+          "title": {
+            "en": "History and philosophy"
+          },
+          "items": [
+            {
+              "text": "Judo as the global world community",
+              "techniques": []
+            },
+            {
+              "text": "Basics of judo in Olympics.",
+              "techniques": []
+            },
+            {
+              "text": "Seiryoku Zenyo (maximim efficiency with minimal effort)",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "rules",
+          "title": {
+            "en": "Rules"
+          },
+          "items": [
+            {
+              "text": "Roles: Learning roles of referee, coach and spectator",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "tachi-waza",
+          "title": {
+            "en": "Tachi waza"
+          },
+          "items": [
+            {
+              "text": "Judoka must be able to name, demonstrate and define each techique, developing both sides",
+              "techniques": []
+            },
+            {
+              "text": "kosoto gari",
+              "techniques": [
+                "ko-soto-gari"
+              ]
+            },
+            {
+              "text": "osoto gaeshi",
+              "techniques": [
+                "o-soto-gaeshi"
+              ]
+            },
+            {
+              "text": "ouchi gaeshi",
+              "techniques": [
+                "o-uchi-gaeshi"
+              ]
+            },
+            {
+              "text": "hane goshi",
+              "techniques": [
+                "hane-goshi"
+              ]
+            },
+            {
+              "text": "kouchi makikomi",
+              "techniques": [
+                "ko-uchi-makikomi"
+              ]
+            },
+            {
+              "text": "2 combination",
+              "techniques": []
+            },
+            {
+              "text": "2 counters",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osae-waza",
+          "title": {
+            "en": "Osae waza"
+          },
+          "items": [
+            {
+              "text": "kata gatame: variations, entries, escapes, turnovers",
+              "techniques": [
+                "kata-gatame"
+              ]
+            },
+            {
+              "text": "Continue to expand depth of previously known repertoire.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "section-vii-age-and-classes",
+          "title": {
+            "en": "Minimum age and classes (Section VII, 2021)"
+          },
+          "items": [
+            {
+              "text": "Min age 8-9 years old",
+              "techniques": []
+            },
+            {
+              "text": "Number of classes 50 or 5 months. TIG number of classes can be reduced for exceptional ability and or competitive record.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Requirements Matrix (9/22/23)",
+          "url": "https://www.usjf.com/wp-content/uploads/2023/10/USJF-Rank-Requirements-Horizontal-Jr.-9_22_23.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Junior Rank Recommendations, Handbook Section VII (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Jr-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "5th-kyu",
+      "label": {
+        "en": "Gokyu (Sankyu)"
+      },
+      "beltColor": "green",
+      "techniqueSlugs": [
+        "uchi-mata",
+        "tsurikomi-goshi",
+        "sode-tsurikomi-goshi",
+        "okuri-ashi-harai"
+      ],
+      "syllabus": [
+        {
+          "slug": "personal-development",
+          "title": {
+            "en": "Personal development (moral character)"
+          },
+          "items": [
+            {
+              "text": "Expanded virtues of judo",
+              "techniques": []
+            },
+            {
+              "text": "Expand physical fitness and adeptness",
+              "techniques": []
+            },
+            {
+              "text": "Improved character traits",
+              "techniques": []
+            },
+            {
+              "text": "Increased participation",
+              "techniques": []
+            },
+            {
+              "text": "Academic achievement",
+              "techniques": []
+            },
+            {
+              "text": "Family engagement",
+              "techniques": []
+            },
+            {
+              "text": "Community involvement",
+              "techniques": []
+            },
+            {
+              "text": "Begin local level refereeing and/or technical officiating (if appropriate)",
+              "techniques": []
+            },
+            {
+              "text": "Mentor less experienced judoka",
+              "techniques": []
+            },
+            {
+              "text": "Begin leadership development",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-concepts",
+          "title": {
+            "en": "General concepts (physical demonstration)"
+          },
+          "items": [
+            {
+              "text": "Expanded knowledge of previous ranks.",
+              "techniques": []
+            },
+            {
+              "text": "Further development of concepts;",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "vocabulary",
+          "title": {
+            "en": "Vocabulary and essential questions"
+          },
+          "items": [
+            {
+              "text": "EQ: How do I contribute to judo?",
+              "techniques": []
+            },
+            {
+              "text": "EQ: Describe the pros and cons of: uchikomi, sutegeiko, randori",
+              "techniques": [],
+              "terms": [
+                "uchikomi",
+                "randori"
+              ]
+            },
+            {
+              "text": "Explain how they are related to each other.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "history-and-philosophy",
+          "title": {
+            "en": "History and philosophy"
+          },
+          "items": [
+            {
+              "text": "Expanding understanding and scope of judo.",
+              "techniques": []
+            },
+            {
+              "text": "Jita kyoei (Mutual welfare)",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "rules",
+          "title": {
+            "en": "Rules"
+          },
+          "items": [
+            {
+              "text": "Professionalism of officiating",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "tachi-waza",
+          "title": {
+            "en": "Tachi waza"
+          },
+          "items": [
+            {
+              "text": "Judoka must be able to name, demonstrate and define each techique, developing both sides",
+              "techniques": []
+            },
+            {
+              "text": "uchi mata",
+              "techniques": [
+                "uchi-mata"
+              ]
+            },
+            {
+              "text": "tsurikomi goshi",
+              "techniques": [
+                "tsurikomi-goshi"
+              ]
+            },
+            {
+              "text": "sode tsurikomi goshi",
+              "techniques": [
+                "sode-tsurikomi-goshi"
+              ]
+            },
+            {
+              "text": "okuriashi harai",
+              "techniques": [
+                "okuri-ashi-harai"
+              ]
+            },
+            {
+              "text": "1 opposite side throw",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osae-waza",
+          "title": {
+            "en": "Osae waza"
+          },
+          "items": [
+            {
+              "text": "sankaku gatame: variations, entries, escapes, turnovers",
+              "techniques": []
+            },
+            {
+              "text": "Continue to expand depth of repertoire.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "section-vii-age-and-classes",
+          "title": {
+            "en": "Minimum age and classes (Section VII, 2021)"
+          },
+          "items": [
+            {
+              "text": "Min age 10 years old",
+              "techniques": []
+            },
+            {
+              "text": "Number of classes 60 or 6 months. TIG number of classes can be reduced for exceptional ability and or competitive record.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Requirements Matrix (9/22/23)",
+          "url": "https://www.usjf.com/wp-content/uploads/2023/10/USJF-Rank-Requirements-Horizontal-Jr.-9_22_23.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Junior Rank Recommendations, Handbook Section VII (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Jr-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "4th-kyu",
+      "label": {
+        "en": "Yonkyu (Adv. Sankyu)"
+      },
+      "beltColor": "green",
+      "beltStripe": "blue",
+      "techniqueSlugs": [
+        "sasae-tsurikomi-ashi",
+        "uchi-mata-sukashi",
+        "hadaka-jime",
+        "nami-juji-jime",
+        "okuri-eri-jime",
+        "ude-gatame",
+        "ude-garami",
+        "juji-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "personal-development",
+          "title": {
+            "en": "Personal development (moral character)"
+          },
+          "items": [
+            {
+              "text": "Expanded virtues of judo",
+              "techniques": []
+            },
+            {
+              "text": "Expand physical fitness and adeptness",
+              "techniques": []
+            },
+            {
+              "text": "Improved character traits",
+              "techniques": []
+            },
+            {
+              "text": "Increased participation",
+              "techniques": []
+            },
+            {
+              "text": "Academic achievement",
+              "techniques": []
+            },
+            {
+              "text": "Family engagement",
+              "techniques": []
+            },
+            {
+              "text": "Community involvement",
+              "techniques": []
+            },
+            {
+              "text": "Continued local level refereeing and/or technical officiating",
+              "techniques": []
+            },
+            {
+              "text": "Mentor less experienced judoka",
+              "techniques": []
+            },
+            {
+              "text": "Continue leadership development",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-concepts",
+          "title": {
+            "en": "General concepts (physical demonstration)"
+          },
+          "items": [
+            {
+              "text": "Assist Sensei teaching younger students",
+              "techniques": []
+            },
+            {
+              "text": "Expanded knowledge of previous skills",
+              "techniques": []
+            },
+            {
+              "text": "Further develoment of concepts",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "vocabulary",
+          "title": {
+            "en": "Vocabulary and essential questions"
+          },
+          "items": [
+            {
+              "text": "Vocabulary: What is the full meaning of Seiryoku Zenyo Jita kyoei? (Maximum efficiency with minimal effort for the mutual welfare and benefit of all)",
+              "techniques": []
+            },
+            {
+              "text": "EQ: How do you use \"Seiryoku Zenyo and/or Jita kyoei\" in Judo as well as outside of Judo?",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "history-and-philosophy",
+          "title": {
+            "en": "History and philosophy"
+          },
+          "items": [
+            {
+              "text": "Understanding of \"Seiryoku Zenyo Jita kyoei\" within dojo.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "rules",
+          "title": {
+            "en": "Rules"
+          },
+          "items": [
+            {
+              "text": "Contest Rules",
+              "techniques": []
+            },
+            {
+              "text": "Scorekeeping",
+              "techniques": []
+            },
+            {
+              "text": "Fight Sheets",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "tachi-waza",
+          "title": {
+            "en": "Tachi waza"
+          },
+          "items": [
+            {
+              "text": "Judoka must be able to name, demonstrate and define each techique, developing both sides",
+              "techniques": []
+            },
+            {
+              "text": "sasae tsurikomi ashi",
+              "techniques": [
+                "sasae-tsurikomi-ashi"
+              ]
+            },
+            {
+              "text": "uchi mata sukashi",
+              "techniques": [
+                "uchi-mata-sukashi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "osae-waza",
+          "title": {
+            "en": "Osae waza"
+          },
+          "items": [
+            {
+              "text": "Ability to demonstrate all known osae waza",
+              "techniques": []
+            },
+            {
+              "text": "Standing techniques to osae waza.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "12 and up:",
+              "techniques": []
+            },
+            {
+              "text": "safety regulations for shime waza",
+              "techniques": []
+            },
+            {
+              "text": "hadaka jime",
+              "techniques": [
+                "hadaka-jime"
+              ]
+            },
+            {
+              "text": "nami juji jime",
+              "techniques": [
+                "nami-juji-jime"
+              ]
+            },
+            {
+              "text": "okuri eri jime",
+              "techniques": [
+                "okuri-eri-jime"
+              ]
+            },
+            {
+              "text": "Escapes and defenses",
+              "techniques": []
+            },
+            {
+              "text": "osae waza escape to hadaka jime",
+              "techniques": [
+                "hadaka-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "Age appropriate - 14 and up:",
+              "techniques": []
+            },
+            {
+              "text": "safety regulations for kansetsu waza",
+              "techniques": []
+            },
+            {
+              "text": "ude hishigi ude gatame",
+              "techniques": [
+                "ude-gatame"
+              ]
+            },
+            {
+              "text": "ude garami",
+              "techniques": [
+                "ude-garami"
+              ]
+            },
+            {
+              "text": "ude hishigi juji gatame",
+              "techniques": [
+                "juji-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Introduction to kata basics",
+              "techniques": [],
+              "terms": [
+                "kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "section-vii-age-and-classes",
+          "title": {
+            "en": "Minimum age and classes (Section VII, 2021)"
+          },
+          "items": [
+            {
+              "text": "Min age 11 years old",
+              "techniques": []
+            },
+            {
+              "text": "Number of classes 65 or 7 months. TIG number of classes can be reduced for exceptional ability and or competitive record.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Requirements Matrix (9/22/23)",
+          "url": "https://www.usjf.com/wp-content/uploads/2023/10/USJF-Rank-Requirements-Horizontal-Jr.-9_22_23.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Junior Rank Recommendations, Handbook Section VII (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Jr-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "3rd-kyu",
+      "label": {
+        "en": "Sankyu (Nikyu)"
+      },
+      "beltColor": "blue",
+      "techniqueSlugs": [
+        "tsubame-gaeshi",
+        "kata-guruma",
+        "uki-otoshi",
+        "sankaku-jime",
+        "gyaku-juji-jime",
+        "hadaka-jime",
+        "hiza-gatame",
+        "waki-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "personal-development",
+          "title": {
+            "en": "Personal development (moral character)"
+          },
+          "items": [
+            {
+              "text": "Study and comprehend Kano's intent for the development of the whole judoka",
+              "techniques": []
+            },
+            {
+              "text": "Begin yudanshakai level refereeing and/or technical officiating",
+              "techniques": []
+            },
+            {
+              "text": "Explore local referee certification",
+              "techniques": []
+            },
+            {
+              "text": "Enchanced leadership development",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-concepts",
+          "title": {
+            "en": "General concepts (physical demonstration)"
+          },
+          "items": [
+            {
+              "text": "Tori is able to demonstrate method of getting around “guard” position",
+              "techniques": []
+            },
+            {
+              "text": "Expanded knowledge of previous ranks.",
+              "techniques": []
+            },
+            {
+              "text": "Further development of concepts",
+              "techniques": []
+            },
+            {
+              "text": "Teach, mentor and guide lower ranking judoka",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "vocabulary",
+          "title": {
+            "en": "Vocabulary and essential questions"
+          },
+          "items": [
+            {
+              "text": "EQ: Is the goal of Judo always ippon?",
+              "techniques": [],
+              "terms": [
+                "ippon"
+              ]
+            },
+            {
+              "text": "Is competition necessary in judo?",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "history-and-philosophy",
+          "title": {
+            "en": "History and philosophy"
+          },
+          "items": [
+            {
+              "text": "Enhanced Judo philisophy and continuation of judo history exploration",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "rules",
+          "title": {
+            "en": "Rules"
+          },
+          "items": [
+            {
+              "text": "Hiki waki",
+              "techniques": []
+            },
+            {
+              "text": "Understanding of: Team competition protocols, Contest Rules, Scorekeeping, Fight Sheets",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "tachi-waza",
+          "title": {
+            "en": "Tachi waza"
+          },
+          "items": [
+            {
+              "text": "Judoka must be able to name, demonstrate and define each techique, developing both sides",
+              "techniques": []
+            },
+            {
+              "text": "tsubame gaeshi",
+              "techniques": [
+                "tsubame-gaeshi"
+              ]
+            },
+            {
+              "text": "kata guruma",
+              "techniques": [
+                "kata-guruma"
+              ]
+            },
+            {
+              "text": "uki otoshi",
+              "techniques": [
+                "uki-otoshi"
+              ]
+            },
+            {
+              "text": "able to demonstrate and teach multiple techniques and combinations",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osae-waza",
+          "title": {
+            "en": "Osae waza"
+          },
+          "items": [
+            {
+              "text": "knowledge of and ability to teach all osae waza: entries, application, multiple escapes",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "12 and up:",
+              "techniques": []
+            },
+            {
+              "text": "Increased knowledge of techniques from previous ranks.",
+              "techniques": []
+            },
+            {
+              "text": "sankaku jime.",
+              "techniques": [
+                "sankaku-jime"
+              ]
+            },
+            {
+              "text": "gyaku juji jime",
+              "techniques": [
+                "gyaku-juji-jime"
+              ]
+            },
+            {
+              "text": "Combination with osae waza escape to hadaka jime",
+              "techniques": [
+                "hadaka-jime"
+              ]
+            },
+            {
+              "text": "Sankaku Series",
+              "techniques": []
+            },
+            {
+              "text": "ability to teach adavanced sankyu requirements",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "Age appropriate - 14 and up:",
+              "techniques": []
+            },
+            {
+              "text": "ude hishigi hiza gatame",
+              "techniques": [
+                "hiza-gatame"
+              ]
+            },
+            {
+              "text": "ude hishigi waki gatame",
+              "techniques": [
+                "waki-gatame"
+              ]
+            },
+            {
+              "text": "assist teaching advanced sankyu skills",
+              "techniques": []
+            },
+            {
+              "text": "develop defenses and escapes from kansetsu waza",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Introduction to Nage No Kata",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata"
+              ]
+            },
+            {
+              "text": "Focus on uke ukemi portion",
+              "techniques": []
+            },
+            {
+              "text": "Perform 3 sets of Nage No Kata (uke)",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "section-vii-age-and-classes",
+          "title": {
+            "en": "Minimum age and classes (Section VII, 2021)"
+          },
+          "items": [
+            {
+              "text": "Min age 12 years old",
+              "techniques": []
+            },
+            {
+              "text": "Number of classes 75 or 7-8 months. TIG number of classes can be reduced for exceptional ability and or competitive record.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Requirements Matrix (9/22/23)",
+          "url": "https://www.usjf.com/wp-content/uploads/2023/10/USJF-Rank-Requirements-Horizontal-Jr.-9_22_23.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Junior Rank Recommendations, Handbook Section VII (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Jr-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "2nd-kyu",
+      "label": {
+        "en": "Nikyu (Adv. Nikyu)"
+      },
+      "beltColor": "blue",
+      "beltStripe": "purple",
+      "techniqueSlugs": [
+        "soto-makikomi",
+        "sumi-gaeshi",
+        "sode-guruma-jime",
+        "hara-gatame",
+        "ashi-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "personal-development",
+          "title": {
+            "en": "Personal development (moral character)"
+          },
+          "items": [
+            {
+              "text": "Expanded study and comprehension of Kano's intent for the development of the whole judoka",
+              "techniques": []
+            },
+            {
+              "text": "Begin yudanshakai level refereeing and/or technical officiating",
+              "techniques": []
+            },
+            {
+              "text": "Explore regional referee certification",
+              "techniques": []
+            },
+            {
+              "text": "Enchanced leadership development",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-concepts",
+          "title": {
+            "en": "General concepts (physical demonstration)"
+          },
+          "items": [
+            {
+              "text": "Expanded knowledge of previous ranks.",
+              "techniques": []
+            },
+            {
+              "text": "Further development of concepts",
+              "techniques": []
+            },
+            {
+              "text": "Teach, mentor, and guide lower ranking judokas",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "vocabulary",
+          "title": {
+            "en": "Vocabulary and essential questions"
+          },
+          "items": [
+            {
+              "text": "EQ: How does kata enhance my overall understanding of judo?",
+              "techniques": [],
+              "terms": [
+                "kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "history-and-philosophy",
+          "title": {
+            "en": "History and philosophy"
+          },
+          "items": [
+            {
+              "text": "Enhanced Judo philisophy and continuation of judo history exploration",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "rules",
+          "title": {
+            "en": "Rules"
+          },
+          "items": [
+            {
+              "text": "Contest Rules, Scorekeeping, Fight Sheets, Tournament management",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "tachi-waza",
+          "title": {
+            "en": "Tachi waza"
+          },
+          "items": [
+            {
+              "text": "Judoka must be able to name, demonstrate and define each techique, developing both sides",
+              "techniques": []
+            },
+            {
+              "text": "soto makikomi",
+              "techniques": [
+                "soto-makikomi"
+              ]
+            },
+            {
+              "text": "sumi gaeshi",
+              "techniques": [
+                "sumi-gaeshi"
+              ]
+            },
+            {
+              "text": "able to demonstrate and teach multiple techniques and combinations",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osae-waza",
+          "title": {
+            "en": "Osae waza"
+          },
+          "items": [
+            {
+              "text": "Increased knowledge of and ability to teach all osae waza: entries, application, multiple escapes",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "12 and up:",
+              "techniques": []
+            },
+            {
+              "text": "Increased knowledge of techniques from previous ranks.",
+              "techniques": []
+            },
+            {
+              "text": "morote-jime",
+              "techniques": []
+            },
+            {
+              "text": "sode-guruma jime",
+              "techniques": [
+                "sode-guruma-jime"
+              ]
+            },
+            {
+              "text": "Escapes from previous shime wazas.",
+              "techniques": []
+            },
+            {
+              "text": "Combinations with osaewaza escapes and entries into known shimewaza techniques",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "Age appropriate - 14 and up:",
+              "techniques": []
+            },
+            {
+              "text": "ude hishigi hara gatame",
+              "techniques": [
+                "hara-gatame"
+              ]
+            },
+            {
+              "text": "ude hishigi ashi gatame",
+              "techniques": [
+                "ashi-gatame"
+              ]
+            },
+            {
+              "text": "Combination kansetsu waza applications from osaewaza",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Nage no Kata",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata"
+              ]
+            },
+            {
+              "text": "Competitor – 3 sets as uke",
+              "techniques": []
+            },
+            {
+              "text": "Non-Competitor – 3 sets as tori",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "section-vii-age-and-classes",
+          "title": {
+            "en": "Minimum age and classes (Section VII, 2021)"
+          },
+          "items": [
+            {
+              "text": "Min age 13 years old",
+              "techniques": []
+            },
+            {
+              "text": "Number of classes 85 or 8-9 months. TIG number of classes can be reduced for exceptional ability and or competitive record.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Requirements Matrix (9/22/23)",
+          "url": "https://www.usjf.com/wp-content/uploads/2023/10/USJF-Rank-Requirements-Horizontal-Jr.-9_22_23.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Junior Rank Recommendations, Handbook Section VII (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Jr-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "1st-kyu",
+      "label": {
+        "en": "Ikkyu"
+      },
+      "beltColor": "purple",
+      "techniqueSlugs": [
+        "tomoe-nage",
+        "ashi-guruma",
+        "nami-juji-jime",
+        "gyaku-juji-jime",
+        "kata-juji-jime",
+        "kata-ha-jime",
+        "te-gatame",
+        "sankaku-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "personal-development",
+          "title": {
+            "en": "Personal development (moral character)"
+          },
+          "items": [
+            {
+              "text": "Application of Kano's intent for the development of the whole judoka",
+              "techniques": []
+            },
+            {
+              "text": "Yudanshakai level refereeing and/or technical officiating",
+              "techniques": []
+            },
+            {
+              "text": "Explore regional referee certification",
+              "techniques": []
+            },
+            {
+              "text": "Enchanced leadership development",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-concepts",
+          "title": {
+            "en": "General concepts (physical demonstration)"
+          },
+          "items": [
+            {
+              "text": "Expanded knowledge of previous ranks. Further development of concepts; Teach, mentor and guide other judoka",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "vocabulary",
+          "title": {
+            "en": "Vocabulary and essential questions"
+          },
+          "items": [
+            {
+              "text": "EQ: How have I evolved as a judoka?",
+              "techniques": []
+            },
+            {
+              "text": "How do I apply \"Seiryoku Zenyo Jita Kyoei\" in my life?",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "history-and-philosophy",
+          "title": {
+            "en": "History and philosophy"
+          },
+          "items": [
+            {
+              "text": "Enhanced Judo philisophy and continuation of judo history investigation",
+              "techniques": []
+            },
+            {
+              "text": "Understanding of \"Seiryoku Zenyo Jita kyoei\" within judo and my life.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "rules",
+          "title": {
+            "en": "Rules"
+          },
+          "items": [
+            {
+              "text": "Referee and Tournament Management",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "tachi-waza",
+          "title": {
+            "en": "Tachi waza"
+          },
+          "items": [
+            {
+              "text": "Judoka must be able to name, demonstrate and define each techique, developing both sides",
+              "techniques": []
+            },
+            {
+              "text": "tomoe nage",
+              "techniques": [
+                "tomoe-nage"
+              ]
+            },
+            {
+              "text": "ashi guruma",
+              "techniques": [
+                "ashi-guruma"
+              ]
+            },
+            {
+              "text": "able to demonstrate and teach multiple techniques and combinations",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osae-waza",
+          "title": {
+            "en": "Osae waza"
+          },
+          "items": [
+            {
+              "text": "Increased knowledge of and ability to teach all osae waza: entries, application, multiple escapes",
+              "techniques": []
+            },
+            {
+              "text": "sankaku gatame: leg extractions from scissor",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "12 and up:",
+              "techniques": []
+            },
+            {
+              "text": "Increased knowledge of techniques from previous ranks.",
+              "techniques": []
+            },
+            {
+              "text": "nami juji jime",
+              "techniques": [
+                "nami-juji-jime"
+              ]
+            },
+            {
+              "text": "gyaku juji jime",
+              "techniques": [
+                "gyaku-juji-jime"
+              ]
+            },
+            {
+              "text": "kata juji jime",
+              "techniques": [
+                "kata-juji-jime"
+              ]
+            },
+            {
+              "text": "kata ha jime",
+              "techniques": [
+                "kata-ha-jime"
+              ]
+            },
+            {
+              "text": "Escapes from previous shime wazas.",
+              "techniques": []
+            },
+            {
+              "text": "Combinations with Osae waza escapes and entries into known shimewaza",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "Age appropriate - 14 and up:",
+              "techniques": []
+            },
+            {
+              "text": "ude hishigi te gatame",
+              "techniques": [
+                "te-gatame"
+              ]
+            },
+            {
+              "text": "ude hishigi sankaku gatame",
+              "techniques": [
+                "sankaku-gatame"
+              ]
+            },
+            {
+              "text": "expand combination applications from osaewaza:",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Nage no Kata",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata"
+              ]
+            },
+            {
+              "text": "Competitor: 3 sets as Tori",
+              "techniques": []
+            },
+            {
+              "text": "Non-Competitor: All 5 sets as Uke",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "section-vii-age-and-classes",
+          "title": {
+            "en": "Minimum age and classes (Section VII, 2021)"
+          },
+          "items": [
+            {
+              "text": "Min age 14 years old",
+              "techniques": []
+            },
+            {
+              "text": "Number of classes 95 or 1 year. TIG number of classes can be reduced for exceptional ability and or competitive record.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Requirements Matrix (9/22/23)",
+          "url": "https://www.usjf.com/wp-content/uploads/2023/10/USJF-Rank-Requirements-Horizontal-Jr.-9_22_23.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Junior Rank Recommendations, Handbook Section VII (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Jr-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "1st-dan",
+      "label": {
+        "en": "Shodan"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [
+        "utsuri-goshi",
+        "o-guruma",
+        "ushiro-goshi",
+        "uki-waza",
+        "hikikomi-gaeshi",
+        "tsukkomi-jime",
+        "ryote-jime"
+      ],
+      "syllabus": [
+        {
+          "slug": "personal-development",
+          "title": {
+            "en": "Personal development (moral character)"
+          },
+          "items": [
+            {
+              "text": "Evidence of Kano's intent for the development of the whole judoka",
+              "techniques": []
+            },
+            {
+              "text": "Continued yudanshakai level refereeing and/or technical officiating",
+              "techniques": []
+            },
+            {
+              "text": "Explore regional referee certification",
+              "techniques": []
+            },
+            {
+              "text": "Required CDC Heads up Certification (or cother concussion protocol training)",
+              "techniques": []
+            },
+            {
+              "text": "Enchanced leadership development",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-concepts",
+          "title": {
+            "en": "General concepts (physical demonstration)"
+          },
+          "items": [
+            {
+              "text": "Expanded knowledge of previous ranks. Further development of concepts; Teach, mentor and guide other judoka",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "vocabulary",
+          "title": {
+            "en": "Vocabulary and essential questions"
+          },
+          "items": [
+            {
+              "text": "EQ: What do I know about judo and what do I hope to understand?",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "history-and-philosophy",
+          "title": {
+            "en": "History and philosophy"
+          },
+          "items": [
+            {
+              "text": "Enhanced Judo philisophy and continuation of judo history investigation",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "rules",
+          "title": {
+            "en": "Rules"
+          },
+          "items": [
+            {
+              "text": "Referee and Tournament Management",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "tachi-waza",
+          "title": {
+            "en": "Tachi waza"
+          },
+          "items": [
+            {
+              "text": "Judoka must be able to name, demonstrate and define each techique, developing both sides",
+              "techniques": []
+            },
+            {
+              "text": "utsuri goshi",
+              "techniques": [
+                "utsuri-goshi"
+              ]
+            },
+            {
+              "text": "o guruma",
+              "techniques": [
+                "o-guruma"
+              ]
+            },
+            {
+              "text": "ushiro goshi",
+              "techniques": [
+                "ushiro-goshi"
+              ]
+            },
+            {
+              "text": "uki waza",
+              "techniques": [
+                "uki-waza"
+              ]
+            },
+            {
+              "text": "able to demonstrate and teach multiple combinations.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osae-waza",
+          "title": {
+            "en": "Osae waza"
+          },
+          "items": [
+            {
+              "text": "Knowledge of and ability to teach all osae waza: entries, application, multiple escapes",
+              "techniques": []
+            },
+            {
+              "text": "Develop hikkomi gaeshi",
+              "techniques": [
+                "hikikomi-gaeshi"
+              ]
+            },
+            {
+              "text": "ability to demonstrate and teach transitional attacks from tachiwaza into newaza",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "increased knowledge from previous ranks.",
+              "techniques": []
+            },
+            {
+              "text": "escapes and defenses for all known shime waza.",
+              "techniques": []
+            },
+            {
+              "text": "tsukkomi jime.",
+              "techniques": [
+                "tsukkomi-jime"
+              ]
+            },
+            {
+              "text": "ryote jime.",
+              "techniques": [
+                "ryote-jime"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "Ability to demonstrate and teach known kansetsu waza with an emphasis on safety and control",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Nage no Kata",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata"
+              ]
+            },
+            {
+              "text": "Competitor: All 5 sets as uke",
+              "techniques": []
+            },
+            {
+              "text": "Non-Competitor: All 5 sets as tori",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "section-vii-age-and-time-in-grade",
+          "title": {
+            "en": "Minimum age and time in grade (Section VII, 2021)"
+          },
+          "items": [
+            {
+              "text": "Minimal Age: 14-16",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in Grade: Time in grade as Ikkyu",
+              "techniques": []
+            },
+            {
+              "text": "Non-competitor - 2 years",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 5 points - 1 year",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 10 points - 9 months",
+              "techniques": []
+            },
+            {
+              "text": "Batsugun or 15 points - 6 months",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Requirements Matrix (9/22/23)",
+          "url": "https://www.usjf.com/wp-content/uploads/2023/10/USJF-Rank-Requirements-Horizontal-Jr.-9_22_23.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Junior Rank Recommendations, Handbook Section VII (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Jr-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    }
+  ]
+}

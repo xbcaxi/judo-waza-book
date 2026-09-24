@@ -1,0 +1,14 @@
+{
+  "name": "United States Judo Federation",
+  "kind": "national-body",
+  "country": "US",
+  "homepage": "https://www.usjf.com/",
+  "about": {
+    "en": "The United States Judo Federation, known as the USJF, is one of three national judo organisations in the United States. Its members are organised through regional yudanshakai, which examine and promote candidates within the authority the federation grants them. Its own rank system, with junior and senior kyu grades and dan grades to Judan, is transcribed in this reference from its 2021 rank requirements handbook and its 2023 junior requirements chart."
+  },
+  "schemes": [
+    "usjf-junior-kyu",
+    "usjf-senior-kyu",
+    "usjf-dan"
+  ]
+}
