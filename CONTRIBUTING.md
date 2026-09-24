@@ -769,6 +769,8 @@ worth writing:
   nothing else may carry the note.
 - **Uniqueness.** Grade slugs within a scheme, syllabus section slugs within
   a grade, and technique slugs within a grade list.
+- **Choosing.** A syllabus section's `choose` is no more than the items it
+  lists.
 - **Media.** Anything declaring an `image` or a poster has the file beside
   it, a third-party image names its owner in `credit`, and a licensed one
   points at the permission in `source`: NOTICE.md's removal promise needs
@@ -975,3 +977,25 @@ text plus credit) on the grade; scheme-wide summary posters go in the same
 directory, declared under `posters`. The same licensing rule as technique
 images applies: only contribute what can carry the repository licence, and
 always credit the source. `grading-schemes/bja-mon.json` is the model.
+
+Where a section sets a number to choose from its list, give the section
+`choose` with that number. The items stay as printed and are the list to
+choose from, and `techniqueSlugs` still lists every slug they resolve. The
+site then counts the grade as that many from the list, so a candidate who
+must show 2 throws from a list of 40 is not told 40 are required. `choose`
+cannot exceed the number of items in the section, and a number that governs
+items spread over several sections is left out and explained in the
+scheme's `source.note`.
+
+```json
+{
+  "slug": "nage-waza",
+  "title": { "en": "Nage-waza: throwing techniques, list 4-1" },
+  "choose": 2,
+  "items": [
+    { "text": "JR1: 2" },
+    { "text": "Deashi-Harai (Advanced Foot Sweep)", "techniques": ["de-ashi-harai"] },
+    { "text": "Hiza-Guruma (Knee Wheel)", "techniques": ["hiza-guruma"] }
+  ]
+}
+```
