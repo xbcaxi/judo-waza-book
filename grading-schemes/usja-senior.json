@@ -11,7 +11,7 @@
   "source": {
     "title": "USJA Rank Examination for all Senior Kyu Ranks Through Shodan, and USJA Rank Examination for Senior Nidan and Sandan",
     "note": {
-      "en": "Item wording is as printed, including the paper's own slips (\"Kouch-Gari\", \"Boot Sweep\", \"Trust Choke\", \"Turnover to oasaekomi\", \"Juji hashigi juji gatame\", \"principal of maximum efficiency\", and \"(70% of Part 3\" with no closing bracket). Question and vocabulary numbers are dropped and the order kept. Two-column lists (Japanese and English) are rendered as the Japanese name with the English in brackets. Each technical list prints a guide row of the number required at each rank; it is flattened into one item giving this rank's column heading and number. Bogyo is 0 at Rokkyu and is left out of that grade. The age and time-in-grade table and the required score table are flattened into items with the table headings kept. The throwing list prints \"Seoi nage\" against the English \"One Arm Shoulder Throw\", which names a different throw, so the item is left unresolved; the junior paper prints Ippon-Seoinage against the same English. The throwing list has 41 lines because Yoko-Wakare is printed twice, so its 40 distinct throws are exactly the number Shodan requires. The required score table stops at Senior Ikkyu and prints no score for Shodan, though Shodan answers the same questions as Ikkyu. The Nage-no-kata requirements for Sankyu, Nikyu and Ikkyu do not take effect until the association has published the online videos and tests, as the paper says, and the Nidan referee and Sandan coaching certifications can be waived until they are available online. The 1st to 3rd Dan promotion form (03/2025) and the promotion page give the same ages, times in grade and classes; the Shodan rows from the form are added to that grade. The paper does not print belt colours. Kyu colours are from the promotion page, and the 1st to 3rd Dan form gives black. Several techniques here are documented in this reference for recognition only, because they are prohibited outright: Do-jime, Ashi garami, Kani-Basami and Kawazu-Gake. An examiner may petition the Promotion Board to waive any requirement for an exceptional student, which needs a two-thirds vote of the entire board."
+      "en": "Item wording is as printed, including the paper's own slips (\"Kouch-Gari\", \"Boot Sweep\", \"Trust Choke\", \"Turnover to oasaekomi\", \"Juji hashigi juji gatame\", \"principal of maximum efficiency\", and \"(70% of Part 3\" with no closing bracket). Question and vocabulary numbers are dropped and the order kept. Two-column lists (Japanese and English) are rendered as the Japanese name with the English in brackets. Each technical list prints a guide row of the number required at each rank; it is flattened into one item giving this rank's column heading and number. The escape and entry counts (Fusegi and Hairi-waza) cover several sections each, so unlike the other lists they are not recorded as a number to choose from one list. Bogyo is 0 at Rokkyu and is left out of that grade. The age and time-in-grade table and the required score table are flattened into items with the table headings kept. The throwing list prints \"Seoi nage\" against the English \"One Arm Shoulder Throw\", which names a different throw, so the item is left unresolved; the junior paper prints Ippon-Seoinage against the same English. The throwing list has 41 lines because Yoko-Wakare is printed twice, so its 40 distinct throws are exactly the number Shodan requires. The required score table stops at Senior Ikkyu and prints no score for Shodan, though Shodan answers the same questions as Ikkyu. The Nage-no-kata requirements for Sankyu, Nikyu and Ikkyu do not take effect until the association has published the online videos and tests, as the paper says, and the Nidan referee and Sandan coaching certifications can be waived until they are available online. The 1st to 3rd Dan promotion form (03/2025) and the promotion page give the same ages, times in grade and classes; the Shodan rows from the form are added to that grade. The paper does not print belt colours. Kyu colours are from the promotion page, and the 1st to 3rd Dan form gives black. Several techniques here are documented in this reference for recognition only, because they are prohibited outright: Do-jime, Ashi garami, Kani-Basami and Kawazu-Gake. An examiner may petition the Promotion Board to waive any requirement for an exceptional student, which needs a two-thirds vote of the entire board."
     }
   },
   "grades": [
@@ -287,6 +287,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques (Gokyo No Waza), list 4-1"
           },
+          "choose": 4,
           "items": [
             {
               "text": "Rokkyu: 4"
@@ -541,6 +542,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-2"
           },
+          "choose": 2,
           "items": [
             {
               "text": "Rokkyu: 2"
@@ -627,6 +629,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-4"
           },
+          "choose": 2,
           "items": [
             {
               "text": "Rokkyu: 2"
@@ -680,6 +683,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-5"
           },
+          "choose": 3,
           "items": [
             {
               "text": "Rokkyu: 3"
@@ -736,6 +740,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-6"
           },
+          "choose": 4,
           "items": [
             {
               "text": "Rokkyu: 4"
@@ -1089,6 +1094,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-9"
           },
+          "choose": 2,
           "items": [
             {
               "text": "Rokkyu: 2"
@@ -1175,6 +1181,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-10"
           },
+          "choose": 2,
           "items": [
             {
               "text": "Rokkyu: 2"
@@ -1656,6 +1663,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques (Gokyo No Waza), list 4-1"
           },
+          "choose": 8,
           "items": [
             {
               "text": "Gokyu: 8"
@@ -1910,6 +1918,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-2"
           },
+          "choose": 3,
           "items": [
             {
               "text": "Gokyu: 3"
@@ -1996,6 +2005,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-3"
           },
+          "choose": 2,
           "items": [
             {
               "text": "Gokyu: 2"
@@ -2031,6 +2041,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-4"
           },
+          "choose": 3,
           "items": [
             {
               "text": "Gokyu: 3"
@@ -2084,6 +2095,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-5"
           },
+          "choose": 4,
           "items": [
             {
               "text": "Gokyu: 4"
@@ -2140,6 +2152,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-6"
           },
+          "choose": 5,
           "items": [
             {
               "text": "Gokyu: 5"
@@ -2493,6 +2506,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-9"
           },
+          "choose": 3,
           "items": [
             {
               "text": "Gokyu: 3"
@@ -2579,6 +2593,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-10"
           },
+          "choose": 3,
           "items": [
             {
               "text": "Gokyu: 3"
@@ -3184,6 +3199,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques (Gokyo No Waza), list 4-1"
           },
+          "choose": 12,
           "items": [
             {
               "text": "Yonkyu: 12"
@@ -3438,6 +3454,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-2"
           },
+          "choose": 5,
           "items": [
             {
               "text": "Yonkyu: 5"
@@ -3524,6 +3541,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-3"
           },
+          "choose": 3,
           "items": [
             {
               "text": "Yonkyu: 3"
@@ -3559,6 +3577,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-4"
           },
+          "choose": 4,
           "items": [
             {
               "text": "Yonkyu: 4"
@@ -3612,6 +3631,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-5"
           },
+          "choose": 5,
           "items": [
             {
               "text": "Yonkyu: 5"
@@ -3668,6 +3688,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-6"
           },
+          "choose": 6,
           "items": [
             {
               "text": "Yonkyu: 6"
@@ -4021,6 +4042,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-9"
           },
+          "choose": 4,
           "items": [
             {
               "text": "Yonkyu: 4"
@@ -4107,6 +4129,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-10"
           },
+          "choose": 4,
           "items": [
             {
               "text": "Yonkyu: 4"
@@ -4829,6 +4852,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques (Gokyo No Waza), list 4-1"
           },
+          "choose": 18,
           "items": [
             {
               "text": "Sankyu: 18"
@@ -5083,6 +5107,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-2"
           },
+          "choose": 6,
           "items": [
             {
               "text": "Sankyu: 6"
@@ -5169,6 +5194,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-3"
           },
+          "choose": 4,
           "items": [
             {
               "text": "Sankyu: 4"
@@ -5204,6 +5230,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-4"
           },
+          "choose": 5,
           "items": [
             {
               "text": "Sankyu: 5"
@@ -5257,6 +5284,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-5"
           },
+          "choose": 6,
           "items": [
             {
               "text": "Sankyu: 6"
@@ -5313,6 +5341,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-6"
           },
+          "choose": 7,
           "items": [
             {
               "text": "Sankyu: 7"
@@ -5666,6 +5695,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-9"
           },
+          "choose": 6,
           "items": [
             {
               "text": "Sankyu: 6"
@@ -5752,6 +5782,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-10"
           },
+          "choose": 5,
           "items": [
             {
               "text": "Sankyu: 5"
@@ -6596,6 +6627,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques (Gokyo No Waza), list 4-1"
           },
+          "choose": 24,
           "items": [
             {
               "text": "Nikyu: 24"
@@ -6850,6 +6882,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-2"
           },
+          "choose": 7,
           "items": [
             {
               "text": "Nikyu: 7"
@@ -6936,6 +6969,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-3"
           },
+          "choose": 4,
           "items": [
             {
               "text": "Nikyu: 4"
@@ -6971,6 +7005,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-4"
           },
+          "choose": 6,
           "items": [
             {
               "text": "Nikyu: 6"
@@ -7024,6 +7059,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-5"
           },
+          "choose": 7,
           "items": [
             {
               "text": "Nikyu: 7"
@@ -7080,6 +7116,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-6"
           },
+          "choose": 8,
           "items": [
             {
               "text": "Nikyu: 8"
@@ -7433,6 +7470,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-9"
           },
+          "choose": 8,
           "items": [
             {
               "text": "Nikyu: 8"
@@ -7519,6 +7557,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-10"
           },
+          "choose": 6,
           "items": [
             {
               "text": "Nikyu: 6"
@@ -8444,6 +8483,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques (Gokyo No Waza), list 4-1"
           },
+          "choose": 32,
           "items": [
             {
               "text": "Ikkyu: 32"
@@ -8698,6 +8738,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-2"
           },
+          "choose": 8,
           "items": [
             {
               "text": "Ikkyu: 8"
@@ -8784,6 +8825,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-3"
           },
+          "choose": 5,
           "items": [
             {
               "text": "Ikkyu: 5"
@@ -8819,6 +8861,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-4"
           },
+          "choose": 7,
           "items": [
             {
               "text": "Ikkyu: 7"
@@ -8872,6 +8915,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-5"
           },
+          "choose": 8,
           "items": [
             {
               "text": "Ikkyu: 8"
@@ -8928,6 +8972,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-6"
           },
+          "choose": 9,
           "items": [
             {
               "text": "Ikkyu: 9"
@@ -9281,6 +9326,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-9"
           },
+          "choose": 10,
           "items": [
             {
               "text": "Ikkyu: 10"
@@ -9367,6 +9413,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-10"
           },
+          "choose": 8,
           "items": [
             {
               "text": "Ikkyu: 8"
@@ -10293,6 +10340,7 @@
           "title": {
             "en": "Nage-waza: throwing techniques (Gokyo No Waza), list 4-1"
           },
+          "choose": 40,
           "items": [
             {
               "text": "Shodan: 40"
@@ -10547,6 +10595,7 @@
           "title": {
             "en": "Kaeshi-waza: counter throw techniques, list 4-2"
           },
+          "choose": 8,
           "items": [
             {
               "text": "Shodan: 8"
@@ -10633,6 +10682,7 @@
           "title": {
             "en": "Bogyo: defence against throws, list 4-3"
           },
+          "choose": 6,
           "items": [
             {
               "text": "Shodan: 6"
@@ -10668,6 +10718,7 @@
           "title": {
             "en": "Renraku-waza: combination techniques, list 4-4"
           },
+          "choose": 8,
           "items": [
             {
               "text": "Shodan: 8"
@@ -10721,6 +10772,7 @@
           "title": {
             "en": "Kumi-kata: gripping forms, list 4-5"
           },
+          "choose": 10,
           "items": [
             {
               "text": "Shodan: 10"
@@ -10777,6 +10829,7 @@
           "title": {
             "en": "Katame-waza: grappling techniques, list 4-6"
           },
+          "choose": 10,
           "items": [
             {
               "text": "Shodan: 10"
@@ -11130,6 +11183,7 @@
           "title": {
             "en": "Shime-waza: choking techniques, list 4-9"
           },
+          "choose": 12,
           "items": [
             {
               "text": "Shodan: 12"
@@ -11216,6 +11270,7 @@
           "title": {
             "en": "Kansetsu-waza: joint locking techniques, list 4-10"
           },
+          "choose": 10,
           "items": [
             {
               "text": "Shodan: 10"
