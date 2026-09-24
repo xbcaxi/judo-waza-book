@@ -1,0 +1,2633 @@
+{
+  "name": {
+    "en": "Dan grades (USA Judo)"
+  },
+  "organisation": "USA Judo",
+  "country": "US",
+  "order": 7,
+  "description": {
+    "en": "USA Judo's dan grades, from 1st to 10th Dan, awarded on a recommendation processed through the candidate's state member organisation. Each grade from 1st to 8th Dan sets a minimum age, a minimum time in grade that contest points or a category of achievement can shorten, and recommended minimum requirements that include kata. The procedures treat time in grade as a minimum benchmark for review, and promotion is not automatic."
+  },
+  "source": {
+    "title": "USA Judo Promotion Recommendation Procedures",
+    "date": "July 30, 2025",
+    "note": {
+      "en": "Transcribed from USA Judo Promotion Recommendation Procedures dated July 30, 2025. Item text keeps the source's wording, punctuation and slips, including the trailing commas of its bullet lists, \"Natonal\" in the kata contest table, \"Kimenokata\", and \"Goshin-jitsu\" and \"Goshin jitsu\" for Kodokan Goshin-jutsu. The 9th and 10th Dan kata line wraps \"Katame No Kata\" across two lines and is joined here, and a double space in the yodan fee note is closed up. Tables are rendered one item per row as printed. The fee table becomes the rank and its fee. The Guideline for Promotion Requirements table becomes the rank, its minimum age, and its grade time for a non-competitor and for a competitor with 5, 10, 15 and 20 points, with blank cells left out. The Yodan-and-above table becomes the time for each category, with its footnote letters kept and each footnote transcribed as an item below the row. The randori and kata contest points tables are rendered row by row. Items that apply to every dan grade, the application contents and the contest points tables are repeated on each grade they govern. The passport photo appears from 4th Dan, and the category definitions from 4th to 8th Dan, as the document limits them. The contest points tables appear from 1st to 6th Dan, the grades whose time-in-grade row has points columns. Things the document leaves unresolved are recorded rather than settled. Yodan and Godan appear in both the points table and the category table, and the document does not say how the two combine. The line after the points table points to additional tables for Rokudan and above, while the category table itself covers Yodan to Hachidan. The category table gives Hachidan no Category D time, which its footnote c explains. Rokudan has points columns, yet its minimum requirements drop the contest record. The 9th and 10th Dan conditions refer to the time limits and minimum ages of the tables previously exposed, though those tables stop at Hachidan. The 9th and 10th Dan kata line says all kata but omits Itsutsu-no-kata, which 8th Dan requires. The document names no belt colour for any dan grade. The colours shown follow the international convention instead: black to 5th Dan, red and white from 6th to 8th Dan, and red for 9th and 10th Dan. No grade prescribes a named technique, so every techniqueSlugs is empty. Not transcribed as items: the skip promotion rule, the rule that USA Judo criteria prevail for promotions from IJF-affiliated organisations outside the United States, clubs without a state organisation, refund and resubmission rules, the submission address and email, and the separate request for an IJF or Pan American rank certificate."
+    }
+  },
+  "beltNote": {
+    "en": "The procedures do not name belt colours. The colours shown are the international convention."
+  },
+  "grades": [
+    {
+      "slug": "1st-dan",
+      "label": {
+        "en": "1st Dan"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "minimum-requirements",
+          "title": {
+            "en": "Recommended minimum requirements"
+          },
+          "items": [
+            {
+              "text": "unquestioned moral character and maturity,",
+              "techniques": []
+            },
+            {
+              "text": "continued practice and interest,",
+              "techniques": []
+            },
+            {
+              "text": "minimum knowledge and skills in both randori and nagekomi practice,",
+              "techniques": [],
+              "terms": [
+                "randori",
+                "nagekomi"
+              ]
+            },
+            {
+              "text": "increased proficiency in all lower-rank requirements and in contest record,",
+              "techniques": []
+            },
+            {
+              "text": "proficient in the first 9 techniques of nage-no-kata for both men and women or Jushiki (10 of 15 Ju-no-kata) for women.",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata",
+                "ju-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "time-in-grade",
+          "title": {
+            "en": "Guideline for promotion requirements: minimum age and grade time"
+          },
+          "items": [
+            {
+              "text": "Shodan: Min. Age 15; Grade Time: Non-Competitor 3 yrs.; Competitor 5 points 2 yrs.; 10 points 1 yr.; 15 points 9 mo.; 20 points 6 mo.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "randori-contest-points",
+          "title": {
+            "en": "Contest winning points: Randori-Contest"
+          },
+          "items": [
+            {
+              "text": "2.0 points Win against opponent more than two ranks higher",
+              "techniques": []
+            },
+            {
+              "text": "1.5 points Win against opponent more than one rank higher",
+              "techniques": []
+            },
+            {
+              "text": "1.0 points Win against opponent of same rank",
+              "techniques": []
+            },
+            {
+              "text": "0.5 points Win against opponent one rank lower",
+              "techniques": []
+            },
+            {
+              "text": "0.1 points Win against opponent two ranks lower",
+              "techniques": []
+            },
+            {
+              "text": "0.0 points Win against opponent three or more ranks lower",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata-contest-points",
+          "title": {
+            "en": "Contest winning points: Kata-Contest"
+          },
+          "items": [
+            {
+              "text": "First Place 2.0 points National 1.0 points Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "Second Place 1.5 points National 0.75 point Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "Third Place 1.0 point Natonal 0.5 point Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "A maximum of 2.0 points may be counted per Kata tournament, regardless of the number of divisions.",
+              "techniques": []
+            },
+            {
+              "text": "No promotion points are earned for “walk-overs”, (e.g. 3rd place out of 3 teams).",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "promotion-recommendation",
+          "title": {
+            "en": "Promotion recommendation"
+          },
+          "items": [
+            {
+              "text": "All promotion recommendations and applications for USA Judo Dan rank certificates should be processed through the applicant’s State member organization’s (Group B in good standing) Promotion Committee.",
+              "techniques": []
+            },
+            {
+              "text": "Recommendation for USA Judo Dan Promotion form with appropriate signatures",
+              "techniques": []
+            },
+            {
+              "text": "Complete history/judo resume (can submit supplements)/full competition record (with opponent ranks) if applying as active athlete “on points”.",
+              "techniques": []
+            },
+            {
+              "text": "Evidence of kata and technical demonstrations (documentation may include promotion exam, kata competition, kata and/or gokyo certification, and/or appropriate clinic/course certificates)",
+              "techniques": [],
+              "terms": [
+                "gokyo"
+              ]
+            },
+            {
+              "text": "Copies of previous rank certificates from USA Judo, USJA or USJF",
+              "techniques": []
+            },
+            {
+              "text": "Copies of special awards, recognition, etc.",
+              "techniques": []
+            },
+            {
+              "text": "Appropriate fees should be remitted payable to USA Judo.",
+              "techniques": []
+            },
+            {
+              "text": "Current USA Judo membership (note: for rokudan and above, applicant must have consistent membership for at least the previous four years)",
+              "techniques": []
+            },
+            {
+              "text": "Current SafeSport certification, clean background screen and concussion certification.",
+              "techniques": []
+            },
+            {
+              "text": "For ranks sandan and lower, complete application packets submitted above will be immediately reviewed and processed by USA Judo.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "fee",
+          "title": {
+            "en": "Current fees"
+          },
+          "items": [
+            {
+              "text": "Shodan $150.00",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "USA Judo Promotion Recommendation Procedures (July 30, 2025)",
+          "url": "https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blt5298108bb39336d5/68daa06b4f6236c8bd762ecc/PromotionRecommendationProcedures-USA_Judo-CURRENT_7.30.2025.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "2nd-dan",
+      "label": {
+        "en": "2nd Dan"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "minimum-requirements",
+          "title": {
+            "en": "Recommended minimum requirements"
+          },
+          "items": [
+            {
+              "text": "unquestioned moral character and maturity,",
+              "techniques": []
+            },
+            {
+              "text": "continued practice and interest,",
+              "techniques": []
+            },
+            {
+              "text": "minimum knowledge and skills in both randori and nagekomi practice,",
+              "techniques": [],
+              "terms": [
+                "randori",
+                "nagekomi"
+              ]
+            },
+            {
+              "text": "increased proficiency in all lower-rank requirements and in contest record,",
+              "techniques": []
+            },
+            {
+              "text": "proficient in all nage-no-kata for both men and women or all Ju-no-kata for women.",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata",
+                "ju-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "time-in-grade",
+          "title": {
+            "en": "Guideline for promotion requirements: minimum age and grade time"
+          },
+          "items": [
+            {
+              "text": "Nidan: Min. Age 16; Grade Time: Non-Competitor 4 yrs.; Competitor 5 points 3 yrs.; 10 points 2 yrs.; 15 points 1 yr.; 20 points 6 mo.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "randori-contest-points",
+          "title": {
+            "en": "Contest winning points: Randori-Contest"
+          },
+          "items": [
+            {
+              "text": "2.0 points Win against opponent more than two ranks higher",
+              "techniques": []
+            },
+            {
+              "text": "1.5 points Win against opponent more than one rank higher",
+              "techniques": []
+            },
+            {
+              "text": "1.0 points Win against opponent of same rank",
+              "techniques": []
+            },
+            {
+              "text": "0.5 points Win against opponent one rank lower",
+              "techniques": []
+            },
+            {
+              "text": "0.1 points Win against opponent two ranks lower",
+              "techniques": []
+            },
+            {
+              "text": "0.0 points Win against opponent three or more ranks lower",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata-contest-points",
+          "title": {
+            "en": "Contest winning points: Kata-Contest"
+          },
+          "items": [
+            {
+              "text": "First Place 2.0 points National 1.0 points Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "Second Place 1.5 points National 0.75 point Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "Third Place 1.0 point Natonal 0.5 point Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "A maximum of 2.0 points may be counted per Kata tournament, regardless of the number of divisions.",
+              "techniques": []
+            },
+            {
+              "text": "No promotion points are earned for “walk-overs”, (e.g. 3rd place out of 3 teams).",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "promotion-recommendation",
+          "title": {
+            "en": "Promotion recommendation"
+          },
+          "items": [
+            {
+              "text": "All promotion recommendations and applications for USA Judo Dan rank certificates should be processed through the applicant’s State member organization’s (Group B in good standing) Promotion Committee.",
+              "techniques": []
+            },
+            {
+              "text": "Recommendation for USA Judo Dan Promotion form with appropriate signatures",
+              "techniques": []
+            },
+            {
+              "text": "Complete history/judo resume (can submit supplements)/full competition record (with opponent ranks) if applying as active athlete “on points”.",
+              "techniques": []
+            },
+            {
+              "text": "Evidence of kata and technical demonstrations (documentation may include promotion exam, kata competition, kata and/or gokyo certification, and/or appropriate clinic/course certificates)",
+              "techniques": [],
+              "terms": [
+                "gokyo"
+              ]
+            },
+            {
+              "text": "Copies of previous rank certificates from USA Judo, USJA or USJF",
+              "techniques": []
+            },
+            {
+              "text": "Copies of special awards, recognition, etc.",
+              "techniques": []
+            },
+            {
+              "text": "Appropriate fees should be remitted payable to USA Judo.",
+              "techniques": []
+            },
+            {
+              "text": "Current USA Judo membership (note: for rokudan and above, applicant must have consistent membership for at least the previous four years)",
+              "techniques": []
+            },
+            {
+              "text": "Current SafeSport certification, clean background screen and concussion certification.",
+              "techniques": []
+            },
+            {
+              "text": "For ranks sandan and lower, complete application packets submitted above will be immediately reviewed and processed by USA Judo.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "fee",
+          "title": {
+            "en": "Current fees"
+          },
+          "items": [
+            {
+              "text": "Nidan $200.00",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "USA Judo Promotion Recommendation Procedures (July 30, 2025)",
+          "url": "https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blt5298108bb39336d5/68daa06b4f6236c8bd762ecc/PromotionRecommendationProcedures-USA_Judo-CURRENT_7.30.2025.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "3rd-dan",
+      "label": {
+        "en": "3rd Dan"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "minimum-requirements",
+          "title": {
+            "en": "Recommended minimum requirements"
+          },
+          "items": [
+            {
+              "text": "unquestioned moral character and maturity,",
+              "techniques": []
+            },
+            {
+              "text": "continued practice and involvement in Judo,",
+              "techniques": []
+            },
+            {
+              "text": "minimum knowledge and skills in both randori and nagekomi practice,",
+              "techniques": [],
+              "terms": [
+                "randori",
+                "nagekomi"
+              ]
+            },
+            {
+              "text": "increased proficiency in all lower-rank requirements and in contest record,",
+              "techniques": []
+            },
+            {
+              "text": "proficient in Nage-no-kata or Ju-no-kata, and Katame-no-kata.",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata",
+                "ju-no-kata",
+                "katame-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "time-in-grade",
+          "title": {
+            "en": "Guideline for promotion requirements: minimum age and grade time"
+          },
+          "items": [
+            {
+              "text": "Sandan: Min. Age 18; Grade Time: Non-Competitor 6 yrs.; Competitor 5 points 4 yrs.; 10 points 3 yrs.; 15 points 1.5 yrs.; 20 points 1 yr.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "randori-contest-points",
+          "title": {
+            "en": "Contest winning points: Randori-Contest"
+          },
+          "items": [
+            {
+              "text": "2.0 points Win against opponent more than two ranks higher",
+              "techniques": []
+            },
+            {
+              "text": "1.5 points Win against opponent more than one rank higher",
+              "techniques": []
+            },
+            {
+              "text": "1.0 points Win against opponent of same rank",
+              "techniques": []
+            },
+            {
+              "text": "0.5 points Win against opponent one rank lower",
+              "techniques": []
+            },
+            {
+              "text": "0.1 points Win against opponent two ranks lower",
+              "techniques": []
+            },
+            {
+              "text": "0.0 points Win against opponent three or more ranks lower",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata-contest-points",
+          "title": {
+            "en": "Contest winning points: Kata-Contest"
+          },
+          "items": [
+            {
+              "text": "First Place 2.0 points National 1.0 points Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "Second Place 1.5 points National 0.75 point Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "Third Place 1.0 point Natonal 0.5 point Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "A maximum of 2.0 points may be counted per Kata tournament, regardless of the number of divisions.",
+              "techniques": []
+            },
+            {
+              "text": "No promotion points are earned for “walk-overs”, (e.g. 3rd place out of 3 teams).",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "promotion-recommendation",
+          "title": {
+            "en": "Promotion recommendation"
+          },
+          "items": [
+            {
+              "text": "All promotion recommendations and applications for USA Judo Dan rank certificates should be processed through the applicant’s State member organization’s (Group B in good standing) Promotion Committee.",
+              "techniques": []
+            },
+            {
+              "text": "Recommendation for USA Judo Dan Promotion form with appropriate signatures",
+              "techniques": []
+            },
+            {
+              "text": "Complete history/judo resume (can submit supplements)/full competition record (with opponent ranks) if applying as active athlete “on points”.",
+              "techniques": []
+            },
+            {
+              "text": "Evidence of kata and technical demonstrations (documentation may include promotion exam, kata competition, kata and/or gokyo certification, and/or appropriate clinic/course certificates)",
+              "techniques": [],
+              "terms": [
+                "gokyo"
+              ]
+            },
+            {
+              "text": "Copies of previous rank certificates from USA Judo, USJA or USJF",
+              "techniques": []
+            },
+            {
+              "text": "Copies of special awards, recognition, etc.",
+              "techniques": []
+            },
+            {
+              "text": "Appropriate fees should be remitted payable to USA Judo.",
+              "techniques": []
+            },
+            {
+              "text": "Current USA Judo membership (note: for rokudan and above, applicant must have consistent membership for at least the previous four years)",
+              "techniques": []
+            },
+            {
+              "text": "Current SafeSport certification, clean background screen and concussion certification.",
+              "techniques": []
+            },
+            {
+              "text": "For ranks sandan and lower, complete application packets submitted above will be immediately reviewed and processed by USA Judo.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "fee",
+          "title": {
+            "en": "Current fees"
+          },
+          "items": [
+            {
+              "text": "Sandan $250.00",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "USA Judo Promotion Recommendation Procedures (July 30, 2025)",
+          "url": "https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blt5298108bb39336d5/68daa06b4f6236c8bd762ecc/PromotionRecommendationProcedures-USA_Judo-CURRENT_7.30.2025.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "4th-dan",
+      "label": {
+        "en": "4th Dan"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "minimum-requirements",
+          "title": {
+            "en": "Recommended minimum requirements"
+          },
+          "items": [
+            {
+              "text": "unquestioned moral character and maturity,",
+              "techniques": []
+            },
+            {
+              "text": "continued practice and involvement in Judo,",
+              "techniques": []
+            },
+            {
+              "text": "minimum knowledge and skills in both randori and nagekomi practice,",
+              "techniques": [],
+              "terms": [
+                "randori",
+                "nagekomi"
+              ]
+            },
+            {
+              "text": "increased proficiency in all lower rank requirements and in contest record,",
+              "techniques": []
+            },
+            {
+              "text": "non competitors must have a minimum current USA Judo regional referee license, or USA Judo coach certification",
+              "techniques": []
+            },
+            {
+              "text": "proficient in Nage-no-kata or Ju-no-kata, plus Katame-no-kata, and either Kime-no-kata or Kodokan Goshin-jitsu.",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata",
+                "ju-no-kata",
+                "katame-no-kata",
+                "kime-no-kata",
+                "kodokan-goshin-jutsu"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "time-in-grade",
+          "title": {
+            "en": "Guideline for promotion requirements: minimum age and grade time"
+          },
+          "items": [
+            {
+              "text": "Yodan: Min. Age 21; Grade Time: Non-Competitor 8 yrs.; Competitor 5 points 5 yrs.; 10 points 3 yrs.; 15 points 2 yrs.; 20 points 1 yr.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "randori-contest-points",
+          "title": {
+            "en": "Contest winning points: Randori-Contest"
+          },
+          "items": [
+            {
+              "text": "2.0 points Win against opponent more than two ranks higher",
+              "techniques": []
+            },
+            {
+              "text": "1.5 points Win against opponent more than one rank higher",
+              "techniques": []
+            },
+            {
+              "text": "1.0 points Win against opponent of same rank",
+              "techniques": []
+            },
+            {
+              "text": "0.5 points Win against opponent one rank lower",
+              "techniques": []
+            },
+            {
+              "text": "0.1 points Win against opponent two ranks lower",
+              "techniques": []
+            },
+            {
+              "text": "0.0 points Win against opponent three or more ranks lower",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata-contest-points",
+          "title": {
+            "en": "Contest winning points: Kata-Contest"
+          },
+          "items": [
+            {
+              "text": "First Place 2.0 points National 1.0 points Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "Second Place 1.5 points National 0.75 point Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "Third Place 1.0 point Natonal 0.5 point Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "A maximum of 2.0 points may be counted per Kata tournament, regardless of the number of divisions.",
+              "techniques": []
+            },
+            {
+              "text": "No promotion points are earned for “walk-overs”, (e.g. 3rd place out of 3 teams).",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "category-time-in-grade",
+          "title": {
+            "en": "Yodan and above: time in grade by category"
+          },
+          "items": [
+            {
+              "text": "Yodan: Category A+ 4 Years; Category A 5 Years; Category B 6 Years; Category C 7 Years; Category D 8 Years",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "category-definitions",
+          "title": {
+            "en": "Category definitions"
+          },
+          "items": [
+            {
+              "text": "The following exceptions to baseline time-in-grade requirements for promotion will be made for certain candidates based upon their accomplishments in judo:",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY A+: An approximate reduction of 50% of the time-in-grade requirement is authorized for the following individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three in the Olympic Games or Senior World Championship",
+              "techniques": []
+            },
+            {
+              "text": "Appointed Head Coach of an Olympic Games or Senior World Team which produced an Olympic or Senior World Championships medalist.",
+              "techniques": []
+            },
+            {
+              "text": "IJF-A Referees who worked the Olympic Games or the Final Block of the Senior World Championships",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY A: An approximate reduction of 40% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who were members of an Olympic or Senior World Team, or who placed in the top three of the Paralympic Games or Disabled Sports World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Referees who achieved IJF-A status and worked extensively in international competition (outside the USA)",
+              "techniques": []
+            },
+            {
+              "text": "Appointed Head Coach of the Olympic Games or Senior World Championships Team",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served on the board or working committee of the IJF or PJC",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY B: An approximate reduction of 30% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who represented their country as members of the Paralympic Games or Disabled Sports World Championships Team",
+              "techniques": []
+            },
+            {
+              "text": "Referees who achieved IJF-B status and worked internationally with that license level",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the Kata World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the Veterans World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches who oversaw a competitor who placed in the top three of the Paralympic Games or Disabled Sports World Championship",
+              "techniques": []
+            },
+            {
+              "text": "Club coaches who produced competitors who were members of a selected USA National Team",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served on the board of directors, or chaired a committee, of USA Judo",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY C: An approximate reduction of 15% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the U.S. Senior National Championship",
+              "techniques": []
+            },
+            {
+              "text": "Kata competitors who placed in the top three of the Pan American Championships",
+              "techniques": []
+            },
+            {
+              "text": "Referees and Kata Judges who achieved national level status and worked nationally at that license level",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches who oversaw competitors who placed in the top three of the Kata World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches, and managers, of US National Teams",
+              "techniques": []
+            },
+            {
+              "text": "Coaches who produced a competitor who placed in the top three of the U.S. Senior National Championship",
+              "techniques": []
+            },
+            {
+              "text": "Officials who were officers of their USA Judo State Organization",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served actively and consistently as appointed members of USA Judo Committees (generally for a minimum of 2 years)",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY D: All other candidates will be considered upon review of their individual judo accomplishments, service, and merits.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "promotion-recommendation",
+          "title": {
+            "en": "Promotion recommendation"
+          },
+          "items": [
+            {
+              "text": "All promotion recommendations and applications for USA Judo Dan rank certificates should be processed through the applicant’s State member organization’s (Group B in good standing) Promotion Committee.",
+              "techniques": []
+            },
+            {
+              "text": "Recommendation for USA Judo Dan Promotion form with appropriate signatures",
+              "techniques": []
+            },
+            {
+              "text": "Complete history/judo resume (can submit supplements)/full competition record (with opponent ranks) if applying as active athlete “on points”.",
+              "techniques": []
+            },
+            {
+              "text": "Evidence of kata and technical demonstrations (documentation may include promotion exam, kata competition, kata and/or gokyo certification, and/or appropriate clinic/course certificates)",
+              "techniques": [],
+              "terms": [
+                "gokyo"
+              ]
+            },
+            {
+              "text": "Copies of previous rank certificates from USA Judo, USJA or USJF",
+              "techniques": []
+            },
+            {
+              "text": "Copies of special awards, recognition, etc.",
+              "techniques": []
+            },
+            {
+              "text": "Passport size photo with name on back (yodan and above)",
+              "techniques": []
+            },
+            {
+              "text": "Appropriate fees should be remitted payable to USA Judo.",
+              "techniques": []
+            },
+            {
+              "text": "Current USA Judo membership (note: for rokudan and above, applicant must have consistent membership for at least the previous four years)",
+              "techniques": []
+            },
+            {
+              "text": "Current SafeSport certification, clean background screen and concussion certification.",
+              "techniques": []
+            },
+            {
+              "text": "For ranks yodan and higher, all fully completed application packets will be submitted to the USA Judo Promotion Committee for review and approval.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "fee",
+          "title": {
+            "en": "Current fees"
+          },
+          "items": [
+            {
+              "text": "Yodan $300.00",
+              "techniques": []
+            },
+            {
+              "text": "Applications for yodan and above will incur a $50 non-refundable fee. This fee will be included in the total application fee.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "USA Judo Promotion Recommendation Procedures (July 30, 2025)",
+          "url": "https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blt5298108bb39336d5/68daa06b4f6236c8bd762ecc/PromotionRecommendationProcedures-USA_Judo-CURRENT_7.30.2025.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "5th-dan",
+      "label": {
+        "en": "5th Dan"
+      },
+      "beltColor": "black",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "minimum-requirements",
+          "title": {
+            "en": "Recommended minimum requirements"
+          },
+          "items": [
+            {
+              "text": "unquestioned moral character and maturity,",
+              "techniques": []
+            },
+            {
+              "text": "continued practice and involvement in Judo,",
+              "techniques": []
+            },
+            {
+              "text": "minimum knowledge and skills in both randori and nagekomi practice,",
+              "techniques": [],
+              "terms": [
+                "randori",
+                "nagekomi"
+              ]
+            },
+            {
+              "text": "increased proficiency in all lower-rank requirements and in contest record",
+              "techniques": []
+            },
+            {
+              "text": "good understanding of and skills in teaching Judo,",
+              "techniques": []
+            },
+            {
+              "text": "must have minimum current USA Judo regional referee license or USA Judo coach certification",
+              "techniques": []
+            },
+            {
+              "text": "good proficiency in Nage-no-kata, Ju-no-kata, and Katame-no-kata, plus either Kime-no-kata or Kodokan Goshin-jitsu.",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata",
+                "ju-no-kata",
+                "katame-no-kata",
+                "kime-no-kata",
+                "kodokan-goshin-jutsu"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "time-in-grade",
+          "title": {
+            "en": "Guideline for promotion requirements: minimum age and grade time"
+          },
+          "items": [
+            {
+              "text": "Godan: Min. Age 26; Grade Time: Non-Competitor 10 yrs; Competitor 5 points 6 yrs; 10 points 4 yrs.; 15 points 2 yrs.; 20 points 1.5 yrs.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "randori-contest-points",
+          "title": {
+            "en": "Contest winning points: Randori-Contest"
+          },
+          "items": [
+            {
+              "text": "2.0 points Win against opponent more than two ranks higher",
+              "techniques": []
+            },
+            {
+              "text": "1.5 points Win against opponent more than one rank higher",
+              "techniques": []
+            },
+            {
+              "text": "1.0 points Win against opponent of same rank",
+              "techniques": []
+            },
+            {
+              "text": "0.5 points Win against opponent one rank lower",
+              "techniques": []
+            },
+            {
+              "text": "0.1 points Win against opponent two ranks lower",
+              "techniques": []
+            },
+            {
+              "text": "0.0 points Win against opponent three or more ranks lower",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata-contest-points",
+          "title": {
+            "en": "Contest winning points: Kata-Contest"
+          },
+          "items": [
+            {
+              "text": "First Place 2.0 points National 1.0 points Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "Second Place 1.5 points National 0.75 point Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "Third Place 1.0 point Natonal 0.5 point Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "A maximum of 2.0 points may be counted per Kata tournament, regardless of the number of divisions.",
+              "techniques": []
+            },
+            {
+              "text": "No promotion points are earned for “walk-overs”, (e.g. 3rd place out of 3 teams).",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "category-time-in-grade",
+          "title": {
+            "en": "Yodan and above: time in grade by category"
+          },
+          "items": [
+            {
+              "text": "Godan: Category A+ 5 Years; Category A 6 Years; Category B 7 Years; Category C 8.5 Years; Category D 10 Years",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "category-definitions",
+          "title": {
+            "en": "Category definitions"
+          },
+          "items": [
+            {
+              "text": "The following exceptions to baseline time-in-grade requirements for promotion will be made for certain candidates based upon their accomplishments in judo:",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY A+: An approximate reduction of 50% of the time-in-grade requirement is authorized for the following individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three in the Olympic Games or Senior World Championship",
+              "techniques": []
+            },
+            {
+              "text": "Appointed Head Coach of an Olympic Games or Senior World Team which produced an Olympic or Senior World Championships medalist.",
+              "techniques": []
+            },
+            {
+              "text": "IJF-A Referees who worked the Olympic Games or the Final Block of the Senior World Championships",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY A: An approximate reduction of 40% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who were members of an Olympic or Senior World Team, or who placed in the top three of the Paralympic Games or Disabled Sports World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Referees who achieved IJF-A status and worked extensively in international competition (outside the USA)",
+              "techniques": []
+            },
+            {
+              "text": "Appointed Head Coach of the Olympic Games or Senior World Championships Team",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served on the board or working committee of the IJF or PJC",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY B: An approximate reduction of 30% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who represented their country as members of the Paralympic Games or Disabled Sports World Championships Team",
+              "techniques": []
+            },
+            {
+              "text": "Referees who achieved IJF-B status and worked internationally with that license level",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the Kata World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the Veterans World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches who oversaw a competitor who placed in the top three of the Paralympic Games or Disabled Sports World Championship",
+              "techniques": []
+            },
+            {
+              "text": "Club coaches who produced competitors who were members of a selected USA National Team",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served on the board of directors, or chaired a committee, of USA Judo",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY C: An approximate reduction of 15% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the U.S. Senior National Championship",
+              "techniques": []
+            },
+            {
+              "text": "Kata competitors who placed in the top three of the Pan American Championships",
+              "techniques": []
+            },
+            {
+              "text": "Referees and Kata Judges who achieved national level status and worked nationally at that license level",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches who oversaw competitors who placed in the top three of the Kata World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches, and managers, of US National Teams",
+              "techniques": []
+            },
+            {
+              "text": "Coaches who produced a competitor who placed in the top three of the U.S. Senior National Championship",
+              "techniques": []
+            },
+            {
+              "text": "Officials who were officers of their USA Judo State Organization",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served actively and consistently as appointed members of USA Judo Committees (generally for a minimum of 2 years)",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY D: All other candidates will be considered upon review of their individual judo accomplishments, service, and merits.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "promotion-recommendation",
+          "title": {
+            "en": "Promotion recommendation"
+          },
+          "items": [
+            {
+              "text": "All promotion recommendations and applications for USA Judo Dan rank certificates should be processed through the applicant’s State member organization’s (Group B in good standing) Promotion Committee.",
+              "techniques": []
+            },
+            {
+              "text": "Recommendation for USA Judo Dan Promotion form with appropriate signatures",
+              "techniques": []
+            },
+            {
+              "text": "Complete history/judo resume (can submit supplements)/full competition record (with opponent ranks) if applying as active athlete “on points”.",
+              "techniques": []
+            },
+            {
+              "text": "Evidence of kata and technical demonstrations (documentation may include promotion exam, kata competition, kata and/or gokyo certification, and/or appropriate clinic/course certificates)",
+              "techniques": [],
+              "terms": [
+                "gokyo"
+              ]
+            },
+            {
+              "text": "Copies of previous rank certificates from USA Judo, USJA or USJF",
+              "techniques": []
+            },
+            {
+              "text": "Copies of special awards, recognition, etc.",
+              "techniques": []
+            },
+            {
+              "text": "Passport size photo with name on back (yodan and above)",
+              "techniques": []
+            },
+            {
+              "text": "Appropriate fees should be remitted payable to USA Judo.",
+              "techniques": []
+            },
+            {
+              "text": "Current USA Judo membership (note: for rokudan and above, applicant must have consistent membership for at least the previous four years)",
+              "techniques": []
+            },
+            {
+              "text": "Current SafeSport certification, clean background screen and concussion certification.",
+              "techniques": []
+            },
+            {
+              "text": "For ranks yodan and higher, all fully completed application packets will be submitted to the USA Judo Promotion Committee for review and approval.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "fee",
+          "title": {
+            "en": "Current fees"
+          },
+          "items": [
+            {
+              "text": "Godan $350.00",
+              "techniques": []
+            },
+            {
+              "text": "Applications for yodan and above will incur a $50 non-refundable fee. This fee will be included in the total application fee.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "USA Judo Promotion Recommendation Procedures (July 30, 2025)",
+          "url": "https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blt5298108bb39336d5/68daa06b4f6236c8bd762ecc/PromotionRecommendationProcedures-USA_Judo-CURRENT_7.30.2025.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "6th-dan",
+      "label": {
+        "en": "6th Dan"
+      },
+      "beltColor": "red",
+      "beltStripe": "white",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "minimum-requirements",
+          "title": {
+            "en": "Recommended minimum requirements"
+          },
+          "items": [
+            {
+              "text": "unquestioned moral character and maturity,",
+              "techniques": []
+            },
+            {
+              "text": "continued practice and involvement in Judo,",
+              "techniques": []
+            },
+            {
+              "text": "minimum knowledge and skills in teaching randori, nagekomi and kata,",
+              "techniques": [],
+              "terms": [
+                "randori",
+                "nagekomi",
+                "kata"
+              ]
+            },
+            {
+              "text": "increased proficiency in all lower-rank requirements,",
+              "techniques": []
+            },
+            {
+              "text": "good understanding of and skills in coaching randori and shiai techniques,",
+              "techniques": [],
+              "terms": [
+                "randori",
+                "shiai"
+              ]
+            },
+            {
+              "text": "substantial contributions to Judo,",
+              "techniques": []
+            },
+            {
+              "text": "must have minimum current USA Judo regional referee license or USA Judo national coach certification",
+              "techniques": []
+            },
+            {
+              "text": "superior proficiency in Nage-no-kata, Ju-no-kata, Katame-no-kata, Kime-no-kata, and Kodokan Goshin jitsu.",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata",
+                "ju-no-kata",
+                "katame-no-kata",
+                "kime-no-kata",
+                "kodokan-goshin-jutsu"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "time-in-grade",
+          "title": {
+            "en": "Guideline for promotion requirements: minimum age and grade time"
+          },
+          "items": [
+            {
+              "text": "Rokudan: Min. Age 32; Grade Time: Non-Competitor 12 yrs.; Competitor 5 points 11 yrs.; 10 points 10 yrs.; 15 points 8 yrs.; 20 points 7 yrs.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "randori-contest-points",
+          "title": {
+            "en": "Contest winning points: Randori-Contest"
+          },
+          "items": [
+            {
+              "text": "2.0 points Win against opponent more than two ranks higher",
+              "techniques": []
+            },
+            {
+              "text": "1.5 points Win against opponent more than one rank higher",
+              "techniques": []
+            },
+            {
+              "text": "1.0 points Win against opponent of same rank",
+              "techniques": []
+            },
+            {
+              "text": "0.5 points Win against opponent one rank lower",
+              "techniques": []
+            },
+            {
+              "text": "0.1 points Win against opponent two ranks lower",
+              "techniques": []
+            },
+            {
+              "text": "0.0 points Win against opponent three or more ranks lower",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata-contest-points",
+          "title": {
+            "en": "Contest winning points: Kata-Contest"
+          },
+          "items": [
+            {
+              "text": "First Place 2.0 points National 1.0 points Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "Second Place 1.5 points National 0.75 point Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "Third Place 1.0 point Natonal 0.5 point Regional/Local",
+              "techniques": []
+            },
+            {
+              "text": "A maximum of 2.0 points may be counted per Kata tournament, regardless of the number of divisions.",
+              "techniques": []
+            },
+            {
+              "text": "No promotion points are earned for “walk-overs”, (e.g. 3rd place out of 3 teams).",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "category-time-in-grade",
+          "title": {
+            "en": "Yodan and above: time in grade by category"
+          },
+          "items": [
+            {
+              "text": "Rokudan: Category A+ 6 Years; Category A 7 Years; Category B 8 Years; Category C 10 Years; Category D 12 Years a",
+              "techniques": []
+            },
+            {
+              "text": "a The minimum time from Shodan to Rokudan is 25 years for Category D candidates.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "category-definitions",
+          "title": {
+            "en": "Category definitions"
+          },
+          "items": [
+            {
+              "text": "The following exceptions to baseline time-in-grade requirements for promotion will be made for certain candidates based upon their accomplishments in judo:",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY A+: An approximate reduction of 50% of the time-in-grade requirement is authorized for the following individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three in the Olympic Games or Senior World Championship",
+              "techniques": []
+            },
+            {
+              "text": "Appointed Head Coach of an Olympic Games or Senior World Team which produced an Olympic or Senior World Championships medalist.",
+              "techniques": []
+            },
+            {
+              "text": "IJF-A Referees who worked the Olympic Games or the Final Block of the Senior World Championships",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY A: An approximate reduction of 40% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who were members of an Olympic or Senior World Team, or who placed in the top three of the Paralympic Games or Disabled Sports World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Referees who achieved IJF-A status and worked extensively in international competition (outside the USA)",
+              "techniques": []
+            },
+            {
+              "text": "Appointed Head Coach of the Olympic Games or Senior World Championships Team",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served on the board or working committee of the IJF or PJC",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY B: An approximate reduction of 30% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who represented their country as members of the Paralympic Games or Disabled Sports World Championships Team",
+              "techniques": []
+            },
+            {
+              "text": "Referees who achieved IJF-B status and worked internationally with that license level",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the Kata World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the Veterans World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches who oversaw a competitor who placed in the top three of the Paralympic Games or Disabled Sports World Championship",
+              "techniques": []
+            },
+            {
+              "text": "Club coaches who produced competitors who were members of a selected USA National Team",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served on the board of directors, or chaired a committee, of USA Judo",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY C: An approximate reduction of 15% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the U.S. Senior National Championship",
+              "techniques": []
+            },
+            {
+              "text": "Kata competitors who placed in the top three of the Pan American Championships",
+              "techniques": []
+            },
+            {
+              "text": "Referees and Kata Judges who achieved national level status and worked nationally at that license level",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches who oversaw competitors who placed in the top three of the Kata World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches, and managers, of US National Teams",
+              "techniques": []
+            },
+            {
+              "text": "Coaches who produced a competitor who placed in the top three of the U.S. Senior National Championship",
+              "techniques": []
+            },
+            {
+              "text": "Officials who were officers of their USA Judo State Organization",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served actively and consistently as appointed members of USA Judo Committees (generally for a minimum of 2 years)",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY D: All other candidates will be considered upon review of their individual judo accomplishments, service, and merits.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "promotion-recommendation",
+          "title": {
+            "en": "Promotion recommendation"
+          },
+          "items": [
+            {
+              "text": "All promotion recommendations and applications for USA Judo Dan rank certificates should be processed through the applicant’s State member organization’s (Group B in good standing) Promotion Committee.",
+              "techniques": []
+            },
+            {
+              "text": "Recommendation for USA Judo Dan Promotion form with appropriate signatures",
+              "techniques": []
+            },
+            {
+              "text": "Complete history/judo resume (can submit supplements)/full competition record (with opponent ranks) if applying as active athlete “on points”.",
+              "techniques": []
+            },
+            {
+              "text": "Evidence of kata and technical demonstrations (documentation may include promotion exam, kata competition, kata and/or gokyo certification, and/or appropriate clinic/course certificates)",
+              "techniques": [],
+              "terms": [
+                "gokyo"
+              ]
+            },
+            {
+              "text": "Copies of previous rank certificates from USA Judo, USJA or USJF",
+              "techniques": []
+            },
+            {
+              "text": "Copies of special awards, recognition, etc.",
+              "techniques": []
+            },
+            {
+              "text": "Passport size photo with name on back (yodan and above)",
+              "techniques": []
+            },
+            {
+              "text": "Appropriate fees should be remitted payable to USA Judo.",
+              "techniques": []
+            },
+            {
+              "text": "Current USA Judo membership (note: for rokudan and above, applicant must have consistent membership for at least the previous four years)",
+              "techniques": []
+            },
+            {
+              "text": "Current SafeSport certification, clean background screen and concussion certification.",
+              "techniques": []
+            },
+            {
+              "text": "For ranks yodan and higher, all fully completed application packets will be submitted to the USA Judo Promotion Committee for review and approval.",
+              "techniques": []
+            },
+            {
+              "text": "Consideration for rokudan and above will only be reviewed during the in-person meetings that take place in conjunction with the USA Judo Senior National Championships and the USA Judo National President’s Cup Championships.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "fee",
+          "title": {
+            "en": "Current fees"
+          },
+          "items": [
+            {
+              "text": "Rokudan $400.00",
+              "techniques": []
+            },
+            {
+              "text": "Applications for yodan and above will incur a $50 non-refundable fee. This fee will be included in the total application fee.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "USA Judo Promotion Recommendation Procedures (July 30, 2025)",
+          "url": "https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blt5298108bb39336d5/68daa06b4f6236c8bd762ecc/PromotionRecommendationProcedures-USA_Judo-CURRENT_7.30.2025.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "7th-dan",
+      "label": {
+        "en": "7th Dan"
+      },
+      "beltColor": "red",
+      "beltStripe": "white",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "minimum-requirements",
+          "title": {
+            "en": "Recommended minimum requirements"
+          },
+          "items": [
+            {
+              "text": "unquestioned moral character and maturity,",
+              "techniques": []
+            },
+            {
+              "text": "continued practice and involvement in Judo,",
+              "techniques": []
+            },
+            {
+              "text": "superior knowledge and skills in teaching randori, nagekomi and kata,",
+              "techniques": [],
+              "terms": [
+                "randori",
+                "nagekomi",
+                "kata"
+              ]
+            },
+            {
+              "text": "increased proficiency in all lower-rank requirements,",
+              "techniques": []
+            },
+            {
+              "text": "superior understanding of and skills in coaching randori and shiai strategies,",
+              "techniques": [],
+              "terms": [
+                "randori",
+                "shiai"
+              ]
+            },
+            {
+              "text": "substantial contributions to Judo and to society,",
+              "techniques": []
+            },
+            {
+              "text": "must have minimum current USA Judo national referee license or USA Judo national coach certification",
+              "techniques": []
+            },
+            {
+              "text": "excellent proficiency in Nage-no-kata, Ju-no-kata, Katame-no-kata, Kime-no-kata, Kodokan Goshin-jitsu, and either Itsutsu-no-kata, or Koshiki-no-kata.",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata",
+                "ju-no-kata",
+                "katame-no-kata",
+                "kime-no-kata",
+                "kodokan-goshin-jutsu",
+                "itsutsu-no-kata",
+                "koshiki-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "time-in-grade",
+          "title": {
+            "en": "Guideline for promotion requirements: minimum age and grade time"
+          },
+          "items": [
+            {
+              "text": "Shichidan: Min. Age 42; Grade Time: Non-Competitor 15 yrs.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "category-time-in-grade",
+          "title": {
+            "en": "Yodan and above: time in grade by category"
+          },
+          "items": [
+            {
+              "text": "Shichidan: Category A+ 8 Years; Category A 9 Years; Category B 10 Years; Category C 12 Years b; Category D 15 Years b",
+              "techniques": []
+            },
+            {
+              "text": "b The minimum time from Shodan to Shichidan is 25 years for Category C candidates, and 30 years for Category D candidates.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "category-definitions",
+          "title": {
+            "en": "Category definitions"
+          },
+          "items": [
+            {
+              "text": "The following exceptions to baseline time-in-grade requirements for promotion will be made for certain candidates based upon their accomplishments in judo:",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY A+: An approximate reduction of 50% of the time-in-grade requirement is authorized for the following individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three in the Olympic Games or Senior World Championship",
+              "techniques": []
+            },
+            {
+              "text": "Appointed Head Coach of an Olympic Games or Senior World Team which produced an Olympic or Senior World Championships medalist.",
+              "techniques": []
+            },
+            {
+              "text": "IJF-A Referees who worked the Olympic Games or the Final Block of the Senior World Championships",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY A: An approximate reduction of 40% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who were members of an Olympic or Senior World Team, or who placed in the top three of the Paralympic Games or Disabled Sports World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Referees who achieved IJF-A status and worked extensively in international competition (outside the USA)",
+              "techniques": []
+            },
+            {
+              "text": "Appointed Head Coach of the Olympic Games or Senior World Championships Team",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served on the board or working committee of the IJF or PJC",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY B: An approximate reduction of 30% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who represented their country as members of the Paralympic Games or Disabled Sports World Championships Team",
+              "techniques": []
+            },
+            {
+              "text": "Referees who achieved IJF-B status and worked internationally with that license level",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the Kata World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the Veterans World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches who oversaw a competitor who placed in the top three of the Paralympic Games or Disabled Sports World Championship",
+              "techniques": []
+            },
+            {
+              "text": "Club coaches who produced competitors who were members of a selected USA National Team",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served on the board of directors, or chaired a committee, of USA Judo",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY C: An approximate reduction of 15% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the U.S. Senior National Championship",
+              "techniques": []
+            },
+            {
+              "text": "Kata competitors who placed in the top three of the Pan American Championships",
+              "techniques": []
+            },
+            {
+              "text": "Referees and Kata Judges who achieved national level status and worked nationally at that license level",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches who oversaw competitors who placed in the top three of the Kata World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches, and managers, of US National Teams",
+              "techniques": []
+            },
+            {
+              "text": "Coaches who produced a competitor who placed in the top three of the U.S. Senior National Championship",
+              "techniques": []
+            },
+            {
+              "text": "Officials who were officers of their USA Judo State Organization",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served actively and consistently as appointed members of USA Judo Committees (generally for a minimum of 2 years)",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY D: All other candidates will be considered upon review of their individual judo accomplishments, service, and merits.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "promotion-recommendation",
+          "title": {
+            "en": "Promotion recommendation"
+          },
+          "items": [
+            {
+              "text": "All promotion recommendations and applications for USA Judo Dan rank certificates should be processed through the applicant’s State member organization’s (Group B in good standing) Promotion Committee.",
+              "techniques": []
+            },
+            {
+              "text": "Recommendation for USA Judo Dan Promotion form with appropriate signatures",
+              "techniques": []
+            },
+            {
+              "text": "Complete history/judo resume (can submit supplements)/full competition record (with opponent ranks) if applying as active athlete “on points”.",
+              "techniques": []
+            },
+            {
+              "text": "Evidence of kata and technical demonstrations (documentation may include promotion exam, kata competition, kata and/or gokyo certification, and/or appropriate clinic/course certificates)",
+              "techniques": [],
+              "terms": [
+                "gokyo"
+              ]
+            },
+            {
+              "text": "Copies of previous rank certificates from USA Judo, USJA or USJF",
+              "techniques": []
+            },
+            {
+              "text": "Copies of special awards, recognition, etc.",
+              "techniques": []
+            },
+            {
+              "text": "Passport size photo with name on back (yodan and above)",
+              "techniques": []
+            },
+            {
+              "text": "Appropriate fees should be remitted payable to USA Judo.",
+              "techniques": []
+            },
+            {
+              "text": "Current USA Judo membership (note: for rokudan and above, applicant must have consistent membership for at least the previous four years)",
+              "techniques": []
+            },
+            {
+              "text": "Current SafeSport certification, clean background screen and concussion certification.",
+              "techniques": []
+            },
+            {
+              "text": "For ranks yodan and higher, all fully completed application packets will be submitted to the USA Judo Promotion Committee for review and approval.",
+              "techniques": []
+            },
+            {
+              "text": "Consideration for rokudan and above will only be reviewed during the in-person meetings that take place in conjunction with the USA Judo Senior National Championships and the USA Judo National President’s Cup Championships.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "fee",
+          "title": {
+            "en": "Current fees"
+          },
+          "items": [
+            {
+              "text": "Shichidan $450.00",
+              "techniques": []
+            },
+            {
+              "text": "Applications for yodan and above will incur a $50 non-refundable fee. This fee will be included in the total application fee.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "USA Judo Promotion Recommendation Procedures (July 30, 2025)",
+          "url": "https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blt5298108bb39336d5/68daa06b4f6236c8bd762ecc/PromotionRecommendationProcedures-USA_Judo-CURRENT_7.30.2025.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "8th-dan",
+      "label": {
+        "en": "8th Dan"
+      },
+      "beltColor": "red",
+      "beltStripe": "white",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "minimum-requirements",
+          "title": {
+            "en": "Recommended minimum requirements"
+          },
+          "items": [
+            {
+              "text": "unquestioned moral character and maturity,",
+              "techniques": []
+            },
+            {
+              "text": "continued practice and involvement in Judo,",
+              "techniques": []
+            },
+            {
+              "text": "excellent knowledge and skills in teaching randori, nagekomi and kata,",
+              "techniques": [],
+              "terms": [
+                "randori",
+                "nagekomi",
+                "kata"
+              ]
+            },
+            {
+              "text": "increased proficiency in all lower-rank requirements,",
+              "techniques": []
+            },
+            {
+              "text": "must have minimum current USA Judo national referee license or USA Judo national coach certification.",
+              "techniques": []
+            },
+            {
+              "text": "mastery of the principles and philosophy of Judo,",
+              "techniques": []
+            },
+            {
+              "text": "major levels of contribution to Judo organizations,",
+              "techniques": []
+            },
+            {
+              "text": "substantial contribution to Judo and to society,",
+              "techniques": []
+            },
+            {
+              "text": "excellent knowledge and skills in Nage-no-kata, Ju-no-kata, Katame-no-kata, Kimenokata, Kodokan Goshin-jitsu, Itsutsu-no-kata, and Koshiki-no-kata.",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata",
+                "ju-no-kata",
+                "katame-no-kata",
+                "kime-no-kata",
+                "kodokan-goshin-jutsu",
+                "itsutsu-no-kata",
+                "koshiki-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "time-in-grade",
+          "title": {
+            "en": "Guideline for promotion requirements: minimum age and grade time"
+          },
+          "items": [
+            {
+              "text": "Hachidan: Min. Age 55; Grade Time: Non-Competitor 18 yrs",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "category-time-in-grade",
+          "title": {
+            "en": "Yodan and above: time in grade by category"
+          },
+          "items": [
+            {
+              "text": "Hachidan: Category A+ 10 Years c; Category A 12 Years c; Category B 15 Years c; Category C 18 Years c",
+              "techniques": []
+            },
+            {
+              "text": "c Only Category A+, A, B and C candidates will be considered for Hachidan. Per IJF requirements, only A+, A and B candidates are eligible for recommendation to IJF/PJC Hachidan.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "category-definitions",
+          "title": {
+            "en": "Category definitions"
+          },
+          "items": [
+            {
+              "text": "The following exceptions to baseline time-in-grade requirements for promotion will be made for certain candidates based upon their accomplishments in judo:",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY A+: An approximate reduction of 50% of the time-in-grade requirement is authorized for the following individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three in the Olympic Games or Senior World Championship",
+              "techniques": []
+            },
+            {
+              "text": "Appointed Head Coach of an Olympic Games or Senior World Team which produced an Olympic or Senior World Championships medalist.",
+              "techniques": []
+            },
+            {
+              "text": "IJF-A Referees who worked the Olympic Games or the Final Block of the Senior World Championships",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY A: An approximate reduction of 40% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who were members of an Olympic or Senior World Team, or who placed in the top three of the Paralympic Games or Disabled Sports World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Referees who achieved IJF-A status and worked extensively in international competition (outside the USA)",
+              "techniques": []
+            },
+            {
+              "text": "Appointed Head Coach of the Olympic Games or Senior World Championships Team",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served on the board or working committee of the IJF or PJC",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY B: An approximate reduction of 30% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who represented their country as members of the Paralympic Games or Disabled Sports World Championships Team",
+              "techniques": []
+            },
+            {
+              "text": "Referees who achieved IJF-B status and worked internationally with that license level",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the Kata World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the Veterans World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches who oversaw a competitor who placed in the top three of the Paralympic Games or Disabled Sports World Championship",
+              "techniques": []
+            },
+            {
+              "text": "Club coaches who produced competitors who were members of a selected USA National Team",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served on the board of directors, or chaired a committee, of USA Judo",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY C: An approximate reduction of 15% of the time-in-grade requirement is authorized for the following Individuals:",
+              "techniques": []
+            },
+            {
+              "text": "Competitors who placed in the top three of the U.S. Senior National Championship",
+              "techniques": []
+            },
+            {
+              "text": "Kata competitors who placed in the top three of the Pan American Championships",
+              "techniques": []
+            },
+            {
+              "text": "Referees and Kata Judges who achieved national level status and worked nationally at that license level",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches who oversaw competitors who placed in the top three of the Kata World Championships",
+              "techniques": []
+            },
+            {
+              "text": "Appointed national coaches, and managers, of US National Teams",
+              "techniques": []
+            },
+            {
+              "text": "Coaches who produced a competitor who placed in the top three of the U.S. Senior National Championship",
+              "techniques": []
+            },
+            {
+              "text": "Officials who were officers of their USA Judo State Organization",
+              "techniques": []
+            },
+            {
+              "text": "Officials who served actively and consistently as appointed members of USA Judo Committees (generally for a minimum of 2 years)",
+              "techniques": []
+            },
+            {
+              "text": "CATEGORY D: All other candidates will be considered upon review of their individual judo accomplishments, service, and merits.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "promotion-recommendation",
+          "title": {
+            "en": "Promotion recommendation"
+          },
+          "items": [
+            {
+              "text": "All promotion recommendations and applications for USA Judo Dan rank certificates should be processed through the applicant’s State member organization’s (Group B in good standing) Promotion Committee.",
+              "techniques": []
+            },
+            {
+              "text": "Recommendation for USA Judo Dan Promotion form with appropriate signatures",
+              "techniques": []
+            },
+            {
+              "text": "Complete history/judo resume (can submit supplements)/full competition record (with opponent ranks) if applying as active athlete “on points”.",
+              "techniques": []
+            },
+            {
+              "text": "Evidence of kata and technical demonstrations (documentation may include promotion exam, kata competition, kata and/or gokyo certification, and/or appropriate clinic/course certificates)",
+              "techniques": [],
+              "terms": [
+                "gokyo"
+              ]
+            },
+            {
+              "text": "Copies of previous rank certificates from USA Judo, USJA or USJF",
+              "techniques": []
+            },
+            {
+              "text": "Copies of special awards, recognition, etc.",
+              "techniques": []
+            },
+            {
+              "text": "Passport size photo with name on back (yodan and above)",
+              "techniques": []
+            },
+            {
+              "text": "Appropriate fees should be remitted payable to USA Judo.",
+              "techniques": []
+            },
+            {
+              "text": "Current USA Judo membership (note: for rokudan and above, applicant must have consistent membership for at least the previous four years)",
+              "techniques": []
+            },
+            {
+              "text": "Current SafeSport certification, clean background screen and concussion certification.",
+              "techniques": []
+            },
+            {
+              "text": "For ranks yodan and higher, all fully completed application packets will be submitted to the USA Judo Promotion Committee for review and approval.",
+              "techniques": []
+            },
+            {
+              "text": "Consideration for rokudan and above will only be reviewed during the in-person meetings that take place in conjunction with the USA Judo Senior National Championships and the USA Judo National President’s Cup Championships.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "fee",
+          "title": {
+            "en": "Current fees"
+          },
+          "items": [
+            {
+              "text": "Hachidan $500.00",
+              "techniques": []
+            },
+            {
+              "text": "Applications for yodan and above will incur a $50 non-refundable fee. This fee will be included in the total application fee.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "USA Judo Promotion Recommendation Procedures (July 30, 2025)",
+          "url": "https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blt5298108bb39336d5/68daa06b4f6236c8bd762ecc/PromotionRecommendationProcedures-USA_Judo-CURRENT_7.30.2025.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "9th-dan",
+      "label": {
+        "en": "9th Dan"
+      },
+      "beltColor": "red",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "kudan-and-judan-criteria",
+          "title": {
+            "en": "Further criteria for Kudan and Judan"
+          },
+          "items": [
+            {
+              "text": "As a minimum, the applicant must be qualified as a Category A or A+ promotion candidate by:",
+              "techniques": []
+            },
+            {
+              "text": "having been a competitor on the Olympic or Paralympic Games or Senior or IBSA World Championships Team",
+              "techniques": []
+            },
+            {
+              "text": "having worked extensively as an IJF-A referee",
+              "techniques": []
+            },
+            {
+              "text": "having served on the board or as a committee head of the PJC or IJF",
+              "techniques": []
+            },
+            {
+              "text": "as a selected USA Judo head coach, led the team for the Olympic or Paralympic Games or Senior or IBSA World Championships",
+              "techniques": []
+            },
+            {
+              "text": "must have minimum IJF Continental referee license or USA Judo international coach certification which includes current SafeSport certification, concussion certification and clean background screen.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "9th-and-10th-dan-conditions",
+          "title": {
+            "en": "Conditions for 9th and 10th Dan"
+          },
+          "items": [
+            {
+              "text": "The 9th and 10th Dan can be awarded only to those who:",
+              "techniques": []
+            },
+            {
+              "text": "have been continuously involved in activities of judo such as competition, teaching, training, coaching, refereeing or administration.",
+              "techniques": []
+            },
+            {
+              "text": "have actively practiced judo.",
+              "techniques": []
+            },
+            {
+              "text": "have an exceptional personality, recognized for his/her charisma, radiance, ethics.",
+              "techniques": []
+            },
+            {
+              "text": "have an exceptional and unblemished career.",
+              "techniques": []
+            },
+            {
+              "text": "have been promoted gradually from 1st to 8th dan, without passing several “dan” at the same time.",
+              "techniques": []
+            },
+            {
+              "text": "have received their previous rank from USA Judo.",
+              "techniques": []
+            },
+            {
+              "text": "have become a top three medalist in any national–level tournament",
+              "techniques": []
+            },
+            {
+              "text": "are recommended by USA Judo Rank and Certification Committee",
+              "techniques": []
+            },
+            {
+              "text": "respect time limit between the grades and the minimum age meeting the criteria of the tables previously exposed.",
+              "techniques": []
+            },
+            {
+              "text": "be devoted to judo without interruption.",
+              "techniques": []
+            },
+            {
+              "text": "9th and 10th Dan may only be granted upon the vote and approval of the USA Judo Board of Directors after receiving approval from USA Judo Rank & Certification Committee",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "for-9th-dan",
+          "title": {
+            "en": "For 9th Dan"
+          },
+          "items": [
+            {
+              "text": "Minimum age of 60 years",
+              "techniques": []
+            },
+            {
+              "text": "10 years since last promotion",
+              "techniques": []
+            },
+            {
+              "text": "Practical and demonstrated theoretical knowledge of all kata: Nage No Kata – Katame No Kata – Kime No Kata – Ju No Kata – Koshiki No Kata- Kodokan Goshin Jitsu",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata",
+                "katame-no-kata",
+                "kime-no-kata",
+                "ju-no-kata",
+                "koshiki-no-kata",
+                "kodokan-goshin-jutsu"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "promotion-recommendation",
+          "title": {
+            "en": "Promotion recommendation"
+          },
+          "items": [
+            {
+              "text": "All promotion recommendations and applications for USA Judo Dan rank certificates should be processed through the applicant’s State member organization’s (Group B in good standing) Promotion Committee.",
+              "techniques": []
+            },
+            {
+              "text": "Recommendation for USA Judo Dan Promotion form with appropriate signatures",
+              "techniques": []
+            },
+            {
+              "text": "Complete history/judo resume (can submit supplements)/full competition record (with opponent ranks) if applying as active athlete “on points”.",
+              "techniques": []
+            },
+            {
+              "text": "Evidence of kata and technical demonstrations (documentation may include promotion exam, kata competition, kata and/or gokyo certification, and/or appropriate clinic/course certificates)",
+              "techniques": [],
+              "terms": [
+                "gokyo"
+              ]
+            },
+            {
+              "text": "Copies of previous rank certificates from USA Judo, USJA or USJF",
+              "techniques": []
+            },
+            {
+              "text": "Copies of special awards, recognition, etc.",
+              "techniques": []
+            },
+            {
+              "text": "Passport size photo with name on back (yodan and above)",
+              "techniques": []
+            },
+            {
+              "text": "Appropriate fees should be remitted payable to USA Judo.",
+              "techniques": []
+            },
+            {
+              "text": "Current USA Judo membership (note: for rokudan and above, applicant must have consistent membership for at least the previous four years)",
+              "techniques": []
+            },
+            {
+              "text": "Current SafeSport certification, clean background screen and concussion certification.",
+              "techniques": []
+            },
+            {
+              "text": "For ranks yodan and higher, all fully completed application packets will be submitted to the USA Judo Promotion Committee for review and approval.",
+              "techniques": []
+            },
+            {
+              "text": "Consideration for rokudan and above will only be reviewed during the in-person meetings that take place in conjunction with the USA Judo Senior National Championships and the USA Judo National President’s Cup Championships.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "fee",
+          "title": {
+            "en": "Current fees"
+          },
+          "items": [
+            {
+              "text": "Kudan $550.00",
+              "techniques": []
+            },
+            {
+              "text": "Applications for yodan and above will incur a $50 non-refundable fee. This fee will be included in the total application fee.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "USA Judo Promotion Recommendation Procedures (July 30, 2025)",
+          "url": "https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blt5298108bb39336d5/68daa06b4f6236c8bd762ecc/PromotionRecommendationProcedures-USA_Judo-CURRENT_7.30.2025.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "10th-dan",
+      "label": {
+        "en": "10th Dan"
+      },
+      "beltColor": "red",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "kudan-and-judan-criteria",
+          "title": {
+            "en": "Further criteria for Kudan and Judan"
+          },
+          "items": [
+            {
+              "text": "As a minimum, the applicant must be qualified as a Category A or A+ promotion candidate by:",
+              "techniques": []
+            },
+            {
+              "text": "having been a competitor on the Olympic or Paralympic Games or Senior or IBSA World Championships Team",
+              "techniques": []
+            },
+            {
+              "text": "having worked extensively as an IJF-A referee",
+              "techniques": []
+            },
+            {
+              "text": "having served on the board or as a committee head of the PJC or IJF",
+              "techniques": []
+            },
+            {
+              "text": "as a selected USA Judo head coach, led the team for the Olympic or Paralympic Games or Senior or IBSA World Championships",
+              "techniques": []
+            },
+            {
+              "text": "must have minimum IJF Continental referee license or USA Judo international coach certification which includes current SafeSport certification, concussion certification and clean background screen.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "9th-and-10th-dan-conditions",
+          "title": {
+            "en": "Conditions for 9th and 10th Dan"
+          },
+          "items": [
+            {
+              "text": "The 9th and 10th Dan can be awarded only to those who:",
+              "techniques": []
+            },
+            {
+              "text": "have been continuously involved in activities of judo such as competition, teaching, training, coaching, refereeing or administration.",
+              "techniques": []
+            },
+            {
+              "text": "have actively practiced judo.",
+              "techniques": []
+            },
+            {
+              "text": "have an exceptional personality, recognized for his/her charisma, radiance, ethics.",
+              "techniques": []
+            },
+            {
+              "text": "have an exceptional and unblemished career.",
+              "techniques": []
+            },
+            {
+              "text": "have been promoted gradually from 1st to 8th dan, without passing several “dan” at the same time.",
+              "techniques": []
+            },
+            {
+              "text": "have received their previous rank from USA Judo.",
+              "techniques": []
+            },
+            {
+              "text": "have become a top three medalist in any national–level tournament",
+              "techniques": []
+            },
+            {
+              "text": "are recommended by USA Judo Rank and Certification Committee",
+              "techniques": []
+            },
+            {
+              "text": "respect time limit between the grades and the minimum age meeting the criteria of the tables previously exposed.",
+              "techniques": []
+            },
+            {
+              "text": "be devoted to judo without interruption.",
+              "techniques": []
+            },
+            {
+              "text": "9th and 10th Dan may only be granted upon the vote and approval of the USA Judo Board of Directors after receiving approval from USA Judo Rank & Certification Committee",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "for-10th-dan",
+          "title": {
+            "en": "For 10th Dan"
+          },
+          "items": [
+            {
+              "text": "Minimum age of 70 years",
+              "techniques": []
+            },
+            {
+              "text": "10 years since last promotion",
+              "techniques": []
+            },
+            {
+              "text": "Practical and demonstrated theoretical knowledge of all kata: Nage No Kata – Katame No Kata – Kime No Kata – Ju No Kata – Koshiki No Kata- Kodokan Goshin Jitsu",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata",
+                "katame-no-kata",
+                "kime-no-kata",
+                "ju-no-kata",
+                "koshiki-no-kata",
+                "kodokan-goshin-jutsu"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "promotion-recommendation",
+          "title": {
+            "en": "Promotion recommendation"
+          },
+          "items": [
+            {
+              "text": "All promotion recommendations and applications for USA Judo Dan rank certificates should be processed through the applicant’s State member organization’s (Group B in good standing) Promotion Committee.",
+              "techniques": []
+            },
+            {
+              "text": "Recommendation for USA Judo Dan Promotion form with appropriate signatures",
+              "techniques": []
+            },
+            {
+              "text": "Complete history/judo resume (can submit supplements)/full competition record (with opponent ranks) if applying as active athlete “on points”.",
+              "techniques": []
+            },
+            {
+              "text": "Evidence of kata and technical demonstrations (documentation may include promotion exam, kata competition, kata and/or gokyo certification, and/or appropriate clinic/course certificates)",
+              "techniques": [],
+              "terms": [
+                "gokyo"
+              ]
+            },
+            {
+              "text": "Copies of previous rank certificates from USA Judo, USJA or USJF",
+              "techniques": []
+            },
+            {
+              "text": "Copies of special awards, recognition, etc.",
+              "techniques": []
+            },
+            {
+              "text": "Passport size photo with name on back (yodan and above)",
+              "techniques": []
+            },
+            {
+              "text": "Appropriate fees should be remitted payable to USA Judo.",
+              "techniques": []
+            },
+            {
+              "text": "Current USA Judo membership (note: for rokudan and above, applicant must have consistent membership for at least the previous four years)",
+              "techniques": []
+            },
+            {
+              "text": "Current SafeSport certification, clean background screen and concussion certification.",
+              "techniques": []
+            },
+            {
+              "text": "For ranks yodan and higher, all fully completed application packets will be submitted to the USA Judo Promotion Committee for review and approval.",
+              "techniques": []
+            },
+            {
+              "text": "Consideration for rokudan and above will only be reviewed during the in-person meetings that take place in conjunction with the USA Judo Senior National Championships and the USA Judo National President’s Cup Championships.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "fee",
+          "title": {
+            "en": "Current fees"
+          },
+          "items": [
+            {
+              "text": "Judan $600.00",
+              "techniques": []
+            },
+            {
+              "text": "Applications for yodan and above will incur a $50 non-refundable fee. This fee will be included in the total application fee.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "USA Judo Promotion Recommendation Procedures (July 30, 2025)",
+          "url": "https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blt5298108bb39336d5/68daa06b4f6236c8bd762ecc/PromotionRecommendationProcedures-USA_Judo-CURRENT_7.30.2025.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    }
+  ]
+}

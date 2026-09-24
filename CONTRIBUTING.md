@@ -231,8 +231,8 @@ a stripe along the belt rather than a new belt each time, add `beltStripe`:
 That is how JudoScotland's Kai grades work, for children aged 5 to 7: one
 white belt, a new colour each grading, and at 9th Kai a red belt with white.
 The palette is `white`, `red`, `yellow`, `orange`, `green`, `blue`,
-`purple`, `brown`, `black`; `purple` exists only because a Kai grade uses
-it, and it is not a belt in any Kyu or Dan progression.
+`purple`, `brown`, `black`. `purple` appears in JudoScotland's Kai grades
+and in the junior ranks of USA Judo, the USJF and the USJA.
 
 Say how the colour is WORN on the scheme, not the grade, because a club
 marks its whole pathway one way:
@@ -957,7 +957,7 @@ Create `grading-schemes/<scheme-id>.json` for your federation's progression:
 ```
 
 Array order is progression order. `beltColor` is one of: white, red, yellow,
-orange, green, blue, brown, black. Every slug in `techniqueSlugs` must exist
+orange, green, blue, purple, brown, black. Every slug in `techniqueSlugs` must exist
 in `techniques/` - the validator names any that do not. Base the lists on a
 published syllabus and cite it in the PR.
 

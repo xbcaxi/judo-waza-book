@@ -1,0 +1,783 @@
+{
+  "name": {
+    "en": "High dan ranks (USJA)"
+  },
+  "organisation": "United States Judo Association",
+  "country": "US",
+  "order": 13,
+  "description": {
+    "en": "The United States Judo Association's ranks from 4th to 10th Dan. By 4th Dan a candidate has shown technical proficiency in the association's curriculum, and promotion from there is judged on service to the development of judo through the association rather than by examination. 4th and 5th Dan are instructor grades, 6th to 8th Dan are awarded for mastery of the curriculum and extraordinary service, and 9th and 10th Dan are reserved for a lifetime of work at national and international level. The Promotion Board, made up of 6th Dan holders and above, looks at each application as a whole, with most weight on service since the last promotion; a sub-committee reviews 4th and 5th Dan, and ranks above 8th Dan also need the approval of the Board of Directors."
+  },
+  "beltNote": {
+    "en": "The forms print two colours for 4th to 8th Dan without saying how they are arranged on the belt."
+  },
+  "source": {
+    "title": "Yodan to Hachidan Promotion; USJA Judo Rank Promotion System, 9th and 10th Dan Promotion Requirements; 9th and 10th Dan Recommendation for Promotion",
+    "date": "September 2025 (4th to 8th Dan form); June 2023 (9th and 10th Dan)",
+    "note": {
+      "en": "Item wording is as printed, including the forms' own slips (\"blackbells\", \"competitor, coaches\" in the 9th Dan list, and \"your lifetime accomplishments\"). Numbering is dropped and the order kept. The forms' rank tables are flattened into items with the column headings kept. The 4th to 8th Dan form (09/2025) and the promotion page disagree in two places. The form requires sign-off by two 8th Dan holders for 7th and 8th Dan, where the page prints two 7th Dan holders; the form is transcribed. The form prints the 4th and 5th Dan belt as Red/Black and the page as Black/Red; the grade shows black with red, following the page, and 6th to 8th Dan show red with white, which both print as Red/White. The 9th and 10th Dan requirements permit a red belt or a black belt; the recommendation form and the page print red, which is shown. The recommendation form's rank table has columns for time in grade at activity levels D, C and B that are left blank, and fills only the A column (10+ and 11+); its heading is printed as \"9st and/or 10th Dan\". The 4th to 8th Dan form also lists sample categories the Promotion Board considers (life membership, competition, coaching, officiating, hosting events, certifications and service to the association, each at local, regional and national level). These are considerations rather than requirements and are not transcribed as items. Fees printed on the forms are not transcribed. A candidate seeking an exception to any rank requirement, including time in grade, uses the Rank Requirement Exception Request Form, which needs a two-thirds vote of the Promotion Board."
+    }
+  },
+  "grades": [
+    {
+      "slug": "4th-dan",
+      "label": {
+        "en": "4th Dan (Yodan)"
+      },
+      "beltColor": "black",
+      "beltStripe": "red",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "requirements",
+          "title": {
+            "en": "Time in grade and sign-off"
+          },
+          "items": [
+            {
+              "text": "TIG: 5 years"
+            },
+            {
+              "text": "Sign off # Rank or above: (1) 5th Dan"
+            }
+          ]
+        },
+        {
+          "slug": "mandatory",
+          "title": {
+            "en": "Mandatory requirements"
+          },
+          "items": [
+            {
+              "text": "Mandatory requirements for promotion include current USJA membership, completion of child abuse training, concussion training, and a satisfactory background check."
+            },
+            {
+              "text": "Applications for promotion should include a biographical listing of accomplishments in Judo throughout an applicant’s career, with specific emphasis on service undertaken since the applicant’s most recent promotion. Accomplishments achieved through the USJA will be given the most consideration."
+            }
+          ]
+        },
+        {
+          "slug": "checklist",
+          "title": {
+            "en": "Check list"
+          },
+          "items": [
+            {
+              "text": "4th to 8th Dan Promotion form complete, make sure you have the correct form, and it must be typed"
+            },
+            {
+              "text": "Candidate must have current & maintained USJA membership. (Annual or SLM with Chartered USJA Club)"
+            },
+            {
+              "text": "Candidate must have current and clear Background check."
+            },
+            {
+              "text": "Candidate must have completed NFHS/Safe Sport Certification."
+            },
+            {
+              "text": "Candidate must have completed CDC Heads Up Certification."
+            },
+            {
+              "text": "Candidate meets or exceeds TIG."
+            },
+            {
+              "text": "All claimed USJA Certifications are up to date and current."
+            },
+            {
+              "text": "After approval, the Promotion fee is due as listed."
+            },
+            {
+              "text": "Include an updated Photo (Passport type)."
+            },
+            {
+              "text": "Include an extensive Judo Biography."
+            },
+            {
+              "text": "Include comprehensive written recommendation from all high dan blackbells that signed your RFP"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Yodan to Hachidan Promotion (09/2025) (PDF)",
+          "url": "https://www.usja.net/staff/forms/174/document/download",
+          "source": "United States Judo Association"
+        },
+        {
+          "title": "Promotion System",
+          "url": "https://www.usja.net/about/promotion",
+          "source": "United States Judo Association"
+        }
+      ]
+    },
+    {
+      "slug": "5th-dan",
+      "label": {
+        "en": "5th Dan (Godan)"
+      },
+      "beltColor": "black",
+      "beltStripe": "red",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "requirements",
+          "title": {
+            "en": "Time in grade and sign-off"
+          },
+          "items": [
+            {
+              "text": "TIG: 6 years"
+            },
+            {
+              "text": "Sign off # Rank or above: (1) 6th Dan"
+            }
+          ]
+        },
+        {
+          "slug": "mandatory",
+          "title": {
+            "en": "Mandatory requirements"
+          },
+          "items": [
+            {
+              "text": "Mandatory requirements for promotion include current USJA membership, completion of child abuse training, concussion training, and a satisfactory background check."
+            },
+            {
+              "text": "Applications for promotion should include a biographical listing of accomplishments in Judo throughout an applicant’s career, with specific emphasis on service undertaken since the applicant’s most recent promotion. Accomplishments achieved through the USJA will be given the most consideration."
+            }
+          ]
+        },
+        {
+          "slug": "checklist",
+          "title": {
+            "en": "Check list"
+          },
+          "items": [
+            {
+              "text": "4th to 8th Dan Promotion form complete, make sure you have the correct form, and it must be typed"
+            },
+            {
+              "text": "Candidate must have current & maintained USJA membership. (Annual or SLM with Chartered USJA Club)"
+            },
+            {
+              "text": "Candidate must have current and clear Background check."
+            },
+            {
+              "text": "Candidate must have completed NFHS/Safe Sport Certification."
+            },
+            {
+              "text": "Candidate must have completed CDC Heads Up Certification."
+            },
+            {
+              "text": "Candidate meets or exceeds TIG."
+            },
+            {
+              "text": "All claimed USJA Certifications are up to date and current."
+            },
+            {
+              "text": "After approval, the Promotion fee is due as listed."
+            },
+            {
+              "text": "Include an updated Photo (Passport type)."
+            },
+            {
+              "text": "Include an extensive Judo Biography."
+            },
+            {
+              "text": "Include comprehensive written recommendation from all high dan blackbells that signed your RFP"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Yodan to Hachidan Promotion (09/2025) (PDF)",
+          "url": "https://www.usja.net/staff/forms/174/document/download",
+          "source": "United States Judo Association"
+        },
+        {
+          "title": "Promotion System",
+          "url": "https://www.usja.net/about/promotion",
+          "source": "United States Judo Association"
+        }
+      ]
+    },
+    {
+      "slug": "6th-dan",
+      "label": {
+        "en": "6th Dan (Rokudan)"
+      },
+      "beltColor": "red",
+      "beltStripe": "white",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "requirements",
+          "title": {
+            "en": "Time in grade and sign-off"
+          },
+          "items": [
+            {
+              "text": "TIG: 7 years"
+            },
+            {
+              "text": "Sign off # Rank or above: (2) 7th Dan"
+            }
+          ]
+        },
+        {
+          "slug": "mandatory",
+          "title": {
+            "en": "Mandatory requirements"
+          },
+          "items": [
+            {
+              "text": "Mandatory requirements for promotion include current USJA membership, completion of child abuse training, concussion training, and a satisfactory background check."
+            },
+            {
+              "text": "Applications for promotion should include a biographical listing of accomplishments in Judo throughout an applicant’s career, with specific emphasis on service undertaken since the applicant’s most recent promotion. Accomplishments achieved through the USJA will be given the most consideration."
+            }
+          ]
+        },
+        {
+          "slug": "checklist",
+          "title": {
+            "en": "Check list"
+          },
+          "items": [
+            {
+              "text": "4th to 8th Dan Promotion form complete, make sure you have the correct form, and it must be typed"
+            },
+            {
+              "text": "Candidate must have current & maintained USJA membership. (Annual or SLM with Chartered USJA Club)"
+            },
+            {
+              "text": "Candidate must have current and clear Background check."
+            },
+            {
+              "text": "Candidate must have completed NFHS/Safe Sport Certification."
+            },
+            {
+              "text": "Candidate must have completed CDC Heads Up Certification."
+            },
+            {
+              "text": "Candidate meets or exceeds TIG."
+            },
+            {
+              "text": "All claimed USJA Certifications are up to date and current."
+            },
+            {
+              "text": "After approval, the Promotion fee is due as listed."
+            },
+            {
+              "text": "Include an updated Photo (Passport type)."
+            },
+            {
+              "text": "Include an extensive Judo Biography."
+            },
+            {
+              "text": "Include comprehensive written recommendation from all high dan blackbells that signed your RFP"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Yodan to Hachidan Promotion (09/2025) (PDF)",
+          "url": "https://www.usja.net/staff/forms/174/document/download",
+          "source": "United States Judo Association"
+        },
+        {
+          "title": "Promotion System",
+          "url": "https://www.usja.net/about/promotion",
+          "source": "United States Judo Association"
+        }
+      ]
+    },
+    {
+      "slug": "7th-dan",
+      "label": {
+        "en": "7th Dan (Shichidan)"
+      },
+      "beltColor": "red",
+      "beltStripe": "white",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "requirements",
+          "title": {
+            "en": "Time in grade and sign-off"
+          },
+          "items": [
+            {
+              "text": "TIG: 8 years"
+            },
+            {
+              "text": "Sign off # Rank or above: (2) 8th Dan"
+            }
+          ]
+        },
+        {
+          "slug": "mandatory",
+          "title": {
+            "en": "Mandatory requirements"
+          },
+          "items": [
+            {
+              "text": "Mandatory requirements for promotion include current USJA membership, completion of child abuse training, concussion training, and a satisfactory background check."
+            },
+            {
+              "text": "Applications for promotion should include a biographical listing of accomplishments in Judo throughout an applicant’s career, with specific emphasis on service undertaken since the applicant’s most recent promotion. Accomplishments achieved through the USJA will be given the most consideration."
+            }
+          ]
+        },
+        {
+          "slug": "checklist",
+          "title": {
+            "en": "Check list"
+          },
+          "items": [
+            {
+              "text": "4th to 8th Dan Promotion form complete, make sure you have the correct form, and it must be typed"
+            },
+            {
+              "text": "Candidate must have current & maintained USJA membership. (Annual or SLM with Chartered USJA Club)"
+            },
+            {
+              "text": "Candidate must have current and clear Background check."
+            },
+            {
+              "text": "Candidate must have completed NFHS/Safe Sport Certification."
+            },
+            {
+              "text": "Candidate must have completed CDC Heads Up Certification."
+            },
+            {
+              "text": "Candidate meets or exceeds TIG."
+            },
+            {
+              "text": "All claimed USJA Certifications are up to date and current."
+            },
+            {
+              "text": "After approval, the Promotion fee is due as listed."
+            },
+            {
+              "text": "Include an updated Photo (Passport type)."
+            },
+            {
+              "text": "Include an extensive Judo Biography."
+            },
+            {
+              "text": "Include comprehensive written recommendation from all high dan blackbells that signed your RFP"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Yodan to Hachidan Promotion (09/2025) (PDF)",
+          "url": "https://www.usja.net/staff/forms/174/document/download",
+          "source": "United States Judo Association"
+        },
+        {
+          "title": "Promotion System",
+          "url": "https://www.usja.net/about/promotion",
+          "source": "United States Judo Association"
+        }
+      ]
+    },
+    {
+      "slug": "8th-dan",
+      "label": {
+        "en": "8th Dan (Hachidan)"
+      },
+      "beltColor": "red",
+      "beltStripe": "white",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "requirements",
+          "title": {
+            "en": "Time in grade and sign-off"
+          },
+          "items": [
+            {
+              "text": "TIG: 9 years"
+            },
+            {
+              "text": "Sign off # Rank or above: (2) 8th Dan"
+            }
+          ]
+        },
+        {
+          "slug": "mandatory",
+          "title": {
+            "en": "Mandatory requirements"
+          },
+          "items": [
+            {
+              "text": "Mandatory requirements for promotion include current USJA membership, completion of child abuse training, concussion training, and a satisfactory background check."
+            },
+            {
+              "text": "Applications for promotion should include a biographical listing of accomplishments in Judo throughout an applicant’s career, with specific emphasis on service undertaken since the applicant’s most recent promotion. Accomplishments achieved through the USJA will be given the most consideration."
+            }
+          ]
+        },
+        {
+          "slug": "checklist",
+          "title": {
+            "en": "Check list"
+          },
+          "items": [
+            {
+              "text": "4th to 8th Dan Promotion form complete, make sure you have the correct form, and it must be typed"
+            },
+            {
+              "text": "Candidate must have current & maintained USJA membership. (Annual or SLM with Chartered USJA Club)"
+            },
+            {
+              "text": "Candidate must have current and clear Background check."
+            },
+            {
+              "text": "Candidate must have completed NFHS/Safe Sport Certification."
+            },
+            {
+              "text": "Candidate must have completed CDC Heads Up Certification."
+            },
+            {
+              "text": "Candidate meets or exceeds TIG."
+            },
+            {
+              "text": "All claimed USJA Certifications are up to date and current."
+            },
+            {
+              "text": "After approval, the Promotion fee is due as listed."
+            },
+            {
+              "text": "Include an updated Photo (Passport type)."
+            },
+            {
+              "text": "Include an extensive Judo Biography."
+            },
+            {
+              "text": "Include comprehensive written recommendation from all high dan blackbells that signed your RFP"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Yodan to Hachidan Promotion (09/2025) (PDF)",
+          "url": "https://www.usja.net/staff/forms/174/document/download",
+          "source": "United States Judo Association"
+        },
+        {
+          "title": "Promotion System",
+          "url": "https://www.usja.net/about/promotion",
+          "source": "United States Judo Association"
+        }
+      ]
+    },
+    {
+      "slug": "9th-dan",
+      "label": {
+        "en": "9th Dan (Kudan)"
+      },
+      "beltColor": "red",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "minimum-requirements",
+          "title": {
+            "en": "Minimum requirements"
+          },
+          "items": [
+            {
+              "text": "Must be 65 years of age or older."
+            },
+            {
+              "text": "Must have five continuous years closest to the date of submission as a member of USJA as a Hachidan to be eligible for promotion to Kudan."
+            },
+            {
+              "text": "Must be an active/current member of the USJA."
+            },
+            {
+              "text": "Must have been continuously involved in activities with USJA such as teaching, training, coaching, refereeing or administration/leadership."
+            },
+            {
+              "text": "Must be a member of a Chartered USJA club."
+            },
+            {
+              "text": "Must have at least 10 years in grade as a Hachidan."
+            },
+            {
+              "text": "Must have unquestioned moral character, integrity, and maturity. Should have an exceptional and unblemished judo career."
+            },
+            {
+              "text": "Must have a current & clear Background Screen, current Concussion/Heads Up Certification and Safe Sport Certification."
+            },
+            {
+              "text": "Must have all claimed USJA Certifications up to date and current."
+            },
+            {
+              "text": "Must have documented substantial National/International presence/impact/effect on the Judo Community."
+            },
+            {
+              "text": "Must have been an outstanding competitor, coach, referee, teacher and/or Judo leader or produced high level competitor, coaches, referees, teachers and/or Judo leaders."
+            },
+            {
+              "text": "A vote of 75% of the entire Promotional Committee shall be required for approval of Kudan rank."
+            },
+            {
+              "text": "A vote of 75% of the entire Board of Directors shall be required for approval of Kudan rank."
+            },
+            {
+              "text": "Must be recommended for Promotion by (2) 7D + (2) 8D + (1) 9D that are active/current USJA members with comprehensive written recommendations as to why they support this candidate for their promotion to 9D."
+            },
+            {
+              "text": "Must submit an extensive Judo biography to cover activities since their last promotion and your lifetime accomplishments."
+            },
+            {
+              "text": "Must submit an updated Photo (passport/jpg)."
+            }
+          ]
+        },
+        {
+          "slug": "rank-table",
+          "title": {
+            "en": "Rank table: age, activities level, time in grade and sign-offs"
+          },
+          "items": [
+            {
+              "text": "Age: 65"
+            },
+            {
+              "text": "Activities Level: National/International"
+            },
+            {
+              "text": "A TIG: 10+"
+            },
+            {
+              "text": "Sign off # Rank or above: (2)7th Dan MCRE + (2)8th Dan MCRE + (1)9th Dan MCRE"
+            },
+            {
+              "text": "IMPORTANT NOTE: Only those with documented activities at the highest levels are considered for high dan promotions. Sixty percent (60%) or more of the activities must be at the levels shown as follows or higher. Activities that include those for visually impaired VI such as Parapan Games, Para World, and Paralympics also meet this requirement equally."
+            },
+            {
+              "text": "9th Dan National and International level"
+            }
+          ]
+        },
+        {
+          "slug": "checklist",
+          "title": {
+            "en": "Check list"
+          },
+          "items": [
+            {
+              "text": "9th/10th Dan RFP form complete, make sure you have correct form and it must be typed."
+            },
+            {
+              "text": "Candidate must have current & maintained USJA membership. (Annual or SLM with Chartered USJA Club)"
+            },
+            {
+              "text": "Candidate must have current and clear Background check."
+            },
+            {
+              "text": "Candidate must have completed Safe Sport Certification."
+            },
+            {
+              "text": "Candidate must have completed CDC Heads Up Certification."
+            },
+            {
+              "text": "Candidate meets or exceeds TIG."
+            },
+            {
+              "text": "All claimed USJA Certifications up to date and current."
+            },
+            {
+              "text": "Enclose *Processing Fee as required, amount $35.00. After approval, Promotion fee due as listed below."
+            },
+            {
+              "text": "Include an updated Photo (Passport type)."
+            },
+            {
+              "text": "Include an extensive Judo Biography."
+            },
+            {
+              "text": "Include comprehensive written recommendation from all high dan blackbells that signed your RFP."
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "USJA Judo Rank Promotion System: 9th and 10th Dan Promotion Requirements (PDF)",
+          "url": "https://www.usja.net/staff/forms/159/document/download",
+          "source": "United States Judo Association"
+        },
+        {
+          "title": "9th and 10th Dan Recommendation for Promotion (PDF)",
+          "url": "https://www.usja.net/staff/forms/160/document/download",
+          "source": "United States Judo Association"
+        },
+        {
+          "title": "Promotion System",
+          "url": "https://www.usja.net/about/promotion",
+          "source": "United States Judo Association"
+        }
+      ]
+    },
+    {
+      "slug": "10th-dan",
+      "label": {
+        "en": "10th Dan (Judan)"
+      },
+      "beltColor": "red",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "minimum-requirements",
+          "title": {
+            "en": "Minimum requirements"
+          },
+          "items": [
+            {
+              "text": "Must be 75 years of age or older."
+            },
+            {
+              "text": "Must have five continuous years closest to the date of submission as a member of USJA as a Kudan prior to being eligible for promotion to Judan."
+            },
+            {
+              "text": "Must be an active/current member of the USJA."
+            },
+            {
+              "text": "Must have been continuously involved in activities with USJA such as teaching, training, coaching, refereeing or administration/leadership."
+            },
+            {
+              "text": "Must be a member of a Chartered USJA club."
+            },
+            {
+              "text": "Must have at least 11 years in grade as a Kudan."
+            },
+            {
+              "text": "Must have unquestioned moral character, integrity, and maturity. Should have an exceptional and unblemished judo career."
+            },
+            {
+              "text": "Must have a current & clear Background Screen, current Concussion/Heads Up Certification and Safe Sport Certification."
+            },
+            {
+              "text": "Have all claimed USJA Certifications up to date and current."
+            },
+            {
+              "text": "Must have documented substantial International/World presence/impact/effect on the Judo Community."
+            },
+            {
+              "text": "Must have been an outstanding competitor, coach, referee, teacher and/or Judo leader or produced high level competitors, coaches, referees, teachers and/or Judo leaders."
+            },
+            {
+              "text": "A vote of 100% of the entire Promotional Committee shall be required for approval of Judan rank."
+            },
+            {
+              "text": "A vote of 100% of the entire Board of Directors shall be required for approval of Judan rank."
+            },
+            {
+              "text": "Must be recommended for Promotion by (2) 7D + (3) 8D + (2) 9D that are active/current USJA members with written recommendations as to why they support this candidate for their promotion to 10D."
+            },
+            {
+              "text": "Must submit an extensive Judo biography to cover activities since their last promotion and your lifetime accomplishments."
+            },
+            {
+              "text": "Must submit an updated Photo (passport/jpg)"
+            }
+          ]
+        },
+        {
+          "slug": "rank-table",
+          "title": {
+            "en": "Rank table: age, activities level, time in grade and sign-offs"
+          },
+          "items": [
+            {
+              "text": "Age: 75"
+            },
+            {
+              "text": "Activities Level: International/World"
+            },
+            {
+              "text": "A TIG: 11+"
+            },
+            {
+              "text": "Sign off # Rank or above: (2)7th Dan MCRE + (3)8th Dan MCRE + (2)9th Dan MCRE"
+            },
+            {
+              "text": "IMPORTANT NOTE: Only those with documented activities at the highest levels are considered for high dan promotions. Sixty percent (60%) or more of the activities must be at the levels shown as follows or higher. Activities that include those for visually impaired VI such as Parapan Games, Para World, and Paralympics also meet this requirement equally."
+            },
+            {
+              "text": "10th Dan International and World level"
+            }
+          ]
+        },
+        {
+          "slug": "checklist",
+          "title": {
+            "en": "Check list"
+          },
+          "items": [
+            {
+              "text": "9th/10th Dan RFP form complete, make sure you have correct form and it must be typed."
+            },
+            {
+              "text": "Candidate must have current & maintained USJA membership. (Annual or SLM with Chartered USJA Club)"
+            },
+            {
+              "text": "Candidate must have current and clear Background check."
+            },
+            {
+              "text": "Candidate must have completed Safe Sport Certification."
+            },
+            {
+              "text": "Candidate must have completed CDC Heads Up Certification."
+            },
+            {
+              "text": "Candidate meets or exceeds TIG."
+            },
+            {
+              "text": "All claimed USJA Certifications up to date and current."
+            },
+            {
+              "text": "Enclose *Processing Fee as required, amount $35.00. After approval, Promotion fee due as listed below."
+            },
+            {
+              "text": "Include an updated Photo (Passport type)."
+            },
+            {
+              "text": "Include an extensive Judo Biography."
+            },
+            {
+              "text": "Include comprehensive written recommendation from all high dan blackbells that signed your RFP."
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "USJA Judo Rank Promotion System: 9th and 10th Dan Promotion Requirements (PDF)",
+          "url": "https://www.usja.net/staff/forms/159/document/download",
+          "source": "United States Judo Association"
+        },
+        {
+          "title": "9th and 10th Dan Recommendation for Promotion (PDF)",
+          "url": "https://www.usja.net/staff/forms/160/document/download",
+          "source": "United States Judo Association"
+        },
+        {
+          "title": "Promotion System",
+          "url": "https://www.usja.net/about/promotion",
+          "source": "United States Judo Association"
+        }
+      ]
+    }
+  ]
+}

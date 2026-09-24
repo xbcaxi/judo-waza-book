@@ -1,0 +1,1277 @@
+{
+  "name": {
+    "en": "Senior kyu grades (USJF)"
+  },
+  "organisation": "United States Judo Federation",
+  "country": "US",
+  "order": 9,
+  "description": {
+    "en": "The United States Judo Federation's senior kyu grades for judoka aged 17 and over: six grades from Rokkyu (white belt) to Ikkyu (brown belt). From Sankyu, time in grade depends on whether the candidate is a competitor and on promotion points."
+  },
+  "source": {
+    "title": "Rank Requirement Recommendations Handbook, Section VI",
+    "date": "1 May 2021",
+    "note": {
+      "en": "Transcribed from the senior promotional guidelines in Section VI of the federation's Rank Requirement Recommendations Handbook (5/1/21), which is the authority. Item text is as printed, including the source's own slips (\"Morote Seionage\", \"Name-juji-jime\" for Nami-juji-jime, \"ability of from previous rank\"). Where a line prints a list, each entry is one item and the separating commas are dropped; field labels such as \"Nage Waza:\" become section titles. Belt colours come from the Senior (17 and over) column of the handbook's ranking system table. The handbook disagrees with itself at Nikyu: the text gives Competitor 10 pts 3 months and Batsu-gun 20 pts 0 months, while the handbook's own minimum time in grade grid gives 15 pts 0 months and no Batsu-gun figure. The general rules on promotion points, kata competition points, Batsu-gun promotion and time in grade reductions for contribution are scheme-wide and are not transcribed here. Hadaka-juji-jime, Okuri-eri-juji-jime (Yonkyu) and the Sankaku-gatame printed under Osaekomi Waza at Nikyu are left unresolved: the first two are not standard Kodokan names, and the third is listed as a hold, while the Sankaku-gatame documented here is the armlock. The 2008 study guides are linked as the federation's older companions, and each says it sets no rank standard of its own. They differ from the 2021 handbook: the Yonkyu guide calls the belt Green or Blue and leaves time in grade to the instructor; the Sankyu guide gives 9 months as a non-competitor (the handbook gives 5 months) and competitor times of 6, 3 and 0 months; the Nikyu guide gives one year as a non-competitor (the handbook gives 9 months); the Ikkyu guide gives 2 years, 1 year, 9 months, 6 months and 3 months (the handbook gives 1 year, 9, 6, 3 and 0 months). Their technique checklists also follow an older allocation, for example De-ashi-barai, Tai-otoshi, O-goshi and Seoi-nage at Yonkyu."
+    }
+  },
+  "grades": [
+    {
+      "slug": "6th-kyu",
+      "label": {
+        "en": "Rokkyu (6th Kyu)"
+      },
+      "beltColor": "white",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "general-requirements",
+          "title": {
+            "en": "General requirements"
+          },
+          "items": [
+            {
+              "text": "This rank is assigned to individuals of good moral character who have been accepted as students of Judo in a Judo club or class.",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "5th-kyu",
+      "label": {
+        "en": "Gokyu (5th Kyu)"
+      },
+      "beltColor": "green",
+      "techniqueSlugs": [
+        "o-soto-gari",
+        "o-goshi",
+        "de-ashi-harai",
+        "ippon-seoi-nage",
+        "uki-goshi",
+        "kesa-gatame",
+        "makura-kesa-gatame",
+        "kuzure-kesa-gatame",
+        "kata-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "age-and-time-in-grade",
+          "title": {
+            "en": "Minimum age and time in grade"
+          },
+          "items": [
+            {
+              "text": "Minimal Age: None",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in grade: 12 classes or 1 month",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-requirements",
+          "title": {
+            "en": "General requirements"
+          },
+          "items": [
+            {
+              "text": "Judo etiquette, basic judo hygiene, the correct forms of sitting, kneeling and standing.",
+              "techniques": []
+            },
+            {
+              "text": "Correct fundamentals of: a. Kumikata, b. Shisei – shizentai (hon, migi, hidari), jigotai (hon, migi, hidari) c. Shintai (ayumiashi, suriashi, tsugiashi), d. Tai sabaki, e. ukemi",
+              "techniques": [],
+              "skills": [
+                "shisei",
+                "shintai",
+                "tai-sabaki"
+              ],
+              "terms": [
+                "kumi-kata",
+                "ukemi"
+              ]
+            },
+            {
+              "text": "Fundamentals of throwing: (kuzushi, tsukuri and kake), Happo no kuzushi.",
+              "techniques": [],
+              "terms": [
+                "kuzushi",
+                "tsukuri",
+                "kake"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "nage-waza",
+          "title": {
+            "en": "Nage waza"
+          },
+          "items": [
+            {
+              "text": "Osoto-gari",
+              "techniques": [
+                "o-soto-gari"
+              ]
+            },
+            {
+              "text": "O-Goshi",
+              "techniques": [
+                "o-goshi"
+              ]
+            },
+            {
+              "text": "Deashi-harai",
+              "techniques": [
+                "de-ashi-harai"
+              ]
+            },
+            {
+              "text": "Ippon-seoi-nage",
+              "techniques": [
+                "ippon-seoi-nage"
+              ]
+            },
+            {
+              "text": "Uki-goshi",
+              "techniques": [
+                "uki-goshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "osaekomi-waza",
+          "title": {
+            "en": "Osaekomi waza"
+          },
+          "items": [
+            {
+              "text": "Hon-Kesa-gatame",
+              "techniques": [
+                "kesa-gatame"
+              ]
+            },
+            {
+              "text": "Makura-Kesa-gatame",
+              "techniques": [
+                "makura-kesa-gatame"
+              ]
+            },
+            {
+              "text": "Kuzure-Kesa-gatame",
+              "techniques": [
+                "kuzure-kesa-gatame"
+              ]
+            },
+            {
+              "text": "Kata-gatame",
+              "techniques": [
+                "kata-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "None",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "None",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "None",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "tournament-experience",
+          "title": {
+            "en": "Tournament experience"
+          },
+          "items": [
+            {
+              "text": "None",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "referee",
+          "title": {
+            "en": "Referee"
+          },
+          "items": [
+            {
+              "text": "None",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "4th-kyu",
+      "label": {
+        "en": "Yonkyu (4th Kyu)"
+      },
+      "beltColor": "blue",
+      "techniqueSlugs": [
+        "sasae-tsurikomi-ashi",
+        "hiza-guruma",
+        "o-uchi-gari",
+        "ko-uchi-gari",
+        "seoi-nage",
+        "o-soto-gaeshi",
+        "kami-shiho-gatame",
+        "yoko-shiho-gatame",
+        "kuzure-yoko-shiho-gatame",
+        "kesa-gatame",
+        "juji-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "age-and-time-in-grade",
+          "title": {
+            "en": "Minimum age and time in grade"
+          },
+          "items": [
+            {
+              "text": "Minimal Age: None",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in Grade: 24 classes or 2 months (from last promotion)",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-requirements",
+          "title": {
+            "en": "General requirements"
+          },
+          "items": [
+            {
+              "text": "Improved knowledge and ability of from previous rank requirements.",
+              "techniques": []
+            },
+            {
+              "text": "The difference between Judo and ju-jitsu.",
+              "techniques": []
+            },
+            {
+              "text": "Seiryoku Zenyo (Maximum Efficiency with minimum effort)",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "nage-waza",
+          "title": {
+            "en": "Nage waza"
+          },
+          "items": [
+            {
+              "text": "Sasae tsuri komi ashi",
+              "techniques": [
+                "sasae-tsurikomi-ashi"
+              ]
+            },
+            {
+              "text": "Hiza Guruma",
+              "techniques": [
+                "hiza-guruma"
+              ]
+            },
+            {
+              "text": "Ouchigari",
+              "techniques": [
+                "o-uchi-gari"
+              ]
+            },
+            {
+              "text": "Kouchi gari",
+              "techniques": [
+                "ko-uchi-gari"
+              ]
+            },
+            {
+              "text": "Morote Seionage",
+              "techniques": [
+                "seoi-nage"
+              ]
+            },
+            {
+              "text": "Osoto-gaeshi",
+              "techniques": [
+                "o-soto-gaeshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "osaekomi-waza",
+          "title": {
+            "en": "Osaekomi waza"
+          },
+          "items": [
+            {
+              "text": "Kami-shiho-gatame",
+              "techniques": [
+                "kami-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Hon-Yoko-shiho-gatame",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Kuzure-Yoko-shiho-gatame",
+              "techniques": [
+                "kuzure-yoko-shiho-gatame"
+              ]
+            },
+            {
+              "text": "One escape from Kesa-gatame",
+              "techniques": [
+                "kesa-gatame"
+              ],
+              "skills": [
+                "kesa-gatame-escape-leg-trap",
+                "kesa-gatame-escape-bridge-and-roll"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "Hadaka-juji-jime",
+              "techniques": []
+            },
+            {
+              "text": "Okuri-eri-juji-jime",
+              "techniques": []
+            },
+            {
+              "text": "defense against each",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "Juji-gatame",
+              "techniques": [
+                "juji-gatame"
+              ]
+            },
+            {
+              "text": "defense against",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "None",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "tournament-experience",
+          "title": {
+            "en": "Tournament experience"
+          },
+          "items": [
+            {
+              "text": "None",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "referee",
+          "title": {
+            "en": "Referee"
+          },
+          "items": [
+            {
+              "text": "None",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Senior Yonkyu Study Guide (April 2008)",
+          "url": "https://www.usjf.com/wp-content/uploads/2018/07/SeniorYonkyuStudyGuide081008.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "3rd-kyu",
+      "label": {
+        "en": "Sankyu (3rd Kyu)"
+      },
+      "beltColor": "brown",
+      "techniqueSlugs": [
+        "ko-soto-gari",
+        "tsurikomi-goshi",
+        "sode-tsurikomi-goshi",
+        "harai-goshi",
+        "okuri-ashi-harai",
+        "ko-uchi-gaeshi",
+        "kuzure-kami-shiho-gatame",
+        "tate-shiho-gatame",
+        "ushiro-kesa-gatame",
+        "yoko-shiho-gatame",
+        "nami-juji-jime",
+        "kata-juji-jime",
+        "gyaku-juji-jime",
+        "ude-garami",
+        "ude-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "age-and-time-in-grade",
+          "title": {
+            "en": "Minimum age and time in grade"
+          },
+          "items": [
+            {
+              "text": "Minimal Age: None",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in Grade: Time in grade as Yonkyu",
+              "techniques": []
+            },
+            {
+              "text": "Non-competitor - 5 months",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 5 points - 3 months",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 10 points - 0 time",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-requirements",
+          "title": {
+            "en": "General requirements"
+          },
+          "items": [
+            {
+              "text": "Improved knowledge and ability of previous ranks.",
+              "techniques": []
+            },
+            {
+              "text": "Names, colors, order of “kyu” belt ranking system.",
+              "techniques": [],
+              "terms": [
+                "kyu"
+              ]
+            },
+            {
+              "text": "Purpose of “kata” and “randori”.",
+              "techniques": [],
+              "terms": [
+                "kata",
+                "randori"
+              ]
+            },
+            {
+              "text": "Jita kyoei (Mutual Welfare and Benefit)",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "nage-waza",
+          "title": {
+            "en": "Nage waza"
+          },
+          "items": [
+            {
+              "text": "Kosoto gari",
+              "techniques": [
+                "ko-soto-gari"
+              ]
+            },
+            {
+              "text": "Tsuri komi goshi",
+              "techniques": [
+                "tsurikomi-goshi"
+              ]
+            },
+            {
+              "text": "Sode tsurikomi goshi",
+              "techniques": [
+                "sode-tsurikomi-goshi"
+              ]
+            },
+            {
+              "text": "Harai goshi",
+              "techniques": [
+                "harai-goshi"
+              ]
+            },
+            {
+              "text": "Okuri ashi barai",
+              "techniques": [
+                "okuri-ashi-harai"
+              ]
+            },
+            {
+              "text": "Kouchi gaeshi",
+              "techniques": [
+                "ko-uchi-gaeshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "osaekomi-waza",
+          "title": {
+            "en": "Osaekomi waza"
+          },
+          "items": [
+            {
+              "text": "Kuzure-kami-shiho-gatame",
+              "techniques": [
+                "kuzure-kami-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Tate-shiho-gatame",
+              "techniques": [
+                "tate-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Ushiro-kesa-gatame",
+              "techniques": [
+                "ushiro-kesa-gatame"
+              ]
+            },
+            {
+              "text": "One escape from Yoko-shiho-gatame.",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ],
+              "skills": [
+                "yoko-shiho-gatame-escape-trap-bridge-roll",
+                "escape-from-yoko-shiho-gatame-to-sankaku-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "Name-juji-jime",
+              "techniques": [
+                "nami-juji-jime"
+              ]
+            },
+            {
+              "text": "Kata-juji-jime",
+              "techniques": [
+                "kata-juji-jime"
+              ]
+            },
+            {
+              "text": "Gyaku-juji-jime",
+              "techniques": [
+                "gyaku-juji-jime"
+              ]
+            },
+            {
+              "text": "defense against each",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "Ude-garami",
+              "techniques": [
+                "ude-garami"
+              ]
+            },
+            {
+              "text": "Ude-gatame",
+              "techniques": [
+                "ude-gatame"
+              ]
+            },
+            {
+              "text": "defense against each",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Non-competitor – Nage no Kata (Uke) first 3 sets",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "tournament-experience",
+          "title": {
+            "en": "Tournament experience"
+          },
+          "items": [
+            {
+              "text": "Continued contest experience with expanded interpretation of the sport phase.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "additional-experience-non-competitor",
+          "title": {
+            "en": "Additional experience for non-competitors"
+          },
+          "items": [
+            {
+              "text": "Recommend the following - Referee in club, assist with teaching beginners, assist shiai as score keeper / timekeeper / match recorder",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Senior Sankyu Study Guide (April 2008)",
+          "url": "https://www.usjf.com/wp-content/uploads/2018/07/SeniorSankyuStudyGuide081008.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "2nd-kyu",
+      "label": {
+        "en": "Nikyu (2nd Kyu)"
+      },
+      "beltColor": "brown",
+      "techniqueSlugs": [
+        "koshi-guruma",
+        "tai-otoshi",
+        "uchi-mata",
+        "tomoe-nage",
+        "tsubame-gaeshi",
+        "o-uchi-gaeshi",
+        "harai-goshi-gaeshi",
+        "kami-shiho-gatame",
+        "tate-shiho-gatame",
+        "sankaku-jime",
+        "kata-ha-jime",
+        "kata-te-jime",
+        "hiza-gatame",
+        "waki-gatame",
+        "hara-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "age-and-time-in-grade",
+          "title": {
+            "en": "Minimum age and time in grade"
+          },
+          "items": [
+            {
+              "text": "Minimal Age: None",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in Grade: Time in grade as Sankyu:",
+              "techniques": []
+            },
+            {
+              "text": "Non-competitor – 9 months",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 5 pts – 6 months",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 10 pts – 3 months",
+              "techniques": []
+            },
+            {
+              "text": "Batsu-gun, 20 pts – 0 months",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-requirements",
+          "title": {
+            "en": "General requirements"
+          },
+          "items": [
+            {
+              "text": "Improved knowledge and ability of previous rank requirements.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "nage-waza",
+          "title": {
+            "en": "Nage waza"
+          },
+          "items": [
+            {
+              "text": "Koshi Guruma",
+              "techniques": [
+                "koshi-guruma"
+              ]
+            },
+            {
+              "text": "Tai Otoshi",
+              "techniques": [
+                "tai-otoshi"
+              ]
+            },
+            {
+              "text": "Uchimata",
+              "techniques": [
+                "uchi-mata"
+              ]
+            },
+            {
+              "text": "Tomoe nage",
+              "techniques": [
+                "tomoe-nage"
+              ]
+            },
+            {
+              "text": "Tsubame-gaeshi",
+              "techniques": [
+                "tsubame-gaeshi"
+              ]
+            },
+            {
+              "text": "Ouchi-gaeshi",
+              "techniques": [
+                "o-uchi-gaeshi"
+              ]
+            },
+            {
+              "text": "Harai-goshi-gaeshi",
+              "techniques": [
+                "harai-goshi-gaeshi"
+              ]
+            },
+            {
+              "text": "One throw opposite side throw",
+              "techniques": []
+            },
+            {
+              "text": "One combination",
+              "techniques": []
+            },
+            {
+              "text": "One counter",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osaekomi-waza",
+          "title": {
+            "en": "Osaekomi waza"
+          },
+          "items": [
+            {
+              "text": "Sankaku-gatame",
+              "techniques": []
+            },
+            {
+              "text": "Escape from Kami-shiho-gatame",
+              "techniques": [
+                "kami-shiho-gatame"
+              ],
+              "skills": [
+                "kami-shiho-gatame-escape-action-reaction"
+              ]
+            },
+            {
+              "text": "Escape from Tate-shiho-gatame",
+              "techniques": [
+                "tate-shiho-gatame"
+              ],
+              "skills": [
+                "tate-shiho-gatame-escape-clamp-and-roll"
+              ]
+            },
+            {
+              "text": "Tori leg extraction from leg scissor",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "Sankaku-jime",
+              "techniques": [
+                "sankaku-jime"
+              ]
+            },
+            {
+              "text": "Kata-ha-jime",
+              "techniques": [
+                "kata-ha-jime"
+              ]
+            },
+            {
+              "text": "Kata-te-jime",
+              "techniques": [
+                "kata-te-jime"
+              ]
+            },
+            {
+              "text": "defense against each",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "Hiza-gatame",
+              "techniques": [
+                "hiza-gatame"
+              ]
+            },
+            {
+              "text": "Waki-gatame",
+              "techniques": [
+                "waki-gatame"
+              ]
+            },
+            {
+              "text": "Hara-gatame defense against each",
+              "techniques": [
+                "hara-gatame"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Non-competitor – Nage no kata (Tori) first 3 sets",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata"
+              ]
+            },
+            {
+              "text": "Competitor – Nage no kata (uke) first 3 sets",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "tournament-experience",
+          "title": {
+            "en": "Tournament experience"
+          },
+          "items": [
+            {
+              "text": "Continued contest experience with expanded interpretation of the sport phase",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "additional-experience-non-competitor",
+          "title": {
+            "en": "Additional experience for non-competitors"
+          },
+          "items": [
+            {
+              "text": "Recommend the following - Referee – club or local, Coach – club level, Teacher – assist with beginners, timekeeper/scorekeeper local/regional certification",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Senior Nikyu Study Guide (April 2008)",
+          "url": "https://www.usjf.com/wp-content/uploads/2018/07/SeniorNikyuStudyGuide081008.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    },
+    {
+      "slug": "1st-kyu",
+      "label": {
+        "en": "Ikkyu (1st Kyu)"
+      },
+      "beltColor": "brown",
+      "techniqueSlugs": [
+        "ko-soto-gake",
+        "kata-guruma",
+        "hane-goshi",
+        "uchi-mata-sukashi",
+        "uchi-mata-gaeshi",
+        "hane-goshi-gaeshi",
+        "sode-guruma-jime",
+        "sankaku-jime",
+        "te-gatame",
+        "sankaku-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "age-and-time-in-grade",
+          "title": {
+            "en": "Minimum age and time in grade"
+          },
+          "items": [
+            {
+              "text": "Minimal Age: None",
+              "techniques": []
+            },
+            {
+              "text": "Minimal Time in Grade: Time in grade as Nikyu",
+              "techniques": []
+            },
+            {
+              "text": "Non-competitor - 1 year",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 5 points - 9 months",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 10 points - 6 months",
+              "techniques": []
+            },
+            {
+              "text": "Competitor, 15 points - 3 months",
+              "techniques": []
+            },
+            {
+              "text": "Batsu-gun, 20 points – 0 months",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "general-requirements",
+          "title": {
+            "en": "General requirements"
+          },
+          "items": [
+            {
+              "text": "Improved knowledge and increased proficiency in all lower rank requirements",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "nage-waza",
+          "title": {
+            "en": "Nage waza"
+          },
+          "items": [
+            {
+              "text": "Kosoto gake",
+              "techniques": [
+                "ko-soto-gake"
+              ]
+            },
+            {
+              "text": "Kata Guruma*",
+              "techniques": [
+                "kata-guruma"
+              ]
+            },
+            {
+              "text": "Hane goshi",
+              "techniques": [
+                "hane-goshi"
+              ]
+            },
+            {
+              "text": "Uchimata-sukashi",
+              "techniques": [
+                "uchi-mata-sukashi"
+              ]
+            },
+            {
+              "text": "Uchimata-gaeshi",
+              "techniques": [
+                "uchi-mata-gaeshi"
+              ]
+            },
+            {
+              "text": "Hanegoshi-gaeshi",
+              "techniques": [
+                "hane-goshi-gaeshi"
+              ]
+            },
+            {
+              "text": "Two opposite side throws",
+              "techniques": []
+            },
+            {
+              "text": "Two Combinations",
+              "techniques": []
+            },
+            {
+              "text": "Two Counters",
+              "techniques": []
+            },
+            {
+              "text": "(* classical form of this throw is presently an illegal technique in competition)",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "osaekomi-waza",
+          "title": {
+            "en": "Osaekomi waza"
+          },
+          "items": [
+            {
+              "text": "Expect knowledge and increased proficiency in all lower rank requirements and additional escapes from all",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime waza"
+          },
+          "items": [
+            {
+              "text": "Sode-guruma-jime",
+              "techniques": [
+                "sode-guruma-jime"
+              ]
+            },
+            {
+              "text": "Sankaku-jime",
+              "techniques": [
+                "sankaku-jime"
+              ]
+            },
+            {
+              "text": "defense against each",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu waza"
+          },
+          "items": [
+            {
+              "text": "Te-gatame",
+              "techniques": [
+                "te-gatame"
+              ]
+            },
+            {
+              "text": "Sankaku-gatame",
+              "techniques": [
+                "sankaku-gatame"
+              ]
+            },
+            {
+              "text": "defense against each",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Non-competitor – Nage no Kata – (Uke) all 5 sets",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata"
+              ]
+            },
+            {
+              "text": "Competitor – Nage no Kata (Tori) first 3 sets.",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "tournament-experience",
+          "title": {
+            "en": "Tournament experience"
+          },
+          "items": [
+            {
+              "text": "Continued contest experience with expanded interpretation of the sport phase.",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "additional-experience-non-competitor",
+          "title": {
+            "en": "Additional experience for non-competitors"
+          },
+          "items": [
+            {
+              "text": "Recommend the following - Referee – club or local Coach – club level, Teacher – assist with beginners, Tournament official – timekeeper/scorekeeper local/regional certification",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Rank Requirement Recommendations Handbook, Section VI (5/1/21)",
+          "url": "https://www.usjf.com/wp-content/uploads/2021/05/Handbook-Final-Revised-Sr.-Jr.-5-1-21.pdf",
+          "source": "United States Judo Federation"
+        },
+        {
+          "title": "Senior Ikkyu Study Guide (April 2008)",
+          "url": "https://www.usjf.com/wp-content/uploads/2018/07/SeniorIkkyuStudyGuide081008.pdf",
+          "source": "United States Judo Federation"
+        }
+      ]
+    }
+  ]
+}

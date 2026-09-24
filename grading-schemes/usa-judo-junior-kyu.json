@@ -1,0 +1,1076 @@
+{
+  "name": {
+    "en": "Junior kyu grades (USA Judo)"
+  },
+  "organisation": "USA Judo",
+  "country": "US",
+  "order": 6,
+  "description": {
+    "en": "USA Judo's junior rank program: ten kyu grades from 10th Kyu, a white/yellow belt, to 1st Kyu, a purple belt, with a two-colour half-belt between each full colour. The guidelines present it as a teaching reference that instructors adapt to each athlete, assuming a start at 5 or 6 years old and half a belt promotion a year."
+  },
+  "source": {
+    "title": "Junior Rank Program General Guidelines",
+    "date": "8/11/14",
+    "note": {
+      "en": "Transcribed from the Junior Rank Program General Guidelines dated 8/11/14, which is the document USA Judo currently links for its junior ranks. It is dated 2014, and its closing line gives the old www.usjudo.org address, printed in capitals. The guidelines call the program a reference for teaching that instructors are encouraged to adapt to each athlete, rather than a fixed examination. Each rank is printed as a one-row table under ten column headings. Each non-empty cell becomes a section titled with its heading, and each line of a cell is an item, except where one name wraps across two lines (Tsuri komi goshi, Morote seoi nage, Sasae tsuri Komi ashi, Ude hishigi Juji gatame, Sode tsuri komi goshi, Renraku waza (combinations), Base chokes output chokes), which is joined with a space. Items sit under the column the table prints them in, including Uchi mata and Soto makikomi under Ashi Waza, Tai-otoshi, Uki otoshi and the three groups of Nage-no-kata under Te Waza, and Combinations under Katame Waza. Renraku waza is printed under three columns at 1st Kyu, and Ude garami under Kansetsu Waza at 3rd, 2nd and 1st Kyu. Item text keeps the source's own spelling and translation wording, among them \"Renraku wazai\", \"Tendoku renshu\" (linked to tandoku-renshu), \"Yaku soku geiko\", \"Base of detentions\", \"Base chokes output chokes\" and \"Base output of assets\". The rank headings are printed as \"10th Jyu Kyu\", \"9th Kyu Kyu\", \"8th Hachi Kyu\", \"7th Shichi Kyu\", \"6th Rokyu\", \"5th Gokyu\", \"4th Yonkyu\", \"3rd Sankyu\", \"2nd Nikyu\" and \"1st Ikkyu\"; the labels here use the number only. Hadaka juji jime at 6th Kyu is left unresolved because it names no single technique: it could be read as Hadaka-jime or as Nami-juji-jime, and the document does not say which. The introduction says an athlete promoted half a belt a year from 5 or 6 years old has a brown belt by 14 or 15, yet the ranks table has no brown belt and ends at 1st Kyu, purple. Two-colour belts are printed as \"white/yellow belt\" and so on. Each is recorded with the first colour named as beltColor and the second as beltStripe; the document does not say how the two colours are worn. The Games section and the closing Tools/Guides section, on posters, booklets and certificates for sale, are not transcribed."
+    }
+  },
+  "beltNote": {
+    "en": "The guidelines name each half-belt by two colours, such as white/yellow, without saying how it is worn."
+  },
+  "grades": [
+    {
+      "slug": "10th-kyu",
+      "label": {
+        "en": "10th Kyu"
+      },
+      "beltColor": "white",
+      "beltStripe": "yellow",
+      "techniqueSlugs": [
+        "o-uchi-gari",
+        "uki-goshi",
+        "kesa-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamentals-of-standing-judo",
+          "title": {
+            "en": "Fundamentals of standing judo"
+          },
+          "items": [
+            {
+              "text": "Rei, ukemi, shisei, kuzushi, kumikata",
+              "techniques": [],
+              "skills": [
+                "shisei"
+              ],
+              "terms": [
+                "rei",
+                "ukemi",
+                "kuzushi",
+                "kumi-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "ashi-waza",
+          "title": {
+            "en": "Ashi Waza"
+          },
+          "items": [
+            {
+              "text": "O-uchi gari",
+              "techniques": [
+                "o-uchi-gari"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "koshi-waza",
+          "title": {
+            "en": "Koshi Waza"
+          },
+          "items": [
+            {
+              "text": "Uki goshi",
+              "techniques": [
+                "uki-goshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamentals-of-judo-floor",
+          "title": {
+            "en": "Fundamentals of judo floor"
+          },
+          "items": [
+            {
+              "text": "Basic movement of attack-uke face down & on all fours",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "katame-waza",
+          "title": {
+            "en": "Katame Waza"
+          },
+          "items": [
+            {
+              "text": "Kesa gatame",
+              "techniques": [
+                "kesa-gatame"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Program General Guidelines (8/11/14)",
+          "url": "https://docs.usajudo.net/forms/Promotion/General%20Guidelines%20For%20The%20Junior%20Rank%20Program.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "9th-kyu",
+      "label": {
+        "en": "9th Kyu"
+      },
+      "beltColor": "yellow",
+      "techniqueSlugs": [
+        "o-soto-gari",
+        "o-goshi",
+        "yoko-shiho-gatame",
+        "tate-shiho-gatame",
+        "kami-shiho-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamentals-of-standing-judo",
+          "title": {
+            "en": "Fundamentals of standing judo"
+          },
+          "items": [
+            {
+              "text": "Improvement of basic elements",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "ashi-waza",
+          "title": {
+            "en": "Ashi Waza"
+          },
+          "items": [
+            {
+              "text": "O-soto gari",
+              "techniques": [
+                "o-soto-gari"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "koshi-waza",
+          "title": {
+            "en": "Koshi Waza"
+          },
+          "items": [
+            {
+              "text": "O-goshi",
+              "techniques": [
+                "o-goshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamentals-of-judo-floor",
+          "title": {
+            "en": "Fundamentals of judo floor"
+          },
+          "items": [
+            {
+              "text": "Basic movement of defense-sphere, shrimp, legs",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "katame-waza",
+          "title": {
+            "en": "Katame Waza"
+          },
+          "items": [
+            {
+              "text": "Yoko shiho gatame",
+              "techniques": [
+                "yoko-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Tate shiho gatame",
+              "techniques": [
+                "tate-shiho-gatame"
+              ]
+            },
+            {
+              "text": "Kami shiho gatame",
+              "techniques": [
+                "kami-shiho-gatame"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Program General Guidelines (8/11/14)",
+          "url": "https://docs.usajudo.net/forms/Promotion/General%20Guidelines%20For%20The%20Junior%20Rank%20Program.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "8th-kyu",
+      "label": {
+        "en": "8th Kyu"
+      },
+      "beltColor": "yellow",
+      "beltStripe": "orange",
+      "techniqueSlugs": [
+        "hiza-guruma",
+        "tai-otoshi",
+        "kata-gatame",
+        "kesa-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamentals-of-standing-judo",
+          "title": {
+            "en": "Fundamentals of standing judo"
+          },
+          "items": [
+            {
+              "text": "Kuzushi",
+              "techniques": [],
+              "terms": [
+                "kuzushi"
+              ]
+            },
+            {
+              "text": "Tsukuri kake",
+              "techniques": [],
+              "terms": [
+                "tsukuri",
+                "kake"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "ashi-waza",
+          "title": {
+            "en": "Ashi Waza"
+          },
+          "items": [
+            {
+              "text": "Hiza guruma",
+              "techniques": [
+                "hiza-guruma"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "te-waza",
+          "title": {
+            "en": "Te Waza"
+          },
+          "items": [
+            {
+              "text": "Tai-otoshi",
+              "techniques": [
+                "tai-otoshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamentals-of-judo-floor",
+          "title": {
+            "en": "Fundamentals of judo floor"
+          },
+          "items": [
+            {
+              "text": "Basic movement of attack-tori between uke’s legs",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "katame-waza",
+          "title": {
+            "en": "Katame Waza"
+          },
+          "items": [
+            {
+              "text": "Kata gatame",
+              "techniques": [
+                "kata-gatame"
+              ]
+            },
+            {
+              "text": "Hon kesa gatame",
+              "techniques": [
+                "kesa-gatame"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Program General Guidelines (8/11/14)",
+          "url": "https://docs.usajudo.net/forms/Promotion/General%20Guidelines%20For%20The%20Junior%20Rank%20Program.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "7th-kyu",
+      "label": {
+        "en": "7th Kyu"
+      },
+      "beltColor": "orange",
+      "techniqueSlugs": [
+        "koshi-guruma",
+        "ippon-seoi-nage",
+        "kuzure-kami-shiho-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamentals-of-standing-judo",
+          "title": {
+            "en": "Fundamentals of standing judo"
+          },
+          "items": [
+            {
+              "text": "Shintai tai sabaki",
+              "techniques": [],
+              "skills": [
+                "shintai",
+                "tai-sabaki"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "ashi-waza",
+          "title": {
+            "en": "Ashi Waza"
+          },
+          "items": [
+            {
+              "text": "Renraku waza (combinations)",
+              "techniques": [],
+              "terms": [
+                "renraku-waza"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "koshi-waza",
+          "title": {
+            "en": "Koshi Waza"
+          },
+          "items": [
+            {
+              "text": "Koshi guruma",
+              "techniques": [
+                "koshi-guruma"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kata-waza",
+          "title": {
+            "en": "Kata Waza"
+          },
+          "items": [
+            {
+              "text": "Ippon seoinage",
+              "techniques": [
+                "ippon-seoi-nage"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamentals-of-judo-floor",
+          "title": {
+            "en": "Fundamentals of judo floor"
+          },
+          "items": [
+            {
+              "text": "Basic movement of attack-tori between uke’s legs",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "katame-waza",
+          "title": {
+            "en": "Katame Waza"
+          },
+          "items": [
+            {
+              "text": "Kuzure kami shiho gatame",
+              "techniques": [
+                "kuzure-kami-shiho-gatame"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Program General Guidelines (8/11/14)",
+          "url": "https://docs.usajudo.net/forms/Promotion/General%20Guidelines%20For%20The%20Junior%20Rank%20Program.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "6th-kyu",
+      "label": {
+        "en": "6th Kyu"
+      },
+      "beltColor": "orange",
+      "beltStripe": "green",
+      "techniqueSlugs": [
+        "de-ashi-harai",
+        "uchi-mata",
+        "tomoe-nage",
+        "kata-juji-jime",
+        "gyaku-juji-jime"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamentals-of-standing-judo",
+          "title": {
+            "en": "Fundamentals of standing judo"
+          },
+          "items": [
+            {
+              "text": "Tendoku renshu",
+              "techniques": [],
+              "terms": [
+                "tandoku-renshu"
+              ]
+            },
+            {
+              "text": "Sotai renshu",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "ashi-waza",
+          "title": {
+            "en": "Ashi Waza"
+          },
+          "items": [
+            {
+              "text": "De ashi barai",
+              "techniques": [
+                "de-ashi-harai"
+              ]
+            },
+            {
+              "text": "Uchi mata",
+              "techniques": [
+                "uchi-mata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "koshi-waza",
+          "title": {
+            "en": "Koshi Waza"
+          },
+          "items": [
+            {
+              "text": "Renraku wazai",
+              "techniques": [],
+              "terms": [
+                "renraku-waza"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamentals-of-judo-floor",
+          "title": {
+            "en": "Fundamentals of judo floor"
+          },
+          "items": [
+            {
+              "text": "Base of detentions",
+              "techniques": []
+            },
+            {
+              "text": "Base chokes output chokes",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "sutemi-waza",
+          "title": {
+            "en": "Sutemi Waza"
+          },
+          "items": [
+            {
+              "text": "Tomoe nage",
+              "techniques": [
+                "tomoe-nage"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "katame-waza",
+          "title": {
+            "en": "Katame Waza"
+          },
+          "items": [
+            {
+              "text": "Combinations",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "shime-waza",
+          "title": {
+            "en": "Shime Waza"
+          },
+          "items": [
+            {
+              "text": "Kata juji jime",
+              "techniques": [
+                "kata-juji-jime"
+              ]
+            },
+            {
+              "text": "Hadaka juji jime",
+              "techniques": []
+            },
+            {
+              "text": "Gyaku juji jime",
+              "techniques": [
+                "gyaku-juji-jime"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Program General Guidelines (8/11/14)",
+          "url": "https://docs.usajudo.net/forms/Promotion/General%20Guidelines%20For%20The%20Junior%20Rank%20Program.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "5th-kyu",
+      "label": {
+        "en": "5th Kyu"
+      },
+      "beltColor": "green",
+      "techniqueSlugs": [
+        "ko-uchi-gari",
+        "tsurikomi-goshi",
+        "seoi-nage"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamentals-of-standing-judo",
+          "title": {
+            "en": "Fundamentals of standing judo"
+          },
+          "items": [
+            {
+              "text": "Yaku soku geiko",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "ashi-waza",
+          "title": {
+            "en": "Ashi Waza"
+          },
+          "items": [
+            {
+              "text": "Ko-uchi gari",
+              "techniques": [
+                "ko-uchi-gari"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "koshi-waza",
+          "title": {
+            "en": "Koshi Waza"
+          },
+          "items": [
+            {
+              "text": "Tsuri komi goshi",
+              "techniques": [
+                "tsurikomi-goshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kata-waza",
+          "title": {
+            "en": "Kata Waza"
+          },
+          "items": [
+            {
+              "text": "Morote seoi nage",
+              "techniques": [
+                "seoi-nage"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamentals-of-judo-floor",
+          "title": {
+            "en": "Fundamentals of judo floor"
+          },
+          "items": [
+            {
+              "text": "Base output of assets",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "katame-waza",
+          "title": {
+            "en": "Katame Waza"
+          },
+          "items": [
+            {
+              "text": "Review, departures and combinations",
+              "techniques": []
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Program General Guidelines (8/11/14)",
+          "url": "https://docs.usajudo.net/forms/Promotion/General%20Guidelines%20For%20The%20Junior%20Rank%20Program.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "4th-kyu",
+      "label": {
+        "en": "4th Kyu"
+      },
+      "beltColor": "green",
+      "beltStripe": "blue",
+      "techniqueSlugs": [
+        "soto-makikomi",
+        "hane-goshi",
+        "juji-gatame"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamentals-of-standing-judo",
+          "title": {
+            "en": "Fundamentals of standing judo"
+          },
+          "items": [
+            {
+              "text": "Kakari geiko",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "ashi-waza",
+          "title": {
+            "en": "Ashi Waza"
+          },
+          "items": [
+            {
+              "text": "Soto makikomi",
+              "techniques": [
+                "soto-makikomi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "koshi-waza",
+          "title": {
+            "en": "Koshi Waza"
+          },
+          "items": [
+            {
+              "text": "Hane goshi",
+              "techniques": [
+                "hane-goshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamentals-of-judo-floor",
+          "title": {
+            "en": "Fundamentals of judo floor"
+          },
+          "items": [
+            {
+              "text": "Base armlock",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu Waza"
+          },
+          "items": [
+            {
+              "text": "Ude hishigi Juji gatame",
+              "techniques": [
+                "juji-gatame"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Program General Guidelines (8/11/14)",
+          "url": "https://docs.usajudo.net/forms/Promotion/General%20Guidelines%20For%20The%20Junior%20Rank%20Program.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "3rd-kyu",
+      "label": {
+        "en": "3rd Kyu"
+      },
+      "beltColor": "blue",
+      "techniqueSlugs": [
+        "sasae-tsurikomi-ashi",
+        "harai-goshi",
+        "uki-otoshi",
+        "ude-garami"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamentals-of-standing-judo",
+          "title": {
+            "en": "Fundamentals of standing judo"
+          },
+          "items": [
+            {
+              "text": "Uchi komi",
+              "techniques": [],
+              "terms": [
+                "uchikomi"
+              ]
+            },
+            {
+              "text": "Nage komi",
+              "techniques": [],
+              "terms": [
+                "nagekomi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "ashi-waza",
+          "title": {
+            "en": "Ashi Waza"
+          },
+          "items": [
+            {
+              "text": "Sasae tsuri Komi ashi",
+              "techniques": [
+                "sasae-tsurikomi-ashi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "koshi-waza",
+          "title": {
+            "en": "Koshi Waza"
+          },
+          "items": [
+            {
+              "text": "Harai goshi",
+              "techniques": [
+                "harai-goshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "te-waza",
+          "title": {
+            "en": "Te Waza"
+          },
+          "items": [
+            {
+              "text": "Uki otoshi",
+              "techniques": [
+                "uki-otoshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "fundamentals-of-judo-floor",
+          "title": {
+            "en": "Fundamentals of judo floor"
+          },
+          "items": [
+            {
+              "text": "Output armlock",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu Waza"
+          },
+          "items": [
+            {
+              "text": "Ude garami",
+              "techniques": [
+                "ude-garami"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Program General Guidelines (8/11/14)",
+          "url": "https://docs.usajudo.net/forms/Promotion/General%20Guidelines%20For%20The%20Junior%20Rank%20Program.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "2nd-kyu",
+      "label": {
+        "en": "2nd Kyu"
+      },
+      "beltColor": "blue",
+      "beltStripe": "purple",
+      "techniqueSlugs": [
+        "okuri-ashi-harai",
+        "sode-tsurikomi-goshi",
+        "kata-guruma",
+        "ude-garami"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamentals-of-standing-judo",
+          "title": {
+            "en": "Fundamentals of standing judo"
+          },
+          "items": [
+            {
+              "text": "Randori shiai",
+              "techniques": [],
+              "terms": [
+                "randori",
+                "shiai"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "ashi-waza",
+          "title": {
+            "en": "Ashi Waza"
+          },
+          "items": [
+            {
+              "text": "Okuri ashi harai",
+              "techniques": [
+                "okuri-ashi-harai"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "koshi-waza",
+          "title": {
+            "en": "Koshi Waza"
+          },
+          "items": [
+            {
+              "text": "Sode tsuri komi goshi",
+              "techniques": [
+                "sode-tsurikomi-goshi"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kata-waza",
+          "title": {
+            "en": "Kata Waza"
+          },
+          "items": [
+            {
+              "text": "Kata guruma",
+              "techniques": [
+                "kata-guruma"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu Waza"
+          },
+          "items": [
+            {
+              "text": "Ude garami",
+              "techniques": [
+                "ude-garami"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Program General Guidelines (8/11/14)",
+          "url": "https://docs.usajudo.net/forms/Promotion/General%20Guidelines%20For%20The%20Junior%20Rank%20Program.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    },
+    {
+      "slug": "1st-kyu",
+      "label": {
+        "en": "1st Kyu"
+      },
+      "beltColor": "purple",
+      "techniqueSlugs": [
+        "ude-garami"
+      ],
+      "syllabus": [
+        {
+          "slug": "fundamentals-of-standing-judo",
+          "title": {
+            "en": "Fundamentals of standing judo"
+          },
+          "items": [
+            {
+              "text": "Chikara no oyo",
+              "techniques": []
+            }
+          ]
+        },
+        {
+          "slug": "ashi-waza",
+          "title": {
+            "en": "Ashi Waza"
+          },
+          "items": [
+            {
+              "text": "Renraku waza",
+              "techniques": [],
+              "terms": [
+                "renraku-waza"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "koshi-waza",
+          "title": {
+            "en": "Koshi Waza"
+          },
+          "items": [
+            {
+              "text": "Renraku waza",
+              "techniques": [],
+              "terms": [
+                "renraku-waza"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "te-waza",
+          "title": {
+            "en": "Te Waza"
+          },
+          "items": [
+            {
+              "text": "I, II, III group nage no kata",
+              "techniques": [],
+              "kata": [
+                "nage-no-kata"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kata-waza",
+          "title": {
+            "en": "Kata Waza"
+          },
+          "items": [
+            {
+              "text": "Renraku waza",
+              "techniques": [],
+              "terms": [
+                "renraku-waza"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "kansetsu-waza",
+          "title": {
+            "en": "Kansetsu Waza"
+          },
+          "items": [
+            {
+              "text": "Ude garami",
+              "techniques": [
+                "ude-garami"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Junior Rank Program General Guidelines (8/11/14)",
+          "url": "https://docs.usajudo.net/forms/Promotion/General%20Guidelines%20For%20The%20Junior%20Rank%20Program.pdf",
+          "source": "USA Judo"
+        }
+      ]
+    }
+  ]
+}
