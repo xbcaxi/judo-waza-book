@@ -12,11 +12,11 @@
     "title": "USA Judo Promotion Recommendation Procedures",
     "date": "July 30, 2025",
     "note": {
-      "en": "Transcribed from USA Judo Promotion Recommendation Procedures dated July 30, 2025. Item text keeps the source's wording, punctuation and slips, including the trailing commas of its bullet lists, \"Natonal\" in the kata contest table, \"Kimenokata\", and \"Goshin-jitsu\" and \"Goshin jitsu\" for Kodokan Goshin-jutsu. The 9th and 10th Dan kata line wraps \"Katame No Kata\" across two lines and is joined here, and a double space in the yodan fee note is closed up. Tables are rendered one item per row as printed. The fee table becomes the rank and its fee. The Guideline for Promotion Requirements table becomes the rank, its minimum age, and its grade time for a non-competitor and for a competitor with 5, 10, 15 and 20 points, with blank cells left out. The Yodan-and-above table becomes the time for each category, with its footnote letters kept and each footnote transcribed as an item below the row. The randori and kata contest points tables are rendered row by row. Items that apply to every dan grade, the application contents and the contest points tables are repeated on each grade they govern. The passport photo appears from 4th Dan, and the category definitions from 4th to 8th Dan, as the document limits them. The contest points tables appear from 1st to 6th Dan, the grades whose time-in-grade row has points columns. Things the document leaves unresolved are recorded rather than settled. Yodan and Godan appear in both the points table and the category table, and the document does not say how the two combine. The line after the points table points to additional tables for Rokudan and above, while the category table itself covers Yodan to Hachidan. The category table gives Hachidan no Category D time, which its footnote c explains. Rokudan has points columns, yet its minimum requirements drop the contest record. The 9th and 10th Dan conditions refer to the time limits and minimum ages of the tables previously exposed, though those tables stop at Hachidan. The 9th and 10th Dan kata line says all kata but omits Itsutsu-no-kata, which 8th Dan requires. The document names no belt colour for any dan grade. Black is recorded for every grade because the schema requires a colour, and USA Judo's Junior Rank Program guidelines refer to applying for a black belt at the minimum dan age; it is not evidence for the colour of the higher grades. No grade prescribes a named technique, so every techniqueSlugs is empty. Not transcribed as items: the skip promotion rule, the rule that USA Judo criteria prevail for promotions from IJF-affiliated organisations outside the United States, clubs without a state organisation, refund and resubmission rules, the submission address and email, and the separate request for an IJF or Pan American rank certificate."
+      "en": "Transcribed from USA Judo Promotion Recommendation Procedures dated July 30, 2025. Item text keeps the source's wording, punctuation and slips, including the trailing commas of its bullet lists, \"Natonal\" in the kata contest table, \"Kimenokata\", and \"Goshin-jitsu\" and \"Goshin jitsu\" for Kodokan Goshin-jutsu. The 9th and 10th Dan kata line wraps \"Katame No Kata\" across two lines and is joined here, and a double space in the yodan fee note is closed up. Tables are rendered one item per row as printed. The fee table becomes the rank and its fee. The Guideline for Promotion Requirements table becomes the rank, its minimum age, and its grade time for a non-competitor and for a competitor with 5, 10, 15 and 20 points, with blank cells left out. The Yodan-and-above table becomes the time for each category, with its footnote letters kept and each footnote transcribed as an item below the row. The randori and kata contest points tables are rendered row by row. Items that apply to every dan grade, the application contents and the contest points tables are repeated on each grade they govern. The passport photo appears from 4th Dan, and the category definitions from 4th to 8th Dan, as the document limits them. The contest points tables appear from 1st to 6th Dan, the grades whose time-in-grade row has points columns. Things the document leaves unresolved are recorded rather than settled. Yodan and Godan appear in both the points table and the category table, and the document does not say how the two combine. The line after the points table points to additional tables for Rokudan and above, while the category table itself covers Yodan to Hachidan. The category table gives Hachidan no Category D time, which its footnote c explains. Rokudan has points columns, yet its minimum requirements drop the contest record. The 9th and 10th Dan conditions refer to the time limits and minimum ages of the tables previously exposed, though those tables stop at Hachidan. The 9th and 10th Dan kata line says all kata but omits Itsutsu-no-kata, which 8th Dan requires. The document names no belt colour for any dan grade. The colours shown follow the international convention instead: black to 5th Dan, red and white from 6th to 8th Dan, and red for 9th and 10th Dan. No grade prescribes a named technique, so every techniqueSlugs is empty. Not transcribed as items: the skip promotion rule, the rule that USA Judo criteria prevail for promotions from IJF-affiliated organisations outside the United States, clubs without a state organisation, refund and resubmission rules, the submission address and email, and the separate request for an IJF or Pan American rank certificate."
     }
   },
   "beltNote": {
-    "en": "The procedures do not name belt colours, so black is shown for every dan grade."
+    "en": "The procedures do not name belt colours. The colours shown are the international convention."
   },
   "grades": [
     {
@@ -1263,7 +1263,8 @@
       "label": {
         "en": "6th Dan"
       },
-      "beltColor": "black",
+      "beltColor": "red",
+      "beltStripe": "white",
       "techniqueSlugs": [],
       "syllabus": [
         {
@@ -1619,7 +1620,8 @@
       "label": {
         "en": "7th Dan"
       },
-      "beltColor": "black",
+      "beltColor": "red",
+      "beltStripe": "white",
       "techniqueSlugs": [],
       "syllabus": [
         {
@@ -1917,7 +1919,8 @@
       "label": {
         "en": "8th Dan"
       },
-      "beltColor": "black",
+      "beltColor": "red",
+      "beltStripe": "white",
       "techniqueSlugs": [],
       "syllabus": [
         {
@@ -2215,7 +2218,7 @@
       "label": {
         "en": "9th Dan"
       },
-      "beltColor": "black",
+      "beltColor": "red",
       "techniqueSlugs": [],
       "syllabus": [
         {
@@ -2423,7 +2426,7 @@
       "label": {
         "en": "10th Dan"
       },
-      "beltColor": "black",
+      "beltColor": "red",
       "techniqueSlugs": [],
       "syllabus": [
         {
