@@ -1,0 +1,14 @@
+{
+  "name": "United States Judo Association",
+  "kind": "national-body",
+  "country": "US",
+  "homepage": "https://www.usja.net/",
+  "about": {
+    "en": "One of three national judo organisations in the United States, known as the USJA, with chartered clubs across the country and its own rank system run by a National Promotion Board. Its junior ranks, senior ranks from 6th Kyu to 3rd Dan and high dan ranks are transcribed in this reference from the examination papers and promotion forms it publishes."
+  },
+  "schemes": [
+    "usja-junior",
+    "usja-senior",
+    "usja-high-dan"
+  ]
+}
