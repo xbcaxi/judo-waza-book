@@ -83,13 +83,13 @@
   ],
   "image": null,
   "about": {
-    "en": "The classical counter to hip throws: tori scoops uke's entering hips from behind, lifts, and lets uke fall in front."
+    "en": "The classical counter to hip throws: tori scoops uke's entering hips from behind, swings uke up into the air and throws them onto their back."
   },
   "keyPoints": {
     "en": [
       "Drop your hips below uke's as the attack comes in",
       "Lift uke clear of the mat with the hips, arms around the waist",
-      "Let uke slide down in front of you, guiding the fall"
+      "Swing uke up and bring them down onto their back"
     ]
   },
   "described": {
@@ -97,15 +97,15 @@
       "Your partner turns in for a hip throw. Before it bites, bend your knees deeply and sink your hips below theirs.",
       "Wrap both arms around their waist from behind their turned-in position, clamping their hips to your belly.",
       "Straighten your legs and thrust your hips forward and up: their body lifts clear of the mat, their feet swinging up in front.",
-      "Hold the lift for a beat so their throw is fully dead, then step back a half pace.",
-      "Lower and release them so they drop feet-and-side first onto the mat in front of you, your arms guiding the descent until they land."
+      "Keep lifting and swing them up into the air, so nothing of their throw is left.",
+      "Bring them down onto their back at your feet, your arms still round their waist as they land. In practice, if the lift feels off-centre, lower them feet first in front of you instead, because a crooked swing brings them down on their shoulder or head."
     ]
   },
   "receiving": {
-    "en": "Your hip attack is swallowed: their hips drop below yours, arms clamp your waist, and you are lifted straight up, feet leaving the mat, your throw dead in the air. The landing is a drop rather than a rotation. Stay compact, keep your feet under you if you can, and take the mat with your feet and side as they lower you; a good partner controls this descent, and in practice you should agree beforehand how high the lift will be."
+    "en": "Your hip attack is swallowed: their hips drop below yours, arms clamp your waist, and you are lifted straight up, feet leaving the mat, your throw dead in the air. The landing is on your back at their feet. Tuck your chin and slap with both arms as your back meets the mat, and in practice agree beforehand how high the lift will be."
   },
   "viNotes": {
-    "en": "The attack comes to you in contact, so you know the hip turn is coming before it bites: sink below them and clamp their waist. The lift tells you whether you have them squarely, and holding it for a beat kills their throw completely. Lower them under control rather than dropping them, because they are in the air with no idea where the mat is."
+    "en": "The attack comes to you in contact, so you know the hip turn is coming before it bites: sink below them and clamp their waist. The lift tells you whether you have them squarely, and once their feet leave the mat their throw is dead. Keep your arms round their waist until their back reaches the mat, because they are in the air with no idea where the mat is."
   },
   "resolver": {
     "counter": true,
@@ -116,7 +116,7 @@
     "lock": null,
     "lockPress": null,
     "cue": {
-      "en": "A hip throw is caught mid-turn: the attacker scoops the entering hips from behind, lifts the opponent clear, and lets them fall in front."
+      "en": "A hip throw is caught mid-turn: the attacker scoops the entering hips from behind, swings the opponent up into the air, and throws them onto their back."
     },
     "confusableWith": [
       "utsuri-goshi"
