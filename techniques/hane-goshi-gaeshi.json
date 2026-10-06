@@ -45,29 +45,29 @@
   ],
   "image": null,
   "about": {
-    "en": "The counter to Hane-goshi: as uke turns in and springs the leg out, tori blocks or sweeps the springing leg and takes them over in the direction they were already turning. A Kodokan foot technique, and one that rewards feeling the turn early."
+    "en": "The counter to Hane-goshi: before uke can complete the spring, tori reaps or hooks the leg uke pivots on, from the outside. A Kodokan foot technique, and one that rewards feeling the turn early."
   },
   "keyPoints": {
     "en": [
-      "Meet the spring: block the leg before it lifts you",
+      "Counter before the spring lifts you",
       "Keep your hips back and heavy as they turn in",
-      "Sweep the loaded leg, and use their own rotation"
+      "Reap or hook the leg they pivot on, from the outside"
     ]
   },
   "described": {
     "en": [
       "Your partner turns in for Hane-goshi, their right leg bending to spring across your thigh.",
       "Drop your hips back and lower your weight so their spring cannot get underneath you.",
-      "Take your right leg round the outside and hook or sweep their springing leg as it comes up.",
-      "Pull down on their collar with your left hand so their head goes where their hips were going.",
-      "They continue their own turn all the way over and land in front of you."
+      "Their left leg is the one they pivot on, and it is your target.",
+      "Lift them and reap that leg to your left with your right leg, or hook your left leg round the outside of their lower left leg and reap it to your right.",
+      "They fall onto their back."
     ]
   },
   "receiving": {
-    "en": "Your entry is going well until the lift fails and your springing leg is caught in the air. You are already rotating, so the counter simply completes the turn: the landing is on your side or back, on the side you were turning towards. Tuck your chin, keep the free arm ready to slap, and do not reach a hand back to break the fall."
+    "en": "Your entry is going well until the lift fails and the leg you pivot on is reaped from the outside while your springing leg is still in the air. You land on your back. Tuck your chin, keep the free arm ready to slap, and do not reach a hand back to break the fall."
   },
   "viNotes": {
-    "en": "The attack announces itself before it lands: their hip turns in and a bent leg presses across the front of your thigh. Drop your weight the instant you feel the turn rather than waiting for the leg, or the spring gets underneath you. Take your own leg round the outside by tracing their calf with yours, and start the pull down on the collar as soon as your legs touch."
+    "en": "The attack announces itself before it lands: their hip turns in and a bent leg presses across the front of your thigh. Drop your weight the instant you feel the turn rather than waiting for the leg, or the spring gets underneath you. Find the leg they pivot on by tracing its calf with yours from the outside, and reap as soon as your legs touch."
   },
   "resolver": {
     "counter": true,
@@ -78,7 +78,7 @@
     "lock": null,
     "lockPress": null,
     "cue": {
-      "en": "The springing hip throw is caught as it turns in: the springing leg is blocked or swept and its maker is taken over."
+      "en": "The springing hip throw is caught as it turns in: the leg its maker pivots on is reaped or hooked from the outside."
     },
     "confusableWith": [
       "harai-goshi-gaeshi",
