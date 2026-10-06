@@ -58,40 +58,40 @@
   ],
   "image": null,
   "about": {
-    "en": "The answer to a partner bent forward and defending: tori takes the back of their belt, lifts them off their base and turns them over backwards. Recognised by the Kodokan beyond the Gokyo and common in contest, where a bent-over posture invites it."
+    "en": "The answer to a partner bent forward and defending: tori reaches over uke's shoulder to take the belt, holds uke's right arm or leg with the other hand, and lifts uke over tori's right shoulder. Recognised by the Kodokan beyond the Gokyo and common in contest, where a bent-over posture invites it."
   },
   "keyPoints": {
     "en": [
-      "Take the belt at the back, over their spine",
-      "Lift with the legs and hips, never the lower back",
-      "Turn them as you lift; a straight lift only stands them up"
+      "Reach over their shoulder for the belt with your right hand",
+      "Hold their right arm or leg with your left hand",
+      "Lift with the legs and hips, never the lower back"
     ]
   },
   "described": {
     "en": [
       "Your partner is bent forward, defending, their head below your chest.",
-      "Slide your right arm over their back and take the belt behind them, thumb hooked under it.",
-      "Step in close so your hips are under theirs and your knees are bent; keep your own back straight.",
-      "Straighten your legs to lift them off the mat, and at the same moment turn to your left so they rotate rather than simply rise.",
-      "They come over and land on their back in front of you; lower them with the belt hand rather than dropping them."
+      "Reach your right arm over their shoulder and take their belt behind them, thumb hooked under it.",
+      "Take hold of their right arm or their right leg with your left hand.",
+      "Bend your knees and keep your own back straight, then straighten your legs to lift them from the mat.",
+      "Carry the lift on so they turn over your right shoulder and land on their back; keep hold of the belt as they land rather than letting them drop."
     ]
   },
   "receiving": {
-    "en": "A hand hooks the back of your belt while you are bent forward, and your feet leave the mat before you can straighten up. The fall is backwards onto your back, and you cannot step out of it once the lift starts, so tuck your chin hard, keep both arms ready to slap, and stay heavy rather than fighting the turn in the air. Build this one up gradually with a partner you trust."
+    "en": "A hand reaches over your shoulder to your belt while you are bent forward, your right arm or leg is taken, and your feet leave the mat before you can straighten up. You turn over their right shoulder onto your back and cannot step out of it once the lift starts, so tuck your chin hard, keep any free arm ready to slap, and stay heavy rather than fighting the turn in the air. Build this one up gradually with a partner you trust."
   },
   "viNotes": {
-    "en": "A bent-over defence announces itself, their weight dropping and their head coming below your chest, and this is the answer to it. Take the belt by sliding your arm along their back until your thumb hooks under it, and get your hips under theirs before you straighten. Lower them with the belt hand rather than letting go at the top of the lift."
+    "en": "A bent-over defence announces itself, their weight dropping and their head coming below your chest, and this is the answer to it. Reach over their shoulder and slide your hand down their back until your thumb hooks under the belt, then find their right arm or leg with your left hand before you straighten. Keep hold of the belt rather than letting go at the top of the lift."
   },
   "resolver": {
     "counter": false,
-    "fall": "backwards",
+    "fall": "forwards",
     "mechanism": "hands-only",
     "groundPosition": null,
     "strangleUses": null,
     "lock": null,
     "lockPress": null,
     "cue": {
-      "en": "Against an opponent bent forward and defending, a grip on the back of the belt lifts them off their base and turns them over backwards."
+      "en": "Against an opponent bent forward, a hand reaches over the shoulder to the belt, the other holds an arm or leg, and the opponent is lifted over the attacker's right shoulder."
     },
     "confusableWith": []
   },
