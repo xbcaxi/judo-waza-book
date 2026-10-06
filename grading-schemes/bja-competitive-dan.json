@@ -6,10 +6,10 @@
   "country": "GB",
   "order": 4,
   "description": {
-    "en": "The senior grades of the British Judo Association, 1st to 5th Dan, as they stand for promotions from 1 January 2026. Two routes reach them, competitive and technical, and the syllabus below is common to both: the routes differ in the paper that examines a candidate and in what they must have done to be eligible, not in the techniques they have to be able to do. The hundred techniques the Kodokan recognises are divided into five sets of twenty, one to a dan grade. A candidate demonstrates the whole set for the grade being taken, five techniques of their own choice from each set already passed, and then performance skills, where the technique is theirs to choose from any of the hundred: throws linked into combinations and counters, groundwork combined, escaped or entered, and standing judo carried into groundwork. Each grade below lists the techniques it can be examined on by name, which is its own twenty and every set beneath it; the performance sections range over all hundred. Both papers, with their marks and pass marks, are in the examinations section, one per grade per route. The BJA recently replaced their 1982 scheme, built on 67 techniques, to teach the wider Kodokan curriculum and to bring its dan grade policy into line with IJF policy."
+    "en": "The senior grades of the British Judo Association, 1st to 6th Dan, as they stand for promotions from 1 January 2026. 1st to 5th Dan are examined; 6th Dan is by application. Two routes reach them, competitive and technical, and the syllabus below is common to both: the routes differ in the paper that examines a candidate and in what they must have done to be eligible, not in the techniques they have to be able to do. The hundred techniques the Kodokan recognises are divided into five sets of twenty, one to a dan grade. A candidate demonstrates the whole set for the grade being taken, five techniques of their own choice from each set already passed, and then performance skills, where the technique is theirs to choose from any of the hundred: throws linked into combinations and counters, groundwork combined, escaped or entered, and standing judo carried into groundwork. Each grade below lists the techniques it can be examined on by name, which is its own twenty and every set beneath it; the performance sections range over all hundred. Both papers, with their marks and pass marks, are in the examinations section, one per grade per route. The BJA recently replaced their 1982 scheme, built on 67 techniques, to teach the wider Kodokan curriculum and to bring its dan grade policy into line with IJF policy."
   },
   "source": {
-    "title": "BJA Competitive Dan Grade Scheme: Assessment Guide, mark sheets, kata requirements and promotion requirements",
+    "title": "BJA Competitive Dan Grade Scheme: Assessment Guide, mark sheets, kata requirements promotion requirements and 6th Dan Application Form",
     "date": "October 2025",
     "note": {
       "en": "Transcribed from the BJA dan grade documents. The scheme governs promotions from 1 January 2026, after a transition period that began on 1 July 2025. The technique sets are common to both routes: the technical mark sheets in the examinations section name the same twenty per grade as the competitive ones. Ages, times in grade and competition points are the competitive pathway's; the technical pathway sets its own. Kata is examined separately from the skills assessment and need not be taken on the same day."
@@ -1625,6 +1625,188 @@
               "text": "120 competition points"
             }
           ]
+        }
+      ]
+    },
+    {
+      "slug": "6th-dan",
+      "label": {
+        "en": "6th Dan"
+      },
+      "beltColor": "red",
+      "beltStripe": "white",
+      "techniqueSlugs": [],
+      "syllabus": [
+        {
+          "slug": "eligibility",
+          "title": {
+            "en": "Eligibility"
+          },
+          "items": [
+            {
+              "text": "Promotion is by application on the BJA 6th Dan Application Form, under one EJU category from A to D, rather than by examination"
+            },
+            {
+              "text": "A minimum competitive 3rd Dan"
+            },
+            {
+              "text": "The category applied for must match the activity, minimum age and time in grade in the chart"
+            }
+          ]
+        },
+        {
+          "slug": "category-a",
+          "title": {
+            "en": "EJU Category A: minimum age 30, 6 years as 5th Dan"
+          },
+          "items": [
+            {
+              "text": "Competitor: Medal Olympic Games or Senior World Championships"
+            },
+            {
+              "text": "Referee: IJF, Olympic Games and World Championships (Final Block)"
+            },
+            {
+              "text": "Official: IJF, Continental"
+            },
+            {
+              "text": "National Coach: Competitor - Category A"
+            }
+          ]
+        },
+        {
+          "slug": "category-b",
+          "title": {
+            "en": "EJU Category B: minimum age 35, 8 years as 5th Dan"
+          },
+          "items": [
+            {
+              "text": "Competitor: Medal - Paralympic Games; Medal - Kata or Disabled Sports World Championships; Senior National team which is - Attendance Olympic Games, World Championships; Attendance European Championships, Grand Slam, Grand Prix, European Cups"
+            },
+            {
+              "text": "Referee: Continental, Attendance Olympic Games or World Championships, Final Block European Championships, Grand Slam, Grand Prix, European Cups"
+            },
+            {
+              "text": "Official: National, Board of Directors, National Committees, National Working Groups, National Panels and Commissions (minimum 8 years)"
+            },
+            {
+              "text": "National Coach: Competitor - Category B"
+            },
+            {
+              "text": "Club Teacher: Competitor - Category B"
+            }
+          ]
+        },
+        {
+          "slug": "category-c",
+          "title": {
+            "en": "EJU Category C: minimum age 40, 10 years as 5th Dan"
+          },
+          "items": [
+            {
+              "text": "Competitor: Medal - Senior British Championships, Home Nation Championships, Area Championships"
+            },
+            {
+              "text": "Referee: National, Final Block British Senior Championships, Home Nation and Area Championships"
+            },
+            {
+              "text": "Official: Regional, Home Nation/Area Committees, Working Groups, Panels (minimum 8 years)"
+            },
+            {
+              "text": "National Coach: Competitor - Category C"
+            },
+            {
+              "text": "Club Teacher: Competitor - Category C"
+            }
+          ]
+        },
+        {
+          "slug": "category-d",
+          "title": {
+            "en": "EJU Category D: minimum age 50, 12 years as 5th Dan, and 25 years since 1st Dan awarded"
+          },
+          "items": [
+            {
+              "text": "Competitor: Significant Club and Area representation"
+            },
+            {
+              "text": "Referee: Final Block Area Championships"
+            },
+            {
+              "text": "Official: Significant Club and/or County activity"
+            },
+            {
+              "text": "National Coach: Competitor - Category D"
+            },
+            {
+              "text": "Club Teacher: Competitor - Category D"
+            }
+          ]
+        },
+        {
+          "slug": "kata",
+          "title": {
+            "en": "Kata"
+          },
+          "items": [
+            {
+              "text": "Nage-no-kata, Katame-no-kata, Ju-no-kata, Kime-no-kata, Kodokan Goshin-jutsu and Koshiki-no-kata, each to at least BJA Level 1",
+              "terms": [
+                "kata"
+              ],
+              "kata": [
+                "nage-no-kata",
+                "katame-no-kata",
+                "ju-no-kata",
+                "kime-no-kata",
+                "kodokan-goshin-jutsu",
+                "koshiki-no-kata"
+              ]
+            },
+            {
+              "text": "The form also offers a box for a candidate exercising their 'grandfather rights' provision instead"
+            }
+          ]
+        },
+        {
+          "slug": "qualified-by-experience",
+          "title": {
+            "en": "Qualified by experience"
+          },
+          "items": [
+            {
+              "text": "Aged 72 or older, actively involved in judo and active as a 5th Dan, meeting the minimum time in grade and most but not all of the criteria: may still apply, with a CV and the six required kata certificates"
+            },
+            {
+              "text": "Aged 80 or over, meeting the majority of the syllabus criteria: one dispensation from a competitive 1st Dan instead of a competitive 3rd Dan, time in grade reduced by one category (2 years), or no kata requirements"
+            },
+            {
+              "text": "Aged 90 or over: one further dispensation as well, from a non-competitive 1st Dan instead of a competitive dan grade, time in grade reduced by two categories, or no kata requirements. The form glosses two categories as 2 years, the same figure it gives for one"
+            }
+          ]
+        },
+        {
+          "slug": "compassionate-promotion",
+          "title": {
+            "en": "Compassionate promotion"
+          },
+          "items": [
+            {
+              "text": "May be considered on a diagnosis of terminal illness, for a judoka active as a 5th Dan for at least six years. The NPGC may recommend it to the BJA Board of Directors; the application and a covering letter with evidence go to the NPGC via the NDGM"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "title": "6th Dan Application Form (December 2025) (PDF)",
+          "url": "https://www.britishjudo.org.uk/wp-content/uploads/2025/12/6th-Dan-Application-Form-JM-03Dec25.pdf",
+          "source": "British Judo Association"
+        },
+        {
+          "title": "Kata Requirements for Dan Grading (November 2025) (PDF)",
+          "url": "https://www.britishjudo.org.uk/wp-content/uploads/2025/11/Kata-Requirements-for-Dan-Gradings-Nov-25.pdf",
+          "source": "British Judo Association"
         }
       ]
     }
