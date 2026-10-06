@@ -83,20 +83,20 @@
     "source": "Compiled club reference document supplied by the project owner; original source not recorded"
   },
   "about": {
-    "en": "The cross strangle with both hands gripping alike: arms crossed, each hand deep in the opposite collar with the fingers inside, the wrists turning to close. One of the three cross strangles. Strangles are restricted by age in most federations; learn and practise this only under instruction and supervision."
+    "en": "The cross strangle with both hands gripping alike: arms crossed, each hand deep in the opposite collar with the thumb inside and the palm down, the wrists turning to close. One of the three cross strangles. Strangles are restricted by age in most federations; learn and practise this only under instruction and supervision."
   },
   "keyPoints": {
     "en": [
-      "Both hands: fingers inside the opposite collars, thumbs out",
+      "Both hands: thumbs inside the opposite collars, fingers out",
       "Grip deep, at or behind the neck's sides, before you turn",
       "Close by drawing your elbows down and towards your body"
     ]
   },
   "described": {
     "en": [
-      "Facing your partner, usually astride or inside their guard on the ground, slide your right hand deep into their left collar, fingers inside the cloth, thumb outside.",
-      "Cross your left arm over or under the right and grip their right collar the same way, fingers inside, as deep towards the back of the neck as you can.",
-      "Your forearms now cross at their chest like the top of a letter X.",
+      "Facing your partner, usually astride or inside their guard on the ground, slide your right hand deep into their right collar, thumb inside the cloth, fingers outside.",
+      "Cross your left arm over or under the right and grip their left collar the same way, thumb inside, as deep towards the back of the neck as you can.",
+      "Your forearms now cross at their chest like the top of a letter X, both palms facing down.",
       "Close gradually: rotate your wrists so the blades of your forearms turn into the sides of the neck, and draw both elbows down and in towards your own body.",
       "Release fully and open both hands the moment they tap, and stay with them for a moment afterwards."
     ]
@@ -105,7 +105,7 @@
     "en": "Crossed forearms settle at your chest and the collar tightens at both sides of your neck as the elbows draw down; the pressure builds smoothly. Defend early by gripping their arms and tucking your chin. Tap immediately and clearly the moment the strangle is properly on, on their arm or body where they will feel it; holding on risks a blackout. Tell your instructor if you ever feel light-headed afterwards."
   },
   "viNotes": {
-    "en": "Both hands grip alike, which makes this the easiest of the three cross strangles to check by feel: if one palm is facing the wrong way you are applying a different technique. Take each grip deep by tracking the collar with your fingers from the shoulder inwards, then close with the wrists and the elbows. Open both hands fully at the tap and stay with your partner a moment."
+    "en": "Both hands grip alike, which makes this the easiest of the three cross strangles to check by feel: if one palm is facing the wrong way you are applying a different technique. Take each grip deep by tracking the collar with your thumb from the shoulder inwards, then close with the wrists and the elbows. Open both hands fully at the tap and stay with your partner a moment."
   },
   "resolver": {
     "counter": false,
@@ -116,7 +116,7 @@
     "lock": null,
     "lockPress": null,
     "cue": {
-      "en": "A cross-collar strangle, arms crossed with the fingers of both hands inside the opposite collars."
+      "en": "A cross-collar strangle, arms crossed with both thumbs inside the opposite collars."
     },
     "confusableWith": [
       "gyaku-juji-jime",
