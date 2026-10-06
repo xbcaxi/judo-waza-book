@@ -45,29 +45,28 @@
   ],
   "image": null,
   "about": {
-    "en": "The counter to O-uchi-gari: as uke reaps deep inside, tori steps the attacked leg back out of the hook, brings their own leg round behind uke's standing leg and drives them over it. Classified by the Kodokan as a foot technique, because the leg does the work."
+    "en": "The counter to O-uchi-gari: as uke reaps deep inside, and before the reap is complete, tori uses the attacked leg to sweep uke's hooking leg out from under them and throws them onto their back. Classified by the Kodokan as a foot technique, because the leg does the work."
   },
   "keyPoints": {
     "en": [
-      "Step out of the hook before it takes your weight",
-      "Their standing leg is now the target",
-      "Drive their chest back as your leg goes in"
+      "Counter before the reap takes your weight",
+      "Sweep with the leg they are hooking",
+      "Their hooking leg is the target"
     ]
   },
   "described": {
     "en": [
       "Your partner attacks O-uchi-gari, hooking their right leg deep inside your left.",
-      "Step your left leg backwards out of the hook, keeping your hips square and your weight on it.",
-      "Their attacking leg is committed and their standing leg is loaded; bring your right leg round behind it.",
-      "Reap that standing leg forward while both hands drive their chest backwards.",
+      "Answer before the reap is complete, while their right leg is still hooked round your left.",
+      "Use your left leg, the one they are hooking, to sweep their right leg out from under them.",
       "They fall on their back where they stood; keep the sleeve and lower them under control."
     ]
   },
   "receiving": {
-    "en": "Your reap finds nothing, and before you can put the leg down your standing leg is taken from behind. The fall is straight backwards with both legs gone, so it is a full back breakfall: chin tucked, arms ready, and let the held sleeve turn you slightly onto one side if it can."
+    "en": "Before your reap can finish, the leg you hooked sweeps your hooking leg away and leaves you on one leg. The fall is straight backwards, so it is a full back breakfall: chin tucked, arms ready, and let the held sleeve turn you slightly onto one side if it can."
   },
   "viNotes": {
-    "en": "Their hook is deep inside your leg, so you know exactly where their attacking leg is. Step out of it backwards while you can still feel it, then bring your own leg round behind the leg they are standing on, which by then is the only one on the mat. The whole exchange happens with legs touching, so nothing has to be judged across a gap."
+    "en": "Their hook is deep inside your leg, so you know exactly where their attacking leg is. Sweep it with the leg it is hooking while you can still feel it, before the reap takes your weight. The whole exchange happens with legs touching, so nothing has to be judged across a gap."
   },
   "resolver": {
     "counter": true,
@@ -78,7 +77,7 @@
     "lock": null,
     "lockPress": null,
     "cue": {
-      "en": "The big inside reap is answered: the attacked leg steps clear and the attacker's own leg comes round behind the standing leg to drive them over."
+      "en": "The big inside reap is answered: the attacked leg sweeps the hooking leg out from under its maker."
     },
     "confusableWith": []
   },
