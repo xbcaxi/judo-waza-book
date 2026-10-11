@@ -90,6 +90,16 @@ Over the 736-contest sample this is the difference between finding 18
 penalty endings and 38. Direct hansoku-make is also flagged on the contest
 itself as `hsk_w` / `hsk_b`.
 
+**Penalty clips.** `penalty_examples` keeps up to two clips per IJF reason
+code per sex, from contests refereed under the CURRENT rulebook edition only:
+the `reference/ijf-sor-*.json` record with the latest `effectiveFrom`, judged
+against the date each competition ended. Adding the next edition's record
+retires every older clip on the following run. `seconds` places the referee's
+call, media start plus `time_real`, with no lead-in, because how long before
+the call the offence begins depends on the offence; that figure is the `clip`
+field of the reason's entry in `penalties/`. The placement has not yet been
+checked against footage the way the technique clips were. Nobody is named.
+
 **Cancellations.** A downgrade on review is ONE event carrying both the
 cancelled score and the technique that replaced it, in the surviving score's
 group (`Cancel Waza-ari` and `O-soto-gaeshi`, both "Yuko"). Cancel-named

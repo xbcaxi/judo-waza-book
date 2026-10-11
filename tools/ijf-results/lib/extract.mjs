@@ -205,7 +205,7 @@ function penaltyKind(group) {
 
 /* One contest's timeline to its scoring events and its penalties:
  * { events: [{ ijfName, score, side, minute }],
- *   penalties: [{ kind, actorId, minute, seconds }], untallied }.
+ *   penalties: [{ kind, actorId, minute, seconds, reason, timeReal }], untallied }.
  *
  * Per event: only tagged events carry technique data. Tags named "Cancel
  * ..." are dropped first, because a cancellation is not always an
@@ -265,6 +265,9 @@ export function extractScoringEvents(contest) {
            * IJF's own code so the reason table is theirs and not a
            * translation nobody can check. */
           reason: (tag.code_short ?? tag.name ?? '').toLowerCase() || null,
+          /* Wall clock, for the same reason a score carries it: it is what
+           * places the referee's call in the footage. */
+          timeReal: clockSeconds(event.time_real),
         });
         continue;
       }

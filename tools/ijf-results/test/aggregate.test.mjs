@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { aggregate } from '../lib/aggregate.mjs';
+import { aggregate, refereedUnder } from '../lib/aggregate.mjs';
 
 const map = { 'Uchi-mata': 'uchi-mata', 'O-uchi-gari': 'o-uchi-gari', 'Kesa-gatame': 'kesa-gatame' };
 const tiers = {
@@ -204,4 +204,14 @@ test('an unmapped technique outside the window does not stop the run', () => {
     { competition: old2017, category: m73, response: contestWith([tag('Nobody-Has-Mapped-This', 'Ippon')]) },
   ], { map, tiers });
   assert.equal(unmapped.size, 0);
+});
+
+test('a competition is refereed under an edition from the day it ends', () => {
+  const rules = { sourceId: 'ijf-sor-2026', effectiveFrom: '2026-01-01' };
+  assert.equal(refereedUnder({ dateTo: '2026-02-08', year: 2026 }, rules), 'ijf-sor-2026');
+  assert.equal(refereedUnder({ dateTo: '2025/12/14', year: 2025 }, rules), null);
+  assert.equal(refereedUnder({ dateTo: null, year: 2026 }, rules), 'ijf-sor-2026');
+  /* A mid-year edition never claims an undated competition from its year. */
+  assert.equal(refereedUnder({ dateTo: null, year: 2026 }, { ...rules, effectiveFrom: '2026-07-01' }), null);
+  assert.equal(refereedUnder({ dateTo: '2026-02-08', year: 2026 }, null), null);
 });

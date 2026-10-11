@@ -45,9 +45,22 @@ function indexMap(map) {
  * FOOTAGE and nothing else: no row, no denominator, no penalty, no rank. */
 export const STATS_FROM_YEAR = 2020;
 
+/* The sourceId of `rules` when the competition was refereed under that
+ * edition, else null. Judged on the date the competition ended, the one date
+ * the list carries; without a date, on the first day of its year, so a
+ * mid-year edition never claims contests it may not have governed. */
+export function refereedUnder(competition, rules) {
+  if (!rules?.sourceId || !rules?.effectiveFrom) return null;
+  const dated = /^(\d{4})[-/](\d{2})[-/](\d{2})/.exec(String(competition?.dateTo ?? ''));
+  const day = dated
+    ? `${dated[1]}-${dated[2]}-${dated[3]}`
+    : Number.isFinite(competition?.year) ? `${competition.year}-01-01` : null;
+  return day !== null && day >= rules.effectiveFrom ? rules.sourceId : null;
+}
+
 export function aggregate(records, {
   map, tiers, competitions: freshCompetitions, permissive = false,
-  statsFromYear = STATS_FROM_YEAR,
+  statsFromYear = STATS_FROM_YEAR, rules = null,
 }) {
   const byName = indexMap(map);
   const rows = new Map();
@@ -174,6 +187,7 @@ export function aggregate(records, {
       penalties: extracted.penalties,
       decision,
       resolve: (ijfName) => byName.get(ijfName.toLowerCase()) ?? null,
+      rules: refereedUnder(competition, rules),
     });
     if (decision) {
       const row = { ...slice, minute: decision.minute, by: decision.by };

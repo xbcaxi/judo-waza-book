@@ -91,6 +91,7 @@ const validateChannel = ajv.compile(await loadJson(path.join(root, 'schema/chann
 const validateTerm = ajv.compile(await loadJson(path.join(root, 'schema/glossary-term.schema.json')));
 const validateOrganisation = ajv.compile(await loadJson(path.join(root, 'schema/organisation.schema.json')));
 const validatePerspective = ajv.compile(await loadJson(path.join(root, 'schema/perspective.schema.json')));
+const validatePenalty = ajv.compile(await loadJson(path.join(root, 'schema/penalty.schema.json')));
 
 const techniques = await loadDir('techniques');
 const schemes = await loadDir('grading-schemes');
@@ -104,6 +105,7 @@ const providers = await loadDir('video-providers');
 const channels = await loadDir('video-channels');
 const glossary = await loadDir('glossary');
 const organisations = await loadDir('organisations');
+const penalties = await loadDir('penalties');
 
 /* Perspectives are the one nested collection: one directory per
  * organisation, then one directory per kind of thing spoken about, then one
@@ -888,7 +890,7 @@ function lintLanguageKeys(where, node) {
 
 for (const [dir, entries] of [['techniques', techniques], ['grading-schemes', schemes],
   ['sequences', sequences], ['guides', guides], ['exams', exams],
-  ['organisations', organisations], ['perspectives', perspectives]]) {
+  ['organisations', organisations], ['perspectives', perspectives], ['penalties', penalties]]) {
   for (const entry of entries) lintLanguageKeys(`${dir}/${entry.name}`, entry.data);
 }
 
@@ -1157,6 +1159,37 @@ for (const g of guides) {
   });
 }
 
+/* Penalties: one reason a referee gives a shido or hansoku-make. The rule is
+ * cited like a technique's contest rule, and the article has to be one the
+ * rulebook record lists, so the record stays the index of what is cited. The
+ * IJF codes join the entry to competition-stats/, so each must be a reason the
+ * feed has actually recorded, and no code may answer to two entries. */
+const rulebooks = new Map((await loadDir('reference')).map((entry) => [entry.data.sourceId, entry.data]));
+const feedReasons = new Set((ijfShape?.penalties ?? []).map((row) => row.reason).filter(Boolean));
+const claimedCodes = new Map();
+for (const p of penalties) {
+  const where = `penalties/${p.name}`;
+  if (!validatePenalty(p.data)) { report(where, validatePenalty); continue; }
+  if (!/^[a-z0-9]+(-[a-z0-9]+)*\.json$/.test(p.name)) problems.push(`${where}: filename must be lowercase with hyphens`);
+  const rulebook = rulebooks.get(p.data.rule.sourceId);
+  if (!rulebook) {
+    problems.push(`${where}: rule cites "${p.data.rule.sourceId}", which no reference/ record declares`);
+  } else {
+    const listed = new Set((rulebook.articlesCited ?? []).map((article) => article.article));
+    for (const article of p.data.rule.articles) {
+      if (!listed.has(article)) problems.push(`${where}: article ${article} is not in reference/${p.data.rule.sourceId}.json's articlesCited`);
+    }
+  }
+  for (const slug of p.data.techniques) {
+    if (!slugs.has(slug)) problems.push(`${where}: unknown technique "${slug}"`);
+  }
+  for (const code of p.data.ijfCodes) {
+    if (claimedCodes.has(code)) problems.push(`${where}: IJF code "${code}" is already answered by ${claimedCodes.get(code)}`);
+    claimedCodes.set(code, where);
+    if (ijfShape && !feedReasons.has(code)) problems.push(`${where}: IJF code "${code}" appears in no penalty in competition-stats/ijf-contest-shape.json`);
+  }
+}
+
 /* The Kodokan's published definitions, kept so that a name in this book can be
  * checked against the Kodokan's own without opening the PDF. The book leads
  * with the name a dojo uses, so where the two differ the technique carries the
@@ -1369,7 +1402,7 @@ if (ijfShape && ijfTiers) {
  * transcribed federation text, video titles and link titles are untouched.
  * The allowlist is for genuine acronyms and initialisms, never for emphasis. */
 const PROSE_KEYS = new Set(['about', 'described', 'receiving', 'viNotes', 'keyPoints',
-  'bannedNote', 'meaning', 'summary', 'statusNote', 'prose', 'steps', 'checklist', 'note']);
+  'bannedNote', 'meaning', 'summary', 'statusNote', 'prose', 'steps', 'checklist', 'note', 'watchFor']);
 const CAPS_ALLOWED = new Set(['IJF', 'BJA', 'BJC', 'BJJ', 'BSJA', 'MEXT', 'RNC',
   'IPA', 'IBSA', 'RFEJYDA', 'USA', 'NGB', 'EJU', 'AJA', 'UKS', 'JSON']);
 function sweepCaps(node, where, inProse) {
@@ -1390,7 +1423,7 @@ function sweepCaps(node, where, inProse) {
 }
 for (const [dir, entries] of [['techniques', techniques], ['skills', skills],
   ['sequences', sequences], ['guides', guides], ['exams', exams], ['kata', kata],
-  ['grading-schemes', schemes], ['glossary', glossary]]) {
+  ['grading-schemes', schemes], ['glossary', glossary], ['penalties', penalties]]) {
   for (const entry of entries) sweepCaps(entry.data, `${dir}/${entry.name}`, false);
 }
 for (const perspective of perspectives) {
@@ -1486,6 +1519,10 @@ console.log(`Videos: ${withVideos.reduce((n, [, v]) => n + v.length, 0)} across 
 console.log(`Reference links: ${linkCount} across techniques and grades.`);
 console.log(`Channels: ${channels.length} listed, none ranked.`);
 console.log(`Glossary: ${glossary.length} terms.`);
+if (penalties.length > 0) {
+  console.log(`Penalties: ${penalties.length} entries answering ${claimedCodes.size} of the ${feedReasons.size} reason codes in the IJF feed; `
+    + `${(ijfShape?.penalty_examples ?? []).length} penalty clip(s).`);
+}
 if (organisations.length > 0) {
   const onTechniques = perspectives.filter((p) => p.type === 'techniques').length;
   const onExams = perspectives.filter((p) => p.type === 'exams').length;
@@ -1517,4 +1554,4 @@ if (kodokanRef) {
   console.log(`Kodokan definitions: ${kodokanRef.techniques.length} techniques and ${kodokanRef.groups.length} groups `
     + `from the ${kodokanRef.source.issued} document; ${named} technique(s) where the Kodokan's name is not the one this book leads with.`);
 }
-console.log(`Validated ${techniques.length} techniques, ${skills.length} skills, ${grips.length} grips, ${kata.length} kata, ${sequences.length} sequences, ${guides.length} guides, ${exams.length} exams, ${schemes.length} schemes, ${channels.length} channels and ${glossary.length} glossary terms; all checks passed.`);
+console.log(`Validated ${techniques.length} techniques, ${skills.length} skills, ${grips.length} grips, ${kata.length} kata, ${sequences.length} sequences, ${guides.length} guides, ${exams.length} exams, ${schemes.length} schemes, ${channels.length} channels, ${glossary.length} glossary terms and ${penalties.length} penalties; all checks passed.`);

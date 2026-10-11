@@ -259,6 +259,36 @@
         "required": ["technique", "score", "sex", "weight", "age", "year", "contest", "competition", "round", "tier", "platform", "id", "seconds"],
         "additionalProperties": false
       }
+    },
+    "penalty_examples": {
+      "description": "One penalty, as a clip of the referee's call: up to two per IJF reason code per sex, across every weight class, because a rule does not change with the division. Only contests refereed under the CURRENT edition of the IJF refereeing rules are harvested, since a penalty from an older edition can show something the rules now treat differently. Ranked watchable first, then the deepest tier and round, then the most recent. Nobody is named: the athlete on a shido event is not reliable, and the clip shows what was done. Optional until the next regeneration writes it.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "reason": { "type": "string", "pattern": "^[a-z0-9_-]+$", "description": "The IJF's own code for what the penalty was given for, as in `penalties`. The join to an entry in penalties/, whose ijfCodes name it." },
+          "kind": { "enum": ["shido", "third-shido", "hansoku-make"] },
+          "minute": { "$ref": "#/definitions/minute" },
+          "sex": { "$ref": "#/definitions/sex" },
+          "weight": { "$ref": "#/definitions/weight" },
+          "age": { "$ref": "#/definitions/age" },
+          "year": { "$ref": "#/definitions/year" },
+          "contest": { "type": "string", "minLength": 1, "description": "The IJF's contest_code_long, as on `examples`." },
+          "competition": { "type": ["string", "null"], "minLength": 1 },
+          "round": { "$ref": "#/definitions/round" },
+          "tier": { "$ref": "#/definitions/tier" },
+          "platform": { "type": "string", "minLength": 1, "description": "The IJF's own code: yt for YouTube, yawebtv for its own player." },
+          "id": { "type": "string", "minLength": 1 },
+          "seconds": {
+            "type": "integer",
+            "minimum": 0,
+            "description": "Where the referee's CALL sits in the recording, as media start + time_real, with no lead-in. How long before the call the offence begins depends on the offence, so the lead-in is the clip field of the penalty's entry in penalties/, not a figure the importer guesses. Not yet verified against footage."
+          },
+          "rules": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$", "description": "The reference/ record of the rulebook edition the contest was refereed under, so a reader of the file can drop clips a newer edition has made stale without waiting for a regeneration." }
+        },
+        "required": ["reason", "kind", "minute", "sex", "weight", "age", "year", "contest", "competition", "round", "tier", "platform", "id", "seconds", "rules"],
+        "additionalProperties": false
+      }
     }
   },
   "required": ["generated", "source", "coverage", "rounds", "conversion", "outcomes", "penalties", "countries", "first_score", "response", "shido_response", "trailing", "examples"],

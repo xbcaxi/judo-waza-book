@@ -1,0 +1,13 @@
+{
+  "name": { "en": "Stepping out of the contest area" },
+  "kind": "shido",
+  "ijfCodes": ["outside_contest_area"],
+  "summary": { "en": "Leaving the contest area on purpose. The rules count it as a lack of combativity, and it draws a shido." },
+  "about": { "en": "Stepping out of the contest area on purpose is a lack of combativity and draws a shido. Being thrown or forced out is a different matter, and the rules treat forcing an opponent out as an offence of its own." },
+  "rule": { "sourceId": "ijf-sor-2026", "articles": ["18.1.1"] },
+  "techniques": [],
+  "clip": {
+    "leadSeconds": 5,
+    "watchFor": { "en": "The feet at the edge of the area. Watch whether the step out comes from the judoka's own movement, with no throw or push behind it." }
+  }
+}

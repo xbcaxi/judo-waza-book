@@ -1,0 +1,13 @@
+{
+  "name": { "en": "Diving onto the head" },
+  "kind": "hansoku-make",
+  "ijfCodes": ["head_dive"],
+  "summary": { "en": "Diving forward onto the head while throwing. It is a direct hansoku-make, and the contest is lost." },
+  "about": { "en": "Diving forward onto the head to perform or force through a throw is a direct hansoku-make, whether the throw comes off or only gets as far as the attempt. The penalty is for the dive, and the throw itself stays legal." },
+  "rule": { "sourceId": "ijf-sor-2026", "articles": ["18.2.1"] },
+  "techniques": ["uchi-mata", "harai-goshi", "seoi-nage", "tai-otoshi", "tsuri-goshi", "kata-guruma"],
+  "clip": {
+    "leadSeconds": 4,
+    "watchFor": { "en": "The thrower's head as the throw finishes. Watch whether it reaches the mat first and takes the thrower's weight before the opponent lands." }
+  }
+}
