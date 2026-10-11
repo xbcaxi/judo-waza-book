@@ -5,6 +5,7 @@
   "summary": { "en": "An attack made to be seen attacking rather than to throw. The rules count it as a lack of combativity, and it draws a shido." },
   "about": { "en": "An attack that has the shape of a throw without being an attempt at one is a false attack. The rules treat it as a lack of combativity, the same group as a defensive posture or a long stretch with no attack, and give a shido." },
   "rule": { "sourceId": "ijf-sor-2026", "articles": ["18.1.1"] },
+  "sameUnder": [],
   "techniques": [],
   "clip": {
     "leadSeconds": 6,

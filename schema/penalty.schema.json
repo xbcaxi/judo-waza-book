@@ -51,6 +51,14 @@
         }
       ]
     },
+    "sameUnder": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "description": "Older rulebook editions, by reference/ record, under which this rule was the same, so a clip refereed under one of them can be shown. Empty until somebody has compared the editions; never filled on the strength of the counts alone."
+    },
     "techniques": {
       "type": "array",
       "items": {
@@ -99,6 +107,7 @@
     "summary",
     "about",
     "rule",
+    "sameUnder",
     "techniques",
     "clip"
   ],

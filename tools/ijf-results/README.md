@@ -91,10 +91,13 @@ penalty endings and 38. Direct hansoku-make is also flagged on the contest
 itself as `hsk_w` / `hsk_b`.
 
 **Penalty clips.** `penalty_examples` keeps up to two clips per IJF reason
-code per sex, from contests refereed under the CURRENT rulebook edition only:
-the `reference/ijf-sor-*.json` record with the latest `effectiveFrom`, judged
-against the date each competition ended. Adding the next edition's record
-retires every older clip on the following run. `seconds` places the referee's
+code per sex per rulebook edition. Each is tagged with the edition that
+governed its contest: the latest `reference/ijf-sor-*.json` record in force on
+the day the competition ended. A contest no recorded edition covers gives no
+clip, so recording an older edition is what makes its footage usable, and a
+page shows an older edition's clip only where the penalty entry's `sameUnder`
+names it. Pre-2020 contests give none, because their penalty tagging is not
+reliable enough to say what a clip shows. `seconds` places the referee's
 call, media start plus `time_real`, with no lead-in, because how long before
 the call the offence begins depends on the offence; that figure is the `clip`
 field of the reason's entry in `penalties/`. The placement has not yet been

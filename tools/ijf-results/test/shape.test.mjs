@@ -318,7 +318,7 @@ test('a penalty under the current rules yields a clip of the call', () => {
   }]);
 });
 
-test('no penalty clip without the current rules, footage, a wall clock or a real reason', () => {
+test('no penalty clip without a dated edition, footage, a wall clock or a real reason', () => {
   const shape = new ContestShape();
   const media = { media: 'yt*AbC123*00:00:00', contest_code_long: 'c1' };
   shape.add({ contest: contest(media), slice, events: [], penalties: [penalty('false_attack')], decision: null, resolve });
@@ -344,4 +344,19 @@ test('penalty clips pair per reason and sex across weight classes', () => {
   const clips = shape.result().penalty_examples;
   assert.equal(clips.length, 2);
   assert.deepEqual(clips.map((clip) => clip.competition).sort(), ['One', 'Two']);
+});
+
+/* Free footage from an older edition must not push out a clip refereed under
+ * the current one: each edition fills its own pair. */
+test('each rulebook edition keeps its own penalty clips', () => {
+  const shape = new ContestShape();
+  const add = (code, platform, rules) => shape.add({
+    contest: contest({ media: `${platform}*v*00:00:00`, contest_code_long: code, competition_name: code }),
+    slice, events: [], penalties: [penalty('false_attack')], decision: null, resolve, rules,
+  });
+  add('old-a', 'yt', 'ijf-sor-2018');
+  add('old-b', 'yt', 'ijf-sor-2018');
+  add('new-a', 'yawebtv', 'ijf-sor-2026');
+  const clips = shape.result().penalty_examples;
+  assert.deepEqual(clips.map((clip) => clip.rules).sort(), ['ijf-sor-2018', 'ijf-sor-2018', 'ijf-sor-2026']);
 });

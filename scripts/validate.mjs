@@ -1180,6 +1180,15 @@ for (const p of penalties) {
       if (!listed.has(article)) problems.push(`${where}: article ${article} is not in reference/${p.data.rule.sourceId}.json's articlesCited`);
     }
   }
+  /* An older edition said to carry the same rule has to be recorded, and older:
+   * it is what lets a clip refereed under it onto the page. */
+  for (const older of p.data.sameUnder) {
+    const record = rulebooks.get(older);
+    if (!record) problems.push(`${where}: sameUnder names "${older}", which no reference/ record declares`);
+    else if (!record.effectiveFrom || !rulebook?.effectiveFrom || record.effectiveFrom >= rulebook.effectiveFrom) {
+      problems.push(`${where}: sameUnder names "${older}", which is not an older edition than ${p.data.rule.sourceId}`);
+    }
+  }
   for (const slug of p.data.techniques) {
     if (!slugs.has(slug)) problems.push(`${where}: unknown technique "${slug}"`);
   }

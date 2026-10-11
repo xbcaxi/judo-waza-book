@@ -56,20 +56,22 @@ if (!rawList) {
     + 'into each contest file. Re-run the crawl to refresh it.');
 }
 
-/* The current edition of the IJF refereeing rules: the reference/ record with
- * the latest effectiveFrom. Penalty clips are kept only from contests it
- * governed, so adding the next edition's record is what retires the old ones. */
+/* Every edition of the IJF refereeing rules recorded in reference/. Each
+ * penalty clip is tagged with the edition that governed its contest, and a
+ * contest no recorded edition covers gives none, so recording an older
+ * edition is what makes its footage usable. */
 const editions = [];
 for (const file of await readdir(path.join(root, 'reference'))) {
   if (!file.startsWith('ijf-sor-') || !file.endsWith('.json')) continue;
   const record = await loadJson(path.join(root, 'reference', file));
   if (record.sourceId && record.effectiveFrom) editions.push(record);
 }
-editions.sort((a, b) => (a.effectiveFrom < b.effectiveFrom ? 1 : -1));
-const rules = editions[0] ? { sourceId: editions[0].sourceId, effectiveFrom: editions[0].effectiveFrom } : null;
-if (!rules) console.warn('No reference/ijf-sor-*.json record carries an effectiveFrom; no penalty clips will be kept.');
+if (editions.length === 0) console.warn('No reference/ijf-sor-*.json record carries an effectiveFrom; no penalty clips will be kept.');
 
-const result = aggregate(records, { map, tiers, competitions, permissive: options.permissive, rules });
+const result = aggregate(records, {
+  map, tiers, competitions, permissive: options.permissive,
+  editions: editions.map(({ sourceId, effectiveFrom }) => ({ sourceId, effectiveFrom })),
+});
 
 /* Everything the maintainer should hear about, whether or not it is fatal. */
 if (result.unmatchedCompetitions.size > 0) {
@@ -145,4 +147,4 @@ console.log(`Wrote ${path.relative(root, options['out-shape'])}: `
   + `${shape.rounds.length} round rows, ${shape.conversion.length} conversion rows, `
   + `${shape.outcomes.length} outcome rows, ${shape.penalties.length} penalty rows, `
   + `${shape.countries.length} country rows, ${shape.shido_response.length} shido-response rows, `
-  + `${shape.examples.length} clip(s), ${shape.penalty_examples.length} penalty clip(s) under ${rules?.sourceId ?? 'no edition'}.`);
+  + `${shape.examples.length} clip(s), ${shape.penalty_examples.length} penalty clip(s) across ${editions.length} rulebook edition(s).`);

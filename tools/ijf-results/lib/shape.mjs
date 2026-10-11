@@ -38,7 +38,7 @@ const countryKey = (r) => [r.sex, r.age, r.year, r.country, r.technique ?? UNMAP
 const firstScoreKey = (r) => [sliceOf(r), r.minute].join('|');
 const outcomeKey = (r) => sliceOf(r);
 const exampleKey = (r) => [r.technique ?? UNMAPPED, r.sex, r.weight, r.contest, r.seconds].join('|');
-const penaltyExampleKey = (r) => [r.reason, r.sex, r.contest, r.seconds].join('|');
+const penaltyExampleKey = (r) => [r.reason, r.sex, r.rules, r.contest, r.seconds].join('|');
 const responseKey = (r) => [sliceOf(r), r.technique ?? UNMAPPED].join('|');
 const trailingKey = (r) => [sliceOf(r), r.minute, r.technique ?? UNMAPPED].join('|');
 const shidoKey = (r) => [sliceOf(r), r.technique ?? UNMAPPED].join('|');
@@ -161,14 +161,15 @@ const rankedBy = (rank) => (a, b) => {
 };
 const better = rankedBy(clipRank);
 
-/* Penalty clips are kept per REASON AND SEX, not per weight class: a rule does
- * not change with the division, so a reader is shown the offence rather than
- * their own category, and two clips per reason is already more footage than
- * the tail of the reason list will ever fill.
+/* Penalty clips are kept per REASON, SEX AND RULEBOOK EDITION, not per weight
+ * class: a rule does not change with the division, so a reader is shown the
+ * offence rather than their own category. The edition is part of the slot so
+ * that free footage from an older edition never displaces a clip refereed
+ * under the current one, or the reverse. Which older editions a page may show
+ * is the penalty entry's call, in its `sameUnder`, not the importer's.
  *
  * Ranked as a technique clip is, less the score: watchable first, then the
- * deepest tier and round, then the most recent. Only contests refereed under
- * the current rulebook edition reach this at all; see `rules` on add(). */
+ * deepest tier and round, then the most recent. */
 const penaltyClipRank = (clip) => [
   clip.platform === 'yt' ? 0 : 1,
   TIER_DEPTH.get(clip.tier) ?? 9,
@@ -350,11 +351,11 @@ export class ContestShape {
       platform: media.platform,
       id: media.id,
       seconds: Math.max(0, Math.round(media.start + penalty.timeReal)),
-      /* The rulebook edition the contest was refereed under, so a clip from
-       * before the next edition can be told apart without a regeneration. */
+      /* The rulebook edition the contest was refereed under, which is what a
+       * page checks against the penalty entry's current rule and sameUnder. */
       rules,
     };
-    const slot = `${row.reason}|${row.sex}`;
+    const slot = `${row.reason}|${row.sex}|${row.rules}`;
     const held = this.penaltySlots.get(slot) ?? [];
     /* One event can carry the reason twice; the same moment is one clip. */
     if (held.some((clip) => penaltyExampleKey(clip) === penaltyExampleKey(row))) return;
@@ -368,8 +369,9 @@ export class ContestShape {
    * returned, `decision` what decideByPenalty made of them, and `resolve`
    * turns an IJF technique name into this reference's slug (or null).
    * `rules` is the sourceId of the rulebook edition the contest was refereed
-   * under when that is the CURRENT edition, and null otherwise: penalty clips
-   * are kept only from contests the rules a reader competes under governed.
+   * under, or null where no recorded edition covers it, in which case it
+   * gives no penalty clip: a clip that cannot say which rules it shows cannot
+   * be checked against them.
    */
   add({ contest, slice, events, penalties, decision, resolve, rules = null }) {
     const round = roundGroup(contest?.round_name);
