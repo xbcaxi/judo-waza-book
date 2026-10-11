@@ -103,6 +103,17 @@ the call the offence begins depends on the offence; that figure is the `clip`
 field of the reason's entry in `penalties/`. The placement has not yet been
 checked against footage the way the technique clips were. Nobody is named.
 
+**Which older editions a penalty may borrow footage from.** A penalty entry's
+`sameUnder` lets in clips refereed under an older rulebook edition. Two things
+must agree. The rule text, read from each edition's own document, has to say
+the same thing. And the data must not contradict it: `npm run
+penalties:editions` lists every reason's rate per thousand tagged contests
+under each recorded edition, and the validator rejects a `sameUnder` across
+any boundary where the rate halves or doubles, or where either side has fewer
+than 30 calls. The data can only veto. A reason called at a steady rate under
+a reworded rule is still a changed rule. Where the two do not agree, the page
+shows the written rule and no older clip, and says why.
+
 **Cancellations.** A downgrade on review is ONE event carrying both the
 cancelled score and the technique that replaced it, in the surviving score's
 group (`Cancel Waza-ari` and `O-soto-gaeshi`, both "Yuko"). Cancel-named

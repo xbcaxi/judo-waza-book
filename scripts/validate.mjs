@@ -28,6 +28,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseVideoUrl, entryFor } from './video-url.mjs';
 import { knownTiers } from '../tools/ijf-results/lib/tiers.mjs';
+import { breaksBetween, ratesByEdition } from '../tools/ijf-results/lib/editions.mjs';
 
 // The one dependency. A fresh clone that has not run `npm ci` should be told
 // so, rather than shown a module resolution stack trace.
@@ -1167,6 +1168,10 @@ for (const g of guides) {
 const rulebooks = new Map((await loadDir('reference')).map((entry) => [entry.data.sourceId, entry.data]));
 const feedReasons = new Set((ijfShape?.penalties ?? []).map((row) => row.reason).filter(Boolean));
 const claimedCodes = new Map();
+const editions = [...rulebooks.values()]
+  .filter((record) => record.sourceId?.startsWith('ijf-sor-') && record.effectiveFrom)
+  .map(({ sourceId, effectiveFrom }) => ({ sourceId, effectiveFrom }));
+const editionRate = ratesByEdition({ frequency: ijfFrequency, shape: ijfShape, editions });
 for (const p of penalties) {
   const where = `penalties/${p.name}`;
   if (!validatePenalty(p.data)) { report(where, validatePenalty); continue; }
@@ -1187,6 +1192,17 @@ for (const p of penalties) {
     if (!record) problems.push(`${where}: sameUnder names "${older}", which no reference/ record declares`);
     else if (!record.effectiveFrom || !rulebook?.effectiveFrom || record.effectiveFrom >= rulebook.effectiveFrom) {
       problems.push(`${where}: sameUnder names "${older}", which is not an older edition than ${p.data.rule.sourceId}`);
+    } else {
+      /* The data's veto: a reason called at half or double the rate across a
+       * boundary was not called the same way on both sides of it. */
+      for (const code of p.data.ijfCodes) {
+        for (const found of breaksBetween(code, older, p.data.rule.sourceId, { rate: editionRate, editions })) {
+          problems.push(found.thin
+            ? `${where}: sameUnder names "${older}", but "${code}" has too few calls between ${found.from} and ${found.to} for the data to vouch for it`
+            : `${where}: sameUnder names "${older}", but "${code}" went from ${found.before.toFixed(1)} `
+              + `to ${found.after.toFixed(1)} per 1000 tagged contests between ${found.from} and ${found.to}`);
+        }
+      }
     }
   }
   for (const slug of p.data.techniques) {
