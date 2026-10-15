@@ -89,7 +89,10 @@ approves anything:
 - **A title score** from `title_rules.py`, from -1 to 1, with its reasons:
   both names in the title, and in which order; words such as "combination"
   or "counter"; and words that point elsewhere, such as kata, contest
-  highlights or another sport.
+  highlights or another sport. A video from a source the book already uses
+  (a channel in `video-channels/`, a provider in `video-providers/`, a
+  channel `config.yaml` indexes, or the channel of a video already on a
+  record) gains 0.2.
 - **A label from Claude**, from `labels` in the database: `yes`, `maybe` or
   `no` and a short reason. The page leads with `yes`, and holds the edges
   whose every open candidate is `no` in a view of their own.

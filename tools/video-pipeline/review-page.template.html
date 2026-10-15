@@ -334,14 +334,14 @@ main { display: grid; gap: 14px; margin-top: 14px; }
     meta.appendChild(el("span", c.s >= 0.6 ? "strong" : null, "score " + c.s.toFixed(2)));
     meta.appendChild(el("span", null, c.m === "partial" ? "one name in description" : c.m === "title" ? "both names in title" : c.m === "manual" ? "shortlist" : "search"));
     if (c.views) meta.appendChild(el("span", null, c.views >= 1000 ? Math.round(c.views / 1000) + "k views" : c.views + " views"));
-    if (c.h != null) meta.appendChild(el("span", c.h >= 0.4 ? "strong" : c.h < 0 ? "weak" : null, "title " + (c.h > 0 ? "+" : "") + c.h.toFixed(1)));
+    if (c.h != null) meta.appendChild(el("span", c.h >= 0.4 ? "strong" : c.h < 0 ? "weak" : null, "rules " + (c.h > 0 ? "+" : "") + c.h.toFixed(1)));
     box.appendChild(meta);
     var ai = el("div", "ai" + (c.ai ? " " + c.ai : ""));
     if (c.ai) {
       ai.appendChild(el("b", null, { yes: "Likely", maybe: "Unsure", no: "Likely not" }[c.ai]));
       if (c.air) ai.appendChild(document.createTextNode(": " + c.air));
     }
-    if (c.hw && c.hw.length) ai.appendChild(document.createTextNode((c.ai ? ". " : "") + "Title: " + c.hw.join(", ")));
+    if (c.hw && c.hw.length) ai.appendChild(document.createTextNode((c.ai ? ". " : "") + "Rules: " + c.hw.join(", ")));
     if (ai.childNodes.length) box.appendChild(ai);
     if (edge.rev && (c.rev_order || cur.better)) {
       var flag = el("div", "flag");

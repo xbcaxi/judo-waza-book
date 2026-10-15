@@ -17,7 +17,7 @@ import sys
 from datetime import datetime, timezone
 
 from common import HERE, flatten, load_config, open_db, repo_path, slug_tokens, techniques
-from title_rules import edge_tokens, first_at, title_signal
+from title_rules import edge_tokens, first_at, source_signal, title_signal
 
 TOP = 3
 VERDICTS = ("yes", "maybe", "no")
@@ -48,14 +48,14 @@ def page_edges(con):
         "SELECT edge_slug,video_id,verdict,reason FROM labels")}
     rows = con.execute(
         """
-        SELECT e.slug,e.src,e.dst,e.type,e.file,e.priority,c.video_id,v.channel_name,v.title,
+        SELECT e.slug,e.src,e.dst,e.type,e.file,e.priority,c.video_id,v.channel_id,v.channel_name,v.title,
                v.description,v.duration_s,v.views,c.score,c.method,c.start_s,c.status,c.reviewer
         FROM candidates c JOIN edges e ON e.slug=c.edge_slug JOIN videos v ON v.video_id=c.video_id
         WHERE c.method<>'existing' AND (e.resolves_to IS NULL OR e.resolves_to='')
         ORDER BY e.slug, c.status='approved' DESC, c.score DESC
         """).fetchall()
     edges = {}
-    for (slug, src, dst, etype, file, prio, vid, ch, title, desc, dur, views, score, method,
+    for (slug, src, dst, etype, file, prio, vid, ch_id, ch, title, desc, dur, views, score, method,
          start, status, reviewer) in rows:
         grip = src.startswith("grip:")
         s_key = src[5:] if grip else src
@@ -83,6 +83,9 @@ def page_edges(con):
         ps = first_at(src_toks, flat, bounds) if src_toks else -1
         pd = first_at(dst_toks, flat, bounds)
         hs, hwhy = title_signal(src_toks, dst_toks, etype, title, grip=grip)
+        if source_signal(con, ch_id, ch):
+            hs = min(1.0, round(hs + source_signal(con, ch_id, ch), 2))
+            hwhy = hwhy + ["known source"]
         verdict, reason = labels.get((slug, vid), (None, None))
         e["c"].append({
             "v": vid, "t": title, "ch": ch, "d": dur or 0, "views": views or 0,

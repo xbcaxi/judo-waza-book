@@ -5,9 +5,13 @@ It sorts, it never decides. A reviewer still approves every video, and the
 words below are what titles in the crawl actually use; add to them as titles
 turn up that they miss.
 """
+import glob
+import json
+import os
 import re
+from functools import lru_cache
 
-from common import contains, flatten
+from common import contains, flatten, load_config, norm, repo_path
 
 # Words that say the video is about a pairing rather than one throw.
 SEQUENCE_WORDS = [
@@ -91,3 +95,37 @@ def edge_tokens(src, dst, tokens_for):
     grip = src.startswith("grip:")
     return ([] if grip else tokens_for(src)), tokens_for(dst), grip
 
+
+
+KNOWN_SOURCE = 0.2
+
+
+@lru_cache(maxsize=None)
+def known_sources(con):
+    """Channel ids and normalised names of the sources the book already uses:
+    the channels a record's video comes from, video-channels/, the
+    providers in video-providers/ and the channels config.yaml indexes.
+    Names catch the providers whose videos were recorded without a channel id."""
+    ids, names = set(), set()
+    ids.update(r[0] for r in con.execute(
+        "SELECT DISTINCT v.channel_id FROM technique_videos t JOIN videos v USING(video_id) "
+        "WHERE v.channel_id IS NOT NULL"))
+    ids.update(ch["channel_id"] for ch in load_config().get("channels", []))
+    for folder in ("video-channels", "video-providers"):
+        for path in glob.glob(repo_path(folder, "*.json")):
+            with open(path, encoding="utf-8") as f:
+                d = json.load(f)
+            names.add(norm(d["name"]))
+            names.add(norm(os.path.basename(path)[:-5]))
+            m = re.search(r"/channel/(UC[\w-]+)", d.get("url", ""))
+            if m:
+                ids.add(m.group(1))
+    return frozenset(ids), frozenset(names)
+
+
+def source_signal(con, channel_id, channel_name):
+    """KNOWN_SOURCE where the channel is one the book already uses, else 0."""
+    ids, names = known_sources(con)
+    if channel_id in ids or norm(channel_name or "") in names:
+        return KNOWN_SOURCE
+    return 0.0
