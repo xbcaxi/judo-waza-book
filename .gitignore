@@ -25,6 +25,12 @@ tools/video-pipeline/candidates.sqlite
 tools/video-pipeline/edges.csv
 tools/video-pipeline/review.csv
 tools/video-pipeline/approved.json
+tools/video-pipeline/candidates.before.sqlite
+tools/video-pipeline/review-page.html
+tools/video-pipeline/daily.log
+tools/video-pipeline/published.flag
+tools/video-pipeline/pending.json
+tools/video-pipeline/labels.json
 tools/video-pipeline/__pycache__/
 # The pipeline's YouTube API key, one per person; the environment wins over it.
 tools/video-pipeline/.env

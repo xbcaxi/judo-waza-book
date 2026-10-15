@@ -80,6 +80,46 @@ first thirty edges with candidate URLs, kept as they were written. The seeder
 translates their names and kinds to the repository's, and reports any row
 whose edge has no sequence file rather than inventing one.
 
+## The review page
+
+`review_page.py build` writes `review-page.html`, the phone page a reviewer
+approves and rejects on. Each candidate carries two reads of it, and neither
+approves anything:
+
+- **A title score** from `title_rules.py`, from -1 to 1, with its reasons:
+  both names in the title, and in which order; words such as "combination"
+  or "counter"; and words that point elsewhere, such as kata, contest
+  highlights or another sport.
+- **A label from Claude**, from `labels` in the database: `yes`, `maybe` or
+  `no` and a short reason. The page leads with `yes`, and holds the edges
+  whose every open candidate is `no` in a view of their own.
+
+To label, `review_page.py unlabelled pending.json` lists the candidates on
+the page without one, and `review_page.py labels labels.json` stores
+`[{edge, video, verdict, reason}]`. A label reads the title, channel,
+duration and description, and answers whether the video shows this edge:
+
+- `yes`: it demonstrates this pair as one sequence, the first technique
+  leading into the second, or for a counter the second answering the
+  first. A combination demo naming both, or a clip titled with both and a
+  link word, is a yes.
+- `maybe`: it could hold the sequence but the text does not say so: a
+  collection of combinations or counters for one of the techniques, a
+  long class, contest footage naming both, or a title in a language that
+  names only one.
+- `no`: one technique on its own, a different pair, the pair the other
+  way round when the order matters, kata, highlights, another sport, or
+  nothing to do with either technique.
+
+The reason is a few plain words a reviewer reads in a glance: "combination
+demo, both named in order", "uchi-mata on its own".
+
+`daily.ps1` runs the collection and rebuilds the page once a day from Task
+Scheduler, keeping `candidates.before.sqlite` until the page is next
+published so that everything found since stays marked new. A Claude Code
+session then labels what is unlabelled, rebuilds, republishes the page and
+creates `published.flag`, which tells the next run to take a fresh copy.
+
 ## Known gaps
 
 - Gonosen-no-kata recordings cover twelve counters in one video and need a
