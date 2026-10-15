@@ -83,8 +83,7 @@ h1 { font: 600 20px/1.1 var(--cond); margin: 0; letter-spacing: .01em; }
 .progress { font: 500 13px/1 var(--mono); color: var(--muted); font-variant-numeric: tabular-nums; }
 .meter { height: 4px; background: var(--chip); border-radius: 2px; overflow: hidden; }
 .meter i { display: block; height: 100%; background: var(--accent); width: 0; transition: width .3s; }
-.chips { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; }
-.chips::-webkit-scrollbar { display: none; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
 .chip {
   flex: none; border: 1px solid var(--line); background: var(--surface);
   border-radius: 999px; padding: 5px 11px; font-size: 13px; white-space: nowrap;
