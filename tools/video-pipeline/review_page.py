@@ -16,27 +16,14 @@ import sqlite3
 import sys
 from datetime import datetime, timezone
 
-from common import HERE, contains, flatten, load_config, norm, open_db, repo_path, slug_tokens, techniques
-from title_rules import edge_tokens, title_signal
+from common import HERE, flatten, load_config, open_db, repo_path, slug_tokens, techniques
+from title_rules import edge_tokens, first_at, title_signal
 
 TOP = 3
 VERDICTS = ("yes", "maybe", "no")
 TEMPLATE = os.path.join(HERE, "review-page.template.html")
 OUT = os.path.join(HERE, "review-page.html")
 BEFORE = os.path.join(HERE, "candidates.before.sqlite")
-
-
-def first_at(token, flat, bounds):
-    if not token:
-        return -1
-    start = 0
-    while True:
-        i = flat.find(token, start)
-        if i < 0:
-            return -1
-        if contains(token, flat[i:], bounds[i:]):
-            return i
-        start = i + 1
 
 
 def ensure_labels(con):
@@ -92,15 +79,17 @@ def page_edges(con):
         if len(e["c"]) >= TOP:
             continue
         flat, bounds = flatten(title)
-        ps = first_at(norm(s_key), flat, bounds)
-        pd = first_at(norm(dst), flat, bounds)
-        hs, hwhy = title_signal(*edge_tokens(src, dst, slug_tokens)[:2], etype, title, grip=grip)
+        src_toks, dst_toks, _ = edge_tokens(src, dst, slug_tokens)
+        ps = first_at(src_toks, flat, bounds) if src_toks else -1
+        pd = first_at(dst_toks, flat, bounds)
+        hs, hwhy = title_signal(src_toks, dst_toks, etype, title, grip=grip)
         verdict, reason = labels.get((slug, vid), (None, None))
         e["c"].append({
             "v": vid, "t": title, "ch": ch, "d": dur or 0, "views": views or 0,
             "s": round(score, 2), "m": method, "st": start or 0,
             "status": status, "rev": reviewer or "",
-            "rev_order": ps >= 0 and pd >= 0 and pd < ps and not grip,
+            # A counter's title names the pair either way round, so order says nothing there.
+            "rev_order": ps >= 0 and pd >= 0 and pd < ps and not grip and etype != "counter",
             "new": f"{slug}|{vid}" not in seen,
             "h": hs, "hw": hwhy, "ai": verdict, "air": reason or "",
             "_desc": desc or "",

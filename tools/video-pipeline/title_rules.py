@@ -26,7 +26,8 @@ AGAINST = {
 }
 
 
-def _first(tokens, flat, bounds):
+def first_at(tokens, flat, bounds):
+    """Where the earliest of a technique's names starts in a flattened title, or -1."""
     best = -1
     for t in tokens:
         start = 0
@@ -52,8 +53,8 @@ def title_signal(src_tokens, dst_tokens, kind, title, grip=False):
     for a grip edge src_tokens is empty and only the throw is looked for."""
     flat, bounds = flatten(title or "")
     low = (title or "").lower()
-    ps = _first(src_tokens, flat, bounds) if src_tokens else -1
-    pd = _first(dst_tokens, flat, bounds)
+    ps = first_at(src_tokens, flat, bounds) if src_tokens else -1
+    pd = first_at(dst_tokens, flat, bounds)
     score, why = 0.0, []
 
     if grip:
@@ -68,7 +69,8 @@ def title_signal(src_tokens, dst_tokens, kind, title, grip=False):
         elif ps < pd:
             score += 0.5; why.append("both names, in order")
         else:
-            score += 0.1; why.append("both names, reversed")
+            # Most often a demo of the opposite edge, which the page offers to move it to.
+            score -= 0.4; why.append("both names, reversed")
     elif ps >= 0 or pd >= 0:
         score -= 0.2; why.append("one name only")
     else:
