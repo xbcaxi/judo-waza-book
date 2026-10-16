@@ -60,3 +60,15 @@ search_daily_budget: 90
 # seconds of footage and a long video needs a start time set on review.
 max_duration_seconds: 420
 min_score: 0.5
+
+# Channel ids for the video-channels/ files that hold a legacy /user/ URL,
+# looked up with channels.list forUsername on 2026-10-16. The review page
+# scores these as sources the book already uses; YouTube's channel names
+# differ from the files' names for most of them, so names alone miss them.
+known_channels:
+  - UCIekwUhNBYC2zHZOQE8qgOA   # british-judo: "British Judo"
+  - UCDsBN-oDHyFhI70ZaKdHKJA   # graeme-spinks: "Judo Life"
+  - UCtB1Pfqvl_ZeI-LftW5D-Qw   # judo-scotland: "JudoScotlandtv"
+  - UCJr_RJ2_VqiyTRy6abbo8hA   # komuro-koji: "KOMLOCK 柔道 JAPAN"
+  - UCdFj0qDqQrl_gLkf3CIsREw   # neil-adams: "Neil Adams Judo"
+  - UC70qwffU7qQvTVm26wziD8A   # shintoro-higashi: "Shintaro Higashi"

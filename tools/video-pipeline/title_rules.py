@@ -104,13 +104,15 @@ KNOWN_SOURCE = 0.2
 def known_sources(con):
     """Channel ids and normalised names of the sources the book already uses:
     the channels a record's video comes from, video-channels/, the
-    providers in video-providers/ and the channels config.yaml indexes.
+    providers in video-providers/, and the channels config.yaml indexes or
+    lists as known_channels.
     Names catch the providers whose videos were recorded without a channel id."""
     ids, names = set(), set()
     ids.update(r[0] for r in con.execute(
         "SELECT DISTINCT v.channel_id FROM technique_videos t JOIN videos v USING(video_id) "
         "WHERE v.channel_id IS NOT NULL"))
     ids.update(ch["channel_id"] for ch in load_config().get("channels", []))
+    ids.update(load_config().get("known_channels", []))
     for folder in ("video-channels", "video-providers"):
         for path in glob.glob(repo_path(folder, "*.json")):
             with open(path, encoding="utf-8") as f:
