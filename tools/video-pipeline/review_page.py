@@ -26,16 +26,8 @@ OUT = os.path.join(HERE, "review-page.html")
 BEFORE = os.path.join(HERE, "candidates.before.sqlite")
 
 
-def ensure_labels(con):
-    con.execute(
-        """CREATE TABLE IF NOT EXISTS labels(
-            edge_slug TEXT, video_id TEXT, verdict TEXT, reason TEXT, labelled_at TEXT,
-            PRIMARY KEY(edge_slug, video_id))""")
-
-
 def page_edges(con):
     """The edges on the page, each with its top candidates, sorted as shown."""
-    ensure_labels(con)
     tech = techniques()
     all_slugs = {r[0] for r in con.execute("SELECT slug FROM edges")}
     seen = set()
@@ -135,7 +127,6 @@ def unlabelled(con, path):
 
 
 def store_labels(con, path):
-    ensure_labels(con)
     with open(path, encoding="utf-8") as f:
         rows = json.load(f)
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
