@@ -171,6 +171,12 @@ def open_db(path):
             reviewer TEXT, reviewed_at TEXT,
             PRIMARY KEY(edge_slug, video_id));
         CREATE TABLE IF NOT EXISTS quota(day TEXT PRIMARY KEY, units INTEGER);
+        CREATE TABLE IF NOT EXISTS labels(
+            edge_slug TEXT, video_id TEXT, verdict TEXT, reason TEXT, labelled_at TEXT,
+            PRIMARY KEY(edge_slug, video_id));
+        CREATE TABLE IF NOT EXISTS searches(
+            edge_slug TEXT, query TEXT, searched_at TEXT,
+            PRIMARY KEY(edge_slug, query));
         """
     )
     return con
