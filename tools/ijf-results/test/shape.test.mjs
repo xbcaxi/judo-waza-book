@@ -298,3 +298,65 @@ test('one competition still fills the pair', () => {
   const { examples } = shape.result();
   assert.equal(examples.length, 2, 'no alternative, so the pair fills anyway');
 });
+
+/* One penalty as extractScoringEvents hands it over. */
+const penalty = (reason, { kind = 'shido', minute = '2', seconds = 70, timeReal = 95 } = {}) =>
+  ({ kind, actorId: 3, minute, seconds, reason, timeReal });
+
+/* The clip marks the referee's call with no lead-in, carries the edition it
+ * was refereed under, and names nobody. */
+test('a penalty under the current rules yields a clip of the call', () => {
+  const shape = new ContestShape();
+  shape.add({
+    contest: contest({ media: 'yawebtv*AbC123*00:00:08', contest_code_long: 'gp_x2026_w_0048_0001', competition_name: 'Somewhere Grand Prix 2026' }),
+    slice, events: [], penalties: [penalty('false_attack')], decision: null, resolve, rules: 'ijf-sor-2026',
+  });
+  assert.deepEqual(shape.result().penalty_examples, [{
+    reason: 'false_attack', kind: 'shido', minute: '2', sex: 'f', weight: '-48', age: 'senior', year: 2026,
+    contest: 'gp_x2026_w_0048_0001', competition: 'Somewhere Grand Prix 2026', round: 'preliminary',
+    tier: 'ijf-tour', platform: 'yawebtv', id: 'AbC123', seconds: 103, rules: 'ijf-sor-2026',
+  }]);
+});
+
+test('no penalty clip without a dated edition, footage, a wall clock or a real reason', () => {
+  const shape = new ContestShape();
+  const media = { media: 'yt*AbC123*00:00:00', contest_code_long: 'c1' };
+  shape.add({ contest: contest(media), slice, events: [], penalties: [penalty('false_attack')], decision: null, resolve });
+  shape.add({ contest: contest({ contest_code_long: 'c2' }), slice, events: [], penalties: [penalty('false_attack')], decision: null, resolve, rules: 'r' });
+  shape.add({ contest: contest(media), slice, events: [], penalties: [penalty('false_attack', { timeReal: null })], decision: null, resolve, rules: 'r' });
+  shape.add({ contest: contest(media), slice, events: [], penalties: [penalty('shido'), penalty('hsk', { kind: 'third-shido' })], decision: null, resolve, rules: 'r' });
+  assert.deepEqual(shape.result().penalty_examples, []);
+});
+
+/* Every weight class shares the slot, because the rule does not change with
+ * the division; the same moment logged twice is one clip. */
+test('penalty clips pair per reason and sex across weight classes', () => {
+  const shape = new ContestShape();
+  const add = (code, competition, weight) => shape.add({
+    contest: contest({ media: 'yt*v*00:00:00', contest_code_long: code, competition_name: competition }),
+    slice: { ...slice, weight }, events: [], penalties: [penalty('head_dive', { kind: 'hansoku-make' })],
+    decision: null, resolve, rules: 'r',
+  });
+  add('a', 'One', '-48');
+  add('a', 'One', '-48');
+  add('b', 'One', '-57');
+  add('c', 'Two', '-63');
+  const clips = shape.result().penalty_examples;
+  assert.equal(clips.length, 2);
+  assert.deepEqual(clips.map((clip) => clip.competition).sort(), ['One', 'Two']);
+});
+
+/* Free footage from an older edition must not push out a clip refereed under
+ * the current one: each edition fills its own pair. */
+test('each rulebook edition keeps its own penalty clips', () => {
+  const shape = new ContestShape();
+  const add = (code, platform, rules) => shape.add({
+    contest: contest({ media: `${platform}*v*00:00:00`, contest_code_long: code, competition_name: code }),
+    slice, events: [], penalties: [penalty('false_attack')], decision: null, resolve, rules,
+  });
+  add('old-a', 'yt', 'ijf-sor-2018');
+  add('old-b', 'yt', 'ijf-sor-2018');
+  add('new-a', 'yawebtv', 'ijf-sor-2026');
+  const clips = shape.result().penalty_examples;
+  assert.deepEqual(clips.map((clip) => clip.rules).sort(), ['ijf-sor-2018', 'ijf-sor-2018', 'ijf-sor-2026']);
+});

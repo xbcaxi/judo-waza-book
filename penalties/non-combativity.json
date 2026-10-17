@@ -1,0 +1,11 @@
+{
+  "name": { "en": "Non-combativity" },
+  "kind": "shido",
+  "ijfCodes": ["non_combativity"],
+  "summary": { "en": "Going too long without an attack. The referee gives a shido for the lack of combativity." },
+  "about": { "en": "Once conventional grips are taken, forty-five seconds without an attack is a lack of combativity and draws a shido. The penalty answers a stretch of the contest rather than a single action." },
+  "rule": { "sourceId": "ijf-sor-2026", "articles": ["18.1.1"] },
+  "sameUnder": [],
+  "techniques": [],
+  "clip": null
+}

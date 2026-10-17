@@ -15,6 +15,7 @@
   },
   "scripts": {
     "validate": "node scripts/validate.mjs",
+    "penalties:editions": "node scripts/penalty-editions.mjs",
     "video": "node scripts/video-url.mjs",
     "pronunciation": "node scripts/pronunciation-list.mjs",
     "pronunciation:audio": "node scripts/pronunciation-audio.mjs",

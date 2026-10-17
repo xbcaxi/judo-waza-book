@@ -45,9 +45,28 @@ function indexMap(map) {
  * FOOTAGE and nothing else: no row, no denominator, no penalty, no rank. */
 export const STATS_FROM_YEAR = 2020;
 
+/* The sourceId of the rulebook edition the competition was refereed under:
+ * the latest of `editions` in force by then, or null where none is recorded.
+ * Judged on the date the competition ended, the one date the list carries;
+ * without a date, on the first day of its year, so a mid-year edition never
+ * claims contests it may not have governed. */
+export function refereedUnder(competition, editions) {
+  const dated = /^(\d{4})[-/](\d{2})[-/](\d{2})/.exec(String(competition?.dateTo ?? ''));
+  const day = dated
+    ? `${dated[1]}-${dated[2]}-${dated[3]}`
+    : Number.isFinite(competition?.year) ? `${competition.year}-01-01` : null;
+  if (day === null) return null;
+  let governing = null;
+  for (const edition of editions ?? []) {
+    if (!edition?.sourceId || !edition?.effectiveFrom || edition.effectiveFrom > day) continue;
+    if (!governing || edition.effectiveFrom > governing.effectiveFrom) governing = edition;
+  }
+  return governing?.sourceId ?? null;
+}
+
 export function aggregate(records, {
   map, tiers, competitions: freshCompetitions, permissive = false,
-  statsFromYear = STATS_FROM_YEAR,
+  statsFromYear = STATS_FROM_YEAR, editions = [],
 }) {
   const byName = indexMap(map);
   const rows = new Map();
@@ -174,6 +193,7 @@ export function aggregate(records, {
       penalties: extracted.penalties,
       decision,
       resolve: (ijfName) => byName.get(ijfName.toLowerCase()) ?? null,
+      rules: refereedUnder(competition, editions),
     });
     if (decision) {
       const row = { ...slice, minute: decision.minute, by: decision.by };

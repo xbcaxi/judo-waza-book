@@ -13,7 +13,7 @@
  * on the unmapped rows, for looking at fresh data before the map catches up;
  * do not commit its output.
  * ------------------------------------------------------------------------ */
-import { readFile, writeFile } from 'node:fs/promises';
+import { readdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseArgs } from 'node:util';
@@ -56,7 +56,22 @@ if (!rawList) {
     + 'into each contest file. Re-run the crawl to refresh it.');
 }
 
-const result = aggregate(records, { map, tiers, competitions, permissive: options.permissive });
+/* Every edition of the IJF refereeing rules recorded in reference/. Each
+ * penalty clip is tagged with the edition that governed its contest, and a
+ * contest no recorded edition covers gives none, so recording an older
+ * edition is what makes its footage usable. */
+const editions = [];
+for (const file of await readdir(path.join(root, 'reference'))) {
+  if (!file.startsWith('ijf-sor-') || !file.endsWith('.json')) continue;
+  const record = await loadJson(path.join(root, 'reference', file));
+  if (record.sourceId && record.effectiveFrom) editions.push(record);
+}
+if (editions.length === 0) console.warn('No reference/ijf-sor-*.json record carries an effectiveFrom; no penalty clips will be kept.');
+
+const result = aggregate(records, {
+  map, tiers, competitions, permissive: options.permissive,
+  editions: editions.map(({ sourceId, effectiveFrom }) => ({ sourceId, effectiveFrom })),
+});
 
 /* Everything the maintainer should hear about, whether or not it is fatal. */
 if (result.unmatchedCompetitions.size > 0) {
@@ -125,10 +140,11 @@ const shape = {
   shido_response: result.shape.shido_response,
   trailing: result.shape.trailing,
   examples: result.shape.examples,
+  penalty_examples: result.shape.penalty_examples,
 };
 await writeFile(options['out-shape'], JSON.stringify(shape, null, 2) + '\n');
 console.log(`Wrote ${path.relative(root, options['out-shape'])}: `
   + `${shape.rounds.length} round rows, ${shape.conversion.length} conversion rows, `
   + `${shape.outcomes.length} outcome rows, ${shape.penalties.length} penalty rows, `
   + `${shape.countries.length} country rows, ${shape.shido_response.length} shido-response rows, `
-  + `${shape.examples.length} clip(s).`);
+  + `${shape.examples.length} clip(s), ${shape.penalty_examples.length} penalty clip(s) across ${editions.length} rulebook edition(s).`);

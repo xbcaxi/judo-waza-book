@@ -1,0 +1,158 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "description": "What a judoka would call the offence, in plain words: \"False attack\", not the IJF's code.",
+      "allOf": [
+        {
+          "$ref": "#/definitions/localisedText"
+        }
+      ]
+    },
+    "kind": {
+      "type": "string",
+      "enum": [
+        "shido",
+        "hansoku-make"
+      ],
+      "description": "What the rule gives for it. A third shido ending the contest is an accumulation, not a reason, and has no entry."
+    },
+    "ijfCodes": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9_]+$"
+      },
+      "description": "The reason codes in the IJF feed this entry answers, exactly as the feed writes them. A code belongs to one entry."
+    },
+    "summary": {
+      "description": "One or two sentences for listings and the page description.",
+      "allOf": [
+        {
+          "$ref": "#/definitions/localisedText"
+        }
+      ]
+    },
+    "about": {
+      "description": "The rule in this book's own words. Never a transcription of the rulebook.",
+      "allOf": [
+        {
+          "$ref": "#/definitions/localisedText"
+        }
+      ]
+    },
+    "rule": {
+      "description": "The reference/ record for the rulebook and edition, and the articles the words rest on.",
+      "allOf": [
+        {
+          "$ref": "#/definitions/ruleCitation"
+        }
+      ]
+    },
+    "sameUnder": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "description": "Older rulebook editions, by reference/ record, under which this rule was the same, so a clip refereed under one of them can be shown. Empty until somebody has compared the editions; never filled on the strength of the counts alone."
+    },
+    "techniques": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9][a-z0-9-]*$"
+      },
+      "description": "Techniques whose contest rule this penalty is, so each page can point at the other. Empty where the offence is not about a technique."
+    },
+    "clip": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "leadSeconds": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 60,
+              "description": "How many seconds before the referee's call a clip should start for the offence to be on screen."
+            },
+            "watchFor": {
+              "description": "What to look at in the clip, written to be read as well as watched.",
+              "allOf": [
+                {
+                  "$ref": "#/definitions/localisedText"
+                }
+              ]
+            }
+          },
+          "required": [
+            "leadSeconds",
+            "watchFor"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "How a clip of the call shows this offence. Null where a short clip of the call cannot show it."
+    }
+  },
+  "required": [
+    "name",
+    "kind",
+    "ijfCodes",
+    "summary",
+    "about",
+    "rule",
+    "sameUnder",
+    "techniques",
+    "clip"
+  ],
+  "additionalProperties": false,
+  "definitions": {
+    "localisedText": {
+      "type": "object",
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "en"
+      ],
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Text by BCP 47 language code; \"en\" required, other languages optional."
+    },
+    "ruleCitation": {
+      "type": "object",
+      "properties": {
+        "sourceId": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        },
+        "articles": {
+          "minItems": 1,
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "required": [
+        "sourceId",
+        "articles"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "title": "penalty",
+  "description": "One thing a referee penalises, in this book's own words, cited to the rulebook edition it came from and joined to the IJF competition feed by the IJF's reason codes. The penalty id is the filename. Like a technique record, every field is present in every file."
+}

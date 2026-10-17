@@ -38,6 +38,7 @@ const countryKey = (r) => [r.sex, r.age, r.year, r.country, r.technique ?? UNMAP
 const firstScoreKey = (r) => [sliceOf(r), r.minute].join('|');
 const outcomeKey = (r) => sliceOf(r);
 const exampleKey = (r) => [r.technique ?? UNMAPPED, r.sex, r.weight, r.contest, r.seconds].join('|');
+const penaltyExampleKey = (r) => [r.reason, r.sex, r.rules, r.contest, r.seconds].join('|');
 const responseKey = (r) => [sliceOf(r), r.technique ?? UNMAPPED].join('|');
 const trailingKey = (r) => [sliceOf(r), r.minute, r.technique ?? UNMAPPED].join('|');
 const shidoKey = (r) => [sliceOf(r), r.technique ?? UNMAPPED].join('|');
@@ -153,11 +154,34 @@ function pickPair(sorted) {
   return elsewhere ? [first, elsewhere] : sorted.slice(0, EXAMPLES_PER_CATEGORY);
 }
 
-const better = (a, b) => {
-  const ra = clipRank(a); const rb = clipRank(b);
+const rankedBy = (rank) => (a, b) => {
+  const ra = rank(a); const rb = rank(b);
   for (let i = 0; i < ra.length; i += 1) if (ra[i] !== rb[i]) return ra[i] - rb[i];
   return 0;
 };
+const better = rankedBy(clipRank);
+
+/* Penalty clips are kept per REASON, SEX AND RULEBOOK EDITION, not per weight
+ * class: a rule does not change with the division, so a reader is shown the
+ * offence rather than their own category. The edition is part of the slot so
+ * that free footage from an older edition never displaces a clip refereed
+ * under the current one, or the reverse. Which older editions a page may show
+ * is the penalty entry's call, in its `sameUnder`, not the importer's.
+ *
+ * Ranked as a technique clip is, less the score: watchable first, then the
+ * deepest tier and round, then the most recent. */
+const penaltyClipRank = (clip) => [
+  clip.platform === 'yt' ? 0 : 1,
+  TIER_DEPTH.get(clip.tier) ?? 9,
+  ROUND_DEPTH.get(clip.round) ?? 9,
+  -clip.year,
+];
+const betterPenaltyClip = rankedBy(penaltyClipRank);
+
+/* Reasons that say what a penalty cost rather than what was done: a bare Shido
+ * tag, the third-shido marker, a hansoku-make tagged with nothing else. A clip
+ * filed under one of these teaches nothing, so none is kept. */
+const GENERIC_REASONS = new Set(['shido', 'hsk', 'hansoku-make']);
 
 /* "yawebtv*YpRTvhCxz0*00:00:08" - platform, that platform's own id, and how
  * far into the recording the contest starts. Returns null for anything that
@@ -199,6 +223,7 @@ export class ContestShape {
     this.outcomes = new Map();
     this.examples = new Map();
     this.exampleSlots = new Map();
+    this.penaltySlots = new Map();
     this.durations = new Map();
     this.response = new Map();
     this.trailing = new Map();
@@ -293,11 +318,62 @@ export class ContestShape {
   }
 
   /**
+   * One penalty, as a clip of the referee's call.
+   *
+   * `seconds` is where the CALL sits in the recording, media start plus
+   * time_real, with no lead-in applied. A technique clip starts five seconds
+   * early because the entry is what a learner needs; how far before a call the
+   * offence begins depends on the offence, from a second for a head dive to
+   * most of a minute for non-combativity, so that judgement belongs to the
+   * penalty's entry in penalties/ and not to the importer.
+   *
+   * WHO WAS PENALISED IS NOT RECORDED. The athlete on a shido event is not
+   * reliable (see decideByPenalty), and the clip needs nobody's name: it shows
+   * what was done.
+   */
+  addPenaltyClip({ contest, slice, penalty, media, rules }) {
+    if (!media || !penalty.reason || GENERIC_REASONS.has(penalty.reason)) return;
+    if (penalty.timeReal === null || penalty.timeReal === undefined) return;
+    const code = contest?.contest_code_long ?? null;
+    if (!code) return;
+    const row = {
+      reason: penalty.reason,
+      kind: penalty.kind,
+      minute: penalty.minute,
+      sex: slice.sex,
+      weight: slice.weight,
+      age: slice.age,
+      year: slice.year,
+      contest: code,
+      competition: contest?.competition_name ?? null,
+      round: roundGroup(contest?.round_name),
+      tier: slice.tier,
+      platform: media.platform,
+      id: media.id,
+      seconds: Math.max(0, Math.round(media.start + penalty.timeReal)),
+      /* The rulebook edition the contest was refereed under, which is what a
+       * page checks against the penalty entry's current rule and sameUnder. */
+      rules,
+    };
+    const slot = `${row.reason}|${row.sex}|${row.rules}`;
+    const held = this.penaltySlots.get(slot) ?? [];
+    /* One event can carry the reason twice; the same moment is one clip. */
+    if (held.some((clip) => penaltyExampleKey(clip) === penaltyExampleKey(row))) return;
+    held.push(row);
+    held.sort(betterPenaltyClip);
+    this.penaltySlots.set(slot, pickPair(held));
+  }
+
+  /**
    * One contest. `events` and `penalties` are what extractScoringEvents
    * returned, `decision` what decideByPenalty made of them, and `resolve`
    * turns an IJF technique name into this reference's slug (or null).
+   * `rules` is the sourceId of the rulebook edition the contest was refereed
+   * under, or null where no recorded edition covers it, in which case it
+   * gives no penalty clip: a clip that cannot say which rules it shows cannot
+   * be checked against them.
    */
-  add({ contest, slice, events, penalties, decision, resolve }) {
+  add({ contest, slice, events, penalties, decision, resolve, rules = null }) {
     const round = roundGroup(contest?.round_name);
     const seconds = contestSeconds(contest?.duration);
     const winner = contest?.id_winner === null || contest?.id_winner === undefined
@@ -338,6 +414,7 @@ export class ContestShape {
       tally(this.penalties, penaltyKey({ ...slice, minute: penalty.minute, reason: penalty.reason }),
         { ...slice, minute: penalty.minute, reason: penalty.reason, kind: penalty.kind, count: 0 },
         (row) => { row.count += 1; });
+      if (rules) this.addPenaltyClip({ contest, slice, penalty, media, rules });
     }
 
     /* What gets scored off the back of a shido.
@@ -504,6 +581,7 @@ export class ContestShape {
       trailing: [...this.trailing.values()].sort(compareBy(trailingKey)),
       shido_response: shidoResponse.sort(compareBy(shidoKey)),
       examples: [...this.exampleSlots.values()].flat().sort(compareBy(exampleKey)),
+      penalty_examples: [...this.penaltySlots.values()].flat().sort(compareBy(penaltyExampleKey)),
       unattributedScores: this.unattributedScores,
     };
   }
